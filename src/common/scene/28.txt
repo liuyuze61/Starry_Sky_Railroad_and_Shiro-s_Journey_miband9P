@@ -1,0 +1,1551 @@
+[
+  {
+    "background": "イベント18_c_大",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "我才……觉得……"
+      },
+      {
+        "character": "",
+        "text": "诺瓦的眼泪完全决堤，已经无法止住。"
+      },
+      {
+        "character": "",
+        "text": "我轻抚她的头，试图安抚她。"
+      }
+    ]
+  },
+  {
+    "background": "イベント18_d_大",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "呜，呜啊……呜呜呜呜。"
+      },
+      {
+        "character": "真白",
+        "text": "白先生……白先生。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯。"
+      },
+      {
+        "character": "真白",
+        "text": "已经……结束了吗？我们要分开了吗？"
+      },
+      {
+        "character": "暁",
+        "text": "看样子是的。"
+      },
+      {
+        "character": "真白",
+        "text": "……再也见不到了吗？"
+      },
+      {
+        "character": "暁",
+        "text": "我会伴你左右。"
+      },
+      {
+        "character": "真白",
+        "text": "呜，呜啊，呜呜呜呜。"
+      },
+      {
+        "character": "",
+        "text": "其他人的时候她都勉强控制住自己，\n　现在好像已经到了极限。"
+      },
+      {
+        "character": "",
+        "text": "感情随眼泪决堤而出。"
+      },
+      {
+        "character": "",
+        "text": "就好像我被特别对待似的，感觉也不坏。"
+      }
+    ]
+  },
+  {
+    "background": "イベント18_d",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "白……先生……"
+      },
+      {
+        "character": "真白",
+        "text": "要是能早点见到你就好了。在活着的时候就想见到你。"
+      },
+      {
+        "character": "暁",
+        "text": "我也是。"
+      },
+      {
+        "character": "真白",
+        "text": "不要走。"
+      },
+      {
+        "character": "真白",
+        "text": "请不要走。请留在这里。"
+      },
+      {
+        "character": "真白",
+        "text": "不要消失。"
+      },
+      {
+        "character": "暁",
+        "text": "我会在这里的。一直都在。"
+      }
+    ]
+  },
+  {
+    "background": "イベント18_c_大",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我来回抚摸她的头。"
+      },
+      {
+        "character": "",
+        "text": "我会伴你左右的。"
+      },
+      {
+        "character": "",
+        "text": "只不过很难像这样摸头了。"
+      }
+    ]
+  },
+  {
+    "background": "イベント18_d_大",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "～～啊呜呜呜呜。"
+      },
+      {
+        "character": "",
+        "text": "或许是已经无法抑制。\n　诺瓦情绪激动，大声地哭泣。"
+      },
+      {
+        "character": "",
+        "text": "初次见面的时候根本想象不到呢。"
+      },
+      {
+        "character": "",
+        "text": "也许现在我才终于见到了真正的她。"
+      }
+    ]
+  },
+  {
+    "background": "イベント18_d",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "非常抱歉。我果然，还是很害怕活着。"
+      },
+      {
+        "character": "真白",
+        "text": "我想就留在这里。\n和白先生在一起。"
+      },
+      {
+        "character": "真白",
+        "text": "我羡慕音理小姐。我渴望像她那样，\n和白先生在一起。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "她透露了真实想法。"
+      },
+      {
+        "character": "",
+        "text": "那也是当然吧。诺瓦至今都只是被带着走。"
+      },
+      {
+        "character": "",
+        "text": "她并不知道是活着好，\n　还是不活了比较好。\n　只是按照我说的，偏向了活着的一方。"
+      },
+      {
+        "character": "",
+        "text": "To be or not to be.\n　她还很迷惘。"
+      },
+      {
+        "character": "",
+        "text": "但是，"
+      }
+    ]
+  },
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "这样就好。"
+      },
+      {
+        "character": "",
+        "text": "这很正常。"
+      },
+      {
+        "character": "",
+        "text": "一般大人也这样。"
+      }
+    ]
+  },
+  {
+    "background": "イベント18_c_大",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "心存迷惘未尝不可。\n不置可否亦未尝不可。"
+      },
+      {
+        "character": "暁",
+        "text": "谁也没法真正分清黑白。"
+      },
+      {
+        "character": "暁",
+        "text": "但是……知道吧？　诺瓦？"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "嗯。"
+      }
+    ]
+  },
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "即使如此，"
+      },
+      {
+        "character": "",
+        "text": "即使抱着不置可否的心情，"
+      },
+      {
+        "character": "",
+        "text": "人生也必须要选择某个方向，"
+      },
+      {
+        "character": "",
+        "text": "身边人的期望，"
+      },
+      {
+        "character": "",
+        "text": "对你的选择方向会产生很大的影响。"
+      }
+    ]
+  },
+  {
+    "background": "イベント18_c_大",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "在你的身体里，\n有很多人希望你能活下去。"
+      },
+      {
+        "character": "暁",
+        "text": "体外也有很多。\n妈妈，爷爷，护士小姐都希望你能活下去。"
+      },
+      {
+        "character": "真白",
+        "text": "……嗯。"
+      },
+      {
+        "character": "暁",
+        "text": "最重要的是，我也是那么想的。"
+      }
+    ]
+  },
+  {
+    "background": "イベント18_c",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "我希望你活下去。\n希望你长大，\n学习各种各样的知识。"
+      },
+      {
+        "character": "暁",
+        "text": "我希望你能展开下一段旅程。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "世界可是个好东西啊……诺瓦。"
+      },
+      {
+        "character": "暁",
+        "text": "世界是……宝石箱。"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_夜",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "装满了熠熠生辉的宝石的宝石箱"
+      },
+      {
+        "character": "真白",
+        "text": "熠熠生辉的宝石……"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "或许也会有烦人的时候。\n人生就是要相互争夺那些宝石，总会留下不好的记忆。"
+      },
+      {
+        "character": "暁",
+        "text": "但是，即使如此。"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_e",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "我也想让你看见。用你自己的双眼。"
+      },
+      {
+        "character": "暁",
+        "text": "去注视那些光芒。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "先从哪里开始……已经决定了吧？"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "大海……函馆、瑞典。"
+      },
+      {
+        "character": "暁",
+        "text": "没错。去看吧。"
+      },
+      {
+        "character": "暁",
+        "text": "你亲自去。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_f_大",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……知道了。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦用力点头。"
+      },
+      {
+        "character": "",
+        "text": "也并不一定所有事都要和说的完全一致。\n　不置可否也行。"
+      },
+      {
+        "character": "",
+        "text": "只要我们的心留在诺瓦心中，"
+      },
+      {
+        "character": "",
+        "text": "只要我们的光芒留在诺瓦心中，"
+      },
+      {
+        "character": "",
+        "text": "我们就满足了。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "呼。"
+      },
+      {
+        "character": "暁",
+        "text": "加油啊，诺瓦。"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_g",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "啊……"
+      },
+      {
+        "character": "真白",
+        "text": "白先生……"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "意识开始变得薄弱透明。"
+      },
+      {
+        "character": "黒猫",
+        "text": "咪。"
+      },
+      {
+        "character": "",
+        "text": "已经到终点的时间了？"
+      },
+      {
+        "character": "",
+        "text": "是吗。"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_f",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "哈哈，还想说点风趣的话来跟你告别，\n不妙啊，果然不知道该怎么说了。"
+      },
+      {
+        "character": "",
+        "text": "想说的话都被其他人说完了。"
+      },
+      {
+        "character": "",
+        "text": "那个，花江小姐，野鸟小姐，鹰世……"
+      },
+      {
+        "character": "暁",
+        "text": "啊，对了。"
+      },
+      {
+        "character": "",
+        "text": "在他们之前，小音的话里有一点我比较在意。"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_f_大",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "诺瓦，你还记得约定吗。"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_e_大",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "哎……约定？"
+      },
+      {
+        "character": "暁",
+        "text": "你说了吧……下次如果遇到年龄相仿的孩子，\n想要自己向他搭话，交朋友。"
+      },
+      {
+        "character": "暁",
+        "text": "刚刚……你对小音她没有做到喔。"
+      },
+      {
+        "character": "",
+        "text": "明明你们年龄相仿啊。"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_f_大",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "啊，这个，对不起。"
+      },
+      {
+        "character": "暁",
+        "text": "哈哈，不过，她话超级多的，\n你光是回应都困难吧。"
+      },
+      {
+        "character": "暁",
+        "text": "下次要加油。"
+      },
+      {
+        "character": "真白",
+        "text": "好……"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "我会……"
+      },
+      {
+        "character": "暁",
+        "text": "我会遵守……我们的约定。"
+      },
+      {
+        "character": "暁",
+        "text": "我会遵守约定……奖励你。"
+      },
+      {
+        "character": "真白",
+        "text": "白先生……？"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "……到此为止了吧。"
+      },
+      {
+        "character": "",
+        "text": "我已经失去了光明。"
+      },
+      {
+        "character": "",
+        "text": "……终点到了。"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_h",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "诺瓦……"
+      },
+      {
+        "character": "真白",
+        "text": "……嗯。"
+      },
+      {
+        "character": "暁",
+        "text": "谢谢你，诺瓦……最后给我一段……愉快的旅途。"
+      },
+      {
+        "character": "真白",
+        "text": "嗯……"
+      },
+      {
+        "character": "暁",
+        "text": "我……非常……幸福……所以。"
+      },
+      {
+        "character": "暁",
+        "text": "希望……你下次旅途……"
+      },
+      {
+        "character": "",
+        "text": "也能过得开心。"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_i",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "……好的。"
+      },
+      {
+        "character": "真白",
+        "text": "好的……"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_j",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……我将踏上一段愉快的旅程。"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_k",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……与你一同的旅程。"
+      }
+    ]
+  },
+  {
+    "background": "イベント10_l",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "无论何时……都与你一起……"
+      }
+    ]
+  },
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "呜……"
+      },
+      {
+        "character": "真白",
+        "text": "～～～～……呜。"
+      },
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "・・・・"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_夜",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・"
+      }
+    ]
+  },
+  {
+    "background": "イベント14_a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "看護師",
+        "text": "啊……"
+      }
+    ]
+  },
+  {
+    "background": "イベント14_b",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "嗯……"
+      }
+    ]
+  },
+  {
+    "background": "イベント14_b",
+    "dialogues": [
+      {
+        "character": "看護師",
+        "text": "真白，真白你醒来啦？"
+      }
+    ]
+  },
+  {
+    "background": "イベント14_a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "イベント14_b",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……是的。"
+      },
+      {
+        "character": "看護師",
+        "text": "太好了……呼……太好了。"
+      },
+      {
+        "character": "看護師",
+        "text": "……昨天可严重了。\n一时进入了危险状态。"
+      }
+    ]
+  },
+  {
+    "background": "イベント14_a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "看護師",
+        "text": "听说你心脏停止跳动的时候，\n我的心脏也差点停止了。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "イベント14_b",
+    "dialogues": [
+      {
+        "character": "看護師",
+        "text": "真白？　认识我吗？"
+      }
+    ]
+  },
+  {
+    "background": "イベント14_b",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "啊……认识，是猫村小姐。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "太好啦。"
+      }
+    ]
+  },
+  {
+    "background": "イベント14_a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "背景_病室",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "嘿……咻。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "没事吧？　这就起身。"
+      },
+      {
+        "character": "真白",
+        "text": "没事……"
+      },
+      {
+        "character": "真白",
+        "text": "总觉得……身体十分轻盈。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "嗯，好像是这样呢。\n你的心率达到了危险范围，\n开始恢复正常的时候就突然好转了。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "排异反应好像已经平复了。"
+      },
+      {
+        "character": "真白",
+        "text": "是……"
+      },
+      {
+        "character": "真白",
+        "text": "大概吧……嗯。我自己知道。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "嘿嘿，昨晚那之后真是不容易啊。\n你看，你突然就爬了起来，就那么昏了过去。"
+      },
+      {
+        "character": "真白",
+        "text": "哎……昨晚？"
+      },
+      {
+        "character": "猫村さん",
+        "text": "对呀。咦……你不记得吗？"
+      },
+      {
+        "character": "猫村さん",
+        "text": "你突然下了地，\n然后摇摇晃晃地走到了桌子那边。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "你看这个，你还让我帮你拿画纸。"
+      },
+      {
+        "character": "真白",
+        "text": "啊……"
+      },
+      {
+        "character": "猫村さん",
+        "text": "你气势汹汹地开始画画。\n我被你的气势震住了，没法阻止你。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "话说回来，画得真不错。\n在哪里练习过吗？"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "……～"
+      },
+      {
+        "character": "猫村さん",
+        "text": "你昨天好像换了个人似的。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "梦见什么了吗？"
+      }
+    ]
+  },
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "不。"
+      },
+      {
+        "character": "真白",
+        "text": "那……不是梦。"
+      }
+    ]
+  },
+  {
+    "background": "イベント15_a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "那可不是……梦。"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_夜",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "・・・・"
+      }
+    ]
+  },
+  {
+    "background": "背景_病院前大通り_夜ライト",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・"
+      }
+    ]
+  },
+  {
+    "background": "背景_病院フロント_夜",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "哼……呼……"
+      },
+      {
+        "character": "真白",
+        "text": "呼。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "真白，时候不早了，\n回房间去吧。"
+      },
+      {
+        "character": "真白",
+        "text": "啊……猫村小姐，好。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "走过去吗？\n果然还是用轮椅比较好吧？"
+      },
+      {
+        "character": "真白",
+        "text": "不，请让我走过去。"
+      },
+      {
+        "character": "真白",
+        "text": "总算能动了。\n就当作是复健，我想多活动活动身子。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "是吗。\n在医院里的话也没什么可担心的。"
+      },
+      {
+        "character": "真白",
+        "text": "嗯。"
+      },
+      {
+        "character": "真白",
+        "text": "爷爷也被辞退了……总觉得我在这医院里太招摇了，\n大家都在为我着想。到时候我可得到处出面打个招呼。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "啊哈哈，你还真是挺像大人的。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "你妈妈说明天还会来看你。\n中午的时候吧。"
+      },
+      {
+        "character": "真白",
+        "text": "好的。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "……你好像不开心呢，发生什么了吗？"
+      },
+      {
+        "character": "真白",
+        "text": "……我跟她说庆祝出院去吃点好的吧，\n她就生气了。"
+      },
+      {
+        "character": "真白",
+        "text": "接下来我会好好说服她。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "这样。\n你们母女之间的事我就不插嘴了。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "明明不用那么急着出院的。"
+      },
+      {
+        "character": "真白",
+        "text": "话虽如此……可这里过于舒适了，\n我想早点恢复普通的生活。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "你有什么想做的事吗？"
+      },
+      {
+        "character": "真白",
+        "text": "我想去旅游。"
+      },
+      {
+        "character": "真白",
+        "text": "先去北海道，再去小笠原群岛。\n最终目的地是瑞典。"
+      },
+      {
+        "character": "真白",
+        "text": "在那之前……我想先坐一回蒸汽机车。\n国内好像还有一些仍在运营。"
+      },
+      {
+        "character": "真白",
+        "text": "我的身体必须考虑日晒时间之类的，\n大概是挺久之后的事了吧。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "哎呀哎呀……你想做的事真多呢。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "我都不知道你喜欢蒸汽机车。"
+      },
+      {
+        "character": "真白",
+        "text": "这个嘛……我应该并不是喜欢蒸汽机车本身。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_夜",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "你不觉得很美妙吗？　夜晚的火车之旅。"
+      },
+      {
+        "character": "真白",
+        "text": "漫天星空之下，蒸汽机车笔直地开动着。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "美妙的冒险与安宁在那等待着我。"
+      },
+      {
+        "character": "真白",
+        "text": "博学温柔的哥哥。"
+      },
+      {
+        "character": "真白",
+        "text": "开朗精神的大姐姐。"
+      },
+      {
+        "character": "真白",
+        "text": "帅气的暖心大姐姐。"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_b",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "还有……"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_c_大",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_c2_大",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "这世界上最最帅气的……"
+      },
+      {
+        "character": "真白",
+        "text": "我最喜欢的人也坐在上面。"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_c",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "清风吹拂。"
+      },
+      {
+        "character": "",
+        "text": "与其说是风在吹。\n　不如说我正以子弹般的速度在清风里穿梭。"
+      },
+      {
+        "character": "",
+        "text": "深夜火车之旅。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "旅行仍在继续。"
+      },
+      {
+        "character": "",
+        "text": "美丽星空之下，凉风之中，悠闲而又安逸。"
+      },
+      {
+        "character": "",
+        "text": "就是里面的乘客有些奇怪。\n　诺瓦每天都像那样努力复健，"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_c_大",
+    "dialogues": [
+      {
+        "character": "黒猫",
+        "text": "呜咪。"
+      },
+      {
+        "character": "",
+        "text": "另一个诺瓦也是乘客。"
+      },
+      {
+        "character": "",
+        "text": "不过它总是突然出现，\n　又突然消失。真是随心所欲的家伙。\n　也许不能称为乘客吧。"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_e",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "而毫无疑问，我们可是乘客。"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_e_大",
+    "dialogues": [
+      {
+        "character": "ねり",
+        "text": "我说哥哥啊。"
+      },
+      {
+        "character": "暁",
+        "text": "什么？"
+      },
+      {
+        "character": "ねり",
+        "text": "还没到下一个站吗。"
+      },
+      {
+        "character": "暁",
+        "text": "还得花点时间吧。"
+      },
+      {
+        "character": "ねり",
+        "text": "嗯<dash=2>这里的风景我已经看腻了。"
+      },
+      {
+        "character": "ねり",
+        "text": "不知道下一站会是怎样呢。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "根据本人的说法，是函馆吧？"
+      },
+      {
+        "character": "花江",
+        "text": "好像是喔，函馆在那三个之中难度最低了。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "呜啊，去外国难度太高了。"
+      },
+      {
+        "character": "タカセ",
+        "text": "函馆也算出远门了，先去岩手县内的铁道博物馆如何。\n那里很棒。"
+      },
+      {
+        "character": "ねり",
+        "text": "真白要去的话，\n等于我们也会去了呢。"
+      },
+      {
+        "character": "暁",
+        "text": "是啊。"
+      },
+      {
+        "character": "暁",
+        "text": "……既然要去函馆，不如也去一下五棱郭吧。"
+      },
+      {
+        "character": "花江",
+        "text": "还可以顺路去一下天象馆。"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_e",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "大概就是这个感觉……"
+      },
+      {
+        "character": "",
+        "text": "我们都在悠闲度日。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦倒是挺累的。"
+      },
+      {
+        "character": "",
+        "text": "毕竟终点好像还很远。"
+      },
+      {
+        "character": "",
+        "text": "加油啊，诺瓦。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "ねり",
+        "text": "嗯<dash=2>没有什么事可以做吗。\n我去画会儿画吧……"
+      },
+      {
+        "character": "ねり",
+        "text": "啊，对了。说到肖像画。"
+      },
+      {
+        "character": "暁",
+        "text": "怎么？"
+      },
+      {
+        "character": "ねり",
+        "text": "她是叫做狩叶来着？"
+      },
+      {
+        "character": "暁",
+        "text": "对。"
+      },
+      {
+        "character": "ねり",
+        "text": "她怎么了呢。\n好像不在这里的样子。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯……对喔。"
+      },
+      {
+        "character": "",
+        "text": "话说回来，她的身份确实成谜。"
+      },
+      {
+        "character": "",
+        "text": "她变成真白的时候我可真是吓着了，"
+      },
+      {
+        "character": "",
+        "text": "没想到就那么不再出现了。"
+      },
+      {
+        "character": "",
+        "text": "那是怎么回事？\n　我还没有明白她出现的规则。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "嗯<dash=2>话说回来，在这里悠闲度日的我们，\n要说奇怪也挺奇怪的。"
+      },
+      {
+        "character": "花江",
+        "text": "话说回来她到底是谁啊？\n和我们一样么，还是不一样呢。"
+      },
+      {
+        "character": "ねり",
+        "text": "为什么不是乘客而是乘务员呢？"
+      },
+      {
+        "character": "",
+        "text": "大家都感到疑问。"
+      },
+      {
+        "character": "",
+        "text": "这时候当然，"
+      },
+      {
+        "character": "暁",
+        "text": "鹰世，你怎么看？"
+      },
+      {
+        "character": "",
+        "text": "得问问我们的智囊。"
+      },
+      {
+        "character": "タカセ",
+        "text": "这个嘛，根据我的猜测……"
+      },
+      {
+        "character": "",
+        "text": "看吧，他马上就回答了。"
+      },
+      {
+        "character": "タカセ",
+        "text": "要知道狩叶小姐是什么人，\n首先得思考我们是什么人。"
+      },
+      {
+        "character": "タカセ",
+        "text": "我们因为给诺瓦小姐提供了身体器官，所以在这里。\n肺和肾脏，虽然不知道大家都提供了哪些部分，\n总之这辆火车的“乘客”，都是这种人。"
+      },
+      {
+        "character": "タカセ",
+        "text": "但她不是“乘客”而是“乘务员”。"
+      },
+      {
+        "character": "タカセ",
+        "text": "领导我们“乘客”所乘坐的这列火车的一方。"
+      },
+      {
+        "character": "タカセ",
+        "text": "让我们加入循环规则的一方。"
+      },
+      {
+        "character": "タカセ",
+        "text": "最后她还变成了诺瓦本人。\n也就是说……"
+      },
+      {
+        "character": "暁",
+        "text": "啊。"
+      },
+      {
+        "character": "花江",
+        "text": "啊啊～"
+      },
+      {
+        "character": "ジビエ",
+        "text": "原来如此。"
+      },
+      {
+        "character": "ねり",
+        "text": "？"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_夜",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      }
+    ]
+  },
+  {
+    "background": "背景_病室",
+    "dialogues": [
+      {
+        "character": "猫村さん",
+        "text": "来，别勉强了，回房间吧。"
+      },
+      {
+        "character": "真白",
+        "text": "好。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "嘿嘿，真白突然变得有精神了，\n总觉得反而有点担心。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "可别像我家妹妹那样精神过头，\n总是胡闹。"
+      },
+      {
+        "character": "真白",
+        "text": "你家……妹妹？"
+      },
+      {
+        "character": "猫村さん",
+        "text": "对呀，哎呀，我没说过是吧。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "她总是来这医院玩。"
+      }
+    ]
+  },
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "<dash=2>嘎啦。"
+      }
+    ]
+  },
+  {
+    "background": "イベント16_a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "啊……"
+      },
+      {
+        "character": "猫村さん",
+        "text": "哎呀。"
+      },
+      {
+        "character": "？？？",
+        "text": "哎呀，今天也多谢款待了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_昼",
+    "dialogues": [
+      {
+        "character": "猫村さん",
+        "text": "春香！　你在干什么啊！"
+      },
+      {
+        "character": "春香",
+        "text": "咿呀！　姐，姐姐！？\n不妙～……"
+      },
+      {
+        "character": "猫村さん",
+        "text": "这里是献血室……你又擅自从冰箱拿东西吃了吗。"
+      },
+      {
+        "character": "春香",
+        "text": "我，我今天是正常来献血的。\n等价交换啦。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "你前不久才献过血，\n应该知道暂时不能献血的规定吧！"
+      },
+      {
+        "character": "猫村さん",
+        "text": "到底是怎么通过名册的……这什么。\n狩叶・朗姆柯妮？　又给自己取了个奇怪的假名……"
+      },
+      {
+        "character": "春香",
+        "text": "咿呀呀呀呀非常抱歉。"
+      },
+      {
+        "character": "猫村さん",
+        "text": "给我站住！"
+      }
+    ]
+  },
+  {
+    "background": "イベント16_a_大",
+    "dialogues": [
+      {
+        "character": "春香",
+        "text": "原谅我，姐姐……嗯，\n……哎。"
+      },
+      {
+        "character": "春香",
+        "text": "咦？"
+      },
+      {
+        "character": "真白",
+        "text": "啊……"
+      },
+      {
+        "character": "春香",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "你好。"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_e",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "快去吧，"
+      },
+      {
+        "character": "",
+        "text": "奖励已经备好。"
+      }
+    ]
+  },
+  {
+    "background": "イベント17_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "该与我实现约定了，诺瓦。"
+      }
+    ]
+  },
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+        {
+            "character": "",
+            "text": "."
+        }
+    ]
+  }
+]

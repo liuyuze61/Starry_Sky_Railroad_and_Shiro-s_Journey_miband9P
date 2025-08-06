@@ -1,0 +1,2039 @@
+[
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "来到了第一节车厢……"
+      },
+      {
+        "character": "暁",
+        "text": "噢。"
+      },
+      {
+        "character": "？？？",
+        "text": "啊。"
+      },
+      {
+        "character": "",
+        "text": "吓我一跳。"
+      },
+      {
+        "character": "",
+        "text": "又出现了一副新面孔。"
+      },
+      {
+        "character": "？？？",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "你、你好。"
+      },
+      {
+        "character": "",
+        "text": "既然有缘相见，就先打个招呼吧。"
+      },
+      {
+        "character": "？？？",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "她微微点头示意，坐在了旁边的位子上。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "是个女孩子。"
+      },
+      {
+        "character": "",
+        "text": "年龄看上去和乘务员差不多。"
+      },
+      {
+        "character": "",
+        "text": "真可爱。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "……不过令我在意的是。"
+      },
+      {
+        "character": "",
+        "text": "她的耳朵是怎么回事？"
+      },
+      {
+        "character": "",
+        "text": "此外，好像还长着尾巴？"
+      },
+      {
+        "character": "",
+        "text": "怎么说呢，听说最近的小姑娘都打扮得比较新奇，\n　还有部分人对Cosplay感兴趣。"
+      },
+      {
+        "character": "",
+        "text": "可为什么要Cosplay来……参加夜间火车旅行？"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "真是个奇怪的女生。"
+      },
+      {
+        "character": "",
+        "text": "不过这样就有五个人了。"
+      },
+      {
+        "character": "",
+        "text": "权当是多了个旅伴好了。"
+      },
+      {
+        "character": "",
+        "text": "我走向驾驶室。"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_開",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "乘务员小姐。"
+      },
+      {
+        "character": "狩叶",
+        "text": "嗯？\n哦，最后上来的小哥。"
+      },
+      {
+        "character": "暁",
+        "text": "我刚在车里兜了一圈，这场旅行……"
+      },
+      {
+        "character": "暁",
+        "text": "喔。\n这、这就是火车用的锅炉？"
+      },
+      {
+        "character": "",
+        "text": "我本是随意逛悠，\n　没想到竟能碰见这么个不得了的东西。"
+      },
+      {
+        "character": "",
+        "text": "是锅炉。"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_開",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "可以看到里面生着火。　\n　正在稳定工作。"
+      },
+      {
+        "character": "",
+        "text": "当今打着SL噱头的旅行，\n　实际都虚有其表，动力装置全是电气化的。"
+      },
+      {
+        "character": "",
+        "text": "看来方才令狂热粉满心欢喜的那些粘在车上的“煤灰\n　也全是货真价实的。"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_開",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "嚯，还是第一次看见有在烧火的，嚯————。"
+      },
+      {
+        "character": "暁",
+        "text": "别说是SL的动力炉，\n哪怕用来取暖的火炉也够浪漫了。"
+      },
+      {
+        "character": "",
+        "text": "火焰总是能鼓动人心。"
+      },
+      {
+        "character": "",
+        "text": "给人以活着的感受。"
+      },
+      {
+        "character": "狩叶",
+        "text": "你能喜欢就是我们的荣幸。"
+      },
+      {
+        "character": "狩叶",
+        "text": "不过现在列车正在加速，\n锅炉的负载较大，靠太近可能会被烫伤。\n这位乘客，此处禁止入内。"
+      },
+      {
+        "character": "暁",
+        "text": "啊，抱歉。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我退了出来。"
+      },
+      {
+        "character": "狩叶",
+        "text": "大概15分钟后火势会缓下来，\n到时我就让你看一眼。"
+      },
+      {
+        "character": "暁",
+        "text": "谢了。"
+      },
+      {
+        "character": "",
+        "text": "刚才怕是违反规定了。\n　倒是乘务员还挺好说话的。"
+      },
+      {
+        "character": "狩叶",
+        "text": "还有什么问题吗？"
+      },
+      {
+        "character": "暁",
+        "text": "啊，说起来，\n我刚在车里兜了一圈。"
+      },
+      {
+        "character": "暁",
+        "text": "这趟旅行……旅客是不是太少了？"
+      },
+      {
+        "character": "狩叶",
+        "text": "是啊。"
+      },
+      {
+        "character": "",
+        "text": "她淡定地点了点头。"
+      },
+      {
+        "character": "狩叶",
+        "text": "稍等我找一下登记表……在这。"
+      },
+      {
+        "character": "",
+        "text": "她将手伸向了锅炉室的隔离门，\r\n　拿起贴在上面的一张陈旧的绵纸。"
+      },
+      {
+        "character": "",
+        "text": "连印刷物都这么下功夫啊。\n　已经好久没见过绵纸了。"
+      },
+      {
+        "character": "狩叶",
+        "text": "嗯，登记在案的只有你，以及另外三个人。"
+      },
+      {
+        "character": "暁",
+        "text": "……这真的没问题吗。"
+      },
+      {
+        "character": "",
+        "text": "这趟旅行的旅客也太少了吧，\n　哪怕因为人少被取消都不奇怪。"
+      },
+      {
+        "character": "狩叶",
+        "text": "嗯……还好吧。\n要是遇上临出发前取消的就更麻烦了。"
+      },
+      {
+        "character": "暁",
+        "text": "我想也是。"
+      },
+      {
+        "character": "狩叶",
+        "text": "我只要把导游的工作做好，\n拿到说好的薪水就行了。"
+      },
+      {
+        "character": "",
+        "text": "她还真实诚啊。"
+      },
+      {
+        "character": "狩叶",
+        "text": "既然乘客不多，就给其他人介绍一下你吧。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯，\n不过我已经和鹰世打过招呼了，\n还碰见了一个在睡觉的女孩子。"
+      },
+      {
+        "character": "狩叶",
+        "text": "野鸟小姐还在睡啊？"
+      },
+      {
+        "character": "暁",
+        "text": "野……什么？"
+      },
+      {
+        "character": "狩叶",
+        "text": "不是在说野鸟小姐吗。第二节车厢里的那个人。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "虽然她确实像个外国人……"
+      },
+      {
+        "character": "",
+        "text": "可这名字也太个性了吧。"
+      },
+      {
+        "character": "狩叶",
+        "text": "当然这不是真名哦。\n不过她本人让我这么叫她。"
+      },
+      {
+        "character": "暁",
+        "text": "这、这样啊。"
+      },
+      {
+        "character": "",
+        "text": "这世界上怪人真不少。"
+      },
+      {
+        "character": "狩叶",
+        "text": "鹰世先生你已经认识了对吧。\n那就剩花江小姐了。"
+      },
+      {
+        "character": "暁",
+        "text": "是抽烟的那位吗？"
+      },
+      {
+        "character": "狩叶",
+        "text": "她还在抽烟？　\n唉，本车可是禁烟的。"
+      },
+      {
+        "character": "暁",
+        "text": "哎，是禁烟的吗？"
+      },
+      {
+        "character": "狩叶",
+        "text": "嗯？\n火车一般不都禁烟吗？"
+      },
+      {
+        "character": "暁",
+        "text": "啊……不一定吧。"
+      },
+      {
+        "character": "狩叶",
+        "text": "难道不是么。"
+      },
+      {
+        "character": "暁",
+        "text": "二十一世纪是这样的，但听说以前可都是烟雾缭绕的。\n我还想这趟车是不是也模仿了那种感觉。"
+      },
+      {
+        "character": "",
+        "text": "哪怕是在日本，昭和年间的电车上，\n　地板和坐席好像也都布满了被烟头烧焦的痕迹。"
+      },
+      {
+        "character": "狩叶",
+        "text": "哎……\n以前的人也太没安全意识了吧。都不注意火灾的危险性吗。"
+      },
+      {
+        "character": "暁",
+        "text": "说得……也是。"
+      },
+      {
+        "character": "",
+        "text": "听到当今时代的女生对我说出这种感想，\n　好像自己是个大叔一样，心里有点抵触。"
+      },
+      {
+        "character": "",
+        "text": "火灾确实是个隐患，\n　好在这趟列车的座位上都安装了烟灰缸。"
+      },
+      {
+        "character": "",
+        "text": "要是想追求古典的气氛，吸烟估计也没什么不妥。"
+      },
+      {
+        "character": "",
+        "text": "不过乘务员至少该把列车的相关规定记住吧。"
+      },
+      {
+        "character": "狩叶",
+        "text": "总之除你以外还有三位乘客。\n尽可能好好相处吧。"
+      },
+      {
+        "character": "暁",
+        "text": "知道了"
+      },
+      {
+        "character": "暁",
+        "text": "嗯？　只有三个人？"
+      },
+      {
+        "character": "狩叶",
+        "text": "嗯？"
+      },
+      {
+        "character": "",
+        "text": "不是还有一个人么。"
+      },
+      {
+        "character": "狩叶",
+        "text": "哦，你说诺瓦？"
+      },
+      {
+        "character": "暁",
+        "text": "诺瓦？　她的名字吗？"
+      },
+      {
+        "character": "狩叶",
+        "text": "对。\n诺瓦，过来打个招呼。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "啪嗒啪嗒啪嗒。"
+      },
+      {
+        "character": "",
+        "text": "她小跑着过来。"
+      },
+      {
+        "character": "暁",
+        "text": "那个……你好。\n小诺……这样叫可以吗。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "女孩一副小心翼翼的样子，"
+      },
+      {
+        "character": "",
+        "text": "朝我轻轻点了点头。"
+      },
+      {
+        "character": "",
+        "text": "啪嗒啪嗒。"
+      },
+      {
+        "character": "",
+        "text": "又小跑着走掉了。"
+      },
+      {
+        "character": "暁",
+        "text": "那个……"
+      },
+      {
+        "character": "狩叶",
+        "text": "哎呀她就是那样啦，别太在意。"
+      },
+      {
+        "character": "暁",
+        "text": "哦，好。"
+      },
+      {
+        "character": "",
+        "text": "看来不是被讨厌了。"
+      },
+      {
+        "character": "暁",
+        "text": "也就是说，她不是乘客？"
+      },
+      {
+        "character": "狩叶",
+        "text": "名单上没有她的名字，所以应该不是。\n听说是车长特别允许她上车的。"
+      },
+      {
+        "character": "暁",
+        "text": "……这样啊。"
+      },
+      {
+        "character": "",
+        "text": "这就是所谓的特邀嘉宾吧。"
+      },
+      {
+        "character": "狩叶",
+        "text": "虽然不知道详情，但是她很可爱的，不挺好的嘛？\n　就像是这辆银河号的吉祥物一样。"
+      },
+      {
+        "character": "暁",
+        "text": "也是，嗯……"
+      },
+      {
+        "character": "",
+        "text": "我觉得这个乘务员就够吉祥物的了，\n　还是不说为妙，她本人应该是把这当做一份正经工作的。"
+      },
+      {
+        "character": "狩叶",
+        "text": "……"
+      },
+      {
+        "character": "狩叶",
+        "text": "不过啊，她有点那个……"
+      },
+      {
+        "character": "暁",
+        "text": "怎么了吗？"
+      },
+      {
+        "character": "狩叶",
+        "text": "怎么说呢，我和她也算是相处了挺长一段时间。"
+      },
+      {
+        "character": "狩叶",
+        "text": "诺瓦。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "？"
+      },
+      {
+        "character": "",
+        "text": "哒哒哒。"
+      },
+      {
+        "character": "",
+        "text": "她听到呼唤就过来了。"
+      },
+      {
+        "character": "狩叶",
+        "text": "我说啊诺瓦，我现在正好无事可做，\n要不要聊聊天？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "诺瓦",
+        "text": "聊什么呢？"
+      },
+      {
+        "character": "狩叶",
+        "text": "那个，比如，关于时尚之类的。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "没有兴趣。"
+      },
+      {
+        "character": "",
+        "text": "走掉了。"
+      },
+      {
+        "character": "",
+        "text": "坦率倒是挺坦率，就是不怎么好相处。"
+      },
+      {
+        "character": "狩叶",
+        "text": "唉……就是这种感觉。"
+      },
+      {
+        "character": "暁",
+        "text": "看来不像是被搭讪就会乖乖跟着走的类型。"
+      },
+      {
+        "character": "狩叶",
+        "text": "虽然我们都认识很久了可还是不行。\n她对我完全没有敞开心扉。"
+      },
+      {
+        "character": "暁",
+        "text": "这样啊。"
+      },
+      {
+        "character": "",
+        "text": "我觉得是因为狩叶的交谈技巧太拙劣了。"
+      },
+      {
+        "character": "狩叶",
+        "text": "她先不谈，要和其他人搞好关系哦。"
+      },
+      {
+        "character": "",
+        "text": "她回锅炉室去了。"
+      },
+      {
+        "character": "",
+        "text": "……搞好关系么。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "感觉稍微有点困难……\n　年龄差距也有点大。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "？"
+      },
+      {
+        "character": "",
+        "text": "啊，目光对上了。"
+      },
+      {
+        "character": "暁",
+        "text": "你、你好啊。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "（惊）"
+      },
+      {
+        "character": "",
+        "text": "唰唰。"
+      },
+      {
+        "character": "",
+        "text": "跑掉了。"
+      },
+      {
+        "character": "",
+        "text": "看来……想要交流没那么容易啊。"
+      },
+      {
+        "character": "",
+        "text": "不如说见到她对我的态度，\n　才知道和她狩叶已经算是相当亲近了。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这个年纪的女孩子……"
+      },
+      {
+        "character": "",
+        "text": "真让人捉摸不透啊。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "算了。"
+      },
+      {
+        "character": "",
+        "text": "刚见面就想套近乎也怪怪的。\n　估计过一段时间就能变得熟络了吧。"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我回到刚才的座位上。"
+      },
+      {
+        "character": "",
+        "text": "窗外的景色依然只能看到昏暗的群山，\n　自己身处何方则无从知晓。"
+      }
+    ]
+  },
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "那是……对。"
+      },
+      {
+        "character": "",
+        "text": "去年冬天发生的事情。"
+      },
+      {
+        "character": "",
+        "text": "漫天飘扬着鹅毛大雪。"
+      },
+      {
+        "character": "",
+        "text": "与现在正好相反，寒气深入骨髓，\n　我正急切地赶路回家。"
+      },
+      {
+        "character": "",
+        "text": "就在那时，"
+      }
+    ]
+  },
+  {
+    "background": "イベント2_e",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "就在那时……"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "唔。"
+      },
+      {
+        "character": "",
+        "text": "咦。"
+      },
+      {
+        "character": "",
+        "text": "我睡着了？"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "不对，不算睡着了。"
+      },
+      {
+        "character": "",
+        "text": "仿佛为窗外深邃的黑暗所吸引，\n　意识被稍稍地牵走了。"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "外面实在是太暗了，根本看不到流淌的景色。"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "不过在我选择了夜间的火车旅行时，\n　就不期待欣赏窗外的风景了。"
+      }
+    ]
+  },
+  {
+    "background": "イベント1_b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我的目的仅仅是避暑……"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "阿嚏。"
+      },
+      {
+        "character": "",
+        "text": "不好，有点不妙。"
+      },
+      {
+        "character": "",
+        "text": "这已经不是凉快了。\n　是冷。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "从窗外灌入的夜风远超凉爽的程度。"
+      },
+      {
+        "character": "",
+        "text": "现在是在山里……看来列车到了海拔相当高的地方。\n　呼啸的寒风卷走了车厢里的暖意。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "怪不得会梦见下雪。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "把窗户关上好了。\n　试一下……"
+      },
+      {
+        "character": "",
+        "text": "真不愧是古董，连窗户都是手动的。\n　应该是让乘客可以自由开关。"
+      },
+      {
+        "character": "暁",
+        "text": "唔……"
+      },
+      {
+        "character": "",
+        "text": "理论上乘客是可以随意开关窗户才对。"
+      },
+      {
+        "character": "",
+        "text": "可也不能光顾着自己。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "那个。"
+      },
+      {
+        "character": "",
+        "text": "我站起来，朝同乘一个车厢的她那边走去。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "跟方才的情况一样，我出声了也没反应。"
+      },
+      {
+        "character": "",
+        "text": "倒是看我一眼啊。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "那个，是叫，小诺来着吧？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "咳！"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "（惊！）"
+      },
+      {
+        "character": "",
+        "text": "这次我声音比较大，她总算是听到了。"
+      },
+      {
+        "character": "",
+        "text": "向我这里一瞥。"
+      },
+      {
+        "character": "",
+        "text": "————唰啦！"
+      },
+      {
+        "character": "",
+        "text": "又跑掉了。"
+      },
+      {
+        "character": "暁",
+        "text": "抱歉抱歉，吓到你了。"
+      },
+      {
+        "character": "",
+        "text": "是因为刚才离得太近了吧。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……有什么事吗。"
+      },
+      {
+        "character": "",
+        "text": "她从座位后面探出头来看着我。"
+      },
+      {
+        "character": "",
+        "text": "这种警戒的样子……就像货真价实的小猫一样。"
+      },
+      {
+        "character": "",
+        "text": "无论如何，吓到她是我的不是。"
+      },
+      {
+        "character": "暁",
+        "text": "我觉得有点冷，可以关上窗户吗？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "关上……窗户？"
+      },
+      {
+        "character": "暁",
+        "text": "是啊。\n你不冷吗。"
+      },
+      {
+        "character": "",
+        "text": "现在车内已经冷到不想再吹到风的程度了。"
+      },
+      {
+        "character": "",
+        "text": "不过她年龄比较小，体温应该比我高……"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "诺瓦",
+        "text": "快冻死了（抖抖抖）"
+      },
+      {
+        "character": "暁",
+        "text": "这么冷么。\n那我就关上了。"
+      },
+      {
+        "character": "",
+        "text": "她突然抱着肩膀颤抖了起来。"
+      },
+      {
+        "character": "",
+        "text": "看来她在发呆，都没意识到寒意。\n　但愿没有感冒吧。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "经她同意后，我抓住了窗户上的把手。"
+      },
+      {
+        "character": "",
+        "text": "咯吱咯吱咯吱。"
+      },
+      {
+        "character": "",
+        "text": "转动起来。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "哦，哦，哦。"
+      },
+      {
+        "character": "",
+        "text": "窗户像阶梯一样降了下来。"
+      },
+      {
+        "character": "",
+        "text": "虽说无法完全密封，但风势还是减弱了不少。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "关上了。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "诺瓦",
+        "text": "（目不转睛）"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "怎么说呢……"
+      },
+      {
+        "character": "",
+        "text": "别看她表情并不丰富，情绪还挺容易猜透的。"
+      },
+      {
+        "character": "暁",
+        "text": "试试看吗？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "有、有点兴趣。"
+      },
+      {
+        "character": "",
+        "text": "这节车厢里有八扇窗户。\n　全关上工作量还挺大的。"
+      },
+      {
+        "character": "暁",
+        "text": "那我从这边开始关，\n那边就拜托你了。"
+      },
+      {
+        "character": "",
+        "text": "我们分头去了左右两侧。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "咯吱咯吱咯吱。"
+      },
+      {
+        "character": "",
+        "text": "我这边进行得很顺利……"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "咻。"
+      },
+      {
+        "character": "",
+        "text": "咻！"
+      },
+      {
+        "character": "诺瓦",
+        "text": "呣～……"
+      },
+      {
+        "character": "暁",
+        "text": "那个……要不还是我来吧。"
+      },
+      {
+        "character": "",
+        "text": "由于个子太矮，\n　她哪怕站在座位上都差点距离。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "嘿————，嘿————。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "换我来吧。"
+      },
+      {
+        "character": "",
+        "text": "我把自己负责的这边全部搞定后，走到了她身边。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "还、还差一点就够到了。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯，可就算够到了，\n转不动那个把手也关不上啊。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "呜。"
+      },
+      {
+        "character": "",
+        "text": "上了年头的木制开关是比较紧的。\n　光是“够到”还不够，还要能抓稳才行。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "她不甘心地撇起了嘴角。"
+      },
+      {
+        "character": "",
+        "text": "哼哧。"
+      },
+      {
+        "character": "",
+        "text": "走掉了。"
+      },
+      {
+        "character": "",
+        "text": "就那么跃跃欲试么。\n　早知道就给她准备个垫脚的了。"
+      },
+      {
+        "character": "",
+        "text": "然而已经晚了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "咯吱咯吱咯吱。"
+      },
+      {
+        "character": "",
+        "text": "这扇也关上了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "啊，她在盯着我。"
+      },
+      {
+        "character": "",
+        "text": "不太对劲啊。气氛变得微妙了起来。"
+      },
+      {
+        "character": "",
+        "text": "我凑上前去，"
+      },
+      {
+        "character": "暁",
+        "text": "刚才听你说冷，没关系吗？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "嗯……"
+      },
+      {
+        "character": "",
+        "text": "她伸手蹭了蹭自己的肩膀。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "好冷。"
+      },
+      {
+        "character": "暁",
+        "text": "对吧。\n我也觉得冷，要不我去拿点暖和的东西过来。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊，不、不必费心。"
+      },
+      {
+        "character": "",
+        "text": "随后转过身去。"
+      },
+      {
+        "character": "",
+        "text": "好，这次感觉还不错。挺自然的。"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_閉",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "那么……"
+      },
+      {
+        "character": "",
+        "text": "暖和的东西。"
+      },
+      {
+        "character": "暁",
+        "text": "乘务员小姐。"
+      },
+      {
+        "character": "狩叶",
+        "text": "什么事？\n又是你啊？"
+      },
+      {
+        "character": "",
+        "text": "我走到这里。"
+      },
+      {
+        "character": "暁",
+        "text": "这里有没有自动贩卖机或者车内销售吗？"
+      },
+      {
+        "character": "狩叶",
+        "text": "没有自动贩卖机，但有车内销售。稍等。"
+      },
+      {
+        "character": "",
+        "text": "她钻到里面去。"
+      },
+      {
+        "character": "",
+        "text": "沙沙，沙沙。"
+      },
+      {
+        "character": "狩叶",
+        "text": "来啦~，啤酒饮料矿泉水~花生瓜子八宝粥～\n有需要的乘客请讲～"
+      },
+      {
+        "character": "",
+        "text": "回来的时候脖子上挂着个篮子。"
+      },
+      {
+        "character": "",
+        "text": "连这些细节都这么复古。"
+      },
+      {
+        "character": "",
+        "text": "可是。"
+      },
+      {
+        "character": "暁",
+        "text": "看起来……好像没有暖和的东西呢。"
+      },
+      {
+        "character": "",
+        "text": "篮子里装的确实是具有年代感的零食和饮料，\n　估计都是从冷柜之类的地方拿出来的。"
+      },
+      {
+        "character": "",
+        "text": "毕竟是夏天，这很正常。"
+      },
+      {
+        "character": "狩叶",
+        "text": "有的哦。咖啡可以吗？"
+      },
+      {
+        "character": "暁",
+        "text": "那就……要点甜的。可可之类的有么。"
+      },
+      {
+        "character": "狩叶",
+        "text": "有，就是这个。"
+      },
+      {
+        "character": "",
+        "text": "她从篮子底下翻出了一瓶罐装可可。"
+      },
+      {
+        "character": "",
+        "text": "————哐的一声。"
+      },
+      {
+        "character": "暁",
+        "text": "喂！？"
+      },
+      {
+        "character": "",
+        "text": "贴在了锅炉上。"
+      },
+      {
+        "character": "狩叶",
+        "text": "好像是要10秒左右来着。\n1————，2————。"
+      },
+      {
+        "character": "",
+        "text": "十秒后拿了起来。"
+      },
+      {
+        "character": "狩叶",
+        "text": "给，小心点，可烫了。"
+      },
+      {
+        "character": "暁",
+        "text": "……我说，会不会经常有人说你粗放……豪爽？"
+      },
+      {
+        "character": "狩叶",
+        "text": "喂喂～，这哪是形容女孩子的词啊。"
+      },
+      {
+        "character": "",
+        "text": "总比粗放要好点吧。"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_開",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "行吧，无所谓了。\n这个我要了，还有奶糖。"
+      },
+      {
+        "character": "狩叶",
+        "text": "多谢惠顾～"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_開",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我把零钱递给她。"
+      },
+      {
+        "character": "狩叶",
+        "text": "又是可可又是奶糖，你还真是个甜食党。"
+      },
+      {
+        "character": "暁",
+        "text": "不是我喝的。\n女生一般不都喜欢甜食么。"
+      },
+      {
+        "character": "狩叶",
+        "text": "啊……"
+      },
+      {
+        "character": "",
+        "text": "回到了诺瓦身边。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "那么，"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "choices": [
+      {"text": "直接给她","nextScene": 1},
+      {"text": "晃晃再给她","nextScene": 2}
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "给，热可可没问题吧。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "谢、谢谢。"
+      },
+      {
+        "character": "",
+        "text": "她接了过去。"
+      },
+      {
+        "character": "狩叶",
+        "text": "原来是给诺瓦的啊。"
+      },
+      {
+        "character": "暁",
+        "text": "是啊，车厢里有点冷。"
+      },
+      {
+        "character": "狩叶",
+        "text": "嚯，真绅士～"
+      },
+      {
+        "character": "狩叶",
+        "text": "虽然想这么夸你，不过要是给诺瓦，\n那个可能热过头了。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯？"
+      },
+      {
+        "character": "",
+        "text": "————咔嚓。"
+      },
+      {
+        "character": "",
+        "text": "打开拉环。"
+      },
+      {
+        "character": "",
+        "text": "咕咚。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "烫！"
+      },
+      {
+        "character": "暁",
+        "text": "怎么了！？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊呜，啊呜。"
+      },
+      {
+        "character": "",
+        "text": "她猛地抬头差点把可可洒出来。"
+      },
+      {
+        "character": "",
+        "text": "而且眼里噙着泪水……这难道，"
+      },
+      {
+        "character": "暁",
+        "text": "……猫舌（怕烫）？"
+      },
+      {
+        "character": "狩叶",
+        "text": "而且是重度的。看来是热过头了。"
+      },
+      {
+        "character": "暁",
+        "text": "抱、抱歉。没事吧？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "没有，那个，谢谢关心。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "呼————，呼————。"
+      },
+      {
+        "character": "",
+        "text": "好心办坏事了。",
+        "toScenes": 2
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "递给她之前，我轻轻摇了几下。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "？"
+      },
+      {
+        "character": "暁",
+        "text": "给，请用，热可可没问题吧。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊，谢、谢谢。"
+      },
+      {
+        "character": "",
+        "text": "咔嚓。"
+      },
+      {
+        "character": "",
+        "text": "打开拉环。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "咕咚咕咚。"
+      },
+      {
+        "character": "暁",
+        "text": "怎么样？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "甜甜的。"
+      },
+      {
+        "character": "",
+        "text": "她的笑也很甜。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "唔噢噢，好可爱。"
+      },
+      {
+        "character": "",
+        "text": "我还是头一回见到她笑，实在是太可爱了。"
+      },
+      {
+        "character": "狩叶",
+        "text": "原来是给诺瓦的。\n她很怕烫的，没关系吗？"
+      },
+      {
+        "character": "暁",
+        "text": "猫舌吗？"
+      },
+      {
+        "character": "",
+        "text": "那正好。"
+      },
+      {
+        "character": "",
+        "text": "她加热的方式太鲁莽了。\n　我怕里面温度不均就先摇了摇，看来是做对了。"
+      },
+      {
+        "character": "",
+        "text": "温度应该正合适。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "哈唔。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "谢谢你。"
+      },
+      {
+        "character": "",
+        "text": "她高兴就再好不过了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "狩叶",
+        "text": "对了，这边什么情况？　很冷吗？"
+      },
+      {
+        "character": "暁",
+        "text": "有一点。"
+      },
+      {
+        "character": "狩叶",
+        "text": "我完全没感觉到。"
+      },
+      {
+        "character": "",
+        "text": "你一直待在锅炉边上当然不冷了。"
+      },
+      {
+        "character": "狩叶",
+        "text": "不过……原来如此。"
+      },
+      {
+        "character": "狩叶",
+        "text": "列车应该已经到了海拔比较高的地方，\n气温就降下来了。"
+      },
+      {
+        "character": "",
+        "text": "她看着窗外说道。"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_夜",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "外面……依然是一片漆黑，"
+      },
+      {
+        "character": "",
+        "text": "啊，不过可以看到点点星光。"
+      },
+      {
+        "character": "",
+        "text": "在这片毫无人造光源的地带，\n　夜空被星光染成了一片蓝色。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "那个，你还冷吗？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "嗯？　没关系，已经暖和起来了。"
+      },
+      {
+        "character": "",
+        "text": "她放下手中的可可罐。"
+      },
+      {
+        "character": "暁",
+        "text": "那么，可不可以稍稍陪我一会儿。"
+      },
+      {
+        "character": "",
+        "text": "有种美妙的预感促使我邀请了她。"
+      },
+      {
+        "character": "",
+        "text": "她虽说仍然有些怕生，\n　但还是乖乖跟了上来。"
+      }
+    ]
+  },
+  {
+    "background": "背景_連結部",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我们两个来到了车厢外……"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_夜",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "哇……"
+      }
+    ]
+  },
+  {
+    "background": "イベント3_a",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "哇——————。"
+      },
+      {
+        "character": "",
+        "text": "Bingo。"
+      }
+    ]
+  },
+  {
+    "background": "イベント3_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这里是……湖？\n　铁轨横贯湖心，列车在湖面上疾驰。"
+      },
+      {
+        "character": "",
+        "text": "远方的山间依旧被黑暗所笼罩，连轮廓都看不清。"
+      },
+      {
+        "character": "",
+        "text": "然而漫天繁星，交相辉映，"
+      },
+      {
+        "character": "",
+        "text": "与湖中璀璨的倒影尽收眼底。"
+      }
+    ]
+  },
+  {
+    "background": "イベント3_a",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "这、这是什么啊，好漂亮。"
+      },
+      {
+        "character": "暁",
+        "text": "这就是……所谓的星海吧。\n可以说是夜间火车旅行的点睛之笔。"
+      },
+      {
+        "character": "",
+        "text": "实际上我也是初次看到此番瑰丽的美景。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "哇——————。"
+      },
+      {
+        "character": "",
+        "text": "她抓住栏杆朝水面望去。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊。"
+      },
+      {
+        "character": "",
+        "text": "又紧张地缩回身子。"
+      },
+      {
+        "character": "暁",
+        "text": "哈哈，不会掉下去啦。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我、我知道。"
+      }
+    ]
+  },
+  {
+    "background": "イベント3_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "湖中倒映着漫漫星空，\n　仿佛脚下也闪耀着星光。"
+      },
+      {
+        "character": "",
+        "text": "感觉就像在繁星间疾驰。"
+      },
+      {
+        "character": "",
+        "text": "她再次望向头顶。"
+      }
+    ]
+  },
+  {
+    "background": "イベント3_a",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "哇。"
+      },
+      {
+        "character": "暁",
+        "text": "还是天空更让人放心吧。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "是的。"
+      },
+      {
+        "character": "",
+        "text": "天空美得纯粹。"
+      },
+      {
+        "character": "",
+        "text": "她的视线在湖面和天空间来回穿梭，\n　目不暇接。"
+      },
+      {
+        "character": "",
+        "text": "接踵而至的美景填满了她的思绪。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "诺瓦",
+        "text": "从来没有见过这种景色。"
+      },
+      {
+        "character": "暁",
+        "text": "如此规模的我也没见过啊。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "唉……"
+      }
+    ]
+  },
+  {
+    "background": "イベント3_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "她发出一声叹息。"
+      },
+      {
+        "character": "",
+        "text": "火车飞速前进，\n　凛冽的风吹乱她的黑发。"
+      },
+      {
+        "character": "",
+        "text": "她像猫咪理毛般将头发撩起来，\n　循环往复地盯着上下两片星海。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "背景_連結部",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "话说回来。"
+      },
+      {
+        "character": "",
+        "text": "这幅信心十足的景色，\n　我将其分享与她。"
+      },
+      {
+        "character": "",
+        "text": "可比起风景，我的视线却难以从她的身上移开。"
+      },
+      {
+        "character": "",
+        "text": "这可不是出于什么奇怪的理由。"
+      },
+      {
+        "character": "",
+        "text": "怎么说呢，她这么可爱所以我会看得如痴如醉，\n　不仅如此，"
+      },
+      {
+        "character": "",
+        "text": "不过这些都不重要，"
+      },
+      {
+        "character": "暁",
+        "text": "我说啊……小诺。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "嗯？"
+      },
+      {
+        "character": "暁",
+        "text": "我想再问一下……你的耳朵。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我在看她的耳朵。"
+      },
+      {
+        "character": "",
+        "text": "那可不是……单纯的发饰。"
+      },
+      {
+        "character": "",
+        "text": "在她把头发撩上去时能清楚地看到。"
+      },
+      {
+        "character": "",
+        "text": "耳朵是长在头上的。"
+      },
+      {
+        "character": "暁",
+        "text": "那是……"
+      }
+    ]
+  },
+  {
+    "background": "背景_連結部",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "什、什么啊？"
+      },
+      {
+        "character": "",
+        "text": "我不禁迟疑了一下。"
+      },
+      {
+        "character": "",
+        "text": "没办法，这让我怎么问嘛。"
+      },
+      {
+        "character": "",
+        "text": "她顺着我的视线看去，"
+      },
+      {
+        "character": "诺瓦",
+        "text": "是说……我的耳朵吗？"
+      },
+      {
+        "character": "暁",
+        "text": "嗯、嗯。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "是耳朵。"
+      },
+      {
+        "character": "",
+        "text": "回答简单明了。"
+      },
+      {
+        "character": "暁",
+        "text": "是、是啊。"
+      },
+      {
+        "character": "",
+        "text": "……我不知道还能做出什么回应。"
+      },
+      {
+        "character": "",
+        "text": "那个……"
+      },
+      {
+        "character": "暁",
+        "text": "可以……让我看看吗？"
+      }
+    ]
+  },
+  {
+    "background": "背景_連結部",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "嗯……？　为什么？"
+      },
+      {
+        "character": "暁",
+        "text": "那个，不愿意的话就算了。"
+      },
+      {
+        "character": "",
+        "text": "就算我有兴趣，想细看也是件难事。"
+      },
+      {
+        "character": "",
+        "text": "“可以让我看看吗？”\n　我居然对女孩子做出了如此不识趣的请求。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "她考虑了一小会儿，"
+      },
+      {
+        "character": "诺瓦",
+        "text": "请吧。"
+      },
+      {
+        "character": "",
+        "text": "轻轻把头朝我探了过来。"
+      },
+      {
+        "character": "",
+        "text": "这样就可以清楚看到她的耳朵了。"
+      },
+      {
+        "character": "暁",
+        "text": "谢、谢谢。"
+      },
+      {
+        "character": "",
+        "text": "她同意了。"
+      },
+      {
+        "character": "",
+        "text": "那我也可以放心看了。\n　耳朵而已嘛。\n　完全没什么下流的。"
+      }
+    ]
+  },
+  {
+    "background": "背景_連結部",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我端详端详。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "是猫吧。"
+      },
+      {
+        "character": "",
+        "text": "虽说我也没仔细观察过猫的耳朵，\n　但至少能确定这就是长在动物身上那种。"
+      },
+      {
+        "character": "",
+        "text": "而且，的确是从头顶长出来的。"
+      },
+      {
+        "character": "",
+        "text": "不是发饰。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "可是，怎么可能呢。"
+      },
+      {
+        "character": "",
+        "text": "难道是，那种？\n　我想想……最近做得越来越仿真的，\n　浓缩了科技大国日本的科技新品。"
+      },
+      {
+        "character": "",
+        "text": "如果拽一下的话……"
+      },
+      {
+        "character": "",
+        "text": "————嘿咻。"
+      }
+    ]
+  }
+]

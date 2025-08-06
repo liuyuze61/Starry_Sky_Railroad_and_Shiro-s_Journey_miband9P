@@ -1,0 +1,2040 @@
+[
+  {
+    "background": "bg_white.png",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "好好……"
+      },
+      {
+        "character": "",
+        "text": "那时……"
+      },
+      {
+        "character": "",
+        "text": "老老实实让她给我做就好了。"
+      },
+      {
+        "character": "",
+        "text": "能不能真的打起精神我也说不准，"
+      },
+      {
+        "character": "",
+        "text": "可我需要的就是这个。"
+      },
+      {
+        "character": "",
+        "text": "因为我不能保持很好的精神状态。"
+      },
+      {
+        "character": "",
+        "text": "一直、一直都是这样。"
+      },
+      {
+        "character": "",
+        "text": "不过，我觉得已经足够了。"
+      },
+      {
+        "character": "",
+        "text": "因为只要和小音在一起，我就能打起万分的精神……"
+      }
+    ]
+  },
+  {
+    "background": "背景_プラネタリウム",
+    "dialogues": [
+      {
+        "character": "タカセ",
+        "text": "还好吗？"
+      },
+      {
+        "character": "暁",
+        "text": "唔。"
+      },
+      {
+        "character": "",
+        "text": "意识突然清醒过来。"
+      },
+      {
+        "character": "",
+        "text": "什么。怎么了到底？"
+      }
+    ]
+  },
+  {
+    "background": "背景_プラネタリウム",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我抬起躺在地上的身体。"
+      },
+      {
+        "character": "タカセ",
+        "text": "能起来么……吓我一跳。"
+      },
+      {
+        "character": "暁",
+        "text": "喔……\n咦，发生什么事了？"
+      },
+      {
+        "character": "タカセ",
+        "text": "第二部分开始后你也不在，就过来找你了。\n然后发现你倒这儿。"
+      },
+      {
+        "character": "暁",
+        "text": "倒这儿了……喔，对了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "记得碰了那个女孩子后，\n　全身变得难受起来。"
+      },
+      {
+        "character": "",
+        "text": "到底怎么了啊那是？"
+      }
+    ]
+  },
+  {
+    "background": "背景_プラネタリウム",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "失去意识应该过了五到十分钟吧。"
+      },
+      {
+        "character": "",
+        "text": "……倒了有五分钟吧。\n　那女孩怎么了？"
+      },
+      {
+        "character": "",
+        "text": "至少我现在明白的是，"
+      },
+      {
+        "character": "暁",
+        "text": "……我和花江小姐说的那女孩见面了。"
+      },
+      {
+        "character": "暁",
+        "text": "被袭击了。"
+      },
+      {
+        "character": "タカセ",
+        "text": "唔。"
+      },
+      {
+        "character": "",
+        "text": "虽然不知道会冻结身体的状况到底是什么，"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "一言蔽之，那女孩对我们\n　充满着敌意。"
+      },
+      {
+        "character": "",
+        "text": "花江小姐她并没有说，\n　她与纯白的少女见面后发生了什么。"
+      },
+      {
+        "character": "",
+        "text": "察觉到只是生气了，\n　会对我们造成威胁，"
+      },
+      {
+        "character": "",
+        "text": "这样闭口不谈的理由算是明白了。"
+      },
+      {
+        "character": "",
+        "text": "毕竟虽然有威胁到，\n　但具体是怎样个威胁法，无法说明。"
+      },
+      {
+        "character": "",
+        "text": "毕竟不知道她对自己做了什么。"
+      },
+      {
+        "character": "",
+        "text": "呼。"
+      }
+    ]
+  },
+  {
+    "background": "背景_プラネタリウム",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "诺瓦和狩叶，之前有说过遇到妖怪了吧。"
+      },
+      {
+        "character": "タカセ",
+        "text": "是在一开始的车站那？"
+      },
+      {
+        "character": "タカセ",
+        "text": "意思是那女孩子是妖怪吗？"
+      },
+      {
+        "character": "暁",
+        "text": "虽然有点不现实，但确实是这种感觉。"
+      },
+      {
+        "character": "",
+        "text": "并不是现实能体会到的“威胁”。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "是我太累了吗？"
+      },
+      {
+        "character": "タカセ",
+        "text": "没法否定这个可能性。"
+      },
+      {
+        "character": "",
+        "text": "那个感觉。"
+      },
+      {
+        "character": "",
+        "text": "身体开始拒绝活着。\n　仿佛被“无生之物”强行拖下去一般。"
+      },
+      {
+        "character": "",
+        "text": "太过异常。"
+      },
+      {
+        "character": "",
+        "text": "顶多会觉得是魔女，或者拥有相关能力的超能力者，\n　这种超脱现实的存在。"
+      },
+      {
+        "character": "",
+        "text": "要是来假设的话，肯定还是妖怪吧。\n　之前也有聊过。"
+      },
+      {
+        "character": "",
+        "text": "当然也有可能是我失去意识时做的梦。"
+      },
+      {
+        "character": "暁",
+        "text": "呼……"
+      },
+      {
+        "character": "タカセ",
+        "text": "接下来怎么办？　要不找个地方休息。"
+      },
+      {
+        "character": "暁",
+        "text": "是啊……"
+      },
+      {
+        "character": "暁",
+        "text": "算了，嗯。\n你回去吧，我在这里休息一会儿。"
+      },
+      {
+        "character": "暁",
+        "text": "能麻烦你牺牲下娱乐时间帮我看着大家么。\n要是出现陌生人<dash=2>就该我们男人的出场了。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……很危险吗？"
+      },
+      {
+        "character": "暁",
+        "text": "就我所见很危险。"
+      },
+      {
+        "character": "タカセ",
+        "text": "我明白了。\n到时候我就以身为盾来保护各位女性……\n这感觉还不错呢。"
+      },
+      {
+        "character": "",
+        "text": "也不知到底有几成认真几成玩笑。\n　鹰世苦苦地笑了笑，回到了大厅。"
+      },
+      {
+        "character": "",
+        "text": "其实最以防万一的方法是离开这个地方，\n　不过可能只是一场梦，\n　我可不想坏了诺瓦她们的心情。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "那么。"
+      }
+    ]
+  },
+  {
+    "background": "背景_プラネタリウム",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "其实我应该去找那女孩，或者探索一下整个天象馆，"
+      },
+      {
+        "character": "",
+        "text": "可身体沉沉的。完全不想动。"
+      },
+      {
+        "character": "",
+        "text": "毕竟还有，\n　被她找到，再次攻击的可能性。"
+      },
+      {
+        "character": "",
+        "text": "这个大厅空荡视野不错，\n　可以减少被偷袭的可能性。还是留在这里吧。"
+      },
+      {
+        "character": "",
+        "text": "……不过要是她是幽灵\n　突然出现在背后的情形也是有的。"
+      },
+      {
+        "character": "",
+        "text": "我坐上长椅，休整着身体。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "那女孩"
+      },
+      {
+        "character": "",
+        "text": "是“什么”？"
+      },
+      {
+        "character": "",
+        "text": "对此我也存疑。\n　光是触碰了就带给了我死的感受，那到底是什么？"
+      },
+      {
+        "character": "",
+        "text": "但是让我倍感疑问的，"
+      },
+      {
+        "character": "",
+        "text": "她是“谁”？"
+      },
+      {
+        "character": "",
+        "text": "对，她是谁。"
+      },
+      {
+        "character": "",
+        "text": "完全不知道。虽然完全不知道，"
+      },
+      {
+        "character": "",
+        "text": "但是我已经得到了提示。"
+      }
+    ]
+  },
+  {
+    "background": "背景_病室_暗",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我的梦中。"
+      },
+      {
+        "character": "",
+        "text": "梦见本身就已经够很奇妙了，可还有比它更不可思议的。"
+      },
+      {
+        "character": "",
+        "text": "那张脸……"
+      }
+    ]
+  },
+  {
+    "background": "背景_プラネタリウム",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "…………"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "是诺瓦。"
+      },
+      {
+        "character": "",
+        "text": "那张脸的样子。"
+      },
+      {
+        "character": "",
+        "text": "因为头发与皮肤的颜色不同。"
+      },
+      {
+        "character": "",
+        "text": "双眼的瞳色也不一样，我第一时间没反应过来，"
+      },
+      {
+        "character": "",
+        "text": "她和诺瓦简直是一个模子刻出来的。"
+      },
+      {
+        "character": "",
+        "text": "可也不像是……姐妹啊。"
+      },
+      {
+        "character": "",
+        "text": "双胞胎？"
+      }
+    ]
+  },
+  {
+    "background": "背景_プラネタリウム",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "诺瓦说出了那个女孩的名字，“真白”。"
+      },
+      {
+        "character": "",
+        "text": "虽然这情况已经快板上钉钉了……可我，"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "不想对诺瓦说这些啊……"
+      },
+      {
+        "character": "",
+        "text": "我不小心把心里话说了出来。"
+      },
+      {
+        "character": "",
+        "text": "毕竟玩得那么开心实在是不忍心啊。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "刚开始感觉她只是单纯地“坐上火车”。"
+      },
+      {
+        "character": "",
+        "text": "但是逐渐与狩叶和野鸟小姐打成一片，"
+      },
+      {
+        "character": "",
+        "text": "在旁人眼里，现在的她，逐渐地已经享受起了这趟旅行。"
+      },
+      {
+        "character": "",
+        "text": "而在这天象馆里已经算是最高潮了吧。\n　刚才也能看出来，她的情绪十分高昂。"
+      },
+      {
+        "character": "",
+        "text": "我可不希望在这种时候种下什么不好的种子。"
+      }
+    ]
+  },
+  {
+    "background": "背景_プラネタリウム",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "虽然不希望，"
+      },
+      {
+        "character": "",
+        "text": "但那纯白的少女已经对我发起了攻击。"
+      },
+      {
+        "character": "",
+        "text": "没道理不继续深究下去。"
+      },
+      {
+        "character": "",
+        "text": "在不损害诺瓦的兴致这一条件下\n　试探试探“真白”这一名字吧。"
+      },
+      {
+        "character": "",
+        "text": "感觉挺难。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "・・・・"
+      },
+      {
+        "character": "",
+        "text": "・・・"
+      },
+      {
+        "character": "ねり",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "小音……"
+      }
+    ]
+  },
+  {
+    "background": "背景_プラネタリウム",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "！"
+      },
+      {
+        "character": "ノワール",
+        "text": "哇。"
+      },
+      {
+        "character": "カルハ",
+        "text": "啊，醒了。"
+      },
+      {
+        "character": "暁",
+        "text": "咦……"
+      },
+      {
+        "character": "",
+        "text": "一瞬间我低下视线，察觉到眼前的气息后慌慌张张抬起头来。"
+      },
+      {
+        "character": "",
+        "text": "发现眼前情况发生了不小的变化。"
+      },
+      {
+        "character": "",
+        "text": "大厅的窗户打开了，大家走了出来。"
+      },
+      {
+        "character": "暁",
+        "text": "咦……结束了？"
+      },
+      {
+        "character": "カルハ",
+        "text": "刚刚结束。\n咋了你，跟这里睡觉来着？"
+      },
+      {
+        "character": "暁",
+        "text": "……好像是的。"
+      },
+      {
+        "character": "",
+        "text": "看来刚刚的事情消耗了我不少体力。\n　不知不觉睡着了。"
+      },
+      {
+        "character": "",
+        "text": "……在被袭击的地方睡着，我也是心大。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "鹰世朝着我这边看着，轻轻耸了耸肩。"
+      },
+      {
+        "character": "",
+        "text": "没什么危险，么。"
+      },
+      {
+        "character": "",
+        "text": "不过有的话现在我也不可能这么轻松了。"
+      },
+      {
+        "character": "",
+        "text": "于是，"
+      },
+      {
+        "character": "ノワール",
+        "text": "白先生，一直睡着的么。\n明明天象馆这么棒的。"
+      },
+      {
+        "character": "",
+        "text": "看来她只有这点疑问。"
+      },
+      {
+        "character": "暁",
+        "text": "喔……嗯，不是，没事的。我知道内容的。"
+      },
+      {
+        "character": "",
+        "text": "第二部分好像是学术性问题相关，\n　估计看也就看个大概吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "ノワール",
+        "text": "要不再看一次？\n我去买票。"
+      },
+      {
+        "character": "暁",
+        "text": "不，还是算了。不用光为我做到这地步。"
+      },
+      {
+        "character": "タカセ",
+        "text": "就算想看，\n今天也已经演完了。"
+      },
+      {
+        "character": "",
+        "text": "鹰世指着购票机挂着的牌子。"
+      },
+      {
+        "character": "",
+        "text": "看来是上午下午各一回。"
+      },
+      {
+        "character": "",
+        "text": "这里客流量少，设置成这种次数也合理。"
+      },
+      {
+        "character": "ノワール",
+        "text": "这样啊。\n……我也想让白先生看看的。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦一脸遗憾地耷拉起了脑袋。"
+      },
+      {
+        "character": "暁",
+        "text": "不是，那个，抱歉。"
+      },
+      {
+        "character": "暁",
+        "text": "是怎么样的？\n能告诉我么。"
+      },
+      {
+        "character": "ノワール",
+        "text": "啊，好的。"
+      },
+      {
+        "character": "",
+        "text": "情绪高涨的诺瓦坐在了我身边。\n　看来真的是非常感兴趣。"
+      },
+      {
+        "character": "",
+        "text": "狩叶和野鸟小姐跑了出去，\n　又去探索别的了。"
+      },
+      {
+        "character": "",
+        "text": "鹰世则和我交换下了眼神，跟着跑了出去。\n　希望没什么危险。"
+      },
+      {
+        "character": "",
+        "text": "花江小姐站在刚才使用过的吸烟区。"
+      },
+      {
+        "character": "ノワール",
+        "text": "然后呢，就是，\n该从什么地方说起呢。"
+      },
+      {
+        "character": "ノワール",
+        "text": "大熊星座和小熊星座有一段很悲伤的故事。"
+      },
+      {
+        "character": "暁",
+        "text": "不用从这儿开始。\n这段我看过的。"
+      },
+      {
+        "character": "",
+        "text": "从第一部分开始说实在太长了。"
+      },
+      {
+        "character": "ノワール",
+        "text": "那从后半部分来讲吧。\n那个，宇宙非常非常广阔。"
+      },
+      {
+        "character": "暁",
+        "text": "喔。"
+      },
+      {
+        "character": "",
+        "text": "第二部分的题材看来的确如我所想。"
+      },
+      {
+        "character": "ノワール",
+        "text": "那个，如果地球这么大的话，\n太阳差不多这样吧。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦挥舞着手臂表示着大小。"
+      },
+      {
+        "character": "",
+        "text": "虽然我看着一头雾水，但挺令人欣慰的，还是守望着吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "然后就是然后就是。"
+      },
+      {
+        "character": "ノワール",
+        "text": "啊对了白先生。\n有件特别不得了的事，不知道你发觉没有呢？"
+      },
+      {
+        "character": "暁",
+        "text": "嗯？"
+      },
+      {
+        "character": "",
+        "text": "诺瓦少见地挺起胸膛。"
+      },
+      {
+        "character": "",
+        "text": "叉着腰一脸清爽。"
+      },
+      {
+        "character": "",
+        "text": "也就是所谓的一脸得意。"
+      },
+      {
+        "character": "ノワール",
+        "text": "居然。"
+      },
+      {
+        "character": "ノワール",
+        "text": "广播是花江小姐做的。"
+      },
+      {
+        "character": "花江",
+        "text": "唔。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "喔，发现了么。"
+      },
+      {
+        "character": "ノワール",
+        "text": "咦！？"
+      },
+      {
+        "character": "暁",
+        "text": "我还想藏着……花江小姐，\n看来暴露了啊。"
+      },
+      {
+        "character": "花江",
+        "text": "看来如此。\n珍妮弗刚刚也一脸笑看着我的。"
+      },
+      {
+        "character": "",
+        "text": "看来野鸟小姐也察觉到了。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "诺瓦一脸哭丧样。"
+      },
+      {
+        "character": "暁",
+        "text": "啊，抱歉，是想炫耀一下么。"
+      },
+      {
+        "character": "ノワール",
+        "text": "不，没有。"
+      },
+      {
+        "character": "暁",
+        "text": "这里应该吃惊一下吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "所以说我才没有。"
+      },
+      {
+        "character": "暁",
+        "text": "啊！？\n真真、真的么诺瓦，旁白是花江小姐么！"
+      },
+      {
+        "character": "花江",
+        "text": "这这这、这样的么！？"
+      },
+      {
+        "character": "暁",
+        "text": "得亏你察觉到了啊～我真的没听出来呢。\n诺瓦太厉害了。"
+      },
+      {
+        "character": "花江",
+        "text": "连我都没察觉到啊～真厉害真厉害。"
+      },
+      {
+        "character": "ノワール",
+        "text": "不用强行装着惊讶的样子。\n还有花江小姐不知道才奇怪。"
+      },
+      {
+        "character": "",
+        "text": "确实。"
+      },
+      {
+        "character": "花江",
+        "text": "唉，暴露得还真快。"
+      },
+      {
+        "character": "花江",
+        "text": "我这边还想着笑嘻嘻地看着你们没发觉的样子，\n所以才带你们到这儿来的。"
+      },
+      {
+        "character": "ノワール",
+        "text": "不知不觉猜到了。"
+      },
+      {
+        "character": "花江",
+        "text": "……呵呵，这样的么。"
+      },
+      {
+        "character": "",
+        "text": "本心来说她可能不太想暴露，\n　不过哪怕被发现了，\n　好像也没有什么关系。"
+      },
+      {
+        "character": "ノワール",
+        "text": "是和这座天象馆的人熟悉吗？"
+      },
+      {
+        "character": "花江",
+        "text": "差不多吧。"
+      },
+      {
+        "character": "花江",
+        "text": "因为是自己建的所以旁白也是自己掏钱。\n正好当时我因为演出而跟那边商量了下，\n结果自然而然就委托给我了。"
+      },
+      {
+        "character": "",
+        "text": "嗯。"
+      },
+      {
+        "character": "花江",
+        "text": "现在想来这个还是我最后……嗯？"
+      },
+      {
+        "character": "",
+        "text": "花江小姐看到我们表情发生变化，停下了说明。"
+      },
+      {
+        "character": "暁",
+        "text": "花江小姐……的演出？"
+      },
+      {
+        "character": "ノワール",
+        "text": "演员吗。"
+      },
+      {
+        "character": "花江",
+        "text": "呜咕。"
+      },
+      {
+        "character": "",
+        "text": "花江小姐没打算说这个的吧。\n　结果因为不小心说了出来，抱住了脑袋。"
+      },
+      {
+        "character": "",
+        "text": "看这反应我应该换话题吗？\n　正当我这么想的时候，"
+      },
+      {
+        "character": "ノワール",
+        "text": "真厉害。都演过什么呀？"
+      },
+      {
+        "character": "",
+        "text": "诺瓦却咬住了这个话题。"
+      },
+      {
+        "character": "ノワール",
+        "text": "我还是头一回见到演员呢。\n是怎样的一个故事呢？　啊，扮演什么的呀？"
+      },
+      {
+        "character": "",
+        "text": "是天象馆那会儿的热情还没冷却下来吧。\n　诺瓦双眼放光地靠了过来。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "花江小姐放弃了抵抗，\n　把叼着的烟扔进烟灰缸。"
+      },
+      {
+        "character": "",
+        "text": "一脸困扰。"
+      },
+      {
+        "character": "",
+        "text": "……不过从她的表情上来看，好像还有点小高兴吧。"
+      },
+      {
+        "character": "花江",
+        "text": "就一个小地方的小剧团而已。\n没什么大动作的。"
+      },
+      {
+        "character": "花江",
+        "text": "……不过，我基本都当的主角。"
+      },
+      {
+        "character": "ノワール",
+        "text": "哇。"
+      },
+      {
+        "character": "",
+        "text": "略显害羞，却又有点小自豪。"
+      },
+      {
+        "character": "",
+        "text": "就花江小姐的资质，让她当主角不过分。\n　外貌和身材都很出众。"
+      },
+      {
+        "character": "暁",
+        "text": "演过的剧都有什么啊？"
+      },
+      {
+        "character": "花江",
+        "text": "嗯……这方面的话，都是些小众剧目。\n还有一堆原创剧。"
+      },
+      {
+        "character": "",
+        "text": "小地方的剧团看来也演不了什么高人气剧目。"
+      },
+      {
+        "character": "花江",
+        "text": "最有名的是那个吧。哈姆雷特。"
+      },
+      {
+        "character": "",
+        "text": "要不就是版权问题限制吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "ノワール",
+        "text": "对不起……我没怎么吃肉的。"
+      },
+      {
+        "character": "暁",
+        "text": "没说火腿（哈姆）啊。"
+      },
+      {
+        "character": "",
+        "text": "看来因为剧目过于久远，诺瓦没缓过神来。"
+      },
+      {
+        "character": "",
+        "text": "那个，哈姆雷特我记得是……"
+      },
+      {
+        "character": "暁",
+        "text": "……啥来着，莎士比亚？"
+      },
+      {
+        "character": "",
+        "text": "我也不是很熟。"
+      },
+      {
+        "character": "花江",
+        "text": "是的。四大悲剧里最出名的那一部。\n父亲被害的王子对作为凶手的叔父的复仇剧。"
+      },
+      {
+        "character": "",
+        "text": "哈姆雷特本身我不是很清楚，但在现代\n　有不少以此为蓝本写出来的故事。\n　比如把舞台换到日本，或是让主角是狮子什么的。"
+      },
+      {
+        "character": "ノワール",
+        "text": "花江小姐当时是扮演的谁呀？"
+      },
+      {
+        "character": "花江",
+        "text": "当然是主角，王子。"
+      },
+      {
+        "character": "ノワール",
+        "text": "哇，是男主角。"
+      },
+      {
+        "character": "花江",
+        "text": "是啊。\n本来的话我应该是扮演男主角的王妃或者宰相的女儿的，\n但我穿男装也挺合适的。"
+      },
+      {
+        "character": "",
+        "text": "我懂。"
+      },
+      {
+        "character": "花江",
+        "text": "那叫一个盛况空前，说句不好听的，\n我都有不少以为我是男人的女性粉丝了。"
+      },
+      {
+        "character": "ノワール",
+        "text": "啊哈，真帅呢。"
+      },
+      {
+        "character": "花江",
+        "text": "哭喊着的场景也好，最后的决斗也好，都练习了不少。"
+      },
+      {
+        "character": "花江",
+        "text": "To be，or not to be．\nThat is the question."
+      },
+      {
+        "character": "",
+        "text": "花江小姐挺起胸膛发出声音。"
+      },
+      {
+        "character": "",
+        "text": "声音响亮。不愧是当旁白广播的。"
+      },
+      {
+        "character": "",
+        "text": "哈姆雷特我没看过，但这话我记得是……"
+      },
+      {
+        "character": "ノワール",
+        "text": "那个，是什么意思啊？"
+      },
+      {
+        "character": "花江",
+        "text": "生存还是毁灭，这是一个值得考虑的问题。\n这是哈姆雷特中最有名的一句台词。"
+      },
+      {
+        "character": "",
+        "text": "对，这是句很有名的台词"
+      },
+      {
+        "character": "",
+        "text": "被用于各个地方。"
+      },
+      {
+        "character": "花江",
+        "text": "就这一段我练习了不知道多少次。\n练习过度喉咙都哑了。"
+      },
+      {
+        "character": "暁",
+        "text": "看来演出当天效果挺不错。"
+      },
+      {
+        "character": "ノワール",
+        "text": "刚刚那个也相当有魄力。"
+      },
+      {
+        "character": "花江",
+        "text": "差不多吧。"
+      },
+      {
+        "character": "",
+        "text": "从她的表情上就能看出反响不错。"
+      },
+      {
+        "character": "",
+        "text": "花江小姐满足地笑着，"
+      },
+      {
+        "character": "花江",
+        "text": "结果那一次之后就被事务所相中了。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "……说到这，花江小姐的脸上蒙上了一丝阴霾。"
+      },
+      {
+        "character": "花江",
+        "text": "……说起来，那是最后一次了啊。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯……"
+      },
+      {
+        "character": "",
+        "text": "气氛沉重。"
+      },
+      {
+        "character": "",
+        "text": "从刚才的表情来看，不像\n　是个好结局，"
+      },
+      {
+        "character": "",
+        "text": "作为演员的人生，看来不是那么顺风顺水。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "她闭上了嘴，看来是不想继续说下去了。"
+      },
+      {
+        "character": "",
+        "text": "不过，还是能想像出来。"
+      },
+      {
+        "character": "",
+        "text": "在小地方的公演成功了，\n　以此为契机登上了更大的舞台，"
+      },
+      {
+        "character": "",
+        "text": "不少人因此而被埋汰下去。"
+      },
+      {
+        "character": "",
+        "text": "毕竟在这世上，说是看实力\n　但所谓的“实力”很大一部分是要看关系的。"
+      },
+      {
+        "character": "",
+        "text": "不管怎么努力也无可奈何的事情挺多的。"
+      },
+      {
+        "character": "ノワール",
+        "text": "？"
+      },
+      {
+        "character": "",
+        "text": "诺瓦应该是无法理解。\n　所以一脸不可思议地向沉默着的花江小姐看去。"
+      },
+      {
+        "character": "ノワール",
+        "text": "但是，这样啊，花江小姐是王子。"
+      },
+      {
+        "character": "ノワール",
+        "text": "我还挺想看看那样的花江小姐。\n还有和平时温柔的花江小姐不同的，\n凛然的花江小姐。"
+      },
+      {
+        "character": "花江",
+        "text": "嗯……"
+      },
+      {
+        "character": "",
+        "text": "喔。"
+      },
+      {
+        "character": "花江",
+        "text": "温柔？"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯，是的。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "花江小姐一脸惊讶。"
+      },
+      {
+        "character": "",
+        "text": "像是求助一样向我看。"
+      },
+      {
+        "character": "",
+        "text": "我能做到的也只是苦笑以对。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "这、这样啊。"
+      },
+      {
+        "character": "",
+        "text": "花江小姐满脸通红。"
+      },
+      {
+        "character": "",
+        "text": "不过就我这个大人的角度来看……这个人，\n　是不是有点超脱常识的感觉。"
+      },
+      {
+        "character": "",
+        "text": "说到底在这个时代还抽烟\n　单是这个就不会给人太好的印象了。"
+      },
+      {
+        "character": "",
+        "text": "但如果放下这些成见，从诺瓦的角度来看，"
+      },
+      {
+        "character": "",
+        "text": "她是一位会照顾对烟过敏的诺瓦，\n　还能来寻找迷路的自己的，"
+      },
+      {
+        "character": "",
+        "text": "温柔的大姐姐。"
+      },
+      {
+        "character": "花江",
+        "text": "～"
+      },
+      {
+        "character": "",
+        "text": "虽然看来她本人不怎么喜欢被别人这样说。"
+      },
+      {
+        "character": "",
+        "text": "不过这样害羞的花江小姐也挺可爱的，\n　就这样看着花江小姐被捧杀也不错。"
+      },
+      {
+        "character": "花江",
+        "text": "……也没有，你期待也会落空的。"
+      },
+      {
+        "character": "",
+        "text": "说的话都有点走音了，但可算是\n　维持住了自己“对什么都没什么兴趣”的态度。"
+      },
+      {
+        "character": "ノワール",
+        "text": "这样的吗？"
+      },
+      {
+        "character": "ノワール",
+        "text": "广播时的花江小姐能熟练表现出不同的声线，\n所以我就在想王子的声线是怎样的。"
+      },
+      {
+        "character": "ノワール",
+        "text": "我想看看花江小姐演过的各种戏剧。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "哦～哦～害羞了害羞了。"
+      },
+      {
+        "character": "",
+        "text": "正当我这么想的时候。"
+      },
+      {
+        "character": "",
+        "text": "但她的反应，与我所想的不太一样。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "抱歉呢。"
+      },
+      {
+        "character": "ノワール",
+        "text": "哎……？"
+      },
+      {
+        "character": "花江",
+        "text": "我已经放弃演戏了，没法让你看了。"
+      },
+      {
+        "character": "花江",
+        "text": "抱歉呢。抱歉。"
+      },
+      {
+        "character": "",
+        "text": "花江小姐突然变脸，用着颤抖的声音轻语道。"
+      },
+      {
+        "character": "",
+        "text": "听这声音像是快哭出来一样。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦一脸困惑。"
+      },
+      {
+        "character": "",
+        "text": "我也很困惑。没想到会是这样的反应。"
+      },
+      {
+        "character": "花江",
+        "text": "应该……发不出声音了。\n发声练习差不多一年多没做过了，喉咙也被烟酒烧了。"
+      },
+      {
+        "character": "花江",
+        "text": "别说主角了，连站上舞台的机会都……"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "不得善终已经是抬举，\n　简直就是悲剧。"
+      },
+      {
+        "character": "",
+        "text": "虽然我也是那种在工作上受挫过一次的人，"
+      },
+      {
+        "character": "",
+        "text": "她受到的挫折应该是比我受到的更大。"
+      },
+      {
+        "character": "ノワール",
+        "text": "那、那个，对不起。\n我不是那个意思。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "不，没什么的。\n抱歉说了些不合时宜的话。"
+      },
+      {
+        "character": "花江",
+        "text": "虽然没法重新站上舞台了，\n但这里的播报还是留给我位置了的。"
+      },
+      {
+        "character": "花江",
+        "text": "挺中意的吧？"
+      },
+      {
+        "character": "ノワール",
+        "text": "是的，那当然。"
+      },
+      {
+        "character": "花江",
+        "text": "那就好。"
+      },
+      {
+        "character": "花江",
+        "text": "我，已经很满足了。"
+      },
+      {
+        "character": "",
+        "text": "她用着揣摩不出心境的语气说着，撇开了视线。"
+      },
+      {
+        "character": "",
+        "text": "从表情上来看，她并没有得到满足。"
+      },
+      {
+        "character": "",
+        "text": "但也不是说了谎。"
+      },
+      {
+        "character": "",
+        "text": "或许既没有不满也没有说谎吧。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "成为大人后经常会这样。\n　所谓自己的人生这种东西，\n　自己都不知道是否满足。"
+      },
+      {
+        "character": "",
+        "text": "虽说也不是私欲无止境\n　但很难说能得到满足。"
+      },
+      {
+        "character": "",
+        "text": "经常有的事。"
+      },
+      {
+        "character": "",
+        "text": "任谁应该都一样的。"
+      }
+    ]
+  },
+  {
+    "background": "背景_プラネタリウム",
+    "dialogues": [
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "<dash=2>砰。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯咪。"
+      },
+      {
+        "character": "",
+        "text": "花江小姐把手放上诺瓦的头顶。"
+      },
+      {
+        "character": "花江",
+        "text": "……（抚摸）"
+      },
+      {
+        "character": "ノワール",
+        "text": "那、那个。"
+      },
+      {
+        "character": "花江",
+        "text": "让我这样做会儿。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯呜。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……好的。"
+      },
+      {
+        "character": "",
+        "text": "这下轮到诺瓦害羞了。"
+      },
+      {
+        "character": "",
+        "text": "这也挺让人欣慰的，就这样看着吧。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "花江小姐像是想依靠什么似的，开始抚摸着诺瓦的脑袋。"
+      },
+      {
+        "character": "",
+        "text": "摸脑袋。\n　是大人对小孩子所做的事。"
+      },
+      {
+        "character": "",
+        "text": "像这样做，是为了让自己明白\n　自己身为大人吧。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "……我在摸诺瓦脑袋的时候，\n　想了些什么来着？"
+      }
+    ]
+  },
+  {
+    "background": "背景_高原",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "ノワール",
+        "text": "哈呜。"
+      },
+      {
+        "character": "",
+        "text": "过了一会儿，我和诺瓦从里面走了出来。"
+      },
+      {
+        "character": "",
+        "text": "不过花江小姐还留在里面。"
+      },
+      {
+        "character": "",
+        "text": "虽然让她一个人有点危险，\n　或许是因为害羞，她无论如何都想和诺瓦\n　分开一下，实在不好叫她跟着出来。"
+      },
+      {
+        "character": "",
+        "text": "只能说句小心点，"
+      },
+      {
+        "character": "ノワール",
+        "text": "吓我一跳。"
+      },
+      {
+        "character": "",
+        "text": "然后和被抚摸了一顿后变得晕乎乎的诺瓦一起，\n　走了出去。"
+      },
+      {
+        "character": "ノワール",
+        "text": "花江小姐怎么了，突然那样做。"
+      },
+      {
+        "character": "暁",
+        "text": "大人也是有各种各样的事的。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯……唉。"
+      },
+      {
+        "character": "ノワール",
+        "text": "我是不是说了什么不好的话啊。"
+      },
+      {
+        "character": "暁",
+        "text": "没有。\n不如说，她多亏了你，才得到救赎了。"
+      },
+      {
+        "character": "ノワール",
+        "text": "这样的么……那就好。"
+      },
+      {
+        "character": "",
+        "text": "是因为她不知道怎么和人交往么，\n　看来没法读出这氛围中的深意。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦或许是察觉到了自己红彤彤的脸，\n　害羞地用双手包住脸颊。"
+      },
+      {
+        "character": "",
+        "text": "真可爱。"
+      },
+      {
+        "character": "暁",
+        "text": "被摸得很舒服对吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯呜，那个。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "ノワール",
+        "text": "嘿嘿。"
+      },
+      {
+        "character": "",
+        "text": "可算是忍不住了。\n　诺瓦一脸舒适地笑了出来。"
+      },
+      {
+        "character": "",
+        "text": "一脸这种表情……我也有点想摸，"
+      },
+      {
+        "character": "",
+        "text": "但就是有股性骚扰味儿。还是算了。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "ノワール",
+        "text": "花江小姐有点像我的妈妈。"
+      },
+      {
+        "character": "暁",
+        "text": "妈妈？"
+      },
+      {
+        "character": "ノワール",
+        "text": "对的。像妈妈。"
+      },
+      {
+        "character": "ノワール",
+        "text": "我的妈妈也是那样的。\n不怎么说话，也不怎么喜欢与人交流。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……偶尔会觉得，有点害怕。"
+      },
+      {
+        "character": "ノワール",
+        "text": "但她非常温柔。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "之前那个维根主义的妈妈么。"
+      },
+      {
+        "character": "",
+        "text": "她绝对不是什么差劲的家长。"
+      },
+      {
+        "character": "",
+        "text": "她对诺瓦，是倾注了对女儿的爱情的。\n　……就是方向上出现了一些偏差。"
+      },
+      {
+        "character": "",
+        "text": "她是一位深爱女儿的，了不起的母亲。"
+      },
+      {
+        "character": "",
+        "text": "我们俩走着走着，"
+      }
+    ]
+  },
+  {
+    "background": "背景_駅列車_昼",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "咦。"
+      },
+      {
+        "character": "ノワール",
+        "text": "又回来了呢。"
+      },
+      {
+        "character": "暁",
+        "text": "喔……还没人回来啊。"
+      },
+      {
+        "character": "",
+        "text": "我们随便转转，发现回到了车站。"
+      },
+      {
+        "character": "",
+        "text": "大家应该是在探索别的地方吧。"
+      },
+      {
+        "character": "",
+        "text": "离出发还有几小时，\n　跟他们汇合比较好吧。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "我这样想着。"
+      },
+      {
+        "character": "暁",
+        "text": "呼。"
+      },
+      {
+        "character": "",
+        "text": "却靠在了长椅上。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……白先生？"
+      },
+      {
+        "character": "暁",
+        "text": "我先歇歇……"
+      },
+      {
+        "character": "",
+        "text": "说着，我坐了下去。"
+      },
+      {
+        "character": "",
+        "text": "虽然自我感觉还行，\n　但好像刚刚的副作用还有所残留。"
+      },
+      {
+        "character": "",
+        "text": "身体无比沉重。"
+      },
+      {
+        "character": "",
+        "text": "仅仅只是从天象馆走到这里，光是下山，就累得不行。"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_昼",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "呼……"
+      },
+      {
+        "character": "",
+        "text": "身体就……怎么说呢，非常沉重。"
+      },
+      {
+        "character": "",
+        "text": "像是靠近火堆一样的热。又好似被丢进冰窖一般。"
+      },
+      {
+        "character": "",
+        "text": "莫名冒汗，脑袋变得一片空白。"
+      }
+    ]
+  },
+  {
+    "background": "背景_駅列車_昼",
+    "dialogues": [
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "ノワール",
+        "text": "白先生，难不成身体不舒服吗？"
+      },
+      {
+        "character": "暁",
+        "text": "嗯，不是。"
+      },
+      {
+        "character": "ノワール",
+        "text": "说起来没去看演出也是……啊。\n抱、抱歉，我不知道。"
+      },
+      {
+        "character": "",
+        "text": "我身体不舒服是在从展子里出来之后，\n　但她好像搞错了。"
+      },
+      {
+        "character": "",
+        "text": "我一边否认着一边苦笑着摇着头。"
+      },
+      {
+        "character": "",
+        "text": "但可能是因为我笑容太过牵强，\n　导致让她觉得是在意她才笑的，\n　诺瓦皱起了眉头。"
+      },
+      {
+        "character": "",
+        "text": "真是瞒不过去啊。"
+      },
+      {
+        "character": "暁",
+        "text": "我身体真的没问题。\n只是就有点困，想瘫一下。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯……有点困而已么。这样的么。"
+      },
+      {
+        "character": "暁",
+        "text": "毕竟最近让人以为假睡的时候挺多的。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "……嗯？"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_昼",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "总感觉刚刚有什么在意的事情。"
+      },
+      {
+        "character": "",
+        "text": "不过，但是，不行了，好困。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "脑子理不清了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_昼",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "身体渴求着休息。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "拖下去对旅行不好，而且，"
+      },
+      {
+        "character": "",
+        "text": "而且……"
+      },
+      {
+        "character": "ノワール",
+        "text": "那个。"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_昼",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "嗯？"
+      }
+    ]
+  },
+  {
+    "background": "イベント9_a_大",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "呜哦。"
+      },
+      {
+        "character": "",
+        "text": "我被旁边坐着的诺瓦拽着手臂。"
+      },
+      {
+        "character": "",
+        "text": "瘫着的我顺其自然地倒了下去，\n　头埋进了诺瓦的腿间。"
+      },
+      {
+        "character": "ノワール",
+        "text": "请快点休息吧。真的搞坏身体了可不好。"
+      },
+      {
+        "character": "暁",
+        "text": "不，但是。"
+      },
+      {
+        "character": "",
+        "text": "这样你不就动不了了么。"
+      },
+      {
+        "character": "",
+        "text": "虽然我想这么说。\n　但还是被轻轻抚摸额头的手给止住了。"
+      }
+    ]
+  },
+  {
+    "background": "イベント9_b",
+    "dialogues": [
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "ノワール",
+        "text": "以前呢，我没精神的时候，\n妈妈会这样做。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯……"
+      },
+      {
+        "character": "ノワール",
+        "text": "所以我也想为别人这样做。"
+      },
+      {
+        "character": "暁",
+        "text": "……是么。"
+      },
+      {
+        "character": "",
+        "text": "被花江小姐所影响……么。"
+      },
+      {
+        "character": "",
+        "text": "我这边还有点不好意思。\n　就像大人对着小孩撒娇一样。"
+      }
+    ]
+  },
+  {
+    "background": "イベント9_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "但是那啥，看她那样子是想做，"
+      }
+    ]
+  },
+  {
+    "background": "イベント9_b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "还是从了她好了。暂时就这样……"
+      },
+      {
+        "character": "",
+        "text": "……啊。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "刚刚那女孩。"
+      }
+    ]
+  },
+  {
+    "background": "イベント9_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "正确来说，我应该问问\n　诺瓦之前说漏嘴的，有关“真白”那女孩子的情况。"
+      },
+      {
+        "character": "",
+        "text": "虽然知道……不问不行。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "イベント9_b_大",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "好困。"
+      },
+      {
+        "character": "",
+        "text": "意识不清了……"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "喔……"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "ねり",
+        "text": "……"
+      },
+      {
+        "character": "ねり",
+        "text": "……嘻嘻。"
+      }
+    ]
+  },
+  {
+    "background": "背景_自室_昼",
+    "dialogues": [
+      {
+        "character": "ねり",
+        "text": "这不就精神了嘛。"
+      }
+    ]
+  },
+  {
+    "background": "イベント9_b",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "・・・・"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_昼",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・"
+      },
+      {
+        "character": "ノワール",
+        "text": "……那个，白先生。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  }
+]

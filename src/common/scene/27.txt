@@ -1,0 +1,2100 @@
+[
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "诺瓦瘦小的肩膀开始颤抖。"
+      },
+      {
+        "character": "",
+        "text": "因为我说出了她不想听到的话。"
+      },
+      {
+        "character": "真白",
+        "text": "呜……呜。"
+      },
+      {
+        "character": "真白",
+        "text": "不行，不行啊。我不要。"
+      },
+      {
+        "character": "真白",
+        "text": "那些旅途……下次旅途，大家就不在了。"
+      },
+      {
+        "character": "真白",
+        "text": "白先生不都不在了吗……"
+      },
+      {
+        "character": "",
+        "text": "她的眼泪哗啦啦地流了下来。"
+      },
+      {
+        "character": "",
+        "text": "这已经完全变回诺瓦了嘛。小爱哭鬼。"
+      },
+      {
+        "character": "真白",
+        "text": "我讨厌那样。我不想要那样的旅途。"
+      },
+      {
+        "character": "真白",
+        "text": "白先生都不在了……我不要。"
+      },
+      {
+        "character": "真白",
+        "text": "我不能夺走白先生……还有大家的生命。"
+      },
+      {
+        "character": "真白",
+        "text": "去展开新的旅途……"
+      },
+      {
+        "character": "",
+        "text": "她哭泣抽搐着，用嘶哑的声音说道。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "就是说这个吧。"
+      },
+      {
+        "character": "",
+        "text": "以前说过所谓“更加痛苦的事”。"
+      },
+      {
+        "character": "",
+        "text": "小音也说了这是最痛苦的事。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦连夺走素不相识的小音性命都会后悔，"
+      },
+      {
+        "character": "",
+        "text": "现在我们已经相识，让她收下我们的性命"
+      },
+      {
+        "character": "",
+        "text": "只会更加苦恼。"
+      },
+      {
+        "character": "",
+        "text": "她会被加在自己身上的负担\n　压垮的。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "因为还是孩子，她的洁癖让她无法接受。"
+      },
+      {
+        "character": "",
+        "text": "这就是纯真的另一面。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "但是啊。"
+      },
+      {
+        "character": "暁",
+        "text": "我不是刚刚告诉了你克服这些的办法吗。"
+      },
+      {
+        "character": "真白",
+        "text": "哎……"
+      },
+      {
+        "character": "暁",
+        "text": "就是增加添麻烦也没问题的对象。"
+      },
+      {
+        "character": "暁",
+        "text": "朋友之间就是有来有往的。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "正如你珍视大家一样，\n我们大家也同样珍视你。"
+      },
+      {
+        "character": "暁",
+        "text": "我们希望你使用我们的生命。"
+      },
+      {
+        "character": "真白",
+        "text": "呜……"
+      }
+    ]
+  },
+  {
+    "background": "背景_連結部",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "<dash=2>吱呀，吱呀。"
+      },
+      {
+        "character": "",
+        "text": "我听到了外面车轮的声音。"
+      },
+      {
+        "character": "",
+        "text": "火车马上就要停止了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "没时间了。"
+      }
+    ]
+  },
+  {
+    "background": "背景大_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我向前走一步。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "呜，别过来！"
+      },
+      {
+        "character": "",
+        "text": "她慌乱地举起手来。"
+      },
+      {
+        "character": "",
+        "text": "无论如何都要挡路吗。"
+      },
+      {
+        "character": "",
+        "text": "对了。"
+      }
+    ]
+  },
+  {
+    "background": "背景大_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "<dash=2>啪！"
+      },
+      {
+        "character": "真白",
+        "text": "哎。"
+      },
+      {
+        "character": "",
+        "text": "我抓住了她举起来的手。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "呜啊。"
+      },
+      {
+        "character": "",
+        "text": "感到一阵强烈的恶寒。"
+      },
+      {
+        "character": "",
+        "text": "现在明白了。这就是夜羽真白所感到的痛苦。"
+      },
+      {
+        "character": "",
+        "text": "所谓排异反应。"
+      },
+      {
+        "character": "",
+        "text": "并不是她对我做了什么。\n　“我碰到了她”便是发生排异反应的原因。"
+      },
+      {
+        "character": "真白",
+        "text": "白，白先生，请放手。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "但幸运的是，这个反应只在我身上发生。"
+      },
+      {
+        "character": "",
+        "text": "似乎诺瓦自己并不会感到痛苦。"
+      },
+      {
+        "character": "",
+        "text": "那就好。"
+      }
+    ]
+  },
+  {
+    "background": "背景大_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "<dash=2>抱"
+      },
+      {
+        "character": "真白",
+        "text": "啊。"
+      },
+      {
+        "character": "暁",
+        "text": "走吧。"
+      },
+      {
+        "character": "",
+        "text": "我反而紧紧抱起了她。"
+      },
+      {
+        "character": "",
+        "text": "反正只要碰到就仿佛要昏倒一般。\n　那无论贴得多紧都是一样的。"
+      }
+    ]
+  },
+  {
+    "background": "背景_連結部",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我抱起了诺瓦，"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "前往第三车厢。"
+      },
+      {
+        "character": "真白",
+        "text": "那个，白先生。"
+      },
+      {
+        "character": "暁",
+        "text": "诺瓦还是跟以前一样轻。"
+      },
+      {
+        "character": "暁",
+        "text": "不过一直都是吃病号餐也没办法。\n虽然营养均衡但是量太少了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_連結部",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "前往第二车厢。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "诺瓦，等你醒来之后，要去吃好多好吃的喔。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "不管是骗她还好怎样也好，让妈妈给你吃肉吧。\n实在是太好吃了，你会爱上肉食的。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "不过你得先让你的胃习惯起来。"
+      }
+    ]
+  },
+  {
+    "background": "背景_連結部",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "你要多吃点，快点长高长大喔，诺瓦。"
+      },
+      {
+        "character": "真白",
+        "text": "……白先生。"
+      },
+      {
+        "character": "",
+        "text": "<dash=2>吱呀……"
+      },
+      {
+        "character": "",
+        "text": "车轮停了下来……"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "进入了第一车厢。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "三个人和刚才一样，依然没有意识。"
+      },
+      {
+        "character": "",
+        "text": "但是他们都被搬到椅子上躺着，\n　而且盖上了毛毯。"
+      },
+      {
+        "character": "",
+        "text": "这应该是诺瓦盖上的吧。"
+      },
+      {
+        "character": "暁",
+        "text": "嘿咻。"
+      },
+      {
+        "character": "真白",
+        "text": "啊，白先生。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我一个踉跄。\n　已经抱不起诺瓦了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "诺瓦落地站稳。\n　但是她没有来扶我，正在左右为难。"
+      },
+      {
+        "character": "暁",
+        "text": "呼……"
+      },
+      {
+        "character": "",
+        "text": "好了，该怎么办呢。"
+      },
+      {
+        "character": "",
+        "text": "关键在于锅炉室，"
+      },
+      {
+        "character": "",
+        "text": "不过在那之前，"
+      },
+      {
+        "character": "暁",
+        "text": "鹰世，鹰世快起来。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "我摇了摇一脸痛苦按住自己喉咙失去意识的鹰世。"
+      },
+      {
+        "character": "暁",
+        "text": "现在需要男人的力气。还有火车的知识。"
+      },
+      {
+        "character": "暁",
+        "text": "给我起来！"
+      },
+      {
+        "character": "",
+        "text": "我用力摇了摇他的肩膀。"
+      },
+      {
+        "character": "",
+        "text": "失去意识了？"
+      },
+      {
+        "character": "",
+        "text": "不可能啊。"
+      },
+      {
+        "character": "",
+        "text": "我们所有人，都希望诺瓦活下去。"
+      },
+      {
+        "character": "",
+        "text": "我们所有人，"
+      },
+      {
+        "character": "",
+        "text": "都还没到达终点。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "我们来启动火车吧。"
+      },
+      {
+        "character": "暁",
+        "text": "我们得让诺瓦活下去！"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_夜",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "快他妈起来啊啊啊啊啊啊！！"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "哈、哈。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "タカセ",
+        "text": "那还真是<dash=2>。"
+      },
+      {
+        "character": "タカセ",
+        "text": "浪漫啊。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "看来必须帮忙才行了。"
+      },
+      {
+        "character": "花江",
+        "text": "别大喊大叫啊，真是的。"
+      },
+      {
+        "character": "",
+        "text": "三个人睁开眼。"
+      },
+      {
+        "character": "",
+        "text": "理所当然。"
+      },
+      {
+        "character": "",
+        "text": "如果诺瓦醒着的话，那么我，还有这些人也醒着。"
+      },
+      {
+        "character": "",
+        "text": "因为大家是一同活着的。"
+      },
+      {
+        "character": "暁",
+        "text": "火车的心脏现在应该是停止的。\n鹰世，你对锅炉很熟悉吧。"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_閉",
+    "dialogues": [
+      {
+        "character": "タカセ",
+        "text": "纸上谈兵还是会的。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……无论看多少次都是那么美。"
+      },
+      {
+        "character": "暁",
+        "text": "别看入迷了。嗯……该拿它怎么办？"
+      },
+      {
+        "character": "",
+        "text": "无论看多少次，我都完全搞不懂锅炉室的设备，"
+      },
+      {
+        "character": "花江",
+        "text": "看起来好像……熄火了。"
+      },
+      {
+        "character": "暁",
+        "text": "你看得懂？"
+      },
+      {
+        "character": "花江",
+        "text": "这里有仪表。"
+      },
+      {
+        "character": "",
+        "text": "她目光敏锐，先找到了。"
+      }
+    ]
+  },
+  {
+    "background": "背景大_ボイラー室_閉",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "锅炉上的仪表指针向左倾斜着。"
+      },
+      {
+        "character": "",
+        "text": "虽然不知道指针指向哪里才正确，\n　但是看得出来它正在０的附近抖动。"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_閉",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "也就是说啊，给它塞一堆煤炭，\n让它再次点火就行了吧。"
+      },
+      {
+        "character": "花江",
+        "text": "大概。"
+      },
+      {
+        "character": "暁",
+        "text": "是这样吗，鹰世。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "タカセ",
+        "text": "不知道。"
+      },
+      {
+        "character": "暁",
+        "text": "……拜托你了啊铁道宅。"
+      },
+      {
+        "character": "タカセ",
+        "text": "正因为没有实际摸过，才会怀抱憧憬喔。"
+      },
+      {
+        "character": "",
+        "text": "这里是火车的心脏部分。"
+      },
+      {
+        "character": "",
+        "text": "我知道这东西停止了会很麻烦，\n　但是不知道要怎样让它动起来。"
+      },
+      {
+        "character": "",
+        "text": "真是的，偏偏这时候乘务员还不在。"
+      },
+      {
+        "character": "",
+        "text": "不对，那家伙也不知道该怎么启动它吧。"
+      },
+      {
+        "character": "真白",
+        "text": "那、那个。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "？　怎么了，诺瓦。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……你是诺瓦吧？　去染发了？"
+      },
+      {
+        "character": "真白",
+        "text": "那个，这是有原因的。"
+      },
+      {
+        "character": "真白",
+        "text": "我，我可以在这里吧。\n就是……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "嗯，不过也不知道我们能否有所作为就是了。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "一起过来看看吧。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "这也是旅途中一段有趣的回忆呀。"
+      },
+      {
+        "character": "真白",
+        "text": "嗯……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "诺瓦，我说啊。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "身体脆弱确实是很不幸的事。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "不能想出门就出门，\n还得天天吃一堆药。\n即使如此晚上也经常会痛苦不堪。"
+      },
+      {
+        "character": "真白",
+        "text": "野鸟小姐……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "但是啊。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "身体不幸，不代表人生也必须不幸。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "我保证。\n就算身体脆弱，也能留下很多快乐的回忆。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "只要你自己想留下快乐的回忆。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "……我自己吗。"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_閉",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "煤炭怎么样了？放了多少进去。"
+      },
+      {
+        "character": "タカセ",
+        "text": "嗯，重量仪表的，我看看。"
+      },
+      {
+        "character": "ねり",
+        "text": "燃料已经够了，没问题。"
+      },
+      {
+        "character": "暁",
+        "text": "小音。"
+      },
+      {
+        "character": "ねり",
+        "text": "交给我吧，音理我可是行家。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯……毕竟这里原本是属于你的。"
+      },
+      {
+        "character": "",
+        "text": "宅男靠不住，\n　还好了解情况的人来了。"
+      },
+      {
+        "character": "ねり",
+        "text": "简单来说……就是想办法让这奄奄一息的火，\n再次变得能够驱动火车那么大就行了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "打开锅炉的入口。"
+      },
+      {
+        "character": "",
+        "text": "令人窒息的热风吹过同时，我看了看漆黑一片的内部。"
+      },
+      {
+        "character": "",
+        "text": "煤炭……有很多，但都是黑色的。"
+      },
+      {
+        "character": "",
+        "text": "并没有烧成红色。"
+      },
+      {
+        "character": "",
+        "text": "得把它们点着才行……"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_閉",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "<dash=2>啪嚓。"
+      },
+      {
+        "character": "",
+        "text": "这东西可以吗？花江小姐点燃火机，一脸疑问。"
+      },
+      {
+        "character": "タカセ",
+        "text": "这种就算来一百个也不够。"
+      },
+      {
+        "character": "花江",
+        "text": "真难啊。"
+      },
+      {
+        "character": "暁",
+        "text": "先点燃其他东西提升火力就好了。\n没有什么能用的吗。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "毛毯？"
+      },
+      {
+        "character": "タカセ",
+        "text": "这还不够。"
+      },
+      {
+        "character": "花江",
+        "text": "要不把椅子弄坏点着吧。"
+      },
+      {
+        "character": "暁",
+        "text": "还是避免损坏车身吧。\n可能会引起别的问题。"
+      },
+      {
+        "character": "タカセ",
+        "text": "车厢后装了不少柴火……但是。"
+      },
+      {
+        "character": "暁",
+        "text": "那些太大块了。"
+      },
+      {
+        "character": "",
+        "text": "为了尽量避免热量损失，锅炉的入口设计得很小。\n　车厢后装的是劈开之前的柴火，\n　大小不合适。"
+      },
+      {
+        "character": "",
+        "text": "还有其他的吗……"
+      },
+      {
+        "character": "真白",
+        "text": "我、我说。"
+      },
+      {
+        "character": "暁",
+        "text": "怎么？"
+      },
+      {
+        "character": "",
+        "text": "诺瓦战战兢兢地举起了手。"
+      },
+      {
+        "character": "",
+        "text": "……她也想要帮忙了啊。"
+      },
+      {
+        "character": "真白",
+        "text": "烧烤时用的篮子……在那边。"
+      },
+      {
+        "character": "",
+        "text": "她指了指角落。"
+      },
+      {
+        "character": "",
+        "text": "我们烧烤时用的马口铁篮子确实在那边，"
+      },
+      {
+        "character": "暁",
+        "text": "木炭！"
+      },
+      {
+        "character": "",
+        "text": "以及尺寸娇小，适于点燃煤炭的点火药。"
+      },
+      {
+        "character": "暁",
+        "text": "这个可以。诺瓦，做得好。"
+      },
+      {
+        "character": "真白",
+        "text": "我，我说，那个。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "这样就好了。"
+      },
+      {
+        "character": "真白",
+        "text": "哎……？"
+      },
+      {
+        "character": "暁",
+        "text": "有什么话都说来听听，这很重要。不然一切都无从开始。"
+      },
+      {
+        "character": "暁",
+        "text": "特别是在伙伴们一起享受旅行的时候。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "好。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦发现自己完全被拉入“争取生存的一方”了吧。\n　所以心情变得复杂了起来。"
+      },
+      {
+        "character": "",
+        "text": "但事也不过如此。"
+      },
+      {
+        "character": "",
+        "text": "我们全员都想让她活下去的那一刻，"
+      },
+      {
+        "character": "",
+        "text": "她就已经被拉入伙了。"
+      },
+      {
+        "character": "",
+        "text": "人与人之间就是这样。"
+      },
+      {
+        "character": "",
+        "text": "活着就是这么一回事。"
+      },
+      {
+        "character": "ねり",
+        "text": "开始点火了喔<dash=2>。"
+      },
+      {
+        "character": "花江",
+        "text": "来了。"
+      },
+      {
+        "character": "",
+        "text": "小音拿出写生本，撕下后面的纸张，\n　铺到篮子的底部。"
+      },
+      {
+        "character": "",
+        "text": "花江小姐也拿出了香烟。"
+      },
+      {
+        "character": "",
+        "text": "她点燃香烟，扔进篮子里。"
+      },
+      {
+        "character": "",
+        "text": "篮子和木炭逐渐开始冒烟了。"
+      },
+      {
+        "character": "",
+        "text": "火焰跳动了起来。"
+      },
+      {
+        "character": "タカセ",
+        "text": "这边的准备……也完成了。"
+      },
+      {
+        "character": "",
+        "text": "鹰世用搅拌棍翻弄锅炉内部，\n　让煤炭形成容易点火的形状。"
+      },
+      {
+        "character": "",
+        "text": "把煤炭摆成拱桥的形状之后，"
+      },
+      {
+        "character": "ジビエ",
+        "text": "好了，请。"
+      },
+      {
+        "character": "タカセ",
+        "text": "多谢。"
+      },
+      {
+        "character": "",
+        "text": "我们把毛毯也当成火种。放进锅炉里面。"
+      },
+      {
+        "character": "",
+        "text": "就差把着火的木炭放上去了。"
+      },
+      {
+        "character": "ねり",
+        "text": "好像已经可以了喔。"
+      },
+      {
+        "character": "",
+        "text": "负责篮子的成员说道。\n　木炭的中央，看起来像是红色的灯。"
+      },
+      {
+        "character": "",
+        "text": "好了，"
+      },
+      {
+        "character": "",
+        "text": "就差把这个放进去了。"
+      },
+      {
+        "character": "",
+        "text": "这样就能给火车的心脏点火了……"
+      },
+      {
+        "character": "暁",
+        "text": "诺瓦。"
+      },
+      {
+        "character": "真白",
+        "text": "哎……"
+      },
+      {
+        "character": "暁",
+        "text": "一起来吧。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "好。"
+      }
+    ]
+  },
+  {
+    "background": "イベント19_a_大",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我们抓住铁钳。"
+      },
+      {
+        "character": "",
+        "text": "夹起木炭，"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "放到锅炉里的毛毯上。"
+      }
+    ]
+  },
+  {
+    "background": "イベント19_a_大",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "不会烫手吧？"
+      },
+      {
+        "character": "真白",
+        "text": "没事的。"
+      },
+      {
+        "character": "",
+        "text": "虽然我一个人也能做到，但这件事不应该由我来做。"
+      }
+    ]
+  },
+  {
+    "background": "イベント19_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "诺瓦亲自来做才有意义。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "已经不怕火了吗？"
+      },
+      {
+        "character": "真白",
+        "text": "嗯……"
+      },
+      {
+        "character": "真白",
+        "text": "还是有点怕。"
+      },
+      {
+        "character": "暁",
+        "text": "是啊。用火的时候，害怕的心情很关键。"
+      },
+      {
+        "character": "暁",
+        "text": "即使害怕也要使用，这更加重要。"
+      },
+      {
+        "character": "暁",
+        "text": "这证明你即使害怕也不逃避。"
+      },
+      {
+        "character": "真白",
+        "text": "……好。"
+      }
+    ]
+  },
+  {
+    "background": "背景大_ボイラー室_開",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "火焰在毛毯上蔓延，锅炉内变得红了起来。"
+      },
+      {
+        "character": "",
+        "text": "毛毯本身很快就烧完了。"
+      },
+      {
+        "character": "",
+        "text": "不过显然，锅炉中原本的黑色，被覆盖上了淡淡的红色。"
+      },
+      {
+        "character": "",
+        "text": "火车心脏重新点火了。"
+      }
+    ]
+  },
+  {
+    "background": "背景_ボイラー室_開",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……呼。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦寂寞而又略显安心地叹了口气。"
+      },
+      {
+        "character": "",
+        "text": "她在想什么呢。"
+      },
+      {
+        "character": "",
+        "text": "不过我能说的也就一句话了。"
+      },
+      {
+        "character": "暁",
+        "text": "这样一来<dash=2>。"
+      },
+      {
+        "character": "真白",
+        "text": "嗯……"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "下次你就能主持烧烤活动了。"
+      },
+      {
+        "character": "真白",
+        "text": "白先生……"
+      },
+      {
+        "character": "",
+        "text": "诺瓦复杂的表情稍微缓和。"
+      },
+      {
+        "character": "",
+        "text": "只是这样就够了。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦她以自己意志点了火，\n　我已经没有什么能为她做的了。"
+      },
+      {
+        "character": "真白",
+        "text": "……好。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "下次我也会试着邀请妈妈。"
+      },
+      {
+        "character": "真白",
+        "text": "虽然肯定会被骂的。"
+      },
+      {
+        "character": "暁",
+        "text": "是呢。"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_夜",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "终于，火焰在整个锅炉内跳动，"
+      },
+      {
+        "character": "",
+        "text": "火车的动力机关再次充满蒸汽，"
+      },
+      {
+        "character": "",
+        "text": "车轮逐渐开始再次转动。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "感觉到火车开动的我们回到了这边。"
+      },
+      {
+        "character": "",
+        "text": "应该暂时不会停下来了。"
+      },
+      {
+        "character": "",
+        "text": "终点还很遥远。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "没错。"
+      },
+      {
+        "character": "",
+        "text": "夜羽真白的终点或许还很遥远。"
+      },
+      {
+        "character": "",
+        "text": "不同于我们。"
+      },
+      {
+        "character": "黒猫",
+        "text": "喵。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯……"
+      },
+      {
+        "character": "ねり",
+        "text": "啊哈，诺瓦你在这啊，好久不见。"
+      },
+      {
+        "character": "",
+        "text": "话说回来，我带来的家伙也在喵喵叫。"
+      },
+      {
+        "character": "",
+        "text": "那只黑猫……"
+      },
+      {
+        "character": "",
+        "text": "犹如要引领我们一般，缓缓走来。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "我们当然知道这是什么意思。"
+      },
+      {
+        "character": "ねり大",
+        "text": "……"
+      },
+      {
+        "character": "ねり",
+        "text": "好啦。"
+      },
+      {
+        "character": "",
+        "text": "小音第一个动身。"
+      },
+      {
+        "character": "",
+        "text": "她走向人类的诺瓦。"
+      },
+      {
+        "character": "ねり",
+        "text": "那个，夜羽真白。"
+      },
+      {
+        "character": "真白",
+        "text": "是、是的，那个。"
+      },
+      {
+        "character": "ねり",
+        "text": "啊，认识我吗。我是风又音理。初次见面。"
+      },
+      {
+        "character": "真白",
+        "text": "初、初次见面。真是多亏您了，\n把这么重要的东西让给了我。"
+      },
+      {
+        "character": "ねり",
+        "text": "没事，反正我拿着也没用，你别在意。"
+      },
+      {
+        "character": "",
+        "text": "语气非常轻松。"
+      },
+      {
+        "character": "ねり",
+        "text": "话说回来啊，你的名字是诺瓦吧。"
+      },
+      {
+        "character": "ねり",
+        "text": "那是怎么回事？"
+      },
+      {
+        "character": "真白",
+        "text": "哎，是，是怎么回事呢。\n只要碰到那只猫，我就会变成诺瓦……"
+      },
+      {
+        "character": "ねり",
+        "text": "这就是时尚吧！"
+      },
+      {
+        "character": "真白",
+        "text": "什么？"
+      },
+      {
+        "character": "ねり",
+        "text": "这就是时尚对吧，\n诺瓦真是个好名字啊。\n可以体现取名人的品味，嗯嗯。"
+      },
+      {
+        "character": "ねり",
+        "text": "听到了吗哥哥！？　音理我可是很时尚的！"
+      },
+      {
+        "character": "暁",
+        "text": "是是是。"
+      },
+      {
+        "character": "",
+        "text": "她真是无论什么时候都我行我素。"
+      },
+      {
+        "character": "ねり",
+        "text": "嗯，好，虽然对你不是很了解，\n但你肯定和我一样有品味。"
+      },
+      {
+        "character": "ねり",
+        "text": "既然如此，我的心脏给你也可以。\n接下来也请保持品味地使用它。"
+      },
+      {
+        "character": "真白",
+        "text": "喔、喔喔。……怎么保持？"
+      },
+      {
+        "character": "ねり",
+        "text": "嗯嗯，这样我就满足了。"
+      },
+      {
+        "character": "ねり",
+        "text": "走吧，诺瓦。"
+      },
+      {
+        "character": "黒猫",
+        "text": "咪。"
+      },
+      {
+        "character": "",
+        "text": "小音走到猫诺瓦的身边。"
+      },
+      {
+        "character": "",
+        "text": "然后突然消失了，仿佛从一开始就只是幻觉一般。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "啊……"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "没错。"
+      },
+      {
+        "character": "",
+        "text": "时候已到。"
+      },
+      {
+        "character": "",
+        "text": "火车已开动。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦已没有必要停滞不前了。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "タカセ",
+        "text": "那我也就此别过。"
+      },
+      {
+        "character": "真白",
+        "text": "鹰世先生。"
+      },
+      {
+        "character": "タカセ",
+        "text": "那个……诺瓦小姐。\n还是说我应该称呼你为夜羽小姐呢。"
+      },
+      {
+        "character": "真白",
+        "text": "这个嘛，随你喜欢。"
+      },
+      {
+        "character": "タカセ",
+        "text": "那就诺瓦小姐吧。"
+      },
+      {
+        "character": "タカセ",
+        "text": "非常感谢你。"
+      },
+      {
+        "character": "真白",
+        "text": "哎……这，应该是我向你道谢才对。"
+      },
+      {
+        "character": "タカセ",
+        "text": "不，哪里的话。"
+      },
+      {
+        "character": "タカセ",
+        "text": "也许所有人之中，\n最享受这段旅途的就是我了。"
+      },
+      {
+        "character": "タカセ",
+        "text": "蒸汽机车果然很棒。原本穷我一生也无法实现的梦想，就这么实现了"
+      },
+      {
+        "character": "タカセ",
+        "text": "……接住将要摔倒的孩子，\n这样细微的梦想也实现了。"
+      },
+      {
+        "character": "タカセ",
+        "text": "长大成人后，不知何时我放弃了这些梦想。\n已经忘记的事，在这里回想了起来。"
+      },
+      {
+        "character": "",
+        "text": "他摸着脖子说道。"
+      },
+      {
+        "character": "タカセ",
+        "text": "对了，蒸汽机车当然是很棒的。"
+      },
+      {
+        "character": "タカセ",
+        "text": "你还说过，没见过大海吧。"
+      },
+      {
+        "character": "真白",
+        "text": "对。在现实中一次都没见过。"
+      },
+      {
+        "character": "タカセ",
+        "text": "我推荐你去小笠原群岛父岛的Kopepe海滩。\n那是个好地方。"
+      },
+      {
+        "character": "タカセ",
+        "text": "就是阳光有点猛烈，记得准备好防晒措施。"
+      },
+      {
+        "character": "真白",
+        "text": "好的。"
+      },
+      {
+        "character": "タカセ",
+        "text": "那么，再见了。"
+      },
+      {
+        "character": "",
+        "text": "鹰世第二个走去黑猫身旁。"
+      },
+      {
+        "character": "",
+        "text": "然后身影忽然间消失了。"
+      },
+      {
+        "character": "",
+        "text": "这家伙连告别都这么潇洒。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "也许是切实地感受到了别离吧。\n　诺瓦的表情开始变得黯然。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "哎呀别一幅这个表情嘛。（抱紧～）"
+      },
+      {
+        "character": "真白",
+        "text": "啊哇。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "嘿嘿嘿，蹭蹭脸～"
+      },
+      {
+        "character": "ジビエ",
+        "text": "我本想最后一个走的，可感觉你又要哭成泪人，\n所以我下一个就走吧。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "我也想要……对你道谢。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "诺瓦，谢啦。\n能再见到那片森林，感受那空气真是太好了。"
+      },
+      {
+        "character": "真白",
+        "text": "野鸟小姐……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "嘿。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "诺瓦，要去吃好多好吃的喔。\n那可是人生乐趣的要点之一。"
+      },
+      {
+        "character": "真白",
+        "text": "好……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "说什么都得推荐你吃野味料理。\n那是接近野生的肉料理。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "等你长大了请再吃一次。\n虽然并不是那么美味。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "但是能真切感受到“吃”这件事。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "活着这件事，十分，美好。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "首先要习惯普通的肉。\n不要挑食，这很重要喔。"
+      },
+      {
+        "character": "真白",
+        "text": "……野鸟小姐……"
+      },
+      {
+        "character": "",
+        "text": "诺瓦逐渐无法抑制自己的悲伤，双眼湿润。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "哎呀，你不要哭嘛。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "直到最后都要笑着，知道吗，直到最后……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "那个……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "呜呜呜呜呜～……"
+      },
+      {
+        "character": "",
+        "text": "结果她也开始哭了。"
+      },
+      {
+        "character": "",
+        "text": "她抱紧诺瓦，利用身高差不让诺瓦看到自己的脸。\n　以为至少好歹能遮住自己的哭脸。"
+      },
+      {
+        "character": "真白",
+        "text": "嗯呜，嗯嗯，呜呜呜。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "不要哭，好嘛，笑一笑，好嘛。"
+      },
+      {
+        "character": "",
+        "text": "她抱紧了把脸贴在她胸口的诺瓦，"
+      },
+      {
+        "character": "",
+        "text": "粗暴地擦掉了她的眼泪。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "呜哈。"
+      },
+      {
+        "character": "",
+        "text": "她没有擦掉自己的眼泪，也许是放弃了吧，"
+      },
+      {
+        "character": "",
+        "text": "泪眼婆娑地摆出了副笑脸。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "大海当然很好……但也请你来一趟瑞典喔。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "这里有非常美丽的森林。\n没事的，不会有妖怪出现的，大概吧。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "你暂时应该来不了吧。等长大成人，\n身体变得健壮了再来吧。"
+      },
+      {
+        "character": "真白",
+        "text": "好……一定。"
+      },
+      {
+        "character": "真白",
+        "text": "我一定……会去的。去瑞典，\n尝尝那里的肉料理。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "OK。"
+      },
+      {
+        "character": "",
+        "text": "最后她轻柔地吻了诺瓦的额头。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "拜拜，诺瓦，真是愉快的旅途。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "祝愿你接下来的旅途，也同样精彩。"
+      },
+      {
+        "character": "",
+        "text": "她勉强自己笑着消失。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦已经无法忍受了吧，"
+      },
+      {
+        "character": "",
+        "text": "她频繁用衣服下摆擦掉不断流下的泪珠。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "呼<dash=2>。"
+      },
+      {
+        "character": "花江",
+        "text": "我有点……被你们感染了。\n我也尽快结束吧。"
+      },
+      {
+        "character": "",
+        "text": "花江小姐站了起来。"
+      },
+      {
+        "character": "",
+        "text": "她的眼角湿润了。\n　这应该是……大哭一场的前兆吧。"
+      },
+      {
+        "character": "花江",
+        "text": "我说啊。"
+      },
+      {
+        "character": "真白",
+        "text": "花江小姐……"
+      },
+      {
+        "character": "花江",
+        "text": "哈哈，这种时候我也不知道该说啥。"
+      },
+      {
+        "character": "花江",
+        "text": "就是，那个，好像我身体的一部分会给你，\n但是别染上我的坏习惯喔。\n抽烟什么的还是别学比较好。"
+      },
+      {
+        "character": "真白",
+        "text": "这个……好的。"
+      },
+      {
+        "character": "花江",
+        "text": "话说回来你对香烟过敏呢。那看来根本不用担心吧。"
+      },
+      {
+        "character": "真白",
+        "text": "是……"
+      },
+      {
+        "character": "真白",
+        "text": "但是……等我长大之后也想试着抽一根呢。\n也许能变得像花江小姐那样帅气。"
+      },
+      {
+        "character": "花江",
+        "text": "还是别了吧。真是的。"
+      },
+      {
+        "character": "",
+        "text": "花江小姐耸了耸肩。"
+      },
+      {
+        "character": "",
+        "text": "她应该挺讨厌泪汪汪的场面吧。故意淡然说道，"
+      },
+      {
+        "character": "花江",
+        "text": "什么小笠原群岛啦瑞典啦，\n他们尽给你推荐一些高难度的地方。"
+      },
+      {
+        "character": "花江",
+        "text": "还是先从函馆开始吧。因为很容易就能到达。"
+      },
+      {
+        "character": "花江",
+        "text": "虽然登上山顶是有点累。"
+      },
+      {
+        "character": "真白",
+        "text": "我会加油的。\n一定要去那个天象馆看看。"
+      },
+      {
+        "character": "花江",
+        "text": "别勉强自己喔。"
+      },
+      {
+        "character": "真白",
+        "text": "还有……花江小姐的话剧。\n我会去找录像的。"
+      },
+      {
+        "character": "花江",
+        "text": "嗯，你能找到的话我会很高兴。"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "To be, or not to be。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "没有什么可迷惘的。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "再见了，诺瓦。"
+      },
+      {
+        "character": "",
+        "text": "最后大咧咧地背过身去。很有她的特色。"
+      },
+      {
+        "character": "",
+        "text": "向着黑猫的方向，一步，两步，"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "目送她的诺瓦，拼命忍住眼泪，"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "诺瓦。"
+      }
+    ]
+  },
+  {
+    "background": "背景_列車内",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "啊……"
+      },
+      {
+        "character": "",
+        "text": "<dash=2>抱紧。"
+      },
+      {
+        "character": "",
+        "text": "但是她在中途再次掉头，抱紧了诺瓦。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦因为突如其来的动作吓了一跳。"
+      },
+      {
+        "character": "花江",
+        "text": "哈哈，抱歉啦。"
+      },
+      {
+        "character": "花江",
+        "text": "珍妮弗总是这样抱着你。\n其实我挺羡慕的。"
+      },
+      {
+        "character": "花江",
+        "text": "早就想这样了。"
+      },
+      {
+        "character": "真白",
+        "text": "花江……小姐……"
+      },
+      {
+        "character": "",
+        "text": "她的眼眸，结果还是流下了大滴大滴的泪珠。"
+      },
+      {
+        "character": "",
+        "text": "两人在这段时间里，抱得很紧，很紧，"
+      },
+      {
+        "character": "花江",
+        "text": "呼。"
+      },
+      {
+        "character": "",
+        "text": "然后终于松开。"
+      },
+      {
+        "character": "",
+        "text": "看着诺瓦哭得一塌糊涂的脸，"
+      },
+      {
+        "character": "花江",
+        "text": "好啦，别哭啦。"
+      },
+      {
+        "character": "花江",
+        "text": "未来更加重要。"
+      },
+      {
+        "character": "",
+        "text": "她擦掉诺瓦的眼泪，再次转过身。"
+      },
+      {
+        "character": "花江",
+        "text": "拜拜啦，诺瓦。"
+      },
+      {
+        "character": "花江",
+        "text": "我们永远在一起。"
+      },
+      {
+        "character": "真白",
+        "text": "啊……"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "是的……永远在一起。"
+      },
+      {
+        "character": "",
+        "text": "又走了一个。"
+      },
+      {
+        "character": "黒猫",
+        "text": "咪。"
+      },
+      {
+        "character": "",
+        "text": "然后，剩下的只有我了。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "好了，该怎样呢。"
+      },
+      {
+        "character": "",
+        "text": "好话全被他们说完了。"
+      },
+      {
+        "character": "",
+        "text": "这可是最终局面，我也想说点帅气的话啊。"
+      }
+    ]
+  },
+  {
+    "background": "背景大_列車内",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "白先生……"
+      },
+      {
+        "character": "暁",
+        "text": "嗯。"
+      },
+      {
+        "character": "",
+        "text": "倒也不必逞强就是了。"
+      },
+      {
+        "character": "暁",
+        "text": "花江小姐……身为女人，真划算。"
+      },
+      {
+        "character": "真白",
+        "text": "哎……？"
+      },
+      {
+        "character": "暁",
+        "text": "她抱你不需要理由。"
+      },
+      {
+        "character": "暁",
+        "text": "可我是男人。"
+      }
+    ]
+  },
+  {
+    "background": "イベント18_b",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "不成为最后一个人的话，根本不能这么做。"
+      },
+      {
+        "character": "真白",
+        "text": "啊……"
+      },
+      {
+        "character": "",
+        "text": "犹如曾经做过的那样，我抱紧了她。"
+      },
+      {
+        "character": "",
+        "text": "说起来，之前只要碰到她就会产生那讨厌的感觉。"
+      }
+    ]
+  },
+  {
+    "background": "イベント18_b_大",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "野鸟小姐和花江小姐都没有发觉，\n　果然已经不会再发生了。"
+      },
+      {
+        "character": "",
+        "text": "再也没有排异反应了。"
+      },
+      {
+        "character": "",
+        "text": "夜羽真白已经不再排斥我们了。"
+      },
+      {
+        "character": "",
+        "text": "这才是真正意味着旅途的终结。"
+      },
+      {
+        "character": "暁",
+        "text": "虽然大家都这么说过，\n不过真开心啊，诺瓦。这是一段愉快的旅途。"
+      },
+      {
+        "character": "真白",
+        "text": "不……我才应该感谢你。"
+      },
+      {
+        "character": "暁",
+        "text": "能够见到你真好。"
+      }
+    ]
+  }
+]

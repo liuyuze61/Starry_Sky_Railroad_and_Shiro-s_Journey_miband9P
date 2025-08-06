@@ -1,0 +1,2223 @@
+[
+  {
+    "background": "イベント5_a_大",
+    "dialogues": [
+      {
+        "character": "ジビエ",
+        "text": "嘎卟。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "嗯～♪"
+      },
+      {
+        "character": "",
+        "text": "有人直奔烤肉，"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_a_大",
+    "dialogues": [
+      {
+        "character": "花江",
+        "text": "洋葱的辣味还没烤褪吗。"
+      },
+      {
+        "character": "暁",
+        "text": "是啊。好像还要一会。"
+      },
+      {
+        "character": "花江",
+        "text": "饭不从蔬菜吃起是要变胖的……"
+      },
+      {
+        "character": "",
+        "text": "也有保持理性的人。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_a_大",
+    "dialogues": [
+      {
+        "character": "タカセ",
+        "text": "吧唧吧唧。"
+      },
+      {
+        "character": "タカセ",
+        "text": "狩叶小姐，这边已经清空了。"
+      },
+      {
+        "character": "カルハ",
+        "text": "谢谢。"
+      },
+      {
+        "character": "",
+        "text": "有人一边吃着一边整理着网，\n　巧妙地帮助加快料理的速度，"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_a",
+    "dialogues": [
+      {
+        "character": "カルハ",
+        "text": "好好好好，摆放完美。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b_大",
+    "dialogues": [
+      {
+        "character": "カルハ",
+        "text": "那么，我也开吃吧。哈姆。"
+      },
+      {
+        "character": "カルハ",
+        "text": "……"
+      },
+      {
+        "character": "カルハ",
+        "text": "还有点生呢。\n算了。咬咬。"
+      },
+      {
+        "character": "暁",
+        "text": "你果然吃了生肉啊。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "也这种精神十足的家伙。"
+      },
+      {
+        "character": "",
+        "text": "然后……"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b_大",
+    "dialogues": [
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "这边已经差不多了。尝尝看吧，诺瓦。"
+      },
+      {
+        "character": "ノワール",
+        "text": "好、好的。\n那个……"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "就这样站着吃啊。"
+      },
+      {
+        "character": "暁",
+        "text": "你是第一次参与这种家常的餐宴吗？"
+      },
+      {
+        "character": "ノワール",
+        "text": "……呜呜。"
+      },
+      {
+        "character": "",
+        "text": "还有这种不仅仅是吃肉，\n　甚至其他事物都是头次体验的紧张的小孩子。"
+      },
+      {
+        "character": "暁",
+        "text": "诺瓦直接吃烤串不太合适。\n吃这个好了。"
+      },
+      {
+        "character": "",
+        "text": "我将烤好的一块牛小排放到诺瓦的盘子上。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "诺瓦眨了眨她那大大的眼睛，\n　慢慢把脸靠了过来。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗅嗅。"
+      },
+      {
+        "character": "",
+        "text": "闻了闻气味。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b_大",
+    "dialogues": [
+      {
+        "character": "ジビエ",
+        "text": "怎么样？"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "ノワール",
+        "text": "味道很香。"
+      },
+      {
+        "character": "花江",
+        "text": "尝尝看吧。"
+      },
+      {
+        "character": "",
+        "text": "她战战兢兢地用筷子夹起来。"
+      },
+      {
+        "character": "ノワール",
+        "text": "呼<dash=2>、呼<dash=2>。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "ノワール",
+        "text": "呼<dash=2>、呼<dash=2>。"
+      },
+      {
+        "character": "",
+        "text": "说起来这家伙是猫舌啊。"
+      },
+      {
+        "character": "",
+        "text": "好像稍微乱了步骤……"
+      },
+      {
+        "character": "ノワール",
+        "text": "哈姆。"
+      },
+      {
+        "character": "",
+        "text": "吃掉了。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b",
+    "dialogues": [
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "我呆呆站在原地等待着她的反应。"
+      },
+      {
+        "character": "",
+        "text": "就好像看自家小孩第一次站立的家长一样。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦把没怎么吃过的肉放进樱桃小口，\n　反复咀嚼着。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b_大",
+    "dialogues": [
+      {
+        "character": "ノワール",
+        "text": "嗯咕。"
+      },
+      {
+        "character": "",
+        "text": "咽下去了。"
+      },
+      {
+        "character": "暁",
+        "text": "怎么样？"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "ノワール",
+        "text": "很好吃。"
+      },
+      {
+        "character": "",
+        "text": "她的语气中疑惑和新鲜参半。"
+      },
+      {
+        "character": "",
+        "text": "毕竟吃了不太熟悉的事物，\n　可以理解。"
+      },
+      {
+        "character": "",
+        "text": "情况看起来还不错。"
+      },
+      {
+        "character": "",
+        "text": "自己的食谱还是要由自己决定。"
+      },
+      {
+        "character": "暁",
+        "text": "肉也分很多的种类。\n哪个都尝尝去吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "好。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "我会把烤好的东西夹给你的……嗯？"
+      },
+      {
+        "character": "",
+        "text": "说起来，从刚才开始就觉得肉很少啊。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b_大",
+    "dialogues": [
+      {
+        "character": "カルハ",
+        "text": "哈呼哈呼吧唧吧唧。\n好吃好吃。肉真好吃"
+      },
+      {
+        "character": "カルハ",
+        "text": "这个烤好了吗？"
+      },
+      {
+        "character": "カルハ",
+        "text": "算了，生的也可以。\n吧唧吧唧吧嗒吧嗒。"
+      },
+      {
+        "character": "暁",
+        "text": "喂，那边崇尚生肉的部落。"
+      },
+      {
+        "character": "カルハ",
+        "text": "好吃<dash=2>、肉真好吃<dash=2>。"
+      },
+      {
+        "character": "暁",
+        "text": "既然你负责了烤肉，就负起责任好好管理肉啊。\n真是的。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "明明是负责烤肉的人，肉刚烤好就自己吃掉了，\n　因此都没有多余的肉到我们这边。"
+      },
+      {
+        "character": "",
+        "text": "其实我也猜到了。"
+      },
+      {
+        "character": "暁",
+        "text": "我来烤。你去吃吧。\n把夹具给我。"
+      },
+      {
+        "character": "カルハ",
+        "text": "谢谢，拜托你了。"
+      },
+      {
+        "character": "",
+        "text": "当掌勺的心败给了食欲。"
+      },
+      {
+        "character": "",
+        "text": "心里有些难以释怀，不过她开心就好。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b_大",
+    "dialogues": [
+      {
+        "character": "カルハ",
+        "text": "诺瓦，你在吃什么啊？"
+      },
+      {
+        "character": "ノワール",
+        "text": "洋葱。嚼嚼。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嘎呼，咳咳。"
+      },
+      {
+        "character": "タカセ",
+        "text": "可能还没烤好。\n让它在烤一会儿吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "是、是吗……咳咳。"
+      },
+      {
+        "character": "ノワール",
+        "text": "但是……火，嘿咻。"
+      },
+      {
+        "character": "カルハ",
+        "text": "放回去就可以了吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "哎！？\n但是已经被我吃过了。"
+      },
+      {
+        "character": "カルハ",
+        "text": "烤肉没事的。\n放在自己面前就可以了。"
+      },
+      {
+        "character": "ノワール",
+        "text": "啊呜，是、是这样的吗。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦为了确认真伪望向了我。"
+      },
+      {
+        "character": "",
+        "text": "这个场合没那么正式。“重烤”也没问题。\n　我点了点头。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦露出“可以吗”的表情，"
+      },
+      {
+        "character": "",
+        "text": "把印有齿形的洋葱放回网上。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b",
+    "dialogues": [
+      {
+        "character": "カルハ",
+        "text": "说到底，诺瓦，在这时候就吃洋葱太早了。"
+      },
+      {
+        "character": "カルハ",
+        "text": "烤肉就该吃肉！\n吃肉才是烤肉的重点！"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯、嗯。"
+      },
+      {
+        "character": "カルハ",
+        "text": "来，放开肚子多多吃。\n这是牛排！　这是里脊！"
+      },
+      {
+        "character": "花江",
+        "text": "你挑的这些全是草肚。"
+      },
+      {
+        "character": "ノワール",
+        "text": "我、我开动了。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嚼嚼……烫烫。"
+      },
+      {
+        "character": "カルハ",
+        "text": "怎么样？　怎么样？　果然要吃肉吧。"
+      },
+      {
+        "character": "暁",
+        "text": "那是什么感想啊。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嚼嚼。"
+      },
+      {
+        "character": "カルハ",
+        "text": "怎么样啊诺瓦。怎么样。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嚼嚼嚼。"
+      },
+      {
+        "character": "カルハ",
+        "text": "我说诺瓦啊。"
+      },
+      {
+        "character": "花江",
+        "text": "吃肚肉要花时间。"
+      },
+      {
+        "character": "",
+        "text": "细嚼慢咽。真是个乖孩子。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯咕。"
+      },
+      {
+        "character": "ノワール",
+        "text": "很美味。"
+      },
+      {
+        "character": "カルハ",
+        "text": "我就说吧！？\n就是要这样啊。烤肉就是要吃肉啊。"
+      },
+      {
+        "character": "カルハ",
+        "text": "来，接着吃。尽管吃。"
+      },
+      {
+        "character": "ノワール",
+        "text": "谢、谢谢。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦照着自己的节奏夹起堆在盘子上的肉，\n　先呼呼吹凉再吃下肚。"
+      },
+      {
+        "character": "",
+        "text": "看来我不看着也没问题了。"
+      },
+      {
+        "character": "",
+        "text": "来集中精力烤肉吧。"
+      },
+      {
+        "character": "カルハ",
+        "text": "然后啊，大家都说撒盐吃是最好的，\n但实际上混着大蒜的调料才是最香的。"
+      },
+      {
+        "character": "ノワール",
+        "text": "好。"
+      },
+      {
+        "character": "カルハ",
+        "text": "大蒜不太够呢。"
+      },
+      {
+        "character": "タカセ",
+        "text": "肉也挺高级的，应该没什么放调料的必要吧。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "直接吃就已经很香了。"
+      },
+      {
+        "character": "花江",
+        "text": "是的。"
+      },
+      {
+        "character": "",
+        "text": "大家和气融融地吃着饭，"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b_大",
+    "dialogues": [
+      {
+        "character": "花江",
+        "text": "（轻轻地、轻轻地）"
+      },
+      {
+        "character": "暁",
+        "text": "嗯？　花江小姐在干什么啊？"
+      },
+      {
+        "character": "",
+        "text": "我注意到有个人吃肉的速度很奇怪。"
+      },
+      {
+        "character": "",
+        "text": "虽然她也在吃放到自己面前的肉，"
+      },
+      {
+        "character": "",
+        "text": "但却将其往左右分开。"
+      },
+      {
+        "character": "花江",
+        "text": "不，没什么。"
+      },
+      {
+        "character": "花江",
+        "text": "就是方便她夹烤好的东西，还有她好像很怕烫的样子，\n所以先晾一会不让她烫到。"
+      },
+      {
+        "character": "暁",
+        "text": "……这样啊。"
+      },
+      {
+        "character": "",
+        "text": "仔细一看，肉放到了没有火力的网边。\n　都在诺瓦容易夹到的地方。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b",
+    "dialogues": [
+      {
+        "character": "カルハ",
+        "text": "一小口一小口好美味<dash=2>。"
+      },
+      {
+        "character": "",
+        "text": "不过也有个家伙毫不顾忌，\n　将她手边的东西都给吃掉了。"
+      },
+      {
+        "character": "暁",
+        "text": "她那样没事吗。"
+      },
+      {
+        "character": "花江",
+        "text": "要取多少肉吃是个人的自由吧。"
+      },
+      {
+        "character": "花江",
+        "text": "（轻轻地轻轻地）"
+      },
+      {
+        "character": "",
+        "text": "她一边说着一边毫不在意地改变着肉的位置，\n　一会往左移一会往右移。"
+      },
+      {
+        "character": "花江",
+        "text": "（一口）"
+      },
+      {
+        "character": "",
+        "text": "夹的时候自己也会吃一点。"
+      },
+      {
+        "character": "",
+        "text": "至此我已经知道她为什么往诺瓦那边送肉了，"
+      },
+      {
+        "character": "",
+        "text": "而另一边……"
+      },
+      {
+        "character": "暁",
+        "text": "难道是给我的？"
+      },
+      {
+        "character": "花江",
+        "text": "掌勺总是没什么时间吃吧"
+      },
+      {
+        "character": "暁",
+        "text": "哈哈，谢谢。"
+      },
+      {
+        "character": "",
+        "text": "真体贴啊。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b_大",
+    "dialogues": [
+      {
+        "character": "カルハ",
+        "text": "吧唧吧唧吧唧。"
+      },
+      {
+        "character": "カルハ",
+        "text": "啊，这边还有很多。吧唧吧唧吧唧。"
+      },
+      {
+        "character": "暁",
+        "text": "还有这种丝毫不顾及我们暖人心田的对话，\n横刀夺食的家伙。"
+      },
+      {
+        "character": "カルハ",
+        "text": "你说什么？"
+      },
+      {
+        "character": "暁",
+        "text": "不，算了。你要拿什么是你的自由。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我和花江小姐一并耸了耸肩。"
+      },
+      {
+        "character": "",
+        "text": "我们一边守望着孩子们的吃相，\n　一边也按照我们大人自己的节奏动着筷子……"
+      },
+      {
+        "character": "ノワール",
+        "text": "啊姆啊姆。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……嗯唔。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "嗯。"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐突然停下了。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b_大",
+    "dialogues": [
+      {
+        "character": "ノワール",
+        "text": "哈呼唔。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "诺瓦，差不多吃到这里吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "哎，但是。"
+      },
+      {
+        "character": "カルハ",
+        "text": "已经吃饱了？\n你还没吃多少喔？"
+      },
+      {
+        "character": "",
+        "text": "诺瓦吃得正香，\n　突然被野鸟小姐叫停了。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "我想吃吃玉米。\n诺瓦也和我一起吃吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "啊，好的。我喜欢、玉米。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦一时露出了犹豫不决的表情，\n　不过听到让她去吃别的东西便坦率地答应了。"
+      },
+      {
+        "character": "暁",
+        "text": "因为今天是烤肉聚餐所以烤了一下，\n其实玉米生吃也行，\n烤到想要的火候跟我说一声就好。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "好。"
+      },
+      {
+        "character": "ノワール",
+        "text": "非常感谢。"
+      },
+      {
+        "character": "",
+        "text": "我将网边的东西取给她们二人。"
+      },
+      {
+        "character": "",
+        "text": "没有烤焦的地方，不过熟应该是熟了。"
+      },
+      {
+        "character": "ノワール",
+        "text": "哈姆。"
+      },
+      {
+        "character": "暁",
+        "text": "怎么样？"
+      },
+      {
+        "character": "ノワール",
+        "text": "很甜。"
+      },
+      {
+        "character": "",
+        "text": "看来是女孩子喜欢的味道。\n　诺瓦露出了甜甜的微笑。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "用玉米蘸着蛋黄酱和酱油吃挺不错，\n直接吃也很好吃。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "诺瓦。慢慢吃吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "好的。"
+      }
+    ]
+  },
+  {
+    "background": "イベント5_b",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐好像突然关照起了诺瓦。"
+      },
+      {
+        "character": "",
+        "text": "这是……"
+      },
+      {
+        "character": "タカセ",
+        "text": "我听说吃太多没习惯的食物是很危险的。"
+      },
+      {
+        "character": "暁",
+        "text": "……是啊。"
+      },
+      {
+        "character": "",
+        "text": "仔细一看，野鸟小姐明明架子骨比较大，\n　但是吃的肉却比花江小姐还少。"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐是原素食主义者。\n　现在非常喜欢吃肉，"
+      },
+      {
+        "character": "",
+        "text": "然而身体还没有习惯肉类。"
+      },
+      {
+        "character": "ノワール",
+        "text": "哈呼"
+      },
+      {
+        "character": "",
+        "text": "诺瓦吃完了手上的玉米，\n　像工作完成了一般长长地舒了一口气。"
+      },
+      {
+        "character": "",
+        "text": "这也就是说，"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "就吃到这里吧。"
+      },
+      {
+        "character": "ノワール",
+        "text": "好的。"
+      },
+      {
+        "character": "",
+        "text": "各位全程巧妙地引导着诺瓦，\n　在吃撑前及时制止她继续用餐。"
+      },
+      {
+        "character": "",
+        "text": "要是她吃撑了肠胃不舒服就太可怜了。"
+      },
+      {
+        "character": "",
+        "text": "毕竟是第一次吃烤肉，\n　需要大人们多多关照。"
+      },
+      {
+        "character": "カルハ",
+        "text": "哎<dash=2>，还没吃多少吧？"
+      },
+      {
+        "character": "",
+        "text": "现场也有一个不明白大家用意的人。"
+      },
+      {
+        "character": "暁",
+        "text": "你就当自己能多吃点不就行了。"
+      },
+      {
+        "character": "カルハ",
+        "text": "确实啊。\nyeah，我要把3人份都给吃了<dash=2>。"
+      },
+      {
+        "character": "",
+        "text": "还好狩叶通情达理。"
+      },
+      {
+        "character": "ノワール",
+        "text": "多谢款待。"
+      }
+    ]
+  },
+  {
+    "background": "背景_海岸_昼",
+    "dialogues": [
+      {
+        "character": "ジビエ",
+        "text": "要收拾的时候叫下我吧。\n诺瓦，我们去那边坐坐。"
+      },
+      {
+        "character": "ノワール",
+        "text": "好。"
+      },
+      {
+        "character": "",
+        "text": "她们拿着饮料走到刚刚使用的长凳上。"
+      },
+      {
+        "character": "カルハ",
+        "text": "诺瓦这么小巧，吃得少可以理解，\n可是野鸟小姐吃的也很少啊。"
+      },
+      {
+        "character": "暁",
+        "text": "她也有自己的原因吧。"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_昼",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      }
+    ]
+  },
+  {
+    "background": "背景_海岸_昼",
+    "dialogues": [
+      {
+        "character": "カルハ",
+        "text": "噗哈，多谢款待。"
+      },
+      {
+        "character": "暁",
+        "text": "你真就从头吃到尾了啊。"
+      },
+      {
+        "character": "",
+        "text": "堆成小山的肉全都被她吃完了。"
+      },
+      {
+        "character": "カルハ",
+        "text": "啊<dash=2>，肚子好饱。\n已经不想动了。"
+      },
+      {
+        "character": "カルハ",
+        "text": "喂，帮我拿瓶妙乐多。"
+      },
+      {
+        "character": "",
+        "text": "狩叶坐在沙滩上进入了休息模式。"
+      },
+      {
+        "character": "",
+        "text": "鹰世和花江小姐则去收拾吃完的烤肉。\n　前期负责准备的是我、狩叶还有诺瓦，\n　这样安排算是轮流工作了。"
+      },
+      {
+        "character": "",
+        "text": "也就是说，"
+      },
+      {
+        "character": "カルハ",
+        "text": "喂喂，嘴里好油啊。\n我要妙乐多。"
+      },
+      {
+        "character": "暁",
+        "text": "你怎么不叫其他人跑腿。"
+      },
+      {
+        "character": "カルハ",
+        "text": "对其他人我放不太开。\n感觉不太礼貌。"
+      },
+      {
+        "character": "",
+        "text": "那你也对我放不开点啊。真是的。"
+      }
+    ]
+  },
+  {
+    "background": "背景_駅列車_昼",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "算了。去拿吧。"
+      },
+      {
+        "character": "",
+        "text": "从车内的篮子里拿出几瓶妙乐多……"
+      },
+      {
+        "character": "",
+        "text": "嗯？　是冰的。"
+      },
+      {
+        "character": "",
+        "text": "好像有谁补充了。\n　是谁干的呢。也许是那位站务员吧。"
+      }
+    ]
+  },
+  {
+    "background": "背景_海岸_昼",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "回到海边。"
+      },
+      {
+        "character": "ノワール",
+        "text": "哈唔唔。"
+      },
+      {
+        "character": "",
+        "text": "哦哦。"
+      },
+      {
+        "character": "",
+        "text": "路过长凳的时候，\n　发现诺瓦在上面蜷成了一团。"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐苦笑着给她做了膝枕。"
+      },
+      {
+        "character": "暁",
+        "text": "胃难受了吗。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "是呢，我还是说晚了。"
+      },
+      {
+        "character": "ノワール",
+        "text": "胸口堵堵的。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦好像身体有些不适，\n　不过没有很难受的样子。"
+      },
+      {
+        "character": "",
+        "text": "她的脸靠在野鸟小姐的大腿上，\n　头顶的两个小耳朵一跳一跳的。"
+      },
+      {
+        "character": "",
+        "text": "估计以前没吃过那么多油腻的东西，\n　肉的摄入量有些超标了。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "对不起啊，诺瓦，虽说我事先就知道可能会变成这样了。"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐好像对率先劝诺瓦吃肉感到内疚，\n　不由得温柔地抚摸起了她的脑袋。"
+      },
+      {
+        "character": "暁",
+        "text": "你说事先知道是因为之前也经历过吗？"
+      },
+      {
+        "character": "ジビエ",
+        "text": "是的。"
+      },
+      {
+        "character": "",
+        "text": "这位前素食主义者似乎也有过类似的经历。"
+      },
+      {
+        "character": "",
+        "text": "在在她年幼时双亲禁止她吃肉，\n　因此度过了一段不吃肉的时光。"
+      },
+      {
+        "character": "",
+        "text": "离开父母身边后应该就开始吃肉了，"
+      },
+      {
+        "character": "",
+        "text": "然而她方才的食量表明开始吃肉的时光还不长久。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "诺瓦比我要小不少，\n希望胃能够早些适应吧。"
+      },
+      {
+        "character": "暁",
+        "text": "也不是一朝一夕就能习惯得了吧。"
+      },
+      {
+        "character": "",
+        "text": "今天给她吃个两三块后就应该停下来的。"
+      },
+      {
+        "character": "ノワール",
+        "text": "啊呜呜。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦压着胸口。"
+      },
+      {
+        "character": "暁",
+        "text": "振作一点。\n来，要不要喝妙乐多，冰冰凉凉的很舒服哦。"
+      },
+      {
+        "character": "ノワール",
+        "text": "啊呜啊，非常感谢。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦费力地伸出手来。"
+      },
+      {
+        "character": "",
+        "text": "虽然不知道乳酸菌对消化不良是否奏效，\n　但此时喝点冰的东西应该会舒服很多。"
+      },
+      {
+        "character": "",
+        "text": "她小口啜饮着。"
+      },
+      {
+        "character": "",
+        "text": "我在一旁静静守望，"
+      },
+      {
+        "character": "暁",
+        "text": "我说啊，诺瓦。"
+      },
+      {
+        "character": "ノワール",
+        "text": "什么？"
+      },
+      {
+        "character": "暁",
+        "text": "肉的味道怎么样？\n好吃吗。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯，非常好吃。"
+      },
+      {
+        "character": "ノワール",
+        "text": "在爷爷那里的时候，\n也有肉，之前也吃过。"
+      },
+      {
+        "character": "ノワール",
+        "text": "但与那时的肉比起来，今天吃到的肉，真的要好吃得多。"
+      },
+      {
+        "character": "暁",
+        "text": "这样啊。"
+      },
+      {
+        "character": "",
+        "text": "母亲是维根主义者，爷爷却是反对的。"
+      },
+      {
+        "character": "",
+        "text": "虽说在爷爷身边的时候也能吃到肉，但是……"
+      }
+    ]
+  },
+  {
+    "background": "背景_黒",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "也不能敞开肚皮吃吧。\n　听她刚才所述她的母亲和爷爷相处得并不融洽。"
+      },
+      {
+        "character": "",
+        "text": "在那样紧张的氛围下吃东西，\n　不管是多好吃的东西恐怕都没有味道。"
+      }
+    ]
+  },
+  {
+    "background": "背景_海岸_昼",
+    "dialogues": [
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "我……"
+      },
+      {
+        "character": "",
+        "text": "支持她爷爷的主张。"
+      },
+      {
+        "character": "暁",
+        "text": "你之后还想吃吗？"
+      },
+      {
+        "character": "ノワール",
+        "text": "还吃……烤肉吗？"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯。\n还想吃。"
+      },
+      {
+        "character": "ノワール",
+        "text": "不过下次要少吃一点，\n别像今天这样吃坏肚子。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "慢慢习惯就好了。\n加点黄油也不错。"
+      },
+      {
+        "character": "ノワール",
+        "text": "好。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦也认可了。"
+      },
+      {
+        "character": "",
+        "text": "这样就好。"
+      },
+      {
+        "character": "暁",
+        "text": "今天的事情，不和你母亲说会比较好呢。\n如果露馅了的话或许会惹她生气。"
+      },
+      {
+        "character": "ノワール",
+        "text": "啊呜，好、好的。"
+      },
+      {
+        "character": "",
+        "text": "不擅长对家长撒谎吗。真是个好孩子。"
+      },
+      {
+        "character": "",
+        "text": "但是，"
+      },
+      {
+        "character": "暁",
+        "text": "但是你一定要记住我们今天吃的这顿烤肉。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "在你能够自己决定吃什么，\n自己调整自己的营养膳食之前都要记住今天这一顿。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……？"
+      },
+      {
+        "character": "",
+        "text": "诺瓦露出了一脸不解的表情。"
+      },
+      {
+        "character": "",
+        "text": "我本不想说这些站在道德制高点上的话，"
+      },
+      {
+        "character": "暁",
+        "text": "我不打算否定你母亲的言论。"
+      },
+      {
+        "character": "暁",
+        "text": "维根主义者的基本思想是\n“想在不给其他生物添麻烦的前提下活下去”。\n出发点是好的。"
+      },
+      {
+        "character": "暁",
+        "text": "可是将自己的想法强加给他人是不对的。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "人只要活着肯定就会给别人添麻烦。"
+      },
+      {
+        "character": "暁",
+        "text": "没有任何人能不给人添麻烦地活在世上。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "当然那些给别人添麻烦还心安理得的人也有问题。"
+      },
+      {
+        "character": "暁",
+        "text": "平日里尽可能不要给人添麻烦。\n如果给人添了麻烦，\n也要做一些事情予以回报～……我认为做到这些就很不错了"
+      },
+      {
+        "character": "暁",
+        "text": "还想奢求更多的事情那就是傲慢了。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "有点难懂吗？"
+      },
+      {
+        "character": "ノワール",
+        "text": "听不大懂。"
+      },
+      {
+        "character": "暁",
+        "text": "也是，以你这个年纪这样就好了。"
+      },
+      {
+        "character": "",
+        "text": "我拍了拍她横躺着的脑袋。"
+      },
+      {
+        "character": "暁",
+        "text": "如果等你长大以后，\n靠自己的意志拒绝食肉。那也没有关系。"
+      },
+      {
+        "character": "暁",
+        "text": "而且日后你认为不给别人添麻烦的方法是不吃肉的话，\n不吃也没事。"
+      },
+      {
+        "character": "暁",
+        "text": "但如果是因为他人，例如是母亲不准你吃你才不吃的话，\n那我觉得毫无意义。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "你的人生应该由你自己去体验，\n由自身的意志来决定行动。"
+      },
+      {
+        "character": "暁",
+        "text": "作为为此踏出的第一步，我希望你能记住今天的事情。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "我想说的已经说完了……"
+      },
+      {
+        "character": "",
+        "text": "诺瓦把脸埋在野鸟小姐的大腿上没有做出回应。"
+      },
+      {
+        "character": "",
+        "text": "是不是被当成说教了。"
+      },
+      {
+        "character": "",
+        "text": "正当我这么想的时候，"
+      },
+      {
+        "character": "ジビエ",
+        "text": "那个，白先生。"
+      },
+      {
+        "character": "暁",
+        "text": "我是不是多管闲事了。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "怎么说呢，这个不重要。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "好像诺瓦被你摸着脑袋觉得很害羞？"
+      },
+      {
+        "character": "",
+        "text": "哈？"
+      },
+      {
+        "character": "ノワール",
+        "text": "～……/////。"
+      },
+      {
+        "character": "",
+        "text": "仔细一看，她把脸埋在大腿上蜷着身子，\n　好像是为了从我的视线中逃开一般。"
+      },
+      {
+        "character": "",
+        "text": "那个，"
+      },
+      {
+        "character": "暁",
+        "text": "诺瓦？"
+      },
+      {
+        "character": "ノワール",
+        "text": "～……好、好痒。"
+      },
+      {
+        "character": "暁",
+        "text": "啊……不好意思。"
+      },
+      {
+        "character": "",
+        "text": "埋在大腿中的脸蛋已经染上一片赤红。"
+      },
+      {
+        "character": "",
+        "text": "只是摸个头而已，没必要那么害羞吧。"
+      },
+      {
+        "character": "",
+        "text": "不过女孩有时候就是这么奇怪呢。\n　我连忙把手拿开。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "我刚刚说的话她明白了多少呢。\n　诺瓦完全将脸藏了起来。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐无意识地把手放在了诺瓦背上。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "虽然白先生说得很对。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "但在我看来，诺瓦，就算是为了身体，\n你也应该好好吃肉。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……身体？"
+      },
+      {
+        "character": "ジビエ",
+        "text": "不吃肉，完全就是偏食。\n像是牛奶或鸡蛋中就有很多其他食物无法取代的营养物质。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "要还像这样不吃肉成长下去的话，身体就会变得非常脆弱。"
+      },
+      {
+        "character": "暁",
+        "text": "……"
+      },
+      {
+        "character": "ジビエ",
+        "text": "其实我都想去和你妈妈谈谈，\n好好和她说说道理。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "为了让诺瓦能够茁壮成长，\n希望你可以吃很多东西。"
+      },
+      {
+        "character": "ノワール",
+        "text": "好、好的。"
+      },
+      {
+        "character": "",
+        "text": "与平时软软的野鸟小姐不同，\n　现在她的口吻很严肃。"
+      },
+      {
+        "character": "",
+        "text": "身体会变脆弱吗。"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐出生在素食主义家庭，小时候一直没有吃肉。\n　既然连切身体会的她都这样说了……"
+      },
+      {
+        "character": "",
+        "text": "就很可能会成真。"
+      },
+      {
+        "character": "",
+        "text": "而先前她提到兴趣是远足……"
+      },
+      {
+        "character": "",
+        "text": "那是为了疗养吗？"
+      },
+      {
+        "character": "",
+        "text": "正当我思考之时，"
+      },
+      {
+        "character": "カルハ",
+        "text": "喂！"
+      },
+      {
+        "character": "暁",
+        "text": "吓我一跳。"
+      },
+      {
+        "character": "カルハ大",
+        "text": "三位的气氛真和谐呀。"
+      },
+      {
+        "character": "",
+        "text": "烦人的家伙过走了过来，气氛一下子就变了。"
+      },
+      {
+        "character": "カルハ",
+        "text": "和谐是好事，可我叫你去拿的东西呢！"
+      },
+      {
+        "character": "暁",
+        "text": "啥来着？"
+      },
+      {
+        "character": "カルハ",
+        "text": "我不是叫你去拿妙乐多吗！"
+      },
+      {
+        "character": "暁",
+        "text": "啊，那个啊。"
+      },
+      {
+        "character": "ノワール",
+        "text": "噗哈。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦刚刚喝完。"
+      },
+      {
+        "character": "暁",
+        "text": "就是这样。"
+      },
+      {
+        "character": "カルハ",
+        "text": "不要用这种道具去提升好感度啊！"
+      },
+      {
+        "character": "",
+        "text": "我也没那么想啊。"
+      },
+      {
+        "character": "ノワール",
+        "text": "非常感谢你，白先生。\n我舒服多了。"
+      },
+      {
+        "character": "暁",
+        "text": "不要在意。\n刚才诺瓦身体不舒服，她需要这个。"
+      },
+      {
+        "character": "暁",
+        "text": "我是为了帮助身体状况不好的人，\n你不会仅仅因为一个“我想喝”的理由，\n就开始抱怨吧？"
+      },
+      {
+        "character": "暁",
+        "text": "是吧，狩叶。"
+      },
+      {
+        "character": "カルハ",
+        "text": "咕呶。"
+      },
+      {
+        "character": "ノワール",
+        "text": "那、那个，难道，不可以喝吗？"
+      },
+      {
+        "character": "カルハ",
+        "text": "不，那个，没事啦，诺瓦可以喝啦。"
+      },
+      {
+        "character": "カルハ",
+        "text": "你不舒服吗？　还好吧？"
+      },
+      {
+        "character": "",
+        "text": "脸变得比翻书还快。"
+      },
+      {
+        "character": "ノワール",
+        "text": "嗯。\n已经舒服多了。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "还不可以动喔。\n动了会更难受的。"
+      },
+      {
+        "character": "ノワール",
+        "text": "好、好的。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦本想起身，后背被砰砰地拍了两下后，\n　又再次靠到了野鸟小姐身上。"
+      },
+      {
+        "character": "カルハ",
+        "text": "咕呶呶呶。"
+      },
+      {
+        "character": "",
+        "text": "狩叶似乎明白了妙乐多带来了这样和平的氛围，\n　便不再抱怨了。"
+      },
+      {
+        "character": "暁",
+        "text": "火车里还有很多，\n如果你想喝的话就去拿吧。"
+      },
+      {
+        "character": "カルハ",
+        "text": "不，花江小姐给我喝了水，嘴里清爽多了。"
+      },
+      {
+        "character": "暁",
+        "text": "……那你刚才生什么气呀。"
+      },
+      {
+        "character": "カルハ",
+        "text": "接下来，下午怎么办？\n离出发应该还有很多时间。"
+      },
+      {
+        "character": "",
+        "text": "话题转移得僵硬至极。"
+      },
+      {
+        "character": "",
+        "text": "这家伙怎么光针对我啊，\n　没事就朝我撒火泄愤了。"
+      },
+      {
+        "character": "",
+        "text": "为了处好关系就忍了吧。"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐和诺瓦要稍作休息。\n　二人好像都不想动的样子。"
+      },
+      {
+        "character": "",
+        "text": "那么，"
+      },
+      {
+        "character": "暁",
+        "text": "说什么怎么办。你接下来还有安排吧。"
+      },
+      {
+        "character": "カルハ",
+        "text": "你有什么事吗？"
+      },
+      {
+        "character": "暁",
+        "text": "有的。"
+      },
+      {
+        "character": "",
+        "text": "我拿起刚才放在长凳边上的写生本。"
+      },
+      {
+        "character": "カルハ",
+        "text": "啊<dash=2>，哈哈，确实啊。"
+      },
+      {
+        "character": "暁",
+        "text": "我要接着画，你就继续乖乖待着吧，\n别让我想起来你就是那十五分钟前啃着生肉的野蛮生物。"
+      },
+      {
+        "character": "カルハ",
+        "text": "话少点能死啊。"
+      },
+      {
+        "character": "",
+        "text": "我打开刚才的那一页，重新执笔。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "肖像画、真好啊<dash=2>。"
+      },
+      {
+        "character": "暁",
+        "text": "嗯，\n都是这家伙吵着闹着要我画我才画的。"
+      },
+      {
+        "character": "カルハ",
+        "text": "我才没有呢。"
+      },
+      {
+        "character": "暁",
+        "text": "别闹别扭啊。好了，坐好坐好。"
+      },
+      {
+        "character": "カルハ",
+        "text": "对了。笑。"
+      },
+      {
+        "character": "",
+        "text": "狩叶摆出和刚才一样柔和的表情。"
+      },
+      {
+        "character": "",
+        "text": "轮廓及平衡这些困难的部分已经画完了，\n　剩下的部分都挺轻松。"
+      },
+      {
+        "character": "",
+        "text": "我悠闲地继续作画。"
+      },
+      {
+        "character": "",
+        "text": "或许是不想打扰这边，\n　野鸟小姐仅在一开始看着我们，\n　随后把目光转向了大海。"
+      },
+      {
+        "character": "",
+        "text": "还有……"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "诺瓦偷偷瞥着这边。"
+      },
+      {
+        "character": "",
+        "text": "一脸稀奇的样子。"
+      },
+      {
+        "character": "",
+        "text": "不过我倒也没那么集中精神，\n　不至于被她转移了注意力。"
+      },
+      {
+        "character": "",
+        "text": "继续毫不在意地作画……"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_昼",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "・・・・"
+      }
+    ]
+  },
+  {
+    "background": "背景_空_夕",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・"
+      }
+    ]
+  },
+  {
+    "background": "背景_海岸_夕",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "到了太阳快要落山的时候，"
+      },
+      {
+        "character": "暁",
+        "text": "嗯<dash=2>。"
+      },
+      {
+        "character": "",
+        "text": "嗯，"
+      }
+    ]
+  },
+  {
+    "background": "イベント6_a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "差不多就这样了吧。"
+      },
+      {
+        "character": "暁",
+        "text": "你看。"
+      },
+      {
+        "character": "カルハ",
+        "text": "喔喔……"
+      },
+      {
+        "character": "",
+        "text": "我撕下来递给她。"
+      },
+      {
+        "character": "",
+        "text": "说不上满分，但也算合格了。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "哇啊啊啊。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐和诺瓦露出了惊讶的表情。"
+      },
+      {
+        "character": "",
+        "text": "周围人的反应都很好。"
+      },
+      {
+        "character": "",
+        "text": "而本人……"
+      },
+      {
+        "character": "カルハ",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "狩叶？"
+      },
+      {
+        "character": "カルハ",
+        "text": "…………"
+      },
+      {
+        "character": "暁",
+        "text": "狩<dash=2>叶。"
+      },
+      {
+        "character": "カルハ",
+        "text": "………………"
+      },
+      {
+        "character": "暁",
+        "text": "生肉妙乐多族。"
+      }
+    ]
+  },
+  {
+    "background": "背景_海岸_夕",
+    "dialogues": [
+      {
+        "character": "カルハ",
+        "text": "谁是生肉族啊！"
+      },
+      {
+        "character": "",
+        "text": "这不是能听见吗。"
+      },
+      {
+        "character": "暁",
+        "text": "我都画好了，好歹说说感想啊。"
+      },
+      {
+        "character": "カルハ",
+        "text": "哎呀，啊<dash=2>，那个。"
+      },
+      {
+        "character": "カルハ",
+        "text": "嗯、嗯，嗯，还行吧。\n对吧。"
+      },
+      {
+        "character": "カルハ",
+        "text": "……"
+      },
+      {
+        "character": "カルハ",
+        "text": "我……给人这、这种感觉吗？　。"
+      },
+      {
+        "character": "暁",
+        "text": "？"
+      },
+      {
+        "character": "",
+        "text": "狩叶的情绪突然变得不太稳定。"
+      },
+      {
+        "character": "",
+        "text": "她怎么了啊。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "嘻嘻。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "狩叶很可爱啊。"
+      },
+      {
+        "character": "カルハ",
+        "text": "算、算是吧。我不否定。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "她这么说哦，白先生。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "画得比想象中的还可爱，所以就害羞了。"
+      },
+      {
+        "character": "カルハ",
+        "text": "什么！？"
+      },
+      {
+        "character": "暁",
+        "text": "喔喔～"
+      },
+      {
+        "character": "",
+        "text": "原来如此。怪不得扭扭捏捏的啊。"
+      },
+      {
+        "character": "暁",
+        "text": "能让你开心是我的荣幸，有必要害羞吗？"
+      },
+      {
+        "character": "カルハ",
+        "text": "我才没有害羞呢！"
+      },
+      {
+        "character": "カルハ",
+        "text": "只是稍微吓了一跳。\n就是所谓吓了一跳！　仅此而已！"
+      },
+      {
+        "character": "",
+        "text": "她估计也知道自己面红耳赤的。\n　因此想通过大喊大叫糊弄过去。"
+      },
+      {
+        "character": "",
+        "text": "我搞不明白为什么害羞，用不着害羞的吧。"
+      },
+      {
+        "character": "カルハ",
+        "text": "呜<dash=2>。"
+      },
+      {
+        "character": "カルハ",
+        "text": "姑、姑且跟你说声谢谢。"
+      },
+      {
+        "character": "カルハ",
+        "text": "就这样。掰掰！"
+      },
+      {
+        "character": "",
+        "text": "逃掉了。"
+      },
+      {
+        "character": "",
+        "text": "奇怪的家伙。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "嘿嘿，狩叶那样子真的很可爱啊。"
+      },
+      {
+        "character": "暁",
+        "text": "在第三者看来，也许真的很可爱呢。"
+      },
+      {
+        "character": "",
+        "text": "可站在被吼的角度来看只会觉得麻烦。"
+      },
+      {
+        "character": "",
+        "text": "不过像她那么大的孩子，\n　喜怒哀乐都难以捉摸。"
+      },
+      {
+        "character": "",
+        "text": "视线回到这边……"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "暁",
+        "text": "怎么了，诺瓦？"
+      },
+      {
+        "character": "ノワール",
+        "text": "没、没事。"
+      },
+      {
+        "character": "",
+        "text": "好像在看我。"
+      },
+      {
+        "character": "",
+        "text": "？"
+      },
+      {
+        "character": "",
+        "text": "正当我琢磨怎么回事时，"
+      },
+      {
+        "character": "タカセ",
+        "text": "哦呀，美术时间已经结束了？"
+      },
+      {
+        "character": "暁",
+        "text": "嗯，结束了。\n正好刚才模特生气逃掉了。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……因为没画好吗？"
+      },
+      {
+        "character": "暁",
+        "text": "画得还不错但还是生气了。\n狩叶平时就是那个样子"
+      },
+      {
+        "character": "タカセ",
+        "text": "原来如此。"
+      },
+      {
+        "character": "",
+        "text": "他这样就能明白也很奇怪了。"
+      },
+      {
+        "character": "暁",
+        "text": "你呢？\n午饭之后你就不见了。"
+      },
+      {
+        "character": "タカセ",
+        "text": "嗯。我去周围探索了一下。"
+      },
+      {
+        "character": "タカセ",
+        "text": "……"
+      },
+      {
+        "character": "タカセ",
+        "text": "我觉得在哪里见过那个灯塔。"
+      },
+      {
+        "character": "タカセ",
+        "text": "这附近也是，好像也是我熟悉的土地。"
+      },
+      {
+        "character": "",
+        "text": "他像是很怀念地看着灯塔说道。"
+      },
+      {
+        "character": "暁",
+        "text": "哎，你是这附近的人吗？"
+      },
+      {
+        "character": "タカセ",
+        "text": "嗯，差不多吧。\n比起那些。"
+      },
+      {
+        "character": "タカセ",
+        "text": "我买了这个。"
+      },
+      {
+        "character": "",
+        "text": "他突然拿出藏着的包裹。"
+      },
+      {
+        "character": "",
+        "text": "包裹夸张地被金银色的丝带装饰了起来……"
+      },
+      {
+        "character": "ノワール",
+        "text": "……？"
+      },
+      {
+        "character": "ジビエ",
+        "text": "那是什么？"
+      },
+      {
+        "character": "",
+        "text": "她俩都不知道啊。"
+      },
+      {
+        "character": "",
+        "text": "这是日本的特产，野鸟小姐不知道很正常，\n　但诺瓦都不知道就有些稀奇了。"
+      },
+      {
+        "character": "暁",
+        "text": "烟花么。真周到。"
+      },
+      {
+        "character": "タカセ",
+        "text": "只是有些怀念罢了。"
+      },
+      {
+        "character": "ジビエ",
+        "text": "烟花，啊，是那个啊，\n我听说在日本能把烟花拿在手上玩吧。"
+      },
+      {
+        "character": "",
+        "text": "在海外都是发射到天上的礼花吧。"
+      },
+      {
+        "character": "",
+        "text": "日本也有发射到天上的礼花，\n　但是说到烟花的话还是这个，也就是手持烟花。"
+      },
+      {
+        "character": "ノワール",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "有一个人呆在了原地。"
+      },
+      {
+        "character": "暁",
+        "text": "这也是第一次吗？"
+      },
+      {
+        "character": "ノワール",
+        "text": "我、我有听说过。"
+      },
+      {
+        "character": "",
+        "text": "但好像没玩过。"
+      },
+      {
+        "character": "",
+        "text": "唯一的问题是火车会在这个车站停多长时间……"
+      },
+      {
+        "character": "カルハ",
+        "text": "我回来了。"
+      },
+      {
+        "character": "",
+        "text": "刚好，乘务员回来了。"
+      },
+      {
+        "character": "暁",
+        "text": "画呢？"
+      },
+      {
+        "character": "カルハ",
+        "text": "嗯，为了不弄脏放到驾驶室的书架的……"
+      },
+      {
+        "character": "カルハ",
+        "text": "那种东西我已经扔、扔掉了！"
+      },
+      {
+        "character": "",
+        "text": "脸又红了。"
+      },
+      {
+        "character": "",
+        "text": "谎也撒得太不切实际了。\n　况且真扔掉我就要怀疑你的品性了。"
+      },
+      {
+        "character": "タカセ",
+        "text": "我一时冲动买了烟火，\n我们有时间在这站放烟火吗。"
+      },
+      {
+        "character": "",
+        "text": "先问问停留时间。"
+      },
+      {
+        "character": "",
+        "text": "狩叶眨了眨眼睛，\n　拿出怀表。"
+      },
+      {
+        "character": "カルハ",
+        "text": "嗯，还有一些时间。"
+      },
+      {
+        "character": "暁",
+        "text": "那么，看来能玩了呢。"
+      },
+      {
+        "character": "カルハ",
+        "text": "我先说一句，时间不是很多，\n所以不要玩得太过了哦。\n到时间了的话，就要出发了。"
+      },
+      {
+        "character": "",
+        "text": "狩叶摆出一幅鲜有的乘务员的干练表情。"
+      },
+      {
+        "character": "カルハ",
+        "text": "要是超时，就把你一个人丢在这里。"
+      },
+      {
+        "character": "暁",
+        "text": "谁会玩那么过啊。又不是小孩子。"
+      },
+      {
+        "character": "カルハ",
+        "text": "谁知道呢。毕竟是你啊。"
+      },
+      {
+        "character": "カルハ",
+        "text": "肯定会像小孩一样闹腾的。"
+      }
+    ]
+  }
+]
