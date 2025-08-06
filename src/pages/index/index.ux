@@ -12,6 +12,7 @@
       </scroll>
     </div>
     <div class="page" style="position: absolute;" if="{{settingsPage}}" @swipe="ban()">
+      <image src="/common/title_bg.png"></image>
       <image style="position: absolute;top: 315px;left: 0;" src="/common/text_bg.png"></image>
       <text class="text">显示速度({{settings.textSpeed}})：</text>
       <slider class="slider" min="20" max="60" step="1" onchange="changeTextSpeed()"></slider>
@@ -24,10 +25,11 @@
       </scroll>
     </div>
     <div class="page" style="position: absolute;background-color: #ffffff;flex-wrap: nowrap;flex-direction: column;align-items: center;justify-content: center;" if="{{tips}}" @swipe="ban()">
-      <text class="font20">在设定中调整</text>
-      <text class="font20">显示速度和文字大小</text>
-      <text class="font20">游戏中右滑进入菜单</text>
-      <text class="font24" style="color: #ff0000;">请勿反复点击开始！耐心等待加载</text>
+      <text class="font24">在设定中调整</text>
+      <text class="font24">显示速度和文字大小</text>
+      <text class="font24">游戏中右滑进入菜单</text>
+      <text class="font24" style="color: #ff0000;">请勿反复点击开始！</text>
+      <text class="font24" style="color: #ff0000;">耐心等待加载</text>
       <text class="font24">---------------</text>
       <text class="font24">制作：@liuyuze61</text>
       <text class="font24">支持作者</text>

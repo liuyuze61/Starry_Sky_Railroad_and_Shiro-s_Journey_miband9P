@@ -1,298 +1,1198 @@
 [
   {
-    "background": "背景_駅列車_夕",
+    "background": "bg035a",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "",
+        "text": "诺瓦在思索着什么。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "对于她来说这是首次接触到新的观念吧。\n　看来是与旧观念的冲突令她感到了混乱。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "因过于喜好肉荣获了“野鸟（野味）”称号的那位，\n　露出了一副爽朗的笑容宣言道。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "这么一说也对。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "差点忘了，这俩还是孩子呢。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "身体发育是很需要动物蛋白的。\n如果不能吃倒另说，\n但能吃的话一定要多吃点。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "蛮好的。\n要是能感谢乳酸菌以外的就更好了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "而诺瓦还是一副若有所思的样子。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "我重新关注起筐里的东西。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "这是所谓的南部仙贝。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "看起来像白色的容器一样，",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "和平时所说的“仙贝”的概念有些微妙的不同。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦也不知道？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "好歹也算这个地方的特产了。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "这是在东北不太适合种植大米地域的乡土特产。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "两个人各自试吃了一口。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "对吧，是不是吃起来不像是仙贝。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "通常情况下仙贝都是以大米为原料，\n　不过南部仙贝的主要原料是面粉。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "因此入口的口感差异很大。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "况且南部仙贝很少加酱油或是盐，\n　麦香味就成了它的主基调。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "换句话说，",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "是吧。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "作为下酒菜来说太清淡了。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "下酒菜突出的就是个油盐味。\n　我转手便递给她一包花生下酒。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "果然花生配酒，越喝越有。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "还有这个。清口水也给你放在这了，\n记得轮着喝。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "我给她拿了一罐最近比较流行的无味碳酸水。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "据说啤酒里的碳酸能抑制食欲，\n　跟碳酸水混饮能降低醉酒的几率。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "不过她这喝得也太快了吧。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "另一边，",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "喜欢吗？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "出现了意想不到的爱好者。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "好这一口的现代小孩可真不多见。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "这位就是典型的现代小孩了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "南部仙贝以麦香味见长……\n　与之相对的油盐味就寡淡太多了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "这种很传统的食物，\n　对于吃惯了薯片的孩子来说一般都很难接受。\n　而且不同于膨化食品，这东西现在越来越贵了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "话说我小时候也对这东西不怎么感兴趣。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "哪怕现在也没有特别想吃的欲望。\n　倒是丢火锅里煮成片汤那样的吃法，\r\n　我还挺喜欢的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "看样子她很中意。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "舌尖一定非常雅致。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "啊，这么一说，\n我奶奶家里总是会存一些。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "传统。味道清淡。价格虚高。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "满足了老人家把它当块宝的全部条件。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "同样每次去亲戚家也能看到。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "这么说来，\n　我都不知道诺瓦究竟是不是住这一带的孩子。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "从名字上说连是不是日本人都没法确定……\n　当然现在奇怪的名字倒也不少见。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "狩叶用一副“坏了”的神情看向我。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "别甩锅给我啊，我哪知道怎么办。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "这下倒好，\n　让她把话题给带沟里去了……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "不过。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "哦，喔，这样啊。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "原来有爷爷的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "没有祖母的原因，\n　估计只是过世得比较早吧。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "只要家庭背景没那么复杂，我们的话就比较好接。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "那个，",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "顺、顺便问下，有其他味道的吗？\n　上面有纳豆的那种还挺好吃的",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "我生硬地扯开了话题。\n　装模作样地在狩叶的篮子里翻了翻。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "对，上面附着一些风干的纳豆",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "刚刚说的是我喜欢的种类。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "哦，有点意外。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "我记得猫是不喜欢纳豆的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "狩叶又翻了一遍篮子后摇了摇头。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "有点遗憾呢。\n等旅行结束了有机会去尝尝吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦兴致勃勃地点了点头。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "像这样有一句没一句地聊了一会，\n　想必她在森林里的惊悚记忆也能淡化一些了吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "这就好。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "妖怪的真正身份，在森林里听到的怪声等等，\n　要说完全不在意了那也是不可能的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "不过这些事让我一个人警惕就够了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "不该让小孩子担惊受怕的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "狩叶又打开一包柿种，\n　将里面的东西撒在了仙贝上。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "哦，这个看着不错。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "话说回来，\n　南部仙贝要比其他仙贝寡淡不少，",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "这也说明它能搭配其他各种各样的味道。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "比如涂上甜酱或者蛋黄酱。\n　甚至我还见过有人涂果酱和蜂蜜的。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "这就是南方仙贝最大的优势，\n　可以兼顾甜党和咸党的喜好。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "只是。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "往仙贝上涂上醇厚的果酱或者蛋黄酱，\r\n　这是普遍而易于下口的吃法。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "但像她把两种干燥的东西混一块吃，",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "不消一会就口干到不行了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "真不可思议呢。她在叫什么呢。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "猫是这么叫的吗？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "确实呢。\n猫咪前辈，你教教她该怎么叫吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "这可是为了狩叶。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "可爱。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "哎呀，忘记这难受的小可怜儿了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "干巴巴的仙贝加上干巴巴的柿种混在一起吃，\n　她口腔里的水分瞬间就被吸干了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦把妙乐多递给她。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "狩叶接过一口喝掉。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "毕竟妙乐多容量小嘛。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯——这么甜的饮料说不定一瓶下去就心满意足了呢。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "不过这么小的瓶子应该一瓶不太够吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "没想到诺瓦胃口还挺大的呢。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "夸你呢。\n多吃点，多喝点，快快长大吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "哎呀，又把难受的小可怜儿给忘了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "狩叶一副紧张兮兮的样子，\n　但她嘴还不闲着说明问题没看起来那么严重吧。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "野鸟",
+        "text": "嗯哈～，已经喝不下了。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "啊。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "狩叶抢走了野鸟小姐放在一旁的易拉罐。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "咕咚咕咚！",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "一口气灌那么多碳酸不太好吧。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "狩叶喝下去的究竟是清口用的碳酸水，\n　还是其他的某物就请各位自由想象了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "真不得了呢。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "我们有在亲热吗？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "惹她生气了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "至少，",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "她们二人先前的恐惧感已经烟消云散了。",
+        "body": "karuha_03face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "虽说她们两个的精神状况还需注意。"
+      },
+      {
+        "character": "",
+        "text": "不过两个小孩子吃吃甜食应该能缓过来了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐也在照顾她们。\n　就放心交给她吧。",
+        "body": "karuha_03face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我为了寻找刚才那件事的目击者回到车里。"
+      },
+      {
+        "character": "",
+        "text": "鹰世在哪呢……"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "鹰世。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "他摔下来了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "放心吧，我就当做没看到。\n谁会想看啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "阿宅有时候会突然爆发奇怪的举动呢。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "花江小姐淡然地走了出去。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "在车厢连接处照例吸了支烟。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "没想到她还挺会关心别人的。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "自从知道了诺瓦对香烟过敏，\n　她好像就没在诺瓦附近或者是车厢里吸过烟。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "在这个抽烟都要被指指点点的年代，\n　希望她不要被一起抨击。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "对了，",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "姑且你没在人前蹦来蹦去也算是对他人的一种关心了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "我想聊聊之前那件事。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "见我谈到了认真的话题，鹰世也把语调压了下来。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "那么该说正事了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "刚才在森林里。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "我就直接问了。你有没有看到，或者听到什么？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "除了我、森林、衣服以外的。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "那声音呢？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "……也许是妖怪吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦她们说的是“看到了”。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "而我是“听到了”。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "她们看到了妖怪。\n　还说差点被巨大的妖怪吃掉，",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "而我这边听到的是，",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "小女孩的声音。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "不过……跟诺瓦和狩叶说的不一样。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "这声音好像有些耳熟？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "他摸着自己的喉结说道。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "也是。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "我属于既不相信也不怀疑心灵现象的那种人。\n　若是真的存在倒也没什么问题。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "可是当自己突然遇到这种情况……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "就连该感到害怕还是该找人除魔都无法正常判断了。\n　充斥于心中的仅有迷惑之情。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "……现实？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "妖精可是典型的虚构产物啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "“这我当然知道了”鹰世苦笑道。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "是说芬多精吗？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "毒物？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "原来如此。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "就是说，所谓“森林的空气”，\n里面其实含有致幻剂一类的成分？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "哈～",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "原来如此。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "按此说法我之前听到的声音就是白日梦啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "可是诺瓦她们呢？\n她们两个人都说被可怕的东西袭击了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "原来是这样。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "和真有妖怪出现相比，\n哪边几率更大呢？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "鹰世苦笑着。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "受到森林空气的荼毒。\n　确实是个有趣的假说。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "不过就这个假说而言，\n　颇有一番大学教授对心灵现象感到不爽从而强行否定的感觉。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "对于我这个对幽灵之类并不抵触的人来说，",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "幽灵真实存在反倒更容易接受。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "总之这个说法挺有趣的。\n多谢了鹰世。",
+        "body": "takase_09face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      }
+    ]
+  },
+  {
+    "background": "bg000a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      }
+    ]
+  },
+  {
+    "background": "bg000b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "两个小时转眼间就过去了，"
+      }
+    ]
+  },
+  {
+    "background": "bg035b",
+    "dialogues": [
+      {
+        "character": "晓",
         "text": "乘务员——。"
       },
       {
         "character": "カルハ大",
-        "text": "嘶呀～"
+        "text": "嘶呀～",
+        "body": "large_karuha_02face"
       },
       {
         "character": "ノワール大",
-        "text": "呼～"
+        "text": "呼～",
+        "body": "large_noir_04face"
       },
       {
         "character": "ジビエ大",
-        "text": "咕噜噜噜噜～"
+        "text": "咕噜噜噜噜～",
+        "body": "large_jibie_02face"
       },
       {
         "character": "",
-        "text": "这三个人经历了一番短暂的冒险后，\n　全都安然入睡了。"
+        "text": "这三个人经历了一番短暂的冒险后，\n　全都安然入睡了。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "看起来关系还不错。"
+        "text": "看起来关系还不错。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "不过，"
+        "text": "不过，",
+        "body": "karuha_03face"
       }
     ]
   },
   {
-    "background": "背景大_駅列車_夕",
+    "background": "bg035b",
     "dialogues": [
       {
-        "character": "暁",
-        "text": "乘务员，快醒醒。"
+        "character": "晓",
+        "text": "乘务员，快醒醒。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "戳，戳。"
-      },
-      {
-        "character": "カルハ",
-        "text": "嗯——？"
+        "text": "戳，戳。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "离发车时间……已经过去五分钟了。"
+        "text": "离发车时间……已经过去五分钟了。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "就算已经开车了这样睡也不太好吧。"
+        "text": "就算已经开车了这样睡也不太好吧。",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "暁",
-        "text": "快醒醒啊。（戳戳）"
+        "character": "晓",
+        "text": "快醒醒啊。（戳戳）",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "カルハ",
-        "text": "唔——什么？"
-      },
-      {
-        "character": "カルハ",
-        "text": "还好困啊。\n姐姐再让我睡五分钟～"
-      },
-      {
-        "character": "暁",
-        "text": "至少叫哥哥，我还能考虑一下。"
-      },
-      {
-        "character": "カルハ",
-        "text": "哈哎？"
+        "character": "晓",
+        "text": "至少叫哥哥，我还能考虑一下。",
+        "body": "karuha_03face"
       }
     ]
   },
   {
-    "background": "背景_駅列車_夕",
+    "background": "bg035b",
     "dialogues": [
       {
-        "character": "カルハ",
-        "text": "啊，你干嘛。\n别偷看淑女睡觉。"
+        "character": "狩叶",
+        "text": "啊，你干嘛。\n别偷看淑女睡觉。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "起来了。"
+        "text": "起来了。",
+        "body": "karuha_03face"
       },
       {
-        "character": "暁",
-        "text": "淑女可不会想着在这种混凝土地板上呼呼大睡。"
+        "character": "晓",
+        "text": "淑女可不会想着在这种混凝土地板上呼呼大睡。",
+        "body": "karuha_03face"
       },
       {
-        "character": "暁",
-        "text": "看这儿，还睡吗？"
-      },
-      {
-        "character": "",
-        "text": "我让她看了眼睡觉的时候也像宝物一样抱着的怀表。"
-      },
-      {
-        "character": "",
-        "text": "长针又“滴答”地走了一格。"
+        "character": "晓",
+        "text": "看这儿，还睡吗？",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "已经比预定出发的时间晚六分钟了。"
-      },
-      {
-        "character": "カルハ",
-        "text": "呀！"
-      },
-      {
-        "character": "カルハ",
-        "text": "糟了糟了糟了！　快上车！　快！"
-      },
-      {
-        "character": "暁",
-        "text": "好好好。\n野鸟小姐，诺瓦，快起来。"
+        "text": "我让她看了眼睡觉的时候也像宝物一样抱着的怀表。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "鹰世和花江小姐貌似已经在车里待机了。"
+        "text": "长针又“滴答”地走了一格。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "我戳了戳剩下两个人的脸。"
+        "text": "已经比预定出发的时间晚六分钟了。",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "ノワール",
-        "text": "嗯嗯。"
+        "character": "狩叶",
+        "text": "呀！",
+        "body": "karuha_03face"
       },
       {
-        "character": "ジビエ",
-        "text": "呼啊啊。"
+        "character": "狩叶",
+        "text": "糟了糟了糟了！　快上车！　快！",
+        "body": "karuha_03face"
       },
       {
-        "character": "",
-        "text": "野鸟小姐不愧是大人，一下就起来了。"
-      },
-      {
-        "character": "ノワール大",
-        "text": "……"
-      },
-      {
-        "character": "ノワール",
-        "text": "嘶～"
+        "character": "晓",
+        "text": "好好好。\n野鸟小姐，诺瓦，快起来。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "而这位睡得正香。"
-      },
-      {
-        "character": "カルハ",
-        "text": "快点快点！"
-      },
-      {
-        "character": "暁",
-        "text": "好啦好啦。"
+        "text": "鹰世和花江小姐貌似已经在车里待机了。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "先前蒙头大睡的乘务员在催了，得赶紧上车才行。"
+        "text": "我戳了戳剩下两个人的脸。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "嗯嗯。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "野鸟",
+        "text": "呼啊啊。",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "带出来的垃圾之类的已经收拾好了，\n　行李也全都装上车了。"
+        "text": "野鸟小姐不愧是大人，一下就起来了。",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "就只剩诺瓦了。"
+        "text": "而这位睡得正香。",
+        "body": "noir_17face"
       },
       {
-        "character": "暁",
-        "text": "野鸟小姐，可以拜托你把诺瓦抱上去吗？"
+        "character": "狩叶",
+        "text": "快点快点！",
+        "body": "karuha_03face"
       },
       {
-        "character": "ジビエ",
-        "text": "好的好的♪"
-      },
-      {
-        "character": "",
-        "text": "比起叫她起来，直接抱上车会更快。"
-      },
-      {
-        "character": "",
-        "text": "但我是男性，抱她有点不太好。\n　就拜托给女性好了。"
+        "character": "晓",
+        "text": "好啦好啦。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "把诺瓦交给她以后，我就……"
+        "text": "先前蒙头大睡的乘务员在催了，得赶紧上车才行。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "——揪。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "ジビエ",
-        "text": "哎呀呀。"
+        "text": "带出来的垃圾之类的已经收拾好了，\n　行李也全都装上车了。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "这个情况……"
+        "text": "就只剩诺瓦了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "野鸟小姐，可以拜托你把诺瓦抱上去吗？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "野鸟",
+        "text": "好的好的♪",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "我想离开时才发现。"
+        "text": "比起叫她起来，直接抱上车会更快。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "估计是刚才戳她脸的时候。"
+        "text": "但我是男性，抱她有点不太好。\n　就拜托给女性好了。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "诺瓦用手抓住了我的衣服。"
+        "text": "把诺瓦交给她以后，我就……",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "连睡着都紧紧抓着我。"
+        "text": "——揪。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "野鸟",
+        "text": "哎呀呀。",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "这下一来……"
-      },
-      {
-        "character": "ジビエ",
-        "text": "看来得要白先生把她运上去了呢。"
-      },
-      {
-        "character": "暁",
-        "text": "是啊。"
+        "text": "这个情况……",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "没辙了。"
+        "text": "我想离开时才发现。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "估计是刚才戳她脸的时候。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦用手抓住了我的衣服。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "连睡着都紧紧抓着我。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "这下一来……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "野鸟",
+        "text": "看来得要白先生把她运上去了呢。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "是啊。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "没辙了。",
+        "body": "jibie_02face"
       }
     ]
   },
   {
-    "background": "背景大_駅列車_夕",
+    "background": "bg035b",
     "dialogues": [
       {
         "character": "",
-        "text": "我把她抱起来。"
-      },
-      {
-        "character": "ノワール",
-        "text": "嗯……"
-      },
-      {
-        "character": "ノワール",
-        "text": "嗯唔。"
+        "text": "我把她抱起来。",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "诺瓦舒服地把头埋在了我的胸前。"
+        "text": "诺瓦舒服地把头埋在了我的胸前。",
+        "body": "noir_17face"
       },
       {
-        "character": "暁",
-        "text": "……"
+        "character": "晓",
+        "text": "……",
+        "body": "noir_17face"
       },
       {
-        "character": "ジビエ",
-        "text": "白先生。你在傻笑呢。"
+        "character": "野鸟",
+        "text": "白先生。你在傻笑呢。",
+        "body": "noir_17face"
       },
       {
-        "character": "暁",
-        "text": "这也没办法吧。"
+        "character": "晓",
+        "text": "这也没办法吧。",
+        "body": "noir_17face"
       },
       {
-        "character": "ジビエ",
-        "text": "是呢。"
-      },
-      {
-        "character": "",
-        "text": "真可爱。"
-      },
-      {
-        "character": "",
-        "text": "简直像是只真正的猫咪。"
+        "character": "野鸟",
+        "text": "是呢。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "治愈人心。"
+        "text": "真可爱。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "简直像是只真正的猫咪。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "治愈人心。",
+        "body": "noir_17face"
       }
     ]
   },
   {
-    "background": "背景大_駅列車_夕",
+    "background": "bg035b",
     "dialogues": [
       {
         "character": "",
@@ -301,7 +1201,7 @@
     ]
   },
   {
-    "background": "背景_駅列車_夕",
+    "background": "bg035b",
     "dialogues": [
       {
         "character": "",
@@ -312,49 +1212,49 @@
         "text": "刚一抬腿……"
       },
       {
-        "character": "ジビエ",
-        "text": "……"
+        "character": "野鸟",
+        "text": "……",
+        "body": "jibie_02face"
       },
       {
-        "character": "暁",
-        "text": "野鸟小姐？"
+        "character": "晓",
+        "text": "野鸟小姐？",
+        "body": "jibie_02face"
       },
       {
-        "character": "ジビエ",
-        "text": "嗯……没什么。"
-      },
-      {
-        "character": "",
-        "text": "野鸟小姐停下脚步，\n　最后朝车站外看了一眼。"
-      },
-      {
-        "character": "",
-        "text": "望向森林的眼神中充满了怀念。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "……"
-      },
-      {
-        "character": "ジビエ",
-        "text": "真是片不可思议的森林……"
-      },
-      {
-        "character": "ジビエ",
-        "text": "……"
-      },
-      {
-        "character": "ジビエ",
-        "text": "走吧。"
+        "character": "野鸟",
+        "text": "嗯……没什么。",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "她转身上车。"
+        "text": "野鸟小姐停下脚步，\n　最后朝车站外看了一眼。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "望向森林的眼神中充满了怀念。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "真是片不可思议的森林……",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "走吧。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "她转身上车。",
+        "body": "jibie_02face"
       }
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
@@ -369,88 +1269,95 @@
         "text": "我把睡着的诺瓦轻轻放在座位上。"
       },
       {
-        "character": "ノワール",
+        "character": "诺瓦",
         "text": "呼啊。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "哦呀。"
       },
       {
         "character": "",
-        "text": "估计是因为重心的突然变动，她醒了过来。"
+        "text": "估计是因为重心的突然变动，她醒了过来。",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "眨了眨眼睛。"
+        "text": "眨了眨眼睛。",
+        "body": "large_noir_04face"
       },
       {
-        "character": "暁",
-        "text": "早啊。"
-      },
-      {
-        "character": "ノワール",
-        "text": "早上……好。"
-      },
-      {
-        "character": "ノワール",
-        "text": "呼哇。"
+        "character": "晓",
+        "text": "早啊。",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "跑掉了。"
+        "text": "跑掉了。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "看来刚才距离太近了。"
+        "text": "看来刚才距离太近了。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "算了。\r\n　我坐回之前一直坐的那个座位上。"
+        "text": "算了。\r\n　我坐回之前一直坐的那个座位上。",
+        "body": "noir_17face"
       },
       {
-        "character": "ノワール",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "诺瓦扭扭捏捏的。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "诺瓦刚才睡着了，\n是白先生把你抱上来的。"
-      },
-      {
-        "character": "ノワール",
-        "text": "啊呜，嗯、嗯，我知道。"
-      },
-      {
-        "character": "ノワール",
-        "text": "谢、谢谢。"
+        "character": "诺瓦",
+        "text": "……",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "她道了一句谢，就羞答答地跑开了。"
+        "text": "诺瓦扭扭捏捏的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "野鸟",
+        "text": "诺瓦刚才睡着了，\n是白先生把你抱上来的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊呜，嗯、嗯，我知道。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "谢、谢谢。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "野鸟小姐笑嘻嘻地追了过去。"
+        "text": "她道了一句谢，就羞答答地跑开了。",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "之后就交给她来照顾。"
+        "text": "野鸟小姐笑嘻嘻地追了过去。",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "我就悠闲地坐等发车吧。"
+        "text": "之后就交给她来照顾。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "我就悠闲地坐等发车吧。",
+        "body": "jibie_02face"
       }
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -480,10 +1387,10 @@
     ]
   },
   {
-    "background": "背景_森_昼",
+    "background": "bg070a",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -491,7 +1398,7 @@
         "text": "妖怪。"
       },
       {
-        "character": "女の子",
+        "character": "女孩",
         "text": "……去寻找。"
       },
       {
@@ -503,20 +1410,20 @@
         "text": "她确实说了这样的话，"
       },
       {
-        "character": "女の子",
+        "character": "女孩",
         "text": "我就藏在……心脏之中。找出来吧。"
       },
       {
-        "character": "女の子",
+        "character": "女孩",
         "text": "就在翅膀之下……"
       }
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -540,44 +1447,47 @@
         "text": "出什么事了么？"
       },
       {
-        "character": "ジビエ",
-        "text": "于是啊，我正要抱着诺瓦上车的时候，\n白先生突然跳出来说“hold on me！　诺瓦就交给我，\n你先走！”　。"
+        "character": "野鸟",
+        "text": "于是啊，我正要抱着诺瓦上车的时候，\n白先生突然跳出来说“hold on me！　诺瓦就交给我，\n你先走！”　。",
+        "body": "jibie_02face"
       },
       {
-        "character": "ノワール",
-        "text": "哈哇哇哇哇。"
+        "character": "诺瓦",
+        "text": "哈哇哇哇哇。",
+        "body": "noir_17face"
       },
       {
-        "character": "暁",
-        "text": "喂，在那胡扯的家伙。"
+        "character": "晓",
+        "text": "喂，在那胡扯的家伙。",
+        "body": "noir_17face"
       },
       {
-        "character": "ジビエ",
-        "text": "有事吗？"
+        "character": "野鸟",
+        "text": "有事吗？",
+        "body": "jibie_02face"
       },
       {
-        "character": "暁",
-        "text": "不知道为什么还不发车，\n所有人都上车了吧？"
-      },
-      {
-        "character": "ジビエ",
-        "text": "是的哦？\n我、诺瓦、白先生，\n鹰世先生在那边，花江小姐在那边。"
-      },
-      {
-        "character": "",
-        "text": "不是乘客的原因。"
+        "character": "晓",
+        "text": "不知道为什么还不发车，\n所有人都上车了吧？",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "也就是说，"
+        "text": "不是乘客的原因。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "也就是说，",
+        "body": "jibie_02face"
       }
     ]
   },
   {
-    "background": "背景_ボイラー室_開",
+    "background": "bg050e",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "狩叶？"
       },
       {
@@ -585,49 +1495,54 @@
         "text": "我去找乘务员。"
       },
       {
-        "character": "カルハ",
-        "text": "啊呜～，好奇怪啊，为什么不动呢？"
+        "character": "狩叶",
+        "text": "啊呜～，好奇怪啊，为什么不动呢？",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "一目了然，这边出麻烦了。"
+        "text": "一目了然，这边出麻烦了。",
+        "body": "karuha_03face"
       },
       {
-        "character": "暁",
-        "text": "怎么了？"
+        "character": "晓",
+        "text": "怎么了？",
+        "body": "karuha_03face"
       },
       {
-        "character": "カルハ",
-        "text": "啊，来得正好。"
+        "character": "狩叶",
+        "text": "啊，来得正好。",
+        "body": "karuha_03face"
       },
       {
-        "character": "カルハ",
-        "text": "你有开过SL机车吗？"
-      },
-      {
-        "character": "暁",
-        "text": "怎么可能。\n坐都是第一次坐。"
-      },
-      {
-        "character": "",
-        "text": "实际开过这种古董的人，\n　估计找遍全日本都没几个。"
-      },
-      {
-        "character": "カルハ",
-        "text": "它动不了了。好奇怪啊。"
+        "character": "晓",
+        "text": "怎么可能。\n坐都是第一次坐。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "狩叶摆弄得锅炉的操纵盘咔哒咔哒响。"
+        "text": "实际开过这种古董的人，\n　估计找遍全日本都没几个。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "它动不了了。好奇怪啊。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "可是一点反应都没有。"
+        "text": "狩叶摆弄得锅炉的操纵盘咔哒咔哒响。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "可是一点反应都没有。",
+        "body": "karuha_03face"
       }
     ]
   },
   {
-    "background": "背景大_ボイラー室_開",
+    "background": "bg050e",
     "dialogues": [
       {
         "character": "",
@@ -640,362 +1555,376 @@
     ]
   },
   {
-    "background": "背景_ボイラー室_開",
+    "background": "bg050e",
     "dialogues": [
       {
         "character": "",
-        "text": "没办法了。\n　我是帮不上什么忙了，不过——"
+        "text": "没办法了。\n　我是帮不上什么忙了，不过——",
+        "body": "karuha_03face"
       }
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "鹰世在吗？　乘务员说可以请你来发动机房看看。"
       },
       {
-        "character": "タカセ",
-        "text": "什么！"
-      },
-      {
         "character": "",
-        "text": "他一口气冲了进来。"
+        "text": "他一口气冲了进来。",
+        "body": "large_takase_02face"
       }
     ]
   },
   {
-    "background": "背景_ボイラー室_開",
+    "background": "bg050e",
     "dialogues": [
       {
         "character": "",
-        "text": "我简述了一下现状。"
+        "text": "我简述了一下现状。",
+        "body": "takase_09face"
       },
       {
         "character": "タカセ大",
-        "text": "明白了。让我来检查一下。"
-      },
-      {
-        "character": "タカセ大",
-        "text": "～♪"
+        "text": "～♪",
+        "body": "large_takase_02face"
       },
       {
         "character": "",
-        "text": "获得许可之后，"
+        "text": "获得许可之后，",
+        "body": "large_takase_02face"
       },
       {
         "character": "",
-        "text": "鹰世立马兴致勃勃地排查起锅炉。"
+        "text": "鹰世立马兴致勃勃地排查起锅炉。",
+        "body": "large_takase_02face"
       },
       {
         "character": "",
-        "text": "阿铁一般都很擅长玩电车模拟类的游戏，"
+        "text": "阿铁一般都很擅长玩电车模拟类的游戏，",
+        "body": "large_takase_02face"
       },
       {
         "character": "",
-        "text": "肯定比我靠谱多了。"
+        "text": "肯定比我靠谱多了。",
+        "body": "large_takase_02face"
       },
       {
         "character": "",
-        "text": "话说回来，"
+        "text": "话说回来，",
+        "body": "large_takase_02face"
       },
       {
-        "character": "暁",
-        "text": "一到处理事故你就不行了啊。"
+        "character": "晓",
+        "text": "一到处理事故你就不行了啊。",
+        "body": "karuha_03face"
       },
       {
-        "character": "カルハ",
-        "text": "你、你好多嘴啊。"
-      },
-      {
-        "character": "",
-        "text": "像她这么大的孩子，满身油污去修理古董机器的场面，\n　确实连想象起来都很困难。"
-      },
-      {
-        "character": "カルハ",
-        "text": "一开始就说好了，我只担任导游就好。\n其它的我才不懂呢。"
-      },
-      {
-        "character": "暁",
-        "text": "……明明刚才还睡懒觉翘掉了导游的工作呢。"
-      },
-      {
-        "character": "カルハ",
-        "text": "啊？"
-      },
-      {
-        "character": "暁",
-        "text": "别、别生气啊。"
+        "character": "狩叶",
+        "text": "你、你好多嘴啊。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "只是随口开个玩笑。"
+        "text": "像她这么大的孩子，满身油污去修理古董机器的场面，\n　确实连想象起来都很困难。",
+        "body": "karuha_03face"
       },
       {
-        "character": "カルハ",
-        "text": "唔～，好奇怪啊，我应该能控制才对的。"
+        "character": "狩叶",
+        "text": "一开始就说好了，我只担任导游就好。\n其它的我才不懂呢。",
+        "body": "karuha_03face"
       },
       {
-        "character": "",
-        "text": "她一边说话一边继续排查锅炉。\n　看来她还挺有责任感的。"
+        "character": "晓",
+        "text": "……明明刚才还睡懒觉翘掉了导游的工作呢。",
+        "body": "karuha_03face"
       },
       {
-        "character": "",
-        "text": "这样一来，我也有点想摸摸看了。"
-      },
-      {
-        "character": "暁",
-        "text": "锅炉室……没我想象中烟那么大呢。"
-      },
-      {
-        "character": "タカセ",
-        "text": "这种构造密封性是很重要的。"
+        "character": "晓",
+        "text": "别、别生气啊。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "这个装置的设计理念主要是，\n　让热量和和蒸汽全被发动机所吸收。"
+        "text": "只是随口开个玩笑。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "比起这个，像是机油、裸露的铁骨、铁锈，"
+        "text": "她一边说话一边继续排查锅炉。\n　看来她还挺有责任感的。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "还有石炭特有的那种气味比较呛鼻。"
+        "text": "这样一来，我也有点想摸摸看了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "锅炉室……没我想象中烟那么大呢。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "锅炉室。"
+        "text": "这个装置的设计理念主要是，\n　让热量和和蒸汽全被发动机所吸收。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "正是这列火车的发动机房。"
-      },
-      {
-        "character": "タカセ",
-        "text": "原来如此。别担心。只是安全阀合上了。"
-      },
-      {
-        "character": "タカセ",
-        "text": "这样……就好了。"
+        "text": "比起这个，像是机油、裸露的铁骨、铁锈，",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "他打开了连接到上方铁管的底部。"
+        "text": "还有石炭特有的那种气味比较呛鼻。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "伴随着“嗖”的一声，\n　底下一块仪表盘上的指针一下往回转了半圈。"
-      },
-      {
-        "character": "カルハ",
-        "text": "啊，动起来了。"
-      },
-      {
-        "character": "暁",
-        "text": "真的？"
+        "text": "锅炉室。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "我没感到有什么变化，但听她说的似乎是可以了。"
+        "text": "正是这列火车的发动机房。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "原来如此。别担心。只是安全阀合上了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "这样……就好了。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "——隆隆，隆，隆隆。"
+        "text": "他打开了连接到上方铁管的底部。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "鹰世刚摆弄过的那铁管发出了一阵响声。"
+        "text": "伴随着“嗖”的一声，\n　底下一块仪表盘上的指针一下往回转了半圈。",
+        "body": "takase_09face"
       },
       {
-        "character": "タカセ",
-        "text": "这样就可以了。过一会就能跑起来了。"
+        "character": "狩叶",
+        "text": "啊，动起来了。",
+        "body": "karuha_03face"
       },
       {
-        "character": "暁",
-        "text": "哈～"
-      },
-      {
-        "character": "",
-        "text": "发车是一个很漫长的过程，现在还没感觉到动力，\n　至少准备工作已经完成了。"
-      },
-      {
-        "character": "暁",
-        "text": "你果然很懂行啊鹰世。"
-      },
-      {
-        "character": "タカセ",
-        "text": "兴趣使然吧。\n我从来没想过这些知识有一天能用得上。"
+        "character": "晓",
+        "text": "真的？",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "接触到真正的SL发动机让他很高兴。\n　情绪也逐渐高涨了起来。"
-      },
-      {
-        "character": "カルハ",
-        "text": "太好了……谢谢你鹰世先生。"
-      },
-      {
-        "character": "タカセ",
-        "text": "没关系。"
-      },
-      {
-        "character": "タカセ",
-        "text": "比起这个，我可以在这里直到发车吗？"
-      },
-      {
-        "character": "カルハ",
-        "text": "嗯、嗯——可以哦。"
+        "text": "我没感到有什么变化，但听她说的似乎是可以了。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "按照规定……列车启动的时候乘客需要在座位上，\n　不过我们例外得到能在这里看发动机的许可。"
+        "text": "——隆隆，隆，隆隆。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "先前的故障令狩叶对能否正常发车还很不安。\n　留我们在这也是理所当然的吧。"
+        "text": "鹰世刚摆弄过的那铁管发出了一阵响声。",
+        "body": "karuha_03face"
       },
       {
-        "character": "暁",
-        "text": "鹰世，说到底是什么……"
+        "character": "鹰世",
+        "text": "这样就可以了。过一会就能跑起来了。",
+        "body": "takase_09face"
       },
       {
-        "character": "タカセ",
-        "text": "……"
-      },
-      {
-        "character": "タカセ",
-        "text": "（嗅，嗅）"
-      },
-      {
-        "character": "タカセ",
-        "text": "哎呀～，这就是SL的发动机的气味。"
-      },
-      {
-        "character": "カルハ",
-        "text": "……气味？"
-      },
-      {
-        "character": "暁",
-        "text": "不好意思，可以打扰你的神游问个问题吗？"
-      },
-      {
-        "character": "タカセ",
-        "text": "啊，好的，问吧。"
+        "character": "晓",
+        "text": "哈～",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "作为男人来说，\n　能实现摸到SL发动机的梦想自然令人高兴，\r\n　可闻味道都能兴奋会震撼到狩叶的，我赶紧制止了他。"
+        "text": "发车是一个很漫长的过程，现在还没感觉到动力，\n　至少准备工作已经完成了。",
+        "body": "takase_09face"
       },
       {
-        "character": "暁",
-        "text": "说到底是出了什么问题？　那根……管子一样的？"
+        "character": "晓",
+        "text": "你果然很懂行啊鹰世。",
+        "body": "takase_09face"
       },
       {
-        "character": "タカセ",
-        "text": "那是输气口。\n不知道里面具体是什么样的构造，\n总之是输入空气排出蒸汽的装置。"
-      },
-      {
-        "character": "タカセ",
-        "text": "因为这里闭合了，导致蒸汽出不去，\n蒸汽机就停止运作了……就这么一回事。"
-      },
-      {
-        "character": "暁",
-        "text": "原来是这样。"
-      },
-      {
-        "character": "カルハ",
-        "text": "？　？"
+        "character": "鹰世",
+        "text": "兴趣使然吧。\n我从来没想过这些知识有一天能用得上。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "我听明白了，可有个人还云里雾里。"
+        "text": "接触到真正的SL发动机让他很高兴。\n　情绪也逐渐高涨了起来。",
+        "body": "takase_09face"
       },
       {
-        "character": "カルハ",
-        "text": "蒸汽？　为什么没有蒸汽就动不了呢。"
+        "character": "狩叶",
+        "text": "太好了……谢谢你鹰世先生。",
+        "body": "karuha_03face"
       },
       {
-        "character": "タカセ",
-        "text": "因为……SL是蒸汽机车啊。"
+        "character": "鹰世",
+        "text": "没关系。",
+        "body": "takase_09face"
       },
       {
-        "character": "カルハ",
-        "text": "？？？"
-      },
-      {
-        "character": "",
-        "text": "她疑惑地歪着头。"
-      },
-      {
-        "character": "",
-        "text": "这么看来……"
-      },
-      {
-        "character": "暁",
-        "text": "乘务员小姐，难不成，\n你不知道蒸汽发动机的原理？"
-      },
-      {
-        "character": "カルハ",
-        "text": "呜。"
+        "character": "鹰世",
+        "text": "比起这个，我可以在这里直到发车吗？",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "看来是不知道啊。"
+        "text": "按照规定……列车启动的时候乘客需要在座位上，\n　不过我们例外得到能在这里看发动机的许可。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "倘若回到蒸汽机车盛行的那个年代，\n　恐怕她的工作就是拿着巨大的铲子往锅炉里添煤了。"
+        "text": "先前的故障令狩叶对能否正常发车还很不安。\n　留我们在这也是理所当然的吧。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "鹰世，说到底是什么……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "（嗅，嗅）",
+        "body": "takase_09face"
+      },
+      {
+        "character": "狩叶",
+        "text": "……气味？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "不好意思，可以打扰你的神游问个问题吗？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "鹰世",
+        "text": "啊，好的，问吧。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "不过这列车的燃料似乎是机器供给的，\n　难以分辨用的到底是不是煤炭。"
+        "text": "作为男人来说，\n　能实现摸到SL发动机的梦想自然令人高兴，\r\n　可闻味道都能兴奋会震撼到狩叶的，我赶紧制止了他。",
+        "body": "takase_09face"
       },
       {
-        "character": "タカセ",
-        "text": "蒸汽机简单来说就是……"
+        "character": "晓",
+        "text": "说到底是出了什么问题？　那根……管子一样的？",
+        "body": "takase_09face"
       },
       {
-        "character": "",
-        "text": "在锅炉里烧火使水沸腾，\n　靠蒸汽喷出的动力使列车移动。"
+        "character": "晓",
+        "text": "原来是这样。",
+        "body": "takase_09face"
       },
       {
-        "character": "",
-        "text": "鹰世简单明了地说明了一番。"
-      },
-      {
-        "character": "カルハ",
-        "text": "呼哎——。"
-      },
-      {
-        "character": "タカセ",
-        "text": "这也被称作工业革命的基石，\n对人类历史影响最大的发明。"
-      },
-      {
-        "character": "暁",
-        "text": "应该是仅次于用火和造纸术了。"
-      },
-      {
-        "character": "カルハ",
-        "text": "蒸汽机车原来这么厉害啊。"
+        "character": "狩叶",
+        "text": "？　？",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "乘务员听着乘客的解说感到了这辆车的伟大。"
+        "text": "我听明白了，可有个人还云里雾里。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "狩叶",
+        "text": "？？？",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "不懂就问倒是件好事。"
+        "text": "她疑惑地歪着头。",
+        "body": "takase_09face"
       },
       {
-        "character": "暁",
-        "text": "现在看来已经是机械制造的基础中的基础了，\n可是发明这个的人是非常了不起的。"
+        "character": "",
+        "text": "这么看来……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "乘务员小姐，难不成，\n你不知道蒸汽发动机的原理？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "看来是不知道啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "倘若回到蒸汽机车盛行的那个年代，\n　恐怕她的工作就是拿着巨大的铲子往锅炉里添煤了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "不过这列车的燃料似乎是机器供给的，\n　难以分辨用的到底是不是煤炭。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "蒸汽机简单来说就是……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "在锅炉里烧火使水沸腾，\n　靠蒸汽喷出的动力使列车移动。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "鹰世简单明了地说明了一番。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "狩叶",
+        "text": "呼哎——。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "应该是仅次于用火和造纸术了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "乘务员听着乘客的解说感到了这辆车的伟大。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "不懂就问倒是件好事。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "现在看来已经是机械制造的基础中的基础了，\n可是发明这个的人是非常了不起的。",
+        "body": "takase_09face"
       }
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
         "character": "",
@@ -1004,1646 +1933,6 @@
       {
         "character": "",
         "text": "当然了，\n　从这里发出的能量最终是怎么传递给车轮的，\n　这个系统我就完全不懂了。"
-      }
-    ]
-  },
-  {
-    "background": "背景_ボイラー室_開",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "总之能动起来就是项壮举。"
-      },
-      {
-        "character": "タカセ",
-        "text": "所以呢，这里就是这辆火车……那个。"
-      },
-      {
-        "character": "カルハ",
-        "text": "银河号。"
-      },
-      {
-        "character": "タカセ",
-        "text": "就是银河号的心脏部位。"
-      },
-      {
-        "character": "暁",
-        "text": "啊。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "心脏。"
-      },
-      {
-        "character": "",
-        "text": "他一说我突然悟了。"
-      }
-    ]
-  },
-  {
-    "background": "背景_ボイラー室_開",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "原来如此，是心脏。"
-      },
-      {
-        "character": "",
-        "text": "鹰世刚才摆弄的地方就是血管，\n　从这里送出的能量供全身运动。"
-      },
-      {
-        "character": "",
-        "text": "这个锅炉，是名副其实的心脏。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "タカセ",
-        "text": "怎么了吗？"
-      },
-      {
-        "character": "暁",
-        "text": "不，没什么。"
-      },
-      {
-        "character": "",
-        "text": "傻站着的我引起了他的注意，只得苦笑一声应付过去。"
-      },
-      {
-        "character": "",
-        "text": "不知为何好想去触碰这颗心脏。"
-      },
-      {
-        "character": "",
-        "text": "——滋。"
-      },
-      {
-        "character": "タカセ",
-        "text": "别摸！"
-      },
-      {
-        "character": "暁",
-        "text": "哎？"
-      }
-    ]
-  },
-  {
-    "background": "背景_ボイラー室_開",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "好烫！"
-      },
-      {
-        "character": "",
-        "text": "我这都是在干啥呀。\n　居然徒手触摸正在烧火的锅炉。"
-      },
-      {
-        "character": "",
-        "text": "触电般的剧烈疼痛从手掌袭来，\n　身体不受控制地向后仰去。"
-      },
-      {
-        "character": "",
-        "text": "——咣当。"
-      },
-      {
-        "character": "",
-        "text": "我一屁股坐在了地上。"
-      },
-      {
-        "character": "タカセ",
-        "text": "你、你没事吧？\n那可有800度以上的高温，怎么能碰呢。"
-      },
-      {
-        "character": "暁",
-        "text": "是啊……我到底在干什么呢。"
-      },
-      {
-        "character": "カルハ",
-        "text": "我去拿水来。"
-      },
-      {
-        "character": "",
-        "text": "狩叶跑了出去。"
-      },
-      {
-        "character": "",
-        "text": "好在没有烫伤。\n　仅是有点刺痛。"
-      },
-      {
-        "character": "",
-        "text": "比较夸张的是刚才摔在地上的时候，"
-      },
-      {
-        "character": "",
-        "text": "身体重重撞在了后面的墙上。"
-      },
-      {
-        "character": "",
-        "text": "不会把哪给撞坏了吧？\n　我赶紧检查了一下四周……"
-      },
-      {
-        "character": "",
-        "text": "——沙沙。"
-      },
-      {
-        "character": "暁",
-        "text": "嗯？"
-      },
-      {
-        "character": "",
-        "text": "好像手指摸到了什么东西。"
-      },
-      {
-        "character": "",
-        "text": "还是我熟知的触感。"
-      },
-      {
-        "character": "タカセ",
-        "text": "怎么了？\n……哦呀？"
-      },
-      {
-        "character": "暁",
-        "text": "这是……"
-      },
-      {
-        "character": "",
-        "text": "表面有点粗糙，又软软的。"
-      },
-      {
-        "character": "",
-        "text": "是纸。很大的一张纸。"
-      },
-      {
-        "character": "タカセ",
-        "text": "绘图纸……？"
-      },
-      {
-        "character": "暁",
-        "text": "是啊。"
-      },
-      {
-        "character": "",
-        "text": "学生在学校经常用的那种360度翻页的绘图纸。"
-      },
-      {
-        "character": "",
-        "text": "以此装订的一本写生本掉在地上。"
-      },
-      {
-        "character": "",
-        "text": "旁边还有油性笔。\n　有黑色的，有红色的，还有蓝色的。"
-      },
-      {
-        "character": "カルハ",
-        "text": "我把降温的东西拿来了……那是？"
-      },
-      {
-        "character": "暁",
-        "text": "啊，那个，这是从哪掉出来的？"
-      },
-      {
-        "character": "カルハ",
-        "text": "绘图纸？　为什么会有这种东西。"
-      },
-      {
-        "character": "暁",
-        "text": "你不知道吗？"
-      },
-      {
-        "character": "カルハ",
-        "text": "不知道。\n不是你拿进来的？"
-      },
-      {
-        "character": "カルハ",
-        "text": "刚才还没有呢吧。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      }
-    ]
-  },
-  {
-    "background": "イベント6_b",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "是一本很常见的写生本。"
-      },
-      {
-        "character": "",
-        "text": "我翻开看了看，里面什么都没画。"
-      },
-      {
-        "character": "",
-        "text": "可也不像……全新的册子。\n　侧环已经被压扁了，封面上也像沾着一点汗渍。"
-      },
-      {
-        "character": "",
-        "text": "像是买回来以后就放在那里一直没用过。"
-      },
-      {
-        "character": "",
-        "text": "只有封面上有画。"
-      },
-      {
-        "character": "",
-        "text": "是一副非常漂亮的画。"
-      },
-      {
-        "character": "",
-        "text": "画面上描绘着像是天鹅的雪白羽翼。"
-      }
-    ]
-  },
-  {
-    "background": "背景_空_夜",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "・・・・・"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "ノワール",
-        "text": "是写生本吗？"
-      },
-      {
-        "character": "暁",
-        "text": "是啊。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "里面什么都没画呢"
-      },
-      {
-        "character": "",
-        "text": "我来回翻了几遍，\n　不管我怎么翻内页都是一片空白。"
-      },
-      {
-        "character": "暁",
-        "text": "这本身是随处可见的东西。"
-      },
-      {
-        "character": "",
-        "text": "随便找个文具店都能买到。"
-      },
-      {
-        "character": "",
-        "text": "不同于百元店里那种廉价品，\n　这种纸品质很不错，既流畅又不渗色。\n　价格还不贵。"
-      },
-      {
-        "character": "",
-        "text": "甚至我家附近的学校\n　都会推荐学生购买这一款。"
-      },
-      {
-        "character": "暁",
-        "text": "可是不知道为什么，它会出现在发动机房里。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "……是谁落在那的吗？"
-      },
-      {
-        "character": "暁",
-        "text": "我本来也是这么以为的。"
-      },
-      {
-        "character": "カルハ",
-        "text": "这之前应该还没有的。"
-      },
-      {
-        "character": "",
-        "text": "现场的管理人是这么说的。\n　可我心里是还有点犯嘀咕。"
-      },
-      {
-        "character": "タカセ",
-        "text": "我不知道是从哪来的。"
-      },
-      {
-        "character": "花江",
-        "text": "我也不知道。"
-      },
-      {
-        "character": "ノワール",
-        "text": "（摇头）"
-      },
-      {
-        "character": "",
-        "text": "在场的所有人都没印象。"
-      },
-      {
-        "character": "カルハ",
-        "text": "这到底是从哪来的呢。"
-      },
-      {
-        "character": "",
-        "text": "狩叶盯着纯白的纸张思考着。"
-      },
-      {
-        "character": "",
-        "text": "那么。"
-      },
-      {
-        "character": "暁",
-        "text": "如果没人刻意隐瞒，那可以想到两种可能性。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "也就是说。"
-      },
-      {
-        "character": "暁",
-        "text": "一个是刚才停站的时候，\n有人偷偷溜进来把这个放在了车上。"
-      },
-      {
-        "character": "花江",
-        "text": "为什么要干这种事？"
-      },
-      {
-        "character": "暁",
-        "text": "不知道。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "谁会这么干啊？"
-      },
-      {
-        "character": "暁",
-        "text": "是谁不好说，我能想到的是——鹰世。"
-      },
-      {
-        "character": "タカセ",
-        "text": "我在。"
-      },
-      {
-        "character": "暁",
-        "text": "我想问问，像你这类人，\n如果见到有SL停在面前，\n会不会有跑上车把里面的构造之类的画下来的冲动？"
-      },
-      {
-        "character": "タカセ",
-        "text": "有。"
-      },
-      {
-        "character": "花江",
-        "text": "真有啊？"
-      },
-      {
-        "character": "暁",
-        "text": "真有啊？"
-      },
-      {
-        "character": "",
-        "text": "我只是抱着开玩笑的心态问问的。"
-      },
-      {
-        "character": "タカセ",
-        "text": "外观肯定会，\n不过锅炉室倒没什么想画的欲望吧。\n随手拍几张照片倒还正常。"
-      },
-      {
-        "character": "タカセ",
-        "text": "哎呀像我这种拍拍照片可能就满足了，\n但换上家里摆着SL同比例模型的松山先生，\n或者是为了寻求实物在欧洲放浪了200天的大崎先生……"
-      },
-      {
-        "character": "タカセ",
-        "text": "我会不会也干出这种事来？\n还真有这个可能。\n比如手边正好没有能拍照片的工具，就突发奇想——。"
-      },
-      {
-        "character": "暁",
-        "text": "OK快停下鹰世。她们已经听傻了。"
-      },
-      {
-        "character": "タカセ",
-        "text": "失敬。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "Japanese宅……虽然有所耳闻，\n没想到这么Deep呢……"
-      },
-      {
-        "character": "",
-        "text": "这家伙平常是个正常人，就是偶尔宅血沸腾让人无奈。"
-      },
-      {
-        "character": "花江",
-        "text": "总之已经知道世上有这种人了。\n就是无法理解。"
-      },
-      {
-        "character": "花江",
-        "text": "那另一个可能性是什么？"
-      },
-      {
-        "character": "暁",
-        "text": "单纯是狩叶的错觉。"
-      },
-      {
-        "character": "花江",
-        "text": "就这个了。"
-      },
-      {
-        "character": "ノワール",
-        "text": "很有可能。"
-      },
-      {
-        "character": "カルハ",
-        "text": "喂！"
-      },
-      {
-        "character": "暁",
-        "text": "从现实角度考虑这个可能性是最大的吧。"
-      },
-      {
-        "character": "",
-        "text": "管道堵住了都没发现的乘务员，\n　难道真能记住锅炉室里都有些什么吗？"
-      },
-      {
-        "character": "カルハ",
-        "text": "这种事情——。"
-      },
-      {
-        "character": "カルハ",
-        "text": "……之前有吗？　感觉应该没有才对，嗯——。"
-      },
-      {
-        "character": "",
-        "text": "就连本人都不敢打包票。"
-      },
-      {
-        "character": "",
-        "text": "就这样，关于这本绘图纸的来源，\n　是源于奇特的事件，还是打一开始就有，\n　在场各位的心中都有了自己的答案。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      }
-    ]
-  },
-  {
-    "background": "bg_white.png",
-    "dialogues": [
-      {
-        "character": "ねり",
-        "text": "我就藏在……心脏里面。去寻找。"
-      },
-      {
-        "character": "ねり",
-        "text": "就在翅膀之下……"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "还是不要考虑多余的事情了。"
-      },
-      {
-        "character": "",
-        "text": "要是说这里正好符合妖怪说的话会让大家害怕的。"
-      },
-      {
-        "character": "",
-        "text": "没必要制造无端的恐慌。"
-      },
-      {
-        "character": "タカセ",
-        "text": "先不说是从哪来的。"
-      },
-      {
-        "character": "タカセ",
-        "text": "本来是打算画什么的呢。"
-      },
-      {
-        "character": "暁",
-        "text": "对啊，问题在这。"
-      },
-      {
-        "character": "タカセ",
-        "text": "SL的锅炉再怎么古老，也是重工业的基础，\n里面那种精密的设计，不是能靠看几眼就还原在纸面上的，\n要是照片还能解释，可是画……"
-      },
-      {
-        "character": "暁",
-        "text": "画出来的东西也没必要追求那么精密吧。"
-      },
-      {
-        "character": "タカセ",
-        "text": "那可还原不出SL的美感哦？"
-      },
-      {
-        "character": "暁",
-        "text": "那是照你的基准。"
-      },
-      {
-        "character": "",
-        "text": "先不管这个阿宅的执着，"
-      },
-      {
-        "character": "",
-        "text": "写生本的主人，\n　究竟是想画什么呢？"
-      },
-      {
-        "character": "",
-        "text": "正当我和鹰世这么考虑的时候。另一边——"
-      },
-      {
-        "character": "ジビエ",
-        "text": "这个不会是车内销售的商品之类的吧？"
-      },
-      {
-        "character": "花江",
-        "text": "观光景点偶尔有卖的，\n为了让游客能写写生什么的。"
-      },
-      {
-        "character": "",
-        "text": "这也是个蛮有道理的想法。"
-      },
-      {
-        "character": "カルハ",
-        "text": "可是啊～，我记得没有这种东西才对。\n这一本比篮子都要大了。"
-      },
-      {
-        "character": "ノワール",
-        "text": "好像有卖书来着。"
-      },
-      {
-        "character": "カルハ",
-        "text": "那是用来打发时间的杂志。比如纵横字谜什么的。"
-      },
-      {
-        "character": "花江",
-        "text": "是吗……这里还有纵横字谜啊。"
-      },
-      {
-        "character": "カルハ",
-        "text": "要吗？"
-      },
-      {
-        "character": "花江",
-        "text": "给我几本看看吧。"
-      },
-      {
-        "character": "カルハ",
-        "text": "多谢惠顾～"
-      },
-      {
-        "character": "",
-        "text": "女生们已经逐渐换到其他话题了。"
-      },
-      {
-        "character": "",
-        "text": "狩叶做车内销售用的那个篮子。\n　里面装的大部分都是食品，但除此之外也有几样其他的东西。"
-      },
-      {
-        "character": "",
-        "text": "一提到车内销售就必然会想到书本。\n　里面既有杂志也有文库本。"
-      },
-      {
-        "character": "",
-        "text": "我看看。"
-      },
-      {
-        "character": "",
-        "text": "《哈姆雷特》\n《日本名作选》\n《麦田里的守望者》"
-      },
-      {
-        "character": "",
-        "text": "看来是搜罗了一些传统名著。"
-      },
-      {
-        "character": "",
-        "text": "符合我兴趣的……似乎没有。"
-      },
-      {
-        "character": "",
-        "text": "而且我怕晕车，还是算了。"
-      },
-      {
-        "character": "花江",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "花江小姐拿着哈姆雷特考虑了一会。"
-      },
-      {
-        "character": "",
-        "text": "看来她的喜好还雅致的。她思考片刻后，"
-      },
-      {
-        "character": "花江",
-        "text": "就这个吧，我要了。多少钱？"
-      },
-      {
-        "character": "カルハ",
-        "text": "好嘞多谢惠顾～"
-      },
-      {
-        "character": "",
-        "text": "结果还是买了一本纵横字谜，找了个单人座坐下了。"
-      },
-      {
-        "character": "",
-        "text": "哈姆雷特果然还是太晦涩了。"
-      },
-      {
-        "character": "",
-        "text": "她本身也不是个爱聊天的人。\n　便选择一个人打发时间。"
-      },
-      {
-        "character": "",
-        "text": "真是个我行我素的人呢。"
-      },
-      {
-        "character": "",
-        "text": "我的心思倒没有放在杂志上，\n　而是飘回了那本写生本。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "隐藏在心脏里的，翅膀……"
-      },
-      {
-        "character": "",
-        "text": "我自己……"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "ジビエ",
-        "text": "白先生白先生，可以打扰一下吗？"
-      },
-      {
-        "character": "暁",
-        "text": "什么事？"
-      },
-      {
-        "character": "ジビエ",
-        "text": "如果去一家花店，店主说随便挑，\n想拿多少都可以。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "你会选什么花，拿走多少呢？"
-      },
-      {
-        "character": "暁",
-        "text": "啥？"
-      },
-      {
-        "character": "カルハ",
-        "text": "拿走多少呢。"
-      },
-      {
-        "character": "ノワール",
-        "text": "多少呢。"
-      },
-      {
-        "character": "",
-        "text": "不知道为何几位少女一同提出了这个问题。"
-      },
-      {
-        "character": "",
-        "text": "到底什么情况啊。"
-      },
-      {
-        "character": "暁",
-        "text": "要说随便拿，\n当然是挑好看的能拿多少拿多少了。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "好看的具体是指什么呢，花束？　还是盆栽？"
-      },
-      {
-        "character": "暁",
-        "text": "都可以。\n两种都要。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "哇哦——。"
-      },
-      {
-        "character": "",
-        "text": "到底什么情况啊。"
-      },
-      {
-        "character": "",
-        "text": "回过神来一看，狩叶正冲我坏笑。\n　而鹰世则露出一脸苦笑。"
-      },
-      {
-        "character": "ノワール",
-        "text": "这个回答代表什么呢？"
-      },
-      {
-        "character": "カルハ",
-        "text": "那当然是两个都占了。"
-      },
-      {
-        "character": "",
-        "text": "狩叶和诺瓦一同地盯着野鸟小姐手中的书，\n　这好像是从篮子里取出来的一本杂志。"
-      },
-      {
-        "character": "",
-        "text": "“现在就来测一测！　有趣的心理测试”"
-      },
-      {
-        "character": "",
-        "text": "……不好。"
-      },
-      {
-        "character": "カルハ",
-        "text": "花的种类代表恋爱对象，\n数量代表你会对对方付出多少的爱情。"
-      },
-      {
-        "character": "ノワール",
-        "text": "也就是说白先生。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "是属于对任何人都能付出好——多好多爱的类型。"
-      },
-      {
-        "character": "カルハ",
-        "text": "真帅气啊～～～～"
-      },
-      {
-        "character": "暁",
-        "text": "……快住手吧。"
-      },
-      {
-        "character": "",
-        "text": "上一次因为心理测试被笑话……还是上初中的时候。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "没关系没关系，不用那么害羞。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "白先生是个什么样的人，从你去找在森林里迷路的她俩时就了解了。"
-      },
-      {
-        "character": "暁",
-        "text": "……别说了。"
-      },
-      {
-        "character": "",
-        "text": "本以为当时鲁莽的行为在妖怪骚动后就能被淡忘的，\n　哪想到她们哪壶不开提哪壶。"
-      },
-      {
-        "character": "",
-        "text": "饶了我吧。"
-      },
-      {
-        "character": "",
-        "text": "对任何人都可以付出许多的爱？\n　我是那种人吗？"
-      },
-      {
-        "character": "",
-        "text": "连自己都不知道的事就更不好笑了。"
-      },
-      {
-        "character": "暁",
-        "text": "给我。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "ouch。"
-      },
-      {
-        "character": "",
-        "text": "我抢走了她的杂志。"
-      },
-      {
-        "character": "",
-        "text": "找找看，有什么能回敬她的测试……"
-      },
-      {
-        "character": "",
-        "text": "就是这个。"
-      },
-      {
-        "character": "暁",
-        "text": "那么，请听题。\n你在一辆卡车的货台上。"
-      },
-      {
-        "character": "カルハ",
-        "text": "呜哇这个大叔想要穿着脏鞋践踏女孩子的内心。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "カルハ",
-        "text": "色狼。"
-      },
-      {
-        "character": "暁",
-        "text": "野鸟小姐，\n有没有什么成年男性不使用暴力就能让女孩子痛苦的方法。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "还请您忍耐一下。"
-      },
-      {
-        "character": "",
-        "text": "可恶。"
-      },
-      {
-        "character": "",
-        "text": "算了，继续看书好了。"
-      },
-      {
-        "character": "暁",
-        "text": "这是什么，你养的羊被狼给……\n这些题材乍一听都联想不到什么东西呢。"
-      },
-      {
-        "character": "タカセ",
-        "text": "因为很多窥探内心的基准都是外国人设立的呢"
-      },
-      {
-        "character": "",
-        "text": "大家的注意力自然地转移到了心理测试上，"
-      },
-      {
-        "character": "",
-        "text": "写生本便没人再提起了。"
-      },
-      {
-        "character": "カルハ",
-        "text": "口渴了。帮我拿瓶妙乐多来。"
-      },
-      {
-        "character": "",
-        "text": "狩叶指着篮子说道。"
-      },
-      {
-        "character": "",
-        "text": "篮子里有几种饮料。\n　其中有两瓶妙乐多。"
-      },
-      {
-        "character": "",
-        "text": "嘿。"
-      },
-      {
-        "character": "暁",
-        "text": "给。"
-      },
-      {
-        "character": "カルハ",
-        "text": "哎？"
-      },
-      {
-        "character": "",
-        "text": "我把钱给了她。"
-      },
-      {
-        "character": "",
-        "text": "两瓶的钱。"
-      },
-      {
-        "character": "暁",
-        "text": "咕咚！"
-      },
-      {
-        "character": "カルハ",
-        "text": "啊啊啊啊啊啊你干什么！"
-      },
-      {
-        "character": "",
-        "text": "我把两瓶都喝掉了。"
-      },
-      {
-        "character": "カルハ",
-        "text": "混蛋你想干啥！　为什么要喝！\n为什么要喝！"
-      },
-      {
-        "character": "暁",
-        "text": "乘客花钱买商品喝有什么不行的。"
-      },
-      {
-        "character": "カルハ",
-        "text": "为什么把两瓶全都干掉了——！"
-      },
-      {
-        "character": "ノワール",
-        "text": "（惊）"
-      },
-      {
-        "character": "暁",
-        "text": "乘客花钱买了两瓶以下略。"
-      },
-      {
-        "character": "",
-        "text": "当然了，纯粹就是找茬。"
-      },
-      {
-        "character": "",
-        "text": "看她那么喜欢妙乐多，\n　就当做是对她刚才所作所为的回敬了。"
-      },
-      {
-        "character": "カルハ",
-        "text": "快吐出来喂！　把我的妙乐多吐出来！"
-      },
-      {
-        "character": "暁",
-        "text": "呜哎，别掐人脖子。"
-      },
-      {
-        "character": "",
-        "text": "比预想中还要生气。"
-      },
-      {
-        "character": "ノワール",
-        "text": "那、那个、那个。"
-      },
-      {
-        "character": "カルハ",
-        "text": "快吐出来啊啊啊啊！"
-      },
-      {
-        "character": "",
-        "text": "声音太大了，耳朵好疼。"
-      },
-      {
-        "character": "暁",
-        "text": "吐、吐出来又能怎么样啊！"
-      },
-      {
-        "character": "カルハ",
-        "text": "不会怎么样但是你剥夺了我的幸福不可饶恕！\n我要诅咒你！"
-      },
-      {
-        "character": "暁",
-        "text": "可恶，小小年纪怎么扭曲成这样！"
-      },
-      {
-        "character": "ノワール",
-        "text": "啊呜，啊呜。"
-      },
-      {
-        "character": "",
-        "text": "然后……"
-      },
-      {
-        "character": "タカセ",
-        "text": "呣。"
-      },
-      {
-        "character": "タカセ",
-        "text": "你们两个快停下。"
-      },
-      {
-        "character": "暁",
-        "text": "嗯？"
-      },
-      {
-        "character": "カルハ",
-        "text": "哎？"
-      },
-      {
-        "character": "",
-        "text": "鹰世突然严肃地呵斥过来。"
-      },
-      {
-        "character": "",
-        "text": "下意识地停下喧闹后，"
-      },
-      {
-        "character": "ノワール",
-        "text": "……"
-      },
-      {
-        "character": "ノワール",
-        "text": "呜。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "哎。"
-      },
-      {
-        "character": "カルハ",
-        "text": "诺瓦？"
-      },
-      {
-        "character": "",
-        "text": "一直在一旁看着我们的诺瓦脸上写满了委屈。"
-      },
-      {
-        "character": "ノワール",
-        "text": "呜，呜呜。"
-      },
-      {
-        "character": "ノワール",
-        "text": "不要，吵架。\n吵架，不可以。"
-      },
-      {
-        "character": "暁",
-        "text": "啊……"
-      },
-      {
-        "character": "カルハ",
-        "text": "哎呀……"
-      },
-      {
-        "character": "",
-        "text": "哭了？"
-      },
-      {
-        "character": "",
-        "text": "诺瓦用手捂住了脸。"
-      },
-      {
-        "character": "",
-        "text": "等下，这来得太突然了。"
-      },
-      {
-        "character": "",
-        "text": "我和狩叶就是闹着玩的。"
-      },
-      {
-        "character": "",
-        "text": "但诺瓦可能当真的了。\r\n　不由得吓哭了出来。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "等等等等诺瓦，没关系的。"
-      },
-      {
-        "character": "タカセ",
-        "text": "他们两个没在吵架的。\n对吧，你们两个。"
-      },
-      {
-        "character": "カルハ",
-        "text": "是、是啊，看，我们关系这么好。"
-      },
-      {
-        "character": "",
-        "text": "前一秒狩叶还掐着我的脖子，\r\n　下一秒她就直接抱了上来。"
-      },
-      {
-        "character": "暁",
-        "text": "对啊你看，转转转～"
-      },
-      {
-        "character": "カルハ",
-        "text": "哇吼～♪"
-      },
-      {
-        "character": "",
-        "text": "我抱着她原地转了几圈。"
-      },
-      {
-        "character": "ノワール",
-        "text": "唔……"
-      },
-      {
-        "character": "ノワール",
-        "text": "真的……吗？"
-      },
-      {
-        "character": "暁",
-        "text": "真的真的。看我们关系这么好。（颠，颠）"
-      },
-      {
-        "character": "カルハ",
-        "text": "关系这么好～"
-      },
-      {
-        "character": "ノワール",
-        "text": "……"
-      },
-      {
-        "character": "ノワール",
-        "text": "那就……太好……了。"
-      },
-      {
-        "character": "",
-        "text": "好在没有哭得很厉害，\n　只是眼眶打湿的程度。"
-      },
-      {
-        "character": "ノワール",
-        "text": "……对不起。只是、很怕吵架。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "啊～，我也能明白那种感觉。"
-      },
-      {
-        "character": "タカセ",
-        "text": "他们刚才就是闹着玩的。\n没有真的在吵架。"
-      },
-      {
-        "character": "",
-        "text": "旁观的两个大人也帮忙解围。"
-      },
-      {
-        "character": "",
-        "text": "上小学的时候偶尔会有来着。\n　一听到有人大声说话，就会在一旁哭出来的女孩子。"
-      },
-      {
-        "character": "暁",
-        "text": "吓死个人。（颠，颠）"
-      },
-      {
-        "character": "カルハ",
-        "text": "是啊，真吓人。"
-      },
-      {
-        "character": "暁",
-        "text": "都是因为狩叶的声音太大了。（颠，颠）"
-      },
-      {
-        "character": "カルハ",
-        "text": "还不是因为你喝了人家的妙乐多。"
-      },
-      {
-        "character": "カルハ",
-        "text": "话说你要转到什么时候啊！"
-      },
-      {
-        "character": "暁",
-        "text": "哎呀抱歉。"
-      },
-      {
-        "character": "",
-        "text": "放她下来。"
-      },
-      {
-        "character": "カルハ",
-        "text": "真是的。\n听好了诺瓦，刚刚不是在吵架，\n是这家伙太蠢了我在教训他而已。"
-      },
-      {
-        "character": "",
-        "text": "——噗通。"
-      },
-      {
-        "character": "",
-        "text": "狩叶摔了个屁股墩。"
-      },
-      {
-        "character": "カルハ",
-        "text": "简答来讲，吵架的时候两个人立场是对等的，\n然而只有这家伙蠢得要死。"
-      },
-      {
-        "character": "カルハ",
-        "text": "呕<dash=4>。"
-      },
-      {
-        "character": "カルハ",
-        "text": "所以呢，我要站在大人的角度教训他一番。"
-      },
-      {
-        "character": "暁",
-        "text": "眼睛都打转了亏你还能摆这么大的架子"
-      },
-      {
-        "character": "カルハ",
-        "text": "多嘴！"
-      },
-      {
-        "character": "カルハ",
-        "text": "你都分成多少个人了，还那么嚣张。"
-      },
-      {
-        "character": "カルハ",
-        "text": "忽悠，忽悠。"
-      },
-      {
-        "character": "",
-        "text": "这家伙就先扔一边吧。"
-      },
-      {
-        "character": "暁",
-        "text": "诺瓦？　没事了吧。"
-      },
-      {
-        "character": "ノワール",
-        "text": "嗯、嗯，对不起。"
-      },
-      {
-        "character": "",
-        "text": "她似乎也知道自己反应太夸张了。\n　偷偷掩住了泛红的面颊。"
-      },
-      {
-        "character": "",
-        "text": "没辙啊。"
-      },
-      {
-        "character": "暁",
-        "text": "我怎么可能真对小孩子发火呢。\n你就放宽心吧。"
-      },
-      {
-        "character": "ノワール",
-        "text": "嗯。"
-      },
-      {
-        "character": "暁",
-        "text": "不过让你担心是我的不好。"
-      },
-      {
-        "character": "",
-        "text": "沙沙。"
-      },
-      {
-        "character": "",
-        "text": "我摸了摸她的头。"
-      },
-      {
-        "character": "",
-        "text": "诺瓦略带歉意地低下了头。"
-      },
-      {
-        "character": "",
-        "text": "刚和她见面的时候我就隐约有所察觉，"
-      },
-      {
-        "character": "",
-        "text": "她好像不太擅长跟人交流。"
-      },
-      {
-        "character": "",
-        "text": "与其说是不擅长，不如说是理解不足。\n　她很难读懂人与人交流时的说话氛围。"
-      },
-      {
-        "character": "",
-        "text": "……该不会真的是猫吧。"
-      },
-      {
-        "character": "ノワール",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "诺瓦由于自己的误会情绪有些低落。"
-      },
-      {
-        "character": "",
-        "text": "这可不好办了。"
-      },
-      {
-        "character": "",
-        "text": "野鸟小姐和鹰世也都有些尴尬，\n　不知道该怎么办才好。"
-      },
-      {
-        "character": "",
-        "text": "嗯——"
-      },
-      {
-        "character": "カルハ",
-        "text": "哈唔唔。"
-      },
-      {
-        "character": "カルハ",
-        "text": "啊，接下来做这个吧，这个。"
-      },
-      {
-        "character": "",
-        "text": "另一个看不懂气氛的人转移了话题。"
-      },
-      {
-        "character": "",
-        "text": "就当前来说乃是破冰之举。"
-      },
-      {
-        "character": "カルハ",
-        "text": "上面写着可以占卜这周的运势。\n诺瓦诺瓦，你是几月生的来着？"
-      },
-      {
-        "character": "ノワール",
-        "text": "哈、哈唔。"
-      },
-      {
-        "character": "",
-        "text": "她一屁股坐在诺瓦旁边，\n　翻开另一本杂志。"
-      },
-      {
-        "character": "カルハ",
-        "text": "我是双鱼座的……啊，这周运气有点微妙。"
-      },
-      {
-        "character": "カルハ",
-        "text": "其他人呢？　都是什么座的？"
-      },
-      {
-        "character": "ジビエ",
-        "text": "我是天秤座。"
-      },
-      {
-        "character": "タカセ",
-        "text": "处女座。"
-      },
-      {
-        "character": "暁",
-        "text": "狮子座。"
-      },
-      {
-        "character": "カルハ",
-        "text": "嚯嚯……这个，天秤座的桃花运很好，\n处女座有机会与亲密的人再会。"
-      },
-      {
-        "character": "カルハ",
-        "text": "什么嘛，狮子座怎么是最好的。"
-      },
-      {
-        "character": "暁",
-        "text": "不懂你有什么好遗憾的。"
-      },
-      {
-        "character": "カルハ",
-        "text": "诺瓦呢？　你是什么座？"
-      },
-      {
-        "character": "ノワール",
-        "text": "那、那个。"
-      },
-      {
-        "character": "",
-        "text": "现场的气氛虽然明朗了起来，\n　但诺瓦似乎没有跟上。"
-      },
-      {
-        "character": "",
-        "text": "她小心翼翼地问了一句，"
-      },
-      {
-        "character": "ノワール",
-        "text": "什么座，是什么意思啊？"
-      },
-      {
-        "character": "カルハ",
-        "text": "星座。"
-      },
-      {
-        "character": "ノワール",
-        "text": "seiza？"
-      },
-      {
-        "character": "",
-        "text": "歪了歪头。"
-      },
-      {
-        "character": "暁",
-        "text": "嗯……你不知道吗？"
-      },
-      {
-        "character": "ノワール",
-        "text": "那个。"
-      },
-      {
-        "character": "",
-        "text": "坐。"
-      },
-      {
-        "character": "カルハ",
-        "text": "嗯，这是正坐（seiza）呢。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "这是日本的传统坐姿呢，我不怎么学得来。"
-      },
-      {
-        "character": "",
-        "text": "真可爱。"
-      },
-      {
-        "character": "",
-        "text": "这个先放一边，"
-      },
-      {
-        "character": "暁",
-        "text": "你不知道自己出生的星座吗？"
-      },
-      {
-        "character": "ノワール",
-        "text": "……对不起。"
-      },
-      {
-        "character": "",
-        "text": "这还……挺罕见的。"
-      },
-      {
-        "character": "",
-        "text": "不擅长与人交流的人偶尔还能见到，\n　可不知道星座的人就很稀奇了。"
-      },
-      {
-        "character": "",
-        "text": "对于小学女生来说，\n　星座占卜不应该是热衷榜单之最了吗？"
-      },
-      {
-        "character": "暁",
-        "text": "没关系，那生日呢？"
-      },
-      {
-        "character": "ノワール",
-        "text": "那个，８月１４日。"
-      },
-      {
-        "character": "カルハ",
-        "text": "哎呀，那也一样是狮子座了。\n诺瓦，你这周的运势也最好的那个哦。"
-      },
-      {
-        "character": "ノワール",
-        "text": "是、是吗。"
-      },
-      {
-        "character": "",
-        "text": "她好像连占卜的意思都不知道。"
-      },
-      {
-        "character": "",
-        "text": "脸上写满了疑惑。"
-      },
-      {
-        "character": "",
-        "text": "不过，"
-      },
-      {
-        "character": "カルハ",
-        "text": "然后是这个……来测测血型吧。\n诺瓦是什么型的？"
-      },
-      {
-        "character": "ノワール",
-        "text": "那个，AB型。"
-      },
-      {
-        "character": "",
-        "text": "这个她知道啊。"
-      },
-      {
-        "character": "カルハ",
-        "text": "诺瓦也是AB型的啊～，那和我一样～"
-      },
-      {
-        "character": "ジビエ",
-        "text": "Oh，我也一样，AB型。"
-      },
-      {
-        "character": "カルハ",
-        "text": "哎——好少见啊，白人AB型血的应该很少吧？"
-      },
-      {
-        "character": "ジビエ",
-        "text": "Yes，所以我是很特别的。"
-      },
-      {
-        "character": "カルハ",
-        "text": "那就来看看，这周AB型的运势，先从天秤座开始。"
-      },
-      {
-        "character": "",
-        "text": "气氛已经完全缓和了下来，三位少女也熟络了不少。"
-      },
-      {
-        "character": "タカセ",
-        "text": "刚才我有点不知所措了呢。"
-      },
-      {
-        "character": "暁",
-        "text": "是啊。"
-      },
-      {
-        "character": "",
-        "text": "诺瓦也恢复了平时的状态。\n　应该已经没关系了。"
-      },
-      {
-        "character": "暁",
-        "text": "……狩叶看的那本杂志是好几个月前的了，\n没法占卜这周的运势，这个就不要告诉她好了。"
-      },
-      {
-        "character": "タカセ",
-        "text": "占卜更多的是取决于心情的啦。"
-      },
-      {
-        "character": "",
-        "text": "鹰世苦笑道。"
-      },
-      {
-        "character": "",
-        "text": "我们的视线自然而然地汇向诺瓦。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "タカセ",
-        "text": "……"
-      },
-      {
-        "character": "暁",
-        "text": "不知道星座，是不是有点，太罕见了？"
-      },
-      {
-        "character": "タカセ",
-        "text": "……"
-      },
-      {
-        "character": "暁",
-        "text": "……你怎么觉得？"
-      },
-      {
-        "character": "タカセ",
-        "text": "从外貌上也能看出来，是个有点不谙世事的孩子。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "他这么一说。"
-      },
-      {
-        "character": "",
-        "text": "我突然又想起她的猫耳和尾巴了。"
-      },
-      {
-        "character": "",
-        "text": "不善与人交流，也不知道女孩子间的常识。\n　还长着猫耳和尾巴。"
-      },
-      {
-        "character": "暁",
-        "text": "我听说活了一百年的猫能化为妖怪，变成人的样子。"
-      },
-      {
-        "character": "タカセ",
-        "text": "看不出她有一百高寿呢。"
-      },
-      {
-        "character": "暁",
-        "text": "确实。"
-      },
-      {
-        "character": "",
-        "text": "不知道是不是偏见，我觉得要是有猫活了一百年，\n　它肯定知道星座是什么。"
-      },
-      {
-        "character": "",
-        "text": "那么……"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "暁",
-        "text": "对了，你有没有在车站前看到？　那只黑猫。"
-      },
-      {
-        "character": "タカセ",
-        "text": "？"
-      },
-      {
-        "character": "暁",
-        "text": "在上一个车站，不是停了很长时间么。\n没有看到吗？"
-      },
-      {
-        "character": "タカセ",
-        "text": "猫……我没有看到。"
-      },
-      {
-        "character": "暁",
-        "text": "这样啊。"
-      }
-    ]
-  },
-  {
-    "background": "イベント20_c",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "在车站看到的猫。"
-      },
-      {
-        "character": "",
-        "text": "第一次是在我刚上车的时候。"
-      },
-      {
-        "character": "",
-        "text": "第二次是停站休息下车的时候。"
       }
     ]
   }

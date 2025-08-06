@@ -13,7 +13,7 @@
     ]
   },
   {
-    "background": "背景_空_夜",
+    "background": "bg000d",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
@@ -31,10 +31,10 @@
     ]
   },
   {
-    "background": "イベント1_a",
+    "background": "evcg01a",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "background": "イベント1_b",
+    "background": "evcg01b",
     "dialogues": [
       {
         "character": "",
@@ -61,7 +61,7 @@
     ]
   },
   {
-    "background": "イベント1_a",
+    "background": "evcg01a",
     "dialogues": [
       {
         "character": "",
@@ -70,32 +70,32 @@
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
-        "character": "黒猫",
+        "character": "黑猫",
         "text": "喵。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "嗯……哎呀。"
       }
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "来这里。"
       }
     ]
   },
   {
-    "background": "イベント1_c",
+    "background": "large_evcg01c",
     "dialogues": [
       {
-        "character": "黒猫",
+        "character": "黑猫",
         "text": "呼哧。"
       },
       {
@@ -107,20 +107,20 @@
         "text": "沉甸甸又暖洋洋的。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "你总是这么神出鬼没的。"
       },
       {
-        "character": "黒猫",
+        "character": "黑猫",
         "text": "咪。"
       }
     ]
   },
   {
-    "background": "イベント1_c2",
+    "background": "evcg01c2",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "background": "背景_空_夜",
+    "background": "bg000d",
     "dialogues": [
       {
         "character": "",
@@ -151,7 +151,7 @@
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
         "character": "",
@@ -164,7 +164,7 @@
     ]
   },
   {
-    "background": "背景_空_夜",
+    "background": "bg000d",
     "dialogues": [
       {
         "character": "",
@@ -177,7 +177,7 @@
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
         "character": "",
@@ -194,7 +194,7 @@
     ]
   },
   {
-    "background": "背景_空_昼",
+    "background": "bg000a",
     "dialogues": [
       {
         "character": "",
@@ -205,7 +205,7 @@
         "text": "・・・・・"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……好热。"
       },
       {
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "background": "背景_街中_昼",
+    "background": "bg020a",
     "dialogues": [
       {
         "character": "",
@@ -256,10 +256,10 @@
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -269,7 +269,7 @@
     ]
   },
   {
-    "background": "背景_街中_昼",
+    "background": "bg020a",
     "dialogues": [
       {
         "character": "",
@@ -278,7 +278,7 @@
     ]
   },
   {
-    "background": "背景_空_昼",
+    "background": "bg000a",
     "dialogues": [
       {
         "character": "",
@@ -287,10 +287,10 @@
     ]
   },
   {
-    "background": "背景_自室_昼",
+    "background": "bg010a",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……呼。"
       },
       {
@@ -302,7 +302,7 @@
         "text": "我从口袋里掏出了被汗液略微沾湿的手机。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "唉呀。"
       },
       {
@@ -330,7 +330,7 @@
         "text": "请暂时等待下一步的指示。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "我谢谢你。"
       },
       {
@@ -340,7 +340,7 @@
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
         "character": "",
@@ -374,14 +374,14 @@
     ]
   },
   {
-    "background": "背景_自室_昼",
+    "background": "bg010a",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……唉。"
       },
       {
@@ -395,7 +395,7 @@
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
         "character": "",
@@ -410,16 +410,16 @@
         "text": "趁现在，我想干什么都可以。\n　找点事做吧。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       }
     ]
   },
   {
-    "background": "背景_自室_昼",
+    "background": "bg010a",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "可没有能做的事啊。"
       },
       {
@@ -439,7 +439,7 @@
         "text": "用没有任何想要做的事情为由。\n　借以逃避。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       }
     ]
@@ -454,10 +454,10 @@
     ]
   },
   {
-    "background": "背景_自室_昼",
+    "background": "bg010a",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -467,7 +467,7 @@
     ]
   },
   {
-    "background": "背景_自室_昼",
+    "background": "bg010a",
     "dialogues": [
       {
         "character": "",
@@ -484,7 +484,7 @@
     ]
   },
   {
-    "background": "背景_空_昼",
+    "background": "bg000a",
     "dialogues": [
       {
         "character": "",
@@ -497,7 +497,7 @@
     ]
   },
   {
-    "background": "背景_空_夕",
+    "background": "bg000b",
     "dialogues": [
       {
         "character": "",
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "background": "背景_空_夜",
+    "background": "bg000d",
     "dialogues": [
       {
         "character": "",
@@ -527,7 +527,7 @@
     ]
   },
   {
-    "background": "背景_駅_夜",
+    "background": "bg030d",
     "dialogues": [
       {
         "character": "",
@@ -564,10 +564,10 @@
     ]
   },
   {
-    "background": "イベント20_a",
+    "background": "evcg20a",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……嗯。"
       },
       {
@@ -575,25 +575,25 @@
         "text": "猫？"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
-        "character": "黒猫",
+        "character": "黑猫",
         "text": "……"
       },
       {
-        "character": "黒猫",
+        "character": "黑猫",
         "text": "咪。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       }
     ]
   },
   {
-    "background": "背景_駅_夜",
+    "background": "bg030d",
     "dialogues": [
       {
         "character": "",
@@ -616,7 +616,7 @@
         "text": "不过，遇见的是黑猫吗。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -638,7 +638,7 @@
     ]
   },
   {
-    "background": "背景_空_夜",
+    "background": "bg000d",
     "dialogues": [
       {
         "character": "",
@@ -651,7 +651,7 @@
     ]
   },
   {
-    "background": "背景_駅_夜",
+    "background": "bg030d",
     "dialogues": [
       {
         "character": "",
@@ -720,10 +720,10 @@
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "好。"
       },
       {
@@ -735,7 +735,7 @@
         "text": "依照站务员的指引，我来到了车头预计停靠的位置。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -743,7 +743,7 @@
         "text": "・・・・・"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -753,7 +753,7 @@
     ]
   },
   {
-    "background": "背景_駅列車_夜",
+    "background": "bg035d",
     "dialogues": [
       {
         "character": "",
@@ -788,7 +788,7 @@
         "text": "……"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -796,7 +796,7 @@
         "text": "有点尴尬。\n　站务员在一直盯着我。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "这、这种感觉也不错呢。像是回到过去了一样。"
       },
       {
@@ -812,7 +812,7 @@
         "text": "请享受您的旅途。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……好。"
       },
       {
@@ -844,178 +844,159 @@
         "text": "过了五分多钟，火车终于停了下来。"
       },
       {
-        "character": "女孩",
-        "text": "嘿咻。"
+        "character": "",
+        "text": "哦？",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "哦？"
+        "text": "走出车外的女生有点出乎我的意料。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "走出车外的女生有点出乎我的意料。"
+        "text": "怎么形容呢……她不像会乘坐“火车”的人。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "怎么形容呢……她不像会乘坐“火车”的人。"
+        "text": "身材娇小。\n　像个初中生。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "身材娇小。\n　像个初中生。"
+        "text": "难道是乘客吗？",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "难道是乘客吗？"
+        "text": "可她戴着顶帽子……",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "可她戴着顶帽子……"
-      },
-      {
-        "character": "女孩",
-        "text": "～♪\n好嘞。"
+        "text": "她看了一眼挂在脖子上的怀表，",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "她看了一眼挂在脖子上的怀表，"
-      },
-      {
-        "character": "女孩",
-        "text": "那么，咳咳。"
-      },
-      {
-        "character": "女孩",
-        "text": "星空列车“银河号”到站了。"
+        "text": "好像不是乘客。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "好像不是乘客。"
+        "text": "可能是乘务员？",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "可能是乘务员？"
+        "text": "那顶帽子确实也像那么回事。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "那顶帽子确实也像那么回事。"
-      },
-      {
-        "character": "乘务员？",
-        "text": "预定了星空旅行的乘客请上车。"
+        "text": "她在引导乘客。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "她在引导乘客。"
+        "text": "看来是这趟旅行的导游了。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "看来是这趟旅行的导游了。"
+        "text": "还蛮出乎意料的。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "还蛮出乎意料的。"
+        "text": "本以为乘坐如此古朴的火车进行旅行，\r\n　乘务员会是位和蔼的老大爷。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "本以为乘坐如此古朴的火车进行旅行，\r\n　乘务员会是位和蔼的老大爷。"
+        "text": "不过也好，可爱的导游也算是如我刚才所望。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "啊，哦。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "不过也好，可爱的导游也算是如我刚才所望。"
-      },
-      {
-        "character": "乘务员",
-        "text": "这位乘客？"
-      },
-      {
-        "character": "暁",
-        "text": "啊，哦。"
+        "text": "女孩的呼唤打断了我的思绪。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "女孩的呼唤打断了我的思绪。"
+        "text": "她姑且朝站台进行了广播，\n　但现场其实只有我一人在发呆，便向我打招呼道。",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "",
-        "text": "她姑且朝站台进行了广播，\n　但现场其实只有我一人在发呆，便向我打招呼道。"
-      },
-      {
-        "character": "乘务员",
-        "text": "你是乘客吧。不上车吗？"
-      },
-      {
-        "character": "暁",
-        "text": "啊， 不好意思。"
+        "character": "晓",
+        "text": "啊， 不好意思。",
+        "body": "karuha_03face"
       }
     ]
   },
   {
-    "background": "背景_駅列車_夜",
+    "background": "bg035c",
     "dialogues": [
       {
         "character": "",
-        "text": "我小跑过去。"
+        "text": "我小跑过去。",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "乘务员",
-        "text": "欢迎乘车。\n请出示一下车票。"
-      },
-      {
-        "character": "暁",
-        "text": "嗯，给。"
-      },
-      {
-        "character": "",
-        "text": "我摸了摸口袋。"
-      },
-      {
-        "character": "暁",
-        "text": "这个行吧？"
+        "character": "晓",
+        "text": "嗯，给。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "我没有实体票，因此把登记的驾照展示给她。"
+        "text": "我摸了摸口袋。",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "乘务员",
-        "text": "我看看，金中城……尧先生。"
+        "character": "晓",
+        "text": "这个行吧？",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "暁",
-        "text": "是晓。\n钟城晓。"
+        "character": "",
+        "text": "我没有实体票，因此把登记的驾照展示给她。",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "乘务员",
-        "text": "明白了。\n钟城晓先生对吧。名簿里有你的名字。"
+        "character": "晓",
+        "text": "是晓。\n钟城晓。",
+        "body": "large_karuha_02face"
       }
     ]
   },
   {
-    "background": "背景_駅列車_夜",
+    "background": "bg035d",
     "dialogues": [
       {
-        "character": "乘务员",
-        "text": "欢迎乘坐银河号。"
+        "character": "",
+        "text": "我在她的指引下上了车。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "我在她的指引下上了车。"
+        "text": "报名时已经登记过了，只要有身份证明就可以乘车。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "报名时已经登记过了，只要有身份证明就可以乘车。"
+        "text": "乘客只有我一人。\n　见我登车后她也跟了进来，顺便带上了手动式的车门。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "乘客只有我一人。\n　见我登车后她也跟了进来，顺便带上了手动式的车门。"
-      },
-      {
-        "character": "",
-        "text": "我下意识地回头看了眼站台……"
-      },
-      {
-        "character": "站员",
-        "text": "祝您一路顺风。"
+        "text": "我下意识地回头看了眼站台……",
+        "body": "karuha_03face"
       },
       {
         "character": "",
@@ -1028,7 +1009,7 @@
     ]
   },
   {
-    "background": "イベント20_b",
+    "background": "large_evcg20b",
     "dialogues": [
       {
         "character": "",
@@ -1037,7 +1018,7 @@
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
         "character": "",
@@ -1046,10 +1027,10 @@
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "哇哦……"
       },
       {
@@ -1077,7 +1058,7 @@
         "text": "呼……"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -1093,81 +1074,68 @@
         "text": "可为什么却没有乘客？"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "请问，这趟旅行一共有多少乘客？"
       },
       {
-        "character": "乘务员",
-        "text": "嗯？\n唔，有多少人来着。"
-      },
-      {
-        "character": "乘务员",
-        "text": "你是最后一个上车的，其他人都已经在车上了。自己数数吧。"
-      },
-      {
-        "character": "暁",
-        "text": "好、好吧"
+        "character": "晓",
+        "text": "好、好吧",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "真是位随性的乘务员。"
+        "text": "真是位随性的乘务员。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "不过起码知道了，虽说这节车厢空空如也，\n　但其他车厢应该有人。"
+        "text": "不过起码知道了，虽说这节车厢空空如也，\n　但其他车厢应该有人。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "这时，"
+        "text": "这时，",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "一阵铃声响起，应该是要发车了。"
+        "text": "一阵铃声响起，应该是要发车了。",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "乘务员",
-        "text": "这位乘客，请先回到座位上。列车启动的时候要坐好。"
+        "character": "晓",
+        "text": "哦……和坐飞机一样啊。",
+        "body": "karuha_03face"
       },
       {
-        "character": "暁",
-        "text": "哦……和坐飞机一样啊。"
+        "character": "晓",
+        "text": "哦……哦。",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "乘务员",
-        "text": "列车正常行驶后就可以自由活动了。"
-      },
-      {
-        "character": "乘务员",
-        "text": "对了对了，在这之前做一个自我介绍。我是本次列车的乘务员兼旅行的导游——狩叶・朗姆柯妮。"
+        "character": "",
+        "text": "这人有点佻薄啊……不过态度还蛮友好的。",
+        "body": "karuha_03face"
       },
       {
         "character": "狩叶",
-        "text": "叫我小狩叶就好哦。"
-      },
-      {
-        "character": "暁",
-        "text": "哦……哦。"
+        "text": "就这样。\n随便挑个位置坐下吧。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "这人有点佻薄啊……不过态度还蛮友好的。"
-      },
-      {
-        "character": "狩叶",
-        "text": "就这样。\n随便挑个位置坐下吧。"
+        "text": "她回到了驾驶室。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "她回到了驾驶室。"
-      },
-      {
-        "character": "",
-        "text": "我听取她的意见坐了下来。"
+        "text": "我听取她的意见坐了下来。",
+        "body": "karuha_03face"
       }
     ]
   },
   {
-    "background": "イベント1_a",
+    "background": "evcg01a",
     "dialogues": [
       {
         "character": "",
@@ -1176,31 +1144,31 @@
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "…………"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "………………"
       }
     ]
   },
   {
-    "background": "イベント1_a",
+    "background": "evcg01a",
     "dialogues": [
       {
         "character": "",
         "text": "当啷。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "噢，动了。"
       },
       {
@@ -1218,7 +1186,7 @@
     ]
   },
   {
-    "background": "イベント1_a",
+    "background": "large_evcg01a",
     "dialogues": [
       {
         "character": "",
@@ -1235,7 +1203,7 @@
     ]
   },
   {
-    "background": "イベント1_a",
+    "background": "evcg01a",
     "dialogues": [
       {
         "character": "",
@@ -1244,7 +1212,7 @@
     ]
   },
   {
-    "background": "背景_空_夜",
+    "background": "bg000d",
     "dialogues": [
       {
         "character": "",
@@ -1253,10 +1221,10 @@
     ]
   },
   {
-    "background": "イベント1_b",
+    "background": "large_evcg01b",
     "dialogues": [
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……呼。"
       },
       {
@@ -1266,7 +1234,7 @@
     ]
   },
   {
-    "background": "イベント1_b",
+    "background": "evcg01b",
     "dialogues": [
       {
         "character": "",
@@ -1289,13 +1257,13 @@
         "text": "真凉爽。"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       }
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
@@ -1320,7 +1288,7 @@
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
@@ -1337,7 +1305,7 @@
     ]
   },
   {
-    "background": "背景_連結部",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -1370,65 +1338,67 @@
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
-        "character": "？？？",
-        "text": "咕噜噜噜噜噜噜噜。"
-      },
-      {
-        "character": "暁",
-        "text": "哦？"
+        "character": "晓",
+        "text": "哦？",
+        "body": "？？？"
       }
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
-        "text": "有人。"
+        "text": "有人。",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "一进来就听见了声音。\n　有别的乘客在。"
+        "text": "一进来就听见了声音。\n　有别的乘客在。",
+        "body": "jibie_02face"
       },
       {
-        "character": "？？？",
-        "text": "唔咕，咕噜，已经吃不下了……"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "不过她正在睡觉。"
+        "character": "晓",
+        "text": "……",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "吵醒对方也不太好。"
+        "text": "不过她正在睡觉。",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "总之知道有人就足够了。"
+        "text": "吵醒对方也不太好。",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "话说，只有一个人？"
+        "text": "总之知道有人就足够了。",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "这节车厢里只有她一个人。"
+        "text": "话说，只有一个人？",
+        "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "可能别的乘客嫌吵去了别的车厢。"
+        "text": "这节车厢里只有她一个人。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "可能别的乘客嫌吵去了别的车厢。",
+        "body": "jibie_02face"
       }
     ]
   },
   {
-    "background": "背景_連結部",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -1437,105 +1407,101 @@
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
         "text": "第三节……"
       },
       {
-        "character": "女性乘客",
-        "text": "……"
-      },
-      {
-        "character": "暁",
-        "text": "噢。"
+        "character": "晓",
+        "text": "噢。",
+        "body": "女性客"
       },
       {
         "character": "",
-        "text": "又看到人了。"
+        "text": "又看到人了。",
+        "body": "女性客"
       },
       {
         "character": "",
-        "text": "这一位没有睡着。\n　和我对上了视线。"
+        "text": "这一位没有睡着。\n　和我对上了视线。",
+        "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "可是……"
-      },
-      {
-        "character": "女性乘客",
-        "text": "……"
+        "text": "可是……",
+        "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "————啪哧。"
+        "text": "————啪哧。",
+        "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "女性旁若无人地坐在座位上。"
+        "text": "女性旁若无人地坐在座位上。",
+        "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "点着嘴里的香烟。"
+        "text": "点着嘴里的香烟。",
+        "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "这就……让我不太敢搭话了。"
-      },
-      {
-        "character": "女性乘客",
-        "text": "呼————。"
+        "text": "这就……让我不太敢搭话了。",
+        "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "她吐出了长长一口烟雾。"
+        "text": "她吐出了长长一口烟雾。",
+        "body": "女性客"
       },
       {
         "character": "",
-        "text": "唰、唰。"
+        "text": "唰、唰。",
+        "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "随后把烟灰掸在前座的烟灰缸里。"
+        "text": "随后把烟灰掸在前座的烟灰缸里。",
+        "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "原来这辆火车上能抽烟啊。\n　不愧是古董级的格调。"
+        "text": "原来这辆火车上能抽烟啊。\n　不愧是古董级的格调。",
+        "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "不过我也不吸，和我没多大关系。"
+        "text": "不过我也不吸，和我没多大关系。",
+        "body": "hanae_02face"
       }
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
-        "character": "暁",
-        "text": "呃。"
+        "character": "晓",
+        "text": "呃。",
+        "body": "large_hanae_02face+"
       },
       {
-        "character": "暁",
-        "text": "你、你好。"
-      },
-      {
-        "character": "女性乘客",
-        "text": "嗯？"
-      },
-      {
-        "character": "女性乘客",
-        "text": "你好。"
+        "character": "晓",
+        "text": "你、你好。",
+        "body": "large_hanae_02face+"
       },
       {
         "character": "",
-        "text": "成功地打了个生硬的招呼。"
+        "text": "成功地打了个生硬的招呼。",
+        "body": "large_hanae_02face+"
       }
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
@@ -1544,7 +1510,7 @@
     ]
   },
   {
-    "background": "背景_連結部",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -1573,14 +1539,14 @@
     ]
   },
   {
-    "background": "背景_列車内",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
         "text": "是不是男人————"
       },
       {
-        "character": "暁",
+        "character": "晓",
         "text": "……"
       },
       {
@@ -1598,93 +1564,91 @@
     ]
   },
   {
-    "background": "背景_連結部",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
         "text": "继续下一节……"
       },
       {
-        "character": "男性",
-        "text": "哦呀。"
-      },
-      {
-        "character": "暁",
-        "text": "哎呀。"
+        "character": "晓",
+        "text": "哎呀。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "出现了。"
+        "text": "出现了。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "是一位男性，刚才好像出去了。"
+        "text": "是一位男性，刚才好像出去了。",
+        "body": "takase_09face"
       }
     ]
   },
   {
-    "background": "背景_連結部",
+    "background": "bg060c",
     "dialogues": [
       {
-        "character": "男性",
-        "text": "晚上好。您也是来旅行的？"
-      },
-      {
-        "character": "暁",
-        "text": "嗯，你好。"
+        "character": "晓",
+        "text": "嗯，你好。",
+        "body": "男"
       },
       {
         "character": "",
-        "text": "他友好地向我搭话道。"
+        "text": "他友好地向我搭话道。",
+        "body": "男"
       },
       {
         "character": "",
-        "text": "这样一来就放心了。\n　我也笑着回应了他。"
+        "text": "这样一来就放心了。\n　我也笑着回应了他。",
+        "body": "男"
       },
       {
         "character": "",
-        "text": "真是个帅哥。"
+        "text": "真是个帅哥。",
+        "body": "large_takase_02face"
       },
       {
         "character": "",
-        "text": "不过发型乱蓬蓬的，一幅轻浮的外表。"
-      },
-      {
-        "character": "男性",
-        "text": "呼。（揉）"
+        "text": "不过发型乱蓬蓬的，一幅轻浮的外表。",
+        "body": "large_takase_02face"
       },
       {
         "character": "",
-        "text": "啊，看来不是发型的问题。"
+        "text": "啊，看来不是发型的问题。",
+        "body": "男"
       },
       {
         "character": "",
-        "text": "他随手将手伸向脑后，\n　把头发揉得乱糟糟的。"
+        "text": "他随手将手伸向脑后，\n　把头发揉得乱糟糟的。",
+        "body": "男"
       },
       {
         "character": "",
-        "text": "确实有人会有这种习惯。"
+        "text": "确实有人会有这种习惯。",
+        "body": "large_takase_02face"
       },
       {
         "character": "",
-        "text": "不经意地把头发搞得如一团乱麻，从而给人一种不靠谱的印象。"
+        "text": "不经意地把头发搞得如一团乱麻，从而给人一种不靠谱的印象。",
+        "body": "large_takase_02face"
       },
       {
         "character": "",
-        "text": "这时……我注意到。"
+        "text": "这时……我注意到。",
+        "body": "large_takase_02face"
       },
       {
-        "character": "暁",
-        "text": "嗯？　这就到尽头了？"
-      },
-      {
-        "character": "男性",
-        "text": "是的。接下来就是货运车厢了。"
+        "character": "晓",
+        "text": "嗯？　这就到尽头了？",
+        "body": "large_takase_02face"
       }
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg_black",
     "dialogues": [
       {
         "character": "",
@@ -1697,342 +1661,176 @@
     ]
   },
   {
-    "background": "背景_連結部",
+    "background": "bg060c",
     "dialogues": [
       {
-        "character": "男性",
-        "text": "应该是为了还原以前的场景吧。"
-      },
-      {
         "character": "",
-        "text": "倒是在西部电影中挺常见的。\n　这种多数车厢载货不载人的情况，"
+        "text": "倒是在西部电影中挺常见的。\n　这种多数车厢载货不载人的情况，",
+        "body": "男"
       }
     ]
   },
   {
-    "background": "背景_連結部",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
         "text": "也就是说，"
       },
       {
-        "character": "暁",
-        "text": "客运车厢只有四节么。"
+        "character": "晓",
+        "text": "客运车厢只有四节么。",
+        "body": "takase_09face"
       },
       {
-        "character": "男性",
-        "text": "应该是。\n每节车厢里双人座左右各一排，每排八个，\n总共是三十二个座位×四节车厢，最多坐一百二十八个人。"
-      },
-      {
-        "character": "暁",
-        "text": "比现代的运载量少多了。"
-      },
-      {
-        "character": "男性",
-        "text": "在SL的时代这种运载量就足够了。"
+        "character": "晓",
+        "text": "比现代的运载量少多了。",
+        "body": "男"
       },
       {
         "character": "",
-        "text": "对话顺利进行着。"
+        "text": "对话顺利进行着。",
+        "body": "男"
       },
       {
         "character": "",
-        "text": "虽说一开始有点紧张，\n　但多亏他善于交流，紧张感也随之消除了。"
+        "text": "虽说一开始有点紧张，\n　但多亏他善于交流，紧张感也随之消除了。",
+        "body": "男"
       },
       {
         "character": "",
-        "text": "他边习惯性地挠着头边说，"
+        "text": "他边习惯性地挠着头边说，",
+        "body": "takase_09face"
       },
       {
-        "character": "男性",
-        "text": "一开始觉得蛮有趣的就报名了，\n没想到能有这种体验，真是赚到了。"
-      },
-      {
-        "character": "暁",
-        "text": "是啊。"
-      },
-      {
-        "character": "",
-        "text": "目前来说，我觉得这是场超值的旅行。"
-      },
-      {
-        "character": "暁",
-        "text": "话说这个时代已经不运输木柴了吧……\n这是模型？"
-      },
-      {
-        "character": "男性",
-        "text": "或许吧。"
-      },
-      {
-        "character": "暁",
-        "text": "如果在西部剧里，\n最后决斗肯定是在柴堆上帅气地解决掉坏人。"
-      },
-      {
-        "character": "男性",
-        "text": "这就是浪漫啊。\n我要是导演，就要设计扔掉枪后拳拳到肉的决斗场景！"
+        "character": "晓",
+        "text": "是啊。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "我们能聊到一块的话题还挺丰富的。"
+        "text": "目前来说，我觉得这是场超值的旅行。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "话说这个时代已经不运输木柴了吧……\n这是模型？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "如果在西部剧里，\n最后决斗肯定是在柴堆上帅气地解决掉坏人。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "我们能聊到一块的话题还挺丰富的。",
+        "body": "男"
       }
     ]
   },
   {
-    "background": "背景_連結部",
+    "background": "bg060c",
     "dialogues": [
       {
-        "character": "男性",
-        "text": "差点忘了。\n初次见面，我叫鹰世市藏。叫我鹰世就好了。"
+        "character": "晓",
+        "text": "啊，好的。\n我叫钟城晓。",
+        "body": "男"
       },
       {
-        "character": "暁",
-        "text": "啊，好的。\n我叫钟城晓。"
+        "character": "",
+        "text": "闲聊了半天，我们才想起来做自我介绍。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "真是位随和的人啊。",
+        "body": "takase_09face"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "言谈举止温文尔雅。\n　也可能是他为了不让对方紧张而舒缓了神态。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "感觉我刚才说话的态度有些居高临下了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "不过他看起来年龄比我小，应该问题不大吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "等等，后面已经没有车厢了，\n就是说参加这次旅行的只有四个人？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "目前为止我在火车上见到的人员有——\n　小小乘务员、睡觉的、吸烟的、鹰世。\n　再加上我。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "总共只有四名旅客。",
+        "body": "takase_09face"
       },
       {
         "character": "鹰世",
-        "text": "请多关照，钟城先生。"
-      },
-      {
-        "character": "",
-        "text": "闲聊了半天，我们才想起来做自我介绍。"
-      },
-      {
-        "character": "",
-        "text": "真是位随和的人啊。"
-      }
-    ]
-  },
-  {
-    "background": "背景_連結部",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "言谈举止温文尔雅。\n　也可能是他为了不让对方紧张而舒缓了神态。"
-      },
-      {
-        "character": "",
-        "text": "感觉我刚才说话的态度有些居高临下了。"
-      },
-      {
-        "character": "",
-        "text": "不过他看起来年龄比我小，应该问题不大吧。"
-      },
-      {
-        "character": "暁",
-        "text": "等等，后面已经没有车厢了，\n就是说参加这次旅行的只有四个人？"
-      },
-      {
-        "character": "",
-        "text": "目前为止我在火车上见到的人员有——\n　小小乘务员、睡觉的、吸烟的、鹰世。\n　再加上我。"
-      },
-      {
-        "character": "",
-        "text": "总共只有四名旅客。"
+        "text": "原来还有两个人啊。\n我上车的时候可一个人都没有。",
+        "body": "takase_09face"
       },
       {
         "character": "鹰世",
-        "text": "原来还有两个人啊。\n我上车的时候可一个人都没有。"
+        "text": "看来同乘者还挺多的……嗯。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "看来鹰世并不知道详情。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "不管总人数有多少，反正多不过我刚刚提到的数了。",
+        "body": "takase_09face"
       },
       {
         "character": "鹰世",
-        "text": "看来同乘者还挺多的……嗯。"
+        "text": "这也没办法啦。\n毕竟这趟夜间火车旅行并没有明确的目的地。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "看来鹰世并不知道详情。"
+        "text": "他笑着耸了耸肩。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "不管总人数有多少，反正多不过我刚刚提到的数了。"
-      },
-      {
-        "character": "鹰世",
-        "text": "这也没办法啦。\n毕竟这趟夜间火车旅行并没有明确的目的地。"
+        "text": "一副悠然自得的样子。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "他笑着耸了耸肩。"
-      },
-      {
-        "character": "",
-        "text": "一副悠然自得的样子。"
-      },
-      {
-        "character": "",
-        "text": "相比之下我就没办法那么悠哉了。\n　人数这么少的旅行还挺让人紧张的。"
+        "text": "相比之下我就没办法那么悠哉了。\n　人数这么少的旅行还挺让人紧张的。",
+        "body": "takase_09face"
       }
     ]
   },
   {
-    "background": "背景_連結部",
-    "dialogues": [
-      {
-        "character": "鹰世",
-        "text": "对我而言，只要能体验到这个就满足了。"
-      },
-      {
-        "character": "",
-        "text": "他摊开了手掌。"
-      }
-    ]
-  },
-  {
-    "background": "背景_連結部",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "哇！？"
-      },
-      {
-        "character": "鹰世",
-        "text": "哈哈，要小心点哦。"
-      },
-      {
-        "character": "",
-        "text": "手心已经被染成了黑色。"
-      },
-      {
-        "character": "",
-        "text": "上面沾满了黑煤。"
-      },
-      {
-        "character": "鹰世",
-        "text": "可得注意啊。\n煤是SL主要的动力来源。"
-      },
-      {
-        "character": "",
-        "text": "他笑着掸了掸手掌。"
-      },
-      {
-        "character": "",
-        "text": "原来如此。\n　蒸汽机车因为烧煤会一直排放黑烟。\n　外面自然是布满了煤灰。"
-      },
-      {
-        "character": "暁",
-        "text": "怪不得这趟旅行人这么少啊。"
-      },
-      {
-        "character": "",
-        "text": "我苦笑着附和道。"
-      },
-      {
-        "character": "",
-        "text": "我选这趟旅行纯粹是为了避暑。"
-      },
-      {
-        "character": "",
-        "text": "然而煤灰容易把衣服搞得脏兮兮的，\n　报名的人自然就变少了。"
-      },
-      {
-        "character": "",
-        "text": "鹰世抚摸着扶手，\n　笑眯眯地看着沾满煤灰的双手。"
-      },
-      {
-        "character": "",
-        "text": "他想必就是“那一类人”。"
-      },
-      {
-        "character": "",
-        "text": "俗称SL狂热粉，又称作阿铁。"
-      },
-      {
-        "character": "暁",
-        "text": "在我看来这种复古旅行是很浪漫，但把衣服搞脏还是敬谢不敏了。"
-      },
-      {
-        "character": "鹰世",
-        "text": "也对。这才是正常人的想法。"
-      },
-      {
-        "character": "暁",
-        "text": "我先进去了。\n你还挺了解SL啊，回头我们再聊。"
-      },
-      {
-        "character": "鹰世",
-        "text": "乐意至极。"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
-        "text": "回到车厢。"
-      },
-      {
-        "character": "",
-        "text": "这趟旅行的规模比我预想中更小一些，"
-      },
-      {
-        "character": "",
-        "text": "不过我本就没什么朋友，能一个人静静地享受也不错。\n　目前来说是场美妙的旅行。"
-      },
-      {
-        "character": "",
-        "text": "话说旅客真就只有四个人吗？\n　途中不会再增员了吧。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "去问问那个乘务员女孩。"
-      }
-    ]
-  },
-  {
-    "background": "背景_連結部",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "我朝锅炉室那边走去。"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "女性乘客",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "穿过吸烟女性的身边。"
-      }
-    ]
-  },
-  {
-    "background": "背景_連結部",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "接着去第二节车厢。"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "熟睡的乘客",
-        "text": "咕噜噜噜噜。"
-      },
-      {
-        "character": "",
-        "text": "她还在睡。\n　我放轻脚步走过，尽可能不吵醒她。"
-      }
-    ]
-  },
-  {
-    "background": "背景_連結部",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "接着。"
+        "text": "他摊开了手掌。",
+        "body": "takase_09face"
       }
     ]
   }

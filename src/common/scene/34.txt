@@ -1,0 +1,806 @@
+[
+  {
+    "background": "large_evcg10f",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "啊，这个，对不起。"
+      },
+      {
+        "character": "晓",
+        "text": "哈哈，不过，她话超级多的，\n你光是回应都困难吧。"
+      },
+      {
+        "character": "晓",
+        "text": "下次要加油。"
+      },
+      {
+        "character": "真白",
+        "text": "好……"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "晓",
+        "text": "我会……"
+      },
+      {
+        "character": "晓",
+        "text": "我会遵守……我们的约定。"
+      },
+      {
+        "character": "晓",
+        "text": "我会遵守约定……奖励你。"
+      },
+      {
+        "character": "真白",
+        "text": "白先生……？"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "……到此为止了吧。"
+      },
+      {
+        "character": "",
+        "text": "我已经失去了光明。"
+      },
+      {
+        "character": "",
+        "text": "……终点到了。"
+      }
+    ]
+  },
+  {
+    "background": "evcg10h",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "诺瓦……"
+      },
+      {
+        "character": "真白",
+        "text": "……嗯。"
+      },
+      {
+        "character": "晓",
+        "text": "谢谢你，诺瓦……最后给我一段……愉快的旅途。"
+      },
+      {
+        "character": "真白",
+        "text": "嗯……"
+      },
+      {
+        "character": "晓",
+        "text": "我……非常……幸福……所以。"
+      },
+      {
+        "character": "晓",
+        "text": "希望……你下次旅途……"
+      },
+      {
+        "character": "",
+        "text": "也能过得开心。"
+      }
+    ]
+  },
+  {
+    "background": "evcg10i",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "……好的。"
+      },
+      {
+        "character": "真白",
+        "text": "好的……"
+      }
+    ]
+  },
+  {
+    "background": "evcg10j",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……我将踏上一段愉快的旅程。"
+      }
+    ]
+  },
+  {
+    "background": "evcg10k",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……与你一同的旅程。"
+      }
+    ]
+  },
+  {
+    "background": "evcg10l",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "无论何时……都与你一起……"
+      }
+    ]
+  },
+  {
+    "background": "bg_white",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "呜……"
+      },
+      {
+        "character": "真白",
+        "text": "～～～～……呜。"
+      },
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "・・・・"
+      }
+    ]
+  },
+  {
+    "background": "bg000d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・"
+      }
+    ]
+  },
+  {
+    "background": "evcg14a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "护士",
+        "text": "啊……"
+      }
+    ]
+  },
+  {
+    "background": "evcg14b",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "嗯……"
+      }
+    ]
+  },
+  {
+    "background": "evcg14b",
+    "dialogues": [
+      {
+        "character": "护士",
+        "text": "真白，真白你醒来啦？"
+      }
+    ]
+  },
+  {
+    "background": "evcg14a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "evcg14b",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……是的。"
+      },
+      {
+        "character": "护士",
+        "text": "太好了……呼……太好了。"
+      },
+      {
+        "character": "护士",
+        "text": "……昨天可严重了。\n一时进入了危险状态。"
+      }
+    ]
+  },
+  {
+    "background": "evcg14a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "护士",
+        "text": "听说你心脏停止跳动的时候，\n我的心脏也差点停止了。"
+      },
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "evcg14b",
+    "dialogues": [
+      {
+        "character": "护士",
+        "text": "真白？　认识我吗？"
+      }
+    ]
+  },
+  {
+    "background": "evcg14b",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "啊……认识，是猫村小姐。"
+      },
+      {
+        "character": "猫村",
+        "text": "太好啦。"
+      }
+    ]
+  },
+  {
+    "background": "evcg14a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg_white",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      },
+      {
+        "character": "真白",
+        "text": "不。"
+      },
+      {
+        "character": "真白",
+        "text": "那……不是梦。"
+      }
+    ]
+  },
+  {
+    "background": "evcg15a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "那可不是……梦。"
+      }
+    ]
+  },
+  {
+    "background": "bg000d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "・・・・"
+      }
+    ]
+  },
+  {
+    "background": "bg100c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・"
+      }
+    ]
+  },
+  {
+    "background": "bg000d",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "你不觉得很美妙吗？　夜晚的火车之旅。"
+      },
+      {
+        "character": "真白",
+        "text": "漫天星空之下，蒸汽机车笔直地开动着。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "美妙的冒险与安宁在那等待着我。"
+      },
+      {
+        "character": "真白",
+        "text": "博学温柔的哥哥。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "真白",
+        "text": "开朗精神的大姐姐。",
+        "body": "large_jibie_02face"
+      },
+      {
+        "character": "真白",
+        "text": "帅气的暖心大姐姐。",
+        "body": "large_hanae_02face+"
+      }
+    ]
+  },
+  {
+    "background": "evcg01b",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "还有……"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg01c",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg01c2",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg_white",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "这世界上最最帅气的……"
+      },
+      {
+        "character": "真白",
+        "text": "我最喜欢的人也坐在上面。"
+      }
+    ]
+  },
+  {
+    "background": "evcg01c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "清风吹拂。"
+      },
+      {
+        "character": "",
+        "text": "与其说是风在吹。\n　不如说我正以子弹般的速度在清风里穿梭。"
+      },
+      {
+        "character": "",
+        "text": "深夜火车之旅。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "旅行仍在继续。"
+      },
+      {
+        "character": "",
+        "text": "美丽星空之下，凉风之中，悠闲而又安逸。"
+      },
+      {
+        "character": "",
+        "text": "就是里面的乘客有些奇怪。\n　诺瓦每天都像那样努力复健，"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg01c",
+    "dialogues": [
+      {
+        "character": "黑猫",
+        "text": "呜咪。"
+      },
+      {
+        "character": "",
+        "text": "另一个诺瓦也是乘客。"
+      },
+      {
+        "character": "",
+        "text": "不过它总是突然出现，\n　又突然消失。真是随心所欲的家伙。\n　也许不能称为乘客吧。"
+      }
+    ]
+  },
+  {
+    "background": "evcg01e",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "而毫无疑问，我们可是乘客。"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg01e",
+    "dialogues": [
+      {
+        "character": "音理",
+        "text": "我说哥哥啊。"
+      },
+      {
+        "character": "晓",
+        "text": "什么？"
+      },
+      {
+        "character": "音理",
+        "text": "还没到下一个站吗。"
+      },
+      {
+        "character": "晓",
+        "text": "还得花点时间吧。"
+      },
+      {
+        "character": "音理",
+        "text": "嗯————这里的风景我已经看腻了。"
+      },
+      {
+        "character": "音理",
+        "text": "不知道下一站会是怎样呢。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "根据本人的说法，是函馆吧？"
+      },
+      {
+        "character": "花江",
+        "text": "好像是喔，函馆在那三个之中难度最低了。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "呜啊，去外国难度太高了。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "鹰世",
+        "text": "函馆也算出远门了，先去岩手县内的铁道博物馆如何。\n那里很棒。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "是啊。",
+        "body": "large_neri_03face"
+      },
+      {
+        "character": "晓",
+        "text": "……既然要去函馆，不如也去一下五棱郭吧。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "花江",
+        "text": "还可以顺路去一下天象馆。",
+        "body": "hanae_02face"
+      }
+    ]
+  },
+  {
+    "background": "evcg01e",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "大概就是这个感觉……"
+      },
+      {
+        "character": "",
+        "text": "我们都在悠闲度日。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦倒是挺累的。"
+      },
+      {
+        "character": "",
+        "text": "毕竟终点好像还很远。"
+      },
+      {
+        "character": "",
+        "text": "加油啊，诺瓦。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "怎么？",
+        "body": "large_neri_03face"
+      },
+      {
+        "character": "晓",
+        "text": "对。",
+        "body": "large_neri_03face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯……对喔。",
+        "body": "neri_02face"
+      },
+      {
+        "character": "",
+        "text": "话说回来，她的身份确实成谜。",
+        "body": "neri_02face"
+      },
+      {
+        "character": "",
+        "text": "她变成真白的时候我可真是吓着了，",
+        "body": "neri_02face"
+      },
+      {
+        "character": "",
+        "text": "没想到就那么不再出现了。",
+        "body": "neri_02face"
+      },
+      {
+        "character": "",
+        "text": "那是怎么回事？\n　我还没有明白她出现的规则。",
+        "body": "neri_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "嗯————话说回来，在这里悠闲度日的我们，\n要说奇怪也挺奇怪的。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "花江",
+        "text": "话说回来她到底是谁啊？\n和我们一样么，还是不一样呢。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "音理",
+        "text": "为什么不是乘客而是乘务员呢？",
+        "body": "neri_02face"
+      },
+      {
+        "character": "",
+        "text": "大家都感到疑问。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "这时候当然，",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "鹰世，你怎么看？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "得问问我们的智囊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "看吧，他马上就回答了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "要知道狩叶小姐是什么人，\n首先得思考我们是什么人。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "我们因为给诺瓦小姐提供了身体器官，所以在这里。\n肺和肾脏，虽然不知道大家都提供了哪些部分，\n总之这辆火车的“乘客”，都是这种人。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "但她不是“乘客”而是“乘务员”。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "花江",
+        "text": "啊啊～",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "原来如此。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "音理",
+        "text": "？",
+        "body": "neri_02face"
+      }
+    ]
+  },
+  {
+    "background": "bg000d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "・・・・・"
+      }
+    ]
+  },
+  {
+    "background": "bg130a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "好。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "你家……妹妹？",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "bg_white",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————嘎啦。"
+      }
+    ]
+  },
+  {
+    "background": "evcg16a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "啊……"
+      },
+      {
+        "character": "猫村",
+        "text": "哎呀。"
+      },
+      {
+        "character": "？？？",
+        "text": "哎呀，今天也多谢款待了。"
+      }
+    ]
+  },
+  {
+    "background": "bg000a",
+    "dialogues": [
+      {
+        "character": "猫村",
+        "text": "春香！　你在干什么啊！"
+      },
+      {
+        "character": "春香",
+        "text": "咿呀！　姐，姐姐！？\n不妙～……"
+      },
+      {
+        "character": "猫村",
+        "text": "这里是献血室……你又擅自从冰箱拿东西吃了吗。"
+      },
+      {
+        "character": "春香",
+        "text": "我，我今天是正常来献血的。\n等价交换啦。"
+      },
+      {
+        "character": "猫村",
+        "text": "你前不久才献过血，\n应该知道暂时不能献血的规定吧！"
+      },
+      {
+        "character": "猫村",
+        "text": "到底是怎么通过名册的……这什么。\n狩叶・朗姆柯妮？　又给自己取了个奇怪的假名……"
+      },
+      {
+        "character": "春香",
+        "text": "咿呀呀呀呀非常抱歉。"
+      },
+      {
+        "character": "猫村",
+        "text": "给我站住！"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg16a",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "啊……",
+        "body": "春香"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "春香"
+      },
+      {
+        "character": "真白",
+        "text": "你好。",
+        "body": "春香"
+      }
+    ]
+  },
+  {
+    "background": "evcg01e",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "快去吧，"
+      },
+      {
+        "character": "",
+        "text": "奖励已经备好。"
+      }
+    ]
+  },
+  {
+    "background": "evcg17a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "该与我实现约定了，诺瓦。"
+      }
+    ]
+  },
+  {
+    "background": "bg_white",
+    "dialogues": []
+  }
+]

@@ -1,2135 +1,1856 @@
 [
   {
-    "background": "背景_黒",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
-        "text": "我也害怕。"
+        "text": "她本人也连这辆火车正在异常的世界里旅行一事\n　都没有察觉到。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "从孩童长成大人……"
+        "text": "没察觉到的话就和诺瓦一样，别跟她说了。\n　不能让小孩子被吓到。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "不知何时起，世界已经变成了一个非常可怕的地方。"
+        "text": "只是……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "有没有什么事向我们隐瞒了？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "嗯？",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "小时候憧憬的宝石箱仍在，\n　但已经无法再用纯洁的目光看待那些宝石了。"
+        "text": "狩叶嘻嘻笑道。",
+        "body": "karuha_03face"
       },
       {
-        "character": "暁",
+        "character": "晓",
+        "text": "……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "狩叶这名字不是你本名吧",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "晓",
+        "text": "明明是个英文一窍不通的人，\n却报上个狩叶·朗姆柯妮的名字，这也太反常了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "有、有吗。现在日本也开始多样化了啊.",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "为什么报了个假名？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "不是，那个。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "我、我这边也有自己的状况啊。要是被姐姐发现了我可就要遭殃了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "要遭殃了？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "被狩叶往口袋里塞了什么东西。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "什么东西……喔妙乐多。",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "",
+        "text": "小瓶装的。",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "晓",
+        "text": "……这还能作为收买材料的吗？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "不过说不定对她来说有足够的价值。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "话说回来，名字……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "比如夜羽真白，之类的。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "啥？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "那是谁啊。我才不叫那名字。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "这样么。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "看来不是这个会让我最为混乱的名字。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "狩叶趁机溜走了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "虽然谜团又多了一个……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "鹰世",
+        "text": "弄明白什么了吗。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "一无所知。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "唯一明白的就是，\n感觉再怎么问她也问不出什么东西吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "是吗。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "跟所有人聊过后也没什么收获呀。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "这样下去,\n就得考虑是不是有人说谎的可能性了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "是啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "若是真的遇到这种情况，我宁愿选择不调查。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "不过总之还有一条线索。\n现在就期待那边吧。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "花江",
+        "text": "嗯……谁？",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "晓",
+        "text": "站务员。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "你忘了吗？　\n仔细想想，搭乘这列火车的时候，还有海边烧烤的时候，车站里有我们以外的另一个人在。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "野鸟",
+        "text": "啊……是这样。",
+        "body": "jibie_02face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "对。"
+      },
+      {
+        "character": "",
+        "text": "当我们启程的时候，除我们以外，\n　还有两个人。"
+      },
+      {
+        "character": "",
+        "text": "一个是那个纯白的少女",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "……该怎么称呼她呢。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "真白？\n　这样称呼对诺瓦有股微妙的不适感。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "总之，除了她，",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "还有另一个人。",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "bg035d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "负责给我们办理乘车手续的，站务员一般的人。"
+      },
+      {
+        "character": "",
+        "text": "帮我们准备烧烤的人也是他。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "现在想起来……\n那两人脸长得一模一样。"
+      },
+      {
+        "character": "",
+        "text": "虽然没仔细比对所以也没法下判定，"
+      },
+      {
+        "character": "鹰世",
+        "text": "是同一人？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "有可能。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "至少穿着的制服和身高是一样的。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "如果是同一个人在不同的车站等着我们的话，",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "那么，那个站务员就很明显是“对面”的人了。\n他应该知道这列火车到底是什么。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "我们找找看吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "我去看看车站外面。\n要说顺序，也是该轮到我或者诺瓦了。",
+        "body": "takase_09face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "之前的三站，"
+      },
+      {
+        "character": "",
+        "text": "都是与野鸟小姐，鹰世和花江小姐有缘的地方。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "要说容纳这列火车行驶的神秘空间有什么规律的话，\n　差不多应该轮到我了。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "而且，如果这是连时间都能跨越的站台的话，",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "我的站台会在……",
+        "body": "hanae_02face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "唔，怎么了。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "没事，哈哈，我在紧张吧应该。",
+        "body": "large_jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐拍了拍我的后背。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "明明最害怕的是她呢。\n　真是个打心底爱为别人操心的人。",
+        "body": "large_jibie_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "我该做什么好啊。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "和诺瓦和狩叶在一起吧。\n遇到人了记得告诉我。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "好的。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "花江",
+        "text": "要是遇到了白化病的女孩，记得赶紧跑。\n理由有点复杂……总之很危险。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "YES。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "还是谈谈好了。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "……好像比起旅行，更像是探险了啊。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "花江",
+        "text": "是啊。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "我们苦笑着说道。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "幸运的是，\n    我们还有“火车”这一据点在。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "有这么个能坐下来冷静待着的地方\n　我们才可以不用那么慌乱。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "这样考虑的话，",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "这列“火车”本身，就可能是与谁有缘的场所，吗？",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "这样的话……",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "狩叶",
+        "text": "到了～",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊……能看见镇子了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯……",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg000a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这几天都没见到过的人造物，\n　随着接近站台而数目剧增。"
+      },
+      {
+        "character": "",
+        "text": "房子，道路，大厦……"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "是我印象里的风景。"
+      },
+      {
+        "character": "花江",
+        "text": "是你的吗？",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "晓",
+        "text": "似乎是的。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "这次的车站，不是诺瓦，而是和我有缘的地方。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "火车朝着我记忆中的地方飞奔着。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "如果，",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "要是不止是空间。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "连时间都能回溯的话……",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "狩叶",
+        "text": "列车即将到站啦～请各位不要离开自己的座位。",
+        "body": "karuha_03face"
+      }
+    ]
+  },
+  {
+    "background": "bg000a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "列车缓缓减速，向着车站行驶而去。"
+      },
+      {
+        "character": "",
+        "text": "果然这里并不是现实。\n　就我所知，镇子的这位置并不是车站。"
+      },
+      {
+        "character": "",
+        "text": "将我所熟知的现实给切裂开的，笔直的铁路，\n　正把我带向那个地方。"
+      },
+      {
+        "character": "",
+        "text": "把我带向那个心中所想的地方。"
+      }
+    ]
+  },
+  {
+    "background": "bg035a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————噗嗤～……"
+      },
+      {
+        "character": "",
+        "text": "像是在叹息一般，把积攒了的蒸汽喷吐出来后\n　火车停下了自己的脚步。"
+      },
+      {
+        "character": "狩叶",
+        "text": "好像……与前面的车站都不太一样啊。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "乘务员先下去，之后我们也跟着下了火车。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "鹰世",
+        "text": "那么。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "鹰世去找之前说的那个站务员。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "花江小姐也跟着去了。应该是判断一个人去找很危险吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "房子好多……说起来这之前都没看到什么建筑物啊。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "野鸟",
+        "text": "是啊。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "狩叶",
+        "text": "这样也挺有趣的。会有些什么呢。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "我和野鸟小姐则带着两位小孩来到车站外面。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "嗯于是？\n这里是……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "……奇怪？",
+        "body": "karuha_03face"
+      }
+    ]
+  },
+  {
+    "background": "bg020a",
+    "dialogues": [
+      {
+        "character": "晓",
         "text": "……"
       },
       {
         "character": "",
-        "text": "不过。"
+        "text": "如我所想————如我所愿。"
+      },
+      {
+        "character": "",
+        "text": "火车来到了与我有缘的地方。"
+      },
+      {
+        "character": "",
+        "text": "通往我生活的地方，通往我居住的镇子。"
       }
     ]
   },
   {
-    "background": "イベント3_a",
+    "background": "bg020a",
     "dialogues": [
       {
-        "character": "暁",
-        "text": "活着就是这样。"
+        "character": "",
+        "text": "这里可以看到我居住的公寓。"
+      }
+    ]
+  },
+  {
+    "background": "bg020a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "那边的超市也是我经常去的，\n　隔壁便利店里的店员是我熟知的聊天对象。"
+      }
+    ]
+  },
+  {
+    "background": "bg020a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "以及……对，虽说是和我有缘的地方，但这个表达其实不太确切。"
       },
       {
-        "character": "ノワール",
+        "character": "野鸟",
+        "text": "这里是……白先生的？",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "是的。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "是我想回到的地方。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "……",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "对野鸟小姐来说是阔别已久的故乡。",
+        "body": "jibie_02face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "鹰世是二十年前。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "而花江小姐，则是留下自己作为演员最棒成绩的地方。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "这列火车，会通往乘客“想回去的地方”。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "原理不知是何。\r\n　这里充满了幻想。\r\n　试图理解也只是徒劳。",
+        "body": "hanae_02face"
+      }
+    ]
+  },
+  {
+    "background": "bg020a",
+    "dialogues": [
+      {
+        "character": "狩叶",
+        "text": "怎、怎么感觉有点奇怪啊？　怎么一个人都没有。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "那里的便利店，\n明明停着车却没有一个客人……店员也不在。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "野鸟",
+        "text": "别、别怕，没事的。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "确实看上去像是幽灵城市。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "“这个世界除了我们几乎没有别人”",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "不知道这条规则的小孩子们开始害怕了。\r\n　野鸟小姐急忙去安抚她们。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "狩叶",
+        "text": "而且……咦？　现在是夏天吧。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "还稍微有点冷啊。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "怕冷的三人抱着团取暖。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "皮肤有点冷……确实，明明身处水泥构筑的城镇中，\n　却要比之前的高原更加寒冷。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "太好了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "现在肯定还是初春吧。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "咦……？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "成功了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "刚刚听到鹰世的话，所以稍微抱了点期待。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "我回到了想要回到的地方……以及，\n　回到了我想回到的“时间”了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "你们三个待在这里别乱跑。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "哎，啊，等等啊。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "我去看看情况！",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "我立马冲了出去。",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg_white",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "目标是……首先去我的房间吧。"
+      },
+      {
+        "character": "",
+        "text": "我很清楚现在是初春。"
+      },
+      {
+        "character": "",
+        "text": "日期我也很清楚，连几时几分都记得清清楚楚。"
+      },
+      {
+        "character": "",
+        "text": "我回到了我所期待的时刻。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————咔嚓。"
+      },
+      {
+        "character": "",
+        "text": "我想打开玄关紧闭的大门，但门上锁了。"
+      },
+      {
+        "character": "",
+        "text": "一瞬间，我焦躁起来……旋即冷静了下来，拿出自己手上的钥匙。"
+      },
+      {
+        "character": "",
+        "text": "————咔啦。"
+      },
+      {
+        "character": "",
+        "text": "理所当然，正是这把钥匙。"
+      },
+      {
+        "character": "",
+        "text": "果然这里是我的房间。"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "小音！"
+      },
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "我冲了进去。"
+      },
+      {
+        "character": "晓",
+        "text": "小音！　小音在吗！"
+      },
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "晓",
+        "text": "小音！"
+      },
+      {
+        "character": "",
+        "text": "・・・・・"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "……可恶。"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "……没有回应。"
+      },
+      {
+        "character": "",
+        "text": "不行么。"
+      },
+      {
+        "character": "",
+        "text": "室内的情形正如我所想。"
+      },
+      {
+        "character": "",
+        "text": "我的所有物遍布我的房间，\n　摆出来的夹克是转春时穿的。"
+      },
+      {
+        "character": "",
+        "text": "是今年春天的我的房间。"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "是小音出车祸时的，我的房间。"
+      },
+      {
+        "character": "晓",
         "text": "……"
       },
       {
-        "character": "暁",
-        "text": "你妈妈也说过吧。\n人只要活着，就会给别人添麻烦。"
+        "character": "",
+        "text": "最关键的人却不在。"
       },
       {
-        "character": "ノワール",
-        "text": "是的。"
+        "character": "",
+        "text": "既没有小音，也没有当年的我。"
       },
       {
-        "character": "暁",
-        "text": "这是正确的。"
+        "character": "",
+        "text": "没有人。看来是这条规则没变。"
       },
       {
-        "character": "暁",
-        "text": "活着就意味着互相争夺。\n夺走，或是被夺走。"
-      },
-      {
-        "character": "暁",
-        "text": "将这件事视作理所当然……是很令人害怕的。\n那样就会觉得夺走他人的东西，或者认为踩着别人往上走是理所当然的事情。我不想成为那种人。"
+        "character": "晓",
+        "text": "小音！　可恶！"
       }
     ]
   },
   {
-    "background": "イベント3_a_大",
+    "background": "bg020a",
     "dialogues": [
       {
-        "character": "暁",
-        "text": "但因为不想夺走就闭上眼睛，\n那只是在逃避。"
+        "character": "",
+        "text": "我冲出房间向着一楼飞奔而去。"
       },
       {
-        "character": "暁",
-        "text": "只是不肯面对自己活着这件事。"
+        "character": "",
+        "text": "房东的房间……旁边的则是小音的房间。"
       },
       {
-        "character": "ノワール",
+        "character": "",
+        "text": "求你了至少有一个在啊。我握住门把手。"
+      },
+      {
+        "character": "",
+        "text": "————咔嚓。"
+      },
+      {
+        "character": "",
+        "text": "但是，门上了锁。"
+      },
+      {
+        "character": "晓",
+        "text": "小音！　房东，在么！"
+      },
+      {
+        "character": "",
+        "text": "————咚咚咚咚！"
+      },
+      {
+        "character": "",
+        "text": "我拼命敲着门。"
+      },
+      {
+        "character": "",
+        "text": "求你了，出来一个人吧。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "求你了，回答我一下吧。"
+      },
+      {
+        "character": "",
+        "text": "砸门砸到手疼。\n　用要拧坏房门的气势转着门把手。"
+      }
+    ]
+  },
+  {
+    "background": "bg020a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "但锁住的房门纹丝不动。"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "啥？",
+        "body": "large_neri_03face"
+      },
+      {
+        "character": "晓",
+        "text": "谁要啊这种东西。",
+        "body": "large_neri_03face"
+      },
+      {
+        "character": "晓",
+        "text": "发生什么事了的话会被房东怀疑的吧。",
+        "body": "large_neri_03face"
+      },
+      {
+        "character": "ねり大",
+        "text": "啊……这倒也是。",
+        "body": "large_neri_03face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "唉……那时候接过来就好了。"
+      },
+      {
+        "character": "晓",
+        "text": "可恶……"
+      }
+    ]
+  },
+  {
+    "background": "bg000a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "老天啊，我求求你了。"
+      },
+      {
+        "character": "",
+        "text": "我……清楚……\r\n　我清楚我被卷进了不可思议的状况之中。"
+      },
+      {
+        "character": "",
+        "text": "我会奉陪的。会一直跟着这列火车走下去的。"
+      },
+      {
+        "character": "",
+        "text": "所以求你了。\n　好歹也给我次顺心如意的机会吧。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "求你跨越时间和空间。"
+      },
+      {
+        "character": "",
+        "text": "让我去救下小音吧。",
+        "body": "neri_02face"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "让我见见小音吧。",
+        "body": "large_neri_03face"
+      }
+    ]
+  },
+  {
+    "background": "bg020a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "还没结束。"
+      },
+      {
+        "character": "",
+        "text": "确定人不在公寓后，我冲了出去。"
+      }
+    ]
+  },
+  {
+    "background": "bg000a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我知道事故现场在哪里。"
+      },
+      {
+        "character": "",
+        "text": "我向着之前献过很多次花的十字路口跑去。"
+      },
+      {
+        "character": "",
+        "text": "这期间，果然没碰到任何人。\n　一个人都没看到。"
+      },
+      {
+        "character": "",
+        "text": "不对劲。\n　森林和海边没人还好说，镇子空无一人实在是很惊悚。"
+      },
+      {
+        "character": "",
+        "text": "连通过的车辆也没有。"
+      },
+      {
+        "character": "晓",
         "text": "……"
       }
     ]
   },
   {
-    "background": "背景_連結部",
+    "background": "bg020a",
     "dialogues": [
       {
-        "character": "",
-        "text": "诺瓦好似反复咀嚼着我的话一般，一言不发。"
+        "character": "晓",
+        "text": "……啧。"
       },
       {
         "character": "",
-        "text": "因为是个认真的好孩子。\n　所以就算一时没听懂，也不会把别人的话当做耳边风。"
-      },
-      {
-        "character": "",
-        "text": "接受我的话，将它掰开揉碎……"
-      },
-      {
-        "character": "ノワール",
-        "text": "可还是害怕。"
-      },
-      {
-        "character": "ノワール",
-        "text": "好害怕给别人添麻烦。"
-      },
-      {
-        "character": "暁",
-        "text": "这样就好。这么想是正确的。"
-      },
-      {
-        "character": "暁",
-        "text": "不过……呢。"
-      },
-      {
-        "character": "ノワール",
-        "text": "……"
-      },
-      {
-        "character": "暁",
-        "text": "如果实在还是害怕的话，那就尽量增加可以添麻烦的人。\n还有这个方法可用。"
-      },
-      {
-        "character": "ノワール",
-        "text": "可以添麻烦的人？"
-      },
-      {
-        "character": "暁",
-        "text": "之前告诉过你吧。家人，恋人，还有……"
-      },
-      {
-        "character": "ノワール",
-        "text": "……朋友。"
-      },
-      {
-        "character": "暁",
-        "text": "没错。"
-      },
-      {
-        "character": "",
-        "text": "诺瓦的眼中依然带着疑惑，\n　但还是在很努力地试图理解我的话。"
+        "text": "正如我所想。"
       }
     ]
   },
   {
-    "background": "背景_黒",
+    "background": "bg020a",
     "dialogues": [
       {
         "character": "",
-        "text": "确实挺难懂的吧。"
-      }
-    ]
-  },
-  {
-    "background": "背景_空_夜",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "因为对小孩子来说，\n　世界上的所有东西都只分为“好”和“不好”两种。"
+        "text": "道路上没有车辆在行驶。\n　所以自然也不会引发交通事故。"
       },
       {
         "character": "",
-        "text": "非黑即白。只需要认为只有两种颜色。"
+        "text": "想跑起来，但是腿不听使唤。"
       },
       {
         "character": "",
-        "text": "但是一旦长大之后，很多东西就会变成介于二者之间的灰色。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "现在我对诺瓦说的，就属于这种灰色地带。\n　尽管也明白，她现在还太小了。"
-      }
-    ]
-  },
-  {
-    "background": "背景_連結部",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "不知道她能否理解呢？"
-      },
-      {
-        "character": "ノワール",
-        "text": "……"
-      },
-      {
-        "character": "ノワール",
-        "text": "可是音理小姐……"
-      }
-    ]
-  },
-  {
-    "background": "背景大_連結部",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "<dash=2>嘭。"
+        "text": "小音……果然不在吗？"
       },
       {
         "character": "",
-        "text": "我把手放在了她的头上。"
-      },
-      {
-        "character": "暁",
-        "text": "我不会说让你代替小音活下去这种话。"
-      },
-      {
-        "character": "暁",
-        "text": "你的人生只属于你自己，诺瓦。"
-      },
-      {
-        "character": "ノワール",
-        "text": "……"
+        "text": "小音……"
       },
       {
         "character": "",
-        "text": "被摸着头的诺瓦，再次将手按在自己的心脏部位上。"
+        "text": "————沙沙！"
       },
       {
-        "character": "",
-        "text": "她在倾听自己的心跳声。"
-      },
-      {
-        "character": "",
-        "text": "究竟在和小音说什么呢？"
-      },
-      {
-        "character": "",
-        "text": "以往那些构成诺瓦的要素，\n　以及新出现的要素，究竟在……"
-      },
-      {
-        "character": "ノワール",
-        "text": "……"
-      }
-    ]
-  },
-  {
-    "background": "背景_連結部",
-    "dialogues": [
-      {
-        "character": "ノワール",
+        "character": "晓",
         "text": "！"
       },
       {
-        "character": "ノワール",
-        "text": "呜……啊……"
-      },
-      {
-        "character": "暁",
-        "text": "诺瓦……？"
+        "character": "",
+        "text": "旁边的草丛发出了声响。"
       },
       {
         "character": "",
-        "text": "她的表情突然变得恐惧。"
+        "text": "有人。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "小音！？"
+      }
+    ]
+  },
+  {
+    "background": "bg020a",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "唔……诺瓦。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "那、那个，抱歉吓着你了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "跟上来了么。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "对不起……因为看到白先生气势汹汹的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "摸着心脏的手慢慢下挪。"
+        "text": "唉。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "向着自己的肚子。"
+        "text": "是啊。我真是气势汹汹的。",
+        "body": "noir_17face"
       },
       {
-        "character": "ノワール",
+        "character": "",
+        "text": "冷静点啊，真是的。",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "总之，先回到自己房间。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "那个，那个，随便进去真得好吗。\n这不是谁的家里么。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "是我的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "什么？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "这里是我住的镇子。\n这房子是我家。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "虽然时间上不对。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦愣住了一会儿。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "正好停靠在这里的站台么……\n还真是偶然呢。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊、啊、那个，我给忘了。\n打扰了……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "欢迎。要喝点什么吗？",
+        "body": "large_noir_04face"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我打开了冰箱。"
+      },
+      {
+        "character": "",
+        "text": "……这还真是异样。\n　不但通了电，冰箱里也是凉的。"
+      },
+      {
+        "character": "",
+        "text": "不过烟花和烧烤都能照常拿到，\r\n　这里的东西应该也能拿出来吧。"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "还是倒点茶喝。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "谢、谢谢。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……这就是白先生家里。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦兴奋地四处张望。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "闻到什么气味了吗？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "没有，那个，非常抱歉！",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "是觉得成年男子的房间很稀奇么。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "（……有股白先生的味道）",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "所以……那个。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "你刚才在叫的是音理小姐……？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "我基本上是扯着嗓子大叫，再怎么说诺瓦也听到了吧。\r\n　我还真是不够冷静。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "要解释一下……应该说，\n　身为成年男性，想给自己失去冷静一事找个台阶下，",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "但该从什么地方说起呢。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦，你发现了吗？　\n这里的空间并不正常。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "时间和空间混作一团。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦摸着自己的脑袋。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "长在头上的猫耳跳了跳。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "某种意义上来说第一个察觉到的还是诺瓦本人吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "于是，好像在这个世界里，\n能自由来往于过去。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "过、过去吗？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "烧烤时的那个海滩，其实是二十年前的。\n详细的你问问鹰世就知道了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "是、是吗。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "再怎么说能回到过去这点还是没法很快接受。\n　诺瓦也困惑着。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "于是……现在这个车站，这镇子，应该是今年春天的样子。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "嗯……为什么这么清楚？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "综合大家的情况，\n火车抵达的站台都是选的我们想回到的地方和时间。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "我看向墙壁上挂着的日历。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "上面是今年三月份的日历。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "如果如此，那今天是几号也跟着确定了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "今天是……小音去世的日子。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "因为我想回到的，只有那一天而已。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "是车祸……吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg000a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "回到这一天，我到底想干什么啊？"
+      },
+      {
+        "character": "",
+        "text": "想找到小音，然后阻止车祸发生？"
+      },
+      {
+        "character": "",
+        "text": "这样只会让事情变得更复杂啊。"
+      },
+      {
+        "character": "",
+        "text": "要是小音没死\n　那么我只身参加这次旅行的理由也就消失了，\n　何况我原本就不会去坐火车……"
+      },
+      {
+        "character": "",
+        "text": "时间悖论？　不是很清楚。"
+      }
+    ]
+  },
+  {
+    "background": "bg000a",
+    "dialogues": [
+      {
+        "character": "晓",
         "text": "……"
       },
       {
-        "character": "ノワール",
-        "text": "不对，不对。"
+        "character": "",
+        "text": "开始，我想要阻止事情的发生。"
       },
       {
-        "character": "暁",
+        "character": "",
+        "text": "只要先一步找到小音，在她突然出现在车辆面前\n　拉回来就行。"
+      },
+      {
+        "character": "",
+        "text": "那么结果会成什么样？\n　时间悖论又会引发什么？"
+      },
+      {
+        "character": "",
+        "text": "按老电影的情节，会引起宇宙爆炸什么的。\n　如果是时间旅行那种常规剧情的话，\n　最后我要么会死，要么会消失，再不然就是被因果律制裁。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "哪种结果都无所谓。"
+      },
+      {
+        "character": "",
+        "text": "宇宙爆发也好，我死也好，"
+      },
+      {
+        "character": "",
+        "text": "我都想否定掉小音的死。"
+      }
+    ]
+  },
+  {
+    "background": "bg000a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "从听了鹰世的假设开始，\n　我就满脑子只想着这件事……"
+      },
+      {
+        "character": "晓",
+        "text": "……呼。"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "但是，说到底根本不可能办到啊。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "哎……？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "不知道为什么，这个世界里除了我们以外没有别人。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊……确实如此。\n车站附近的便利店里也谁没有人影。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这也是规则么。"
+      }
+    ]
+  },
+  {
+    "background": "bg070a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "给我们准备好想回去的地方与时间段。"
+      }
+    ]
+  },
+  {
+    "background": "bg090a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "但是，那里除了我们谁都不在。"
+      }
+    ]
+  },
+  {
+    "background": "bg080a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我想拯救小音，"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "于是来到了能拯救她的时间与地点，"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "但说到底，小音本人并不在这里。"
+      }
+    ]
+  },
+  {
+    "background": "bg020a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "连撞飞她的车都没有。"
+      },
+      {
+        "character": "",
+        "text": "连触发时间悖论的机会都不给。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "可恶。"
+      },
+      {
+        "character": "",
+        "text": "果然不行么。"
+      },
+      {
+        "character": "",
+        "text": "虽然……并不打算在这里下赌注。\n　虽然只是一闪而过的希望……"
+      },
+      {
+        "character": "",
+        "text": "既然不行，那就别在一开始给我希望啊。"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯，请便。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "或许因为我的脸色仍然很难看。\n　诺瓦换了个话题。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "哇～",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦双眼放光，",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "果然男人住的房间对她来说很少见么。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "毕竟又没什么不好见人的东西，",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦的话，应该也不会乱翻书架上的东西。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我看看，动画师。是从事画动画的人吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "喔。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "画画是在……这里呢。\n哇～原来是这种感觉呀。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦看着工作台。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "……那个是为了测量缩放比例之类时使用的台子，\n　画画则基本用的是电脑。",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "不过，无所谓了。"
+      },
+      {
+        "character": "",
+        "text": "我打开电脑电源确认网络连接。"
+      },
+      {
+        "character": "",
+        "text": "不出我所料，和手机的情况相同，\n　能连上网，然而网络的时间是停止的。"
+      },
+      {
+        "character": "",
+        "text": "随便点开些网页看看……果然还都是三月份的。"
+      },
+      {
+        "character": "",
+        "text": "我的手机却是八月份。"
+      },
+      {
+        "character": "",
+        "text": "真是奇怪的感觉。"
+      },
+      {
+        "character": "诺瓦",
         "text": "？"
       },
       {
-        "character": "ノワール",
-        "text": "不是……音理小姐。"
-      },
-      {
-        "character": "ノワール",
-        "text": "不只有音理小姐。"
+        "character": "诺瓦",
+        "text": "白先生，这个是……？"
       }
     ]
   },
   {
-    "background": "背景大_連結部",
+    "background": "bg010a",
     "dialogues": [
       {
-        "character": "暁",
-        "text": "诺瓦？　怎么了。"
+        "character": "晓",
+        "text": "嗯？",
+        "body": "noir_17face"
       },
       {
-        "character": "ノワール",
-        "text": "不会吧……"
-      },
-      {
-        "character": "ノワール",
-        "text": "明明妈妈都说过了。说过那么多次了。"
-      },
-      {
-        "character": "ノワール",
-        "text": "我还是……"
-      },
-      {
-        "character": "暁",
-        "text": "诺瓦，冷静点。"
-      },
-      {
-        "character": "",
-        "text": "因为脑中无法理解，\n　她脸上的表情逐渐变得扭曲而混乱。"
-      },
-      {
-        "character": "",
-        "text": "怎么了？　想起什么了吗？"
-      }
-    ]
-  },
-  {
-    "background": "背景_連結部",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "究竟……"
-      },
-      {
-        "character": "",
-        "text": "<dash=2>唰！"
-      },
-      {
-        "character": "暁",
-        "text": "！"
-      },
-      {
-        "character": "",
-        "text": "突然，车内发出巨大的响声。"
-      },
-      {
-        "character": "",
-        "text": "是什么重物落地的声音。与此同时……"
-      },
-      {
-        "character": "花江",
-        "text": "珍妮弗！"
-      },
-      {
-        "character": "",
-        "text": "响起了花江小姐的惨叫声。"
-      },
-      {
-        "character": "",
-        "text": "野鸟小姐发生了什么事吗。"
-      },
-      {
-        "character": "暁",
-        "text": "我们回去，诺瓦。"
-      },
-      {
-        "character": "ノワール",
-        "text": "好、好的。"
-      },
-      {
-        "character": "",
-        "text": "有话之后再说。先到车内去……"
-      }
-    ]
-  },
-  {
-    "background": "背景_連結部",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "<dash=2>。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "……嗯？"
-      }
-    ]
-  },
-  {
-    "background": "背景大_連結部",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "下一个瞬间，感觉到了强烈的晃动。"
-      },
-      {
-        "character": "",
-        "text": "火车在摇动？　在过弯吗？"
-      },
-      {
-        "character": "",
-        "text": "不对。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "是晕眩。"
-      }
-    ]
-  },
-  {
-    "background": "背景大_連結部",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "脑中飞快思考的同时，\n　我双脚无力地一屁股坐在地上。"
-      },
-      {
-        "character": "ノワール",
-        "text": "啊……白先生？"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "暁",
-        "text": "没事，别担心。走吧。"
-      },
-      {
-        "character": "",
-        "text": "晕眩只持续了一瞬间。没什么大不了的。"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "回到了车内。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "好冷……好冷……"
-      },
-      {
-        "character": "花江",
-        "text": "呜……再、再多盖些毛毯吧。"
-      },
-      {
-        "character": "",
-        "text": "果然，野鸟小姐正倒在地上。"
-      },
-      {
-        "character": "",
-        "text": "似乎是连坐都做不住，就这么倒下了。"
-      },
-      {
-        "character": "",
-        "text": "花江小姐正在将附近的一张毛毯\n　盖在她的身上。"
-      },
-      {
-        "character": "",
-        "text": "身体又不舒服了吗？\n　就在这么想着的时候……"
-      },
-      {
-        "character": "ジビエ",
-        "text": "啊……呜……"
-      },
-      {
-        "character": "",
-        "text": "何止是又不舒服了。"
-      },
-      {
-        "character": "",
-        "text": "状态明显比刚才要差多了。\n　整个人倒在地上，\n　浑身发抖地缩成一团。"
-      },
-      {
-        "character": "ノワール",
-        "text": "野、野鸟小姐，这是……"
-      },
-      {
-        "character": "ジビエ",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "已经失去了意识。嘴里发出的声音只剩下痛苦的喘息声。"
-      },
-      {
-        "character": "",
-        "text": "她刚才说很冷，总之要想办法让她暖和……"
-      },
-      {
-        "character": "花江",
-        "text": "哈、哈。"
-      },
-      {
-        "character": "暁",
-        "text": "……？"
-      },
-      {
-        "character": "花江",
-        "text": "哈、哈、哈、哈。"
-      },
-      {
-        "character": "暁",
-        "text": "……花江小姐？"
-      },
-      {
-        "character": "",
-        "text": "然后我发现了。"
-      },
-      {
-        "character": "",
-        "text": "正在给野鸟小姐盖毛毯的她\n　情况也有些奇怪。"
-      },
-      {
-        "character": "花江",
-        "text": "什么……怎么回事，喘不上气。"
-      },
-      {
-        "character": "花江",
-        "text": "没法……呼吸……"
-      },
-      {
-        "character": "",
-        "text": "似乎在盖上毛毯之后，\n　也无法再站立起来了。"
-      },
-      {
-        "character": "",
-        "text": "这是怎么回事。连她也出问题了吗。"
-      },
-      {
-        "character": "暁",
-        "text": "鹰世，鹰世，这是<dash=2>。"
-      },
-      {
-        "character": "タカセ",
-        "text": "……"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "タカセ",
-        "text": "呼<dash=2>、呼<dash=2>……"
-      },
-      {
-        "character": "",
-        "text": "连你也一样吗。"
-      },
-      {
-        "character": "",
-        "text": "他也陷入了无法呼吸的状态。"
-      },
-      {
-        "character": "",
-        "text": "痛苦地按着自己的脖子，轻微地痉挛着。"
-      },
-      {
-        "character": "ノワール",
-        "text": "大、大家，这是怎么了。"
-      },
-      {
-        "character": "暁",
-        "text": "不知道。但是……"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "<dash=2>……"
-      },
-      {
-        "character": "",
-        "text": "啊……"
-      }
-    ]
-  },
-  {
-    "background": "背景大_列車内",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "我也来了。"
-      },
-      {
-        "character": "",
-        "text": "强烈的晕眩感再次袭来，我赶紧抓住附近的椅子。"
-      },
-      {
-        "character": "",
-        "text": "不靠住的话就要倒下了。"
-      },
-      {
-        "character": "",
-        "text": "与此同时，全身都在拼命冒汗。\n　大脑剧烈发热。"
-      },
-      {
-        "character": "",
-        "text": "糟糕，这下麻烦了。怎么回事。"
-      },
-      {
-        "character": "ノワール",
-        "text": "哎，咦？　白先生？"
-      },
-      {
-        "character": "",
-        "text": "诺瓦困惑不已，"
-      },
-      {
-        "character": "",
-        "text": "唔……"
-      },
-      {
-        "character": "暁",
-        "text": "狩叶！  狩叶你在哪！"
-      },
-      {
-        "character": "",
-        "text": "她现在怎么样。\n　还能动吗。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "狩叶……"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "呜哇。"
-      },
-      {
-        "character": "",
-        "text": "糟糕。晕眩感越来越强烈了。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "这晕眩感到底是怎么回事。"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "这……晕眩感……"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "我还记得。"
-      }
-    ]
-  },
-  {
-    "background": "背景_自室_昼",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "这感觉……"
-      }
-    ]
-  },
-  {
-    "background": "背景_自室_昼",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "以前……也经历过……"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "莫非……"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "男の声１",
-        "text": "你的运气不错啊。"
-      },
-      {
-        "character": "",
-        "text": "啊，可恶。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "好冷……好冷……"
-      },
-      {
-        "character": "花江",
-        "text": "呜……啊……呼吸。"
-      },
-      {
-        "character": "タカセ",
-        "text": "呜……"
-      },
-      {
-        "character": "",
-        "text": "开始明白了。"
-      },
-      {
-        "character": "",
-        "text": "现在究竟发生了什么事。不对……"
-      }
-    ]
-  },
-  {
-    "background": "背景_駅列車_夜",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "是开始理解了这个世界的规则。"
-      }
-    ]
-  },
-  {
-    "background": "背景大_列車内",
-    "dialogues": [
-      {
-        "character": "ノワール",
-        "text": "白先生。"
-      },
-      {
-        "character": "暁",
-        "text": "啊、呃。"
-      },
-      {
-        "character": "",
-        "text": "诺瓦的声音，令意识逐渐清醒过来。"
-      },
-      {
-        "character": "",
-        "text": "刚才发生了什么事？"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "对了，狩叶……"
-      },
-      {
-        "character": "カルハ",
-        "text": "……"
-      },
-      {
-        "character": "暁",
-        "text": "狩叶……你没事啊。"
-      },
-      {
-        "character": "カルハ",
-        "text": "嗯……"
-      },
-      {
-        "character": "カルハ",
-        "text": "头……好疼。"
-      },
-      {
-        "character": "",
-        "text": "狩叶的状态也不算好。"
-      },
-      {
-        "character": "",
-        "text": "不过从锅炉室里走出来的脚步很正常，\r\n　不像我们一样完全丧失了行动力。"
-      },
-      {
-        "character": "暁",
-        "text": "诺瓦……你带上狩叶……到前面去。"
-      },
-      {
-        "character": "ノワール",
-        "text": "呃……？"
-      },
-      {
-        "character": "暁",
-        "text": "在锅炉室……就没事"
-      },
-      {
-        "character": "暁",
-        "text": "在心脏部位的话……她大概……会保护你们……"
-      },
-      {
-        "character": "カルハ",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "啊。"
-      },
-      {
-        "character": "",
-        "text": "嘴里说着头疼，不过可以正常走路的狩叶\n　来到了我面前。"
-      },
-      {
-        "character": "",
-        "text": "然后牵起我的手……"
-      }
-    ]
-  },
-  {
-    "background": "bg_white.png",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "<dash=2>咚！"
-      },
-      {
-        "character": "暁",
-        "text": "！"
-      },
-      {
-        "character": "",
-        "text": "就在这一瞬间，我变得连椅子都靠不住，\n　双腿无力坐在了地上。"
-      },
-      {
-        "character": "",
-        "text": "感觉到了强烈的寒气。仿佛身体都要被冻结。"
-      },
-      {
-        "character": "",
-        "text": "这是……啊……"
-      }
-    ]
-  },
-  {
-    "background": "イベント12_a",
-    "dialogues": [
-      {
-        "character": "カルハ",
-        "text": "就要结束了吧。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "这感觉，我有印象。"
-      }
-    ]
-  },
-  {
-    "background": "背景_プラネタリウム",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "和那时候一样。"
-      }
-    ]
-  },
-  {
-    "background": "イベント12_b",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "那时候……"
-      }
-    ]
-  },
-  {
-    "background": "イベント12_c",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "碰到她的那时候……"
-      }
-    ]
-  },
-  {
-    "background": "イベント12_b_大",
-    "dialogues": [
-      {
-        "character": "カルハ？",
-        "text": "虽然花了不少时间。"
-      },
-      {
-        "character": "暁",
-        "text": "啊……？"
-      },
-      {
-        "character": "",
-        "text": "牵着我的，变成了别人的手。"
-      }
-    ]
-  },
-  {
-    "background": "イベント12_c_大",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "狩叶变成了另外一个人。"
-      },
-      {
-        "character": "暁",
-        "text": "你……哎……？"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "这是怎么回事？"
-      }
-    ]
-  },
-  {
-    "background": "イベント12_c",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "为什么狩叶变成了她？"
-      },
-      {
-        "character": "",
-        "text": "还以为自己已经理解了这个世界的规则，\n　结果突然又出现了无法理解的事态。"
-      },
-      {
-        "character": "",
-        "text": "到底怎么回事。"
-      },
-      {
-        "character": "",
-        "text": "为什么狩叶……"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "啊……"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "<dash=2>（倒地）。"
-      },
-      {
-        "character": "真白",
-        "text": "……"
-      },
-      {
-        "character": "ノワール",
-        "text": "哎……？哎……？"
-      },
-      {
-        "character": "真白",
-        "text": "……"
-      },
-      {
-        "character": "真白",
-        "text": "游戏的时间结束了。"
-      },
-      {
-        "character": "真白",
-        "text": "走吧。按妈妈的吩咐。"
-      },
-      {
-        "character": "ノワール",
-        "text": "嗯……"
-      },
-      {
-        "character": "真白",
-        "text": "已经玩够了吧？去了很多车站，\n得到了很多美好的回忆吧？"
-      },
-      {
-        "character": "真白",
-        "text": "我看过了这个人的记忆。\n享受过了他的记忆。\n这是一段非常美好的时间。"
-      },
-      {
-        "character": "真白",
-        "text": "但现在已经结束了。"
-      },
-      {
-        "character": "ノワール",
-        "text": "……"
-      },
-      {
-        "character": "ノワール",
-        "text": "……嗯。"
-      },
-      {
-        "character": "真白",
-        "text": "已经……到终点了。"
-      },
-      {
-        "character": "真白",
-        "text": "放下那只黑猫，走吧。"
-      },
-      {
-        "character": "ノワール",
-        "text": "……"
-      }
-    ]
-  },
-  {
-    "background": "イベント13_b",
-    "dialogues": [
-      {
-        "character": "ノワール",
-        "text": "嗯……"
-      }
-    ]
-  },
-  {
-    "background": "背景_列車内",
-    "dialogues": [
-      {
-        "character": "ノワール",
-        "text": "……"
-      },
-      {
-        "character": "黒猫",
-        "text": "咪。"
-      },
-      {
-        "character": "ノワール",
-        "text": "……"
-      },
-      {
-        "character": "ノワール",
-        "text": "再见了。"
-      },
-      {
-        "character": "黒猫",
-        "text": "咪，咪。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "黒猫",
-        "text": "……咪。"
-      },
-      {
-        "character": "",
-        "text": "・・・・・"
-      },
-      {
-        "character": "",
-        "text": "・・・・"
-      },
-      {
-        "character": "",
-        "text": "・・・"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "啊……"
-      },
-      {
-        "character": "",
-        "text": "身体好热。"
-      },
-      {
-        "character": "",
-        "text": "而且感觉好恶心。"
-      },
-      {
-        "character": "",
-        "text": "是吗……"
-      },
-      {
-        "character": "",
-        "text": "原来是这样吗。"
-      },
-      {
-        "character": "タカセ",
-        "text": "你发现了吗？"
-      },
-      {
-        "character": "暁",
-        "text": "……嗯。"
-      },
-      {
-        "character": "花江",
-        "text": "唉……真的？"
-      },
-      {
-        "character": "花江",
-        "text": "我完全没察觉到哎。"
-      },
-      {
-        "character": "タカセ",
-        "text": "这样大概还比较幸福吧。"
-      },
-      {
-        "character": "タカセ",
-        "text": "一旦有了这个意识……从一开始就会觉得很难受。"
-      },
-      {
-        "character": "",
-        "text": "鹰世把手放在自己的脖子上。"
-      },
-      {
-        "character": "",
-        "text": "咦，那原来不是他的习惯动作啊。"
-      },
-      {
-        "character": "暁",
-        "text": "野鸟小姐呢？"
-      },
-      {
-        "character": "ジビエ",
-        "text": "嗯……从最初的森林开始，隐隐约约。"
-      },
-      {
-        "character": "暁",
-        "text": "真早啊。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "虽然没有意识到，不过我本来身体就很不好，体温偏低，\n觉得会这样也没什么好奇怪的。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "不过听说了诺瓦她们在森林里去了饭店的事，就想着，\n啊，这不就是我很喜欢的那个故事吗。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "觉得……这里大概是我理想中的世界，\n不是现实世界。"
-      },
-      {
-        "character": "暁",
-        "text": "可你倒是挺享受的。"
-      },
-      {
-        "character": "ジビエ",
-        "text": "是啊。"
-      },
-      {
-        "character": "花江",
-        "text": "唉……可把我给吓了一大跳。"
-      },
-      {
-        "character": "花江",
-        "text": "你也是吗？"
-      },
-      {
-        "character": "暁",
-        "text": "嗯，我也是。"
-      },
-      {
-        "character": "",
-        "text": "到了现在才察觉到。"
-      },
-      {
-        "character": "",
-        "text": "才回想起来。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "・・・・・"
-      },
-      {
-        "character": "",
-        "text": "・・・・"
-      },
-      {
-        "character": "",
-        "text": "・・・"
-      },
-      {
-        "character": "",
-        "text": "<dash=2>咔嚓。"
-      },
-      {
-        "character": "",
-        "text": "<dash=2>嘎吱嘎吱。"
-      },
-      {
-        "character": "",
-        "text": "<dash=2>咔嚓。"
-      },
-      {
-        "character": "大家さん",
-        "text": "打开了。"
-      }
-    ]
-  },
-  {
-    "background": "背景_自室_昼",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "大家さん",
-        "text": "……钟城先生。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "男の声１",
-        "text": "好热啊。因为没开空调就把门关上了吗。"
-      },
-      {
-        "character": "男の声２",
-        "text": "这看来是不行了吧。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "男の声１",
-        "text": "钟城先生，钟城先生，听得到我说话吗？"
-      },
-      {
-        "character": "男の声２",
-        "text": "你还醒着吗？　钟城先生。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "男の声１",
-        "text": "没有意识。……也没有呼吸。"
-      },
-      {
-        "character": "男の声１",
-        "text": "应该是因为中暑吧。\n姑且还是送到医院去，不过已经没有脉搏了……"
-      },
-      {
-        "character": "大家さん",
-        "text": "……是吗。"
-      },
-      {
-        "character": "男の声２",
-        "text": "现在这季节，还挺经常发生这种事的。"
-      },
-      {
-        "character": "男の声１",
-        "text": "昨天也发生了，\n这样一个密闭的房间，还开着电风扇呢。\n似乎是因为没处理好烟头，起了一点小火。"
-      },
-      {
-        "character": "男の声１",
-        "text": "好好的女演员，因为一氧化碳中毒……\n真可怜。"
-      },
-      {
-        "character": "大家さん",
-        "text": "……"
-      },
-      {
-        "character": "男の声２",
-        "text": "这个人似乎喝了不少酒，\n加剧脱水了吧。"
-      },
-      {
-        "character": "大家さん",
-        "text": "是啊……"
-      },
-      {
-        "character": "大家さん",
-        "text": "从春季的时候起……就一直这样。\n似乎因为我家女儿去世而大受打击，\n从此就整天酗酒。"
-      },
-      {
-        "character": "男の声１",
-        "text": "这真是……不知道该怎么说了。"
-      },
-      {
-        "character": "男の声１",
-        "text": "不过，这已经算是运气好的了。"
-      },
-      {
-        "character": "男の声２",
-        "text": "这个季节，特别是中暑的话，遗体腐烂得特别快。\n现在能这么早发现，是好事。"
-      },
-      {
-        "character": "大家さん",
-        "text": "……"
-      }
-    ]
-  },
-  {
-    "background": "背景大_自室_昼",
-    "dialogues": [
-      {
-        "character": "男の声１",
-        "text": "那么，搬走吧……嗯？他手上还拿着什么东西。"
-      },
-      {
-        "character": "男の声２",
-        "text": "是驾照吧。"
-      },
-      {
-        "character": "男の声２",
-        "text": "啊，这人还在器官捐献这一栏签了名。"
-      }
-    ]
-  },
-  {
-    "background": "背景_自室_昼",
-    "dialogues": [
-      {
-        "character": "大家さん",
-        "text": "哎……？"
-      },
-      {
-        "character": "男の声１",
-        "text": "驾照的背面有关于器官捐献的项目。"
-      },
-      {
-        "character": "男の声１",
-        "text": "啊……而且好像还刚登记不久呢。\n你看，他好像还在看天河医院关于器官捐献协助的主页。"
-      },
-      {
-        "character": "男の声２",
-        "text": "真的哎。"
-      },
-      {
-        "character": "男の声２",
-        "text": "那就快搬走吧。\n虽然遭遇了不幸，不过以现在的状态，\n他的器官也许还能移植给其他人。"
-      },
-      {
-        "character": "男の声１",
-        "text": "钟城……晓先生。"
-      },
-      {
-        "character": "男の声１",
-        "text": "你的运气真不错。"
-      },
-      {
-        "character": "大家さん",
-        "text": "钟城先生……"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "嗯……"
-      },
-      {
-        "character": "",
-        "text": "是吗。"
-      },
-      {
-        "character": "",
-        "text": "原来是这样吗。"
-      },
-      {
-        "character": "",
-        "text": "还真是轻易地就死掉了啊。"
-      },
-      {
-        "character": "",
-        "text": "而且还是因为酒精中毒和高温，这个死法真是有些奇怪。"
-      },
-      {
-        "character": "",
-        "text": "早知道出现啤酒肚以后，少喝些酒就好了。"
-      },
-      {
-        "character": "ねり",
-        "text": "就是啊。"
-      },
-      {
-        "character": "暁",
-        "text": "小音。"
-      },
-      {
-        "character": "",
-        "text": "哪怕是这种情况下，只要有她在，就能放下心来。"
-      },
-      {
-        "character": "ねり",
-        "text": "哥哥变得比音理最后一次见面时要胖了呢。"
-      },
-      {
-        "character": "暁",
-        "text": "哈哈，抱歉抱歉。"
-      },
-      {
-        "character": "ねり",
-        "text": "真是的，不要把自己弄得这么狼狈啊。"
-      },
-      {
-        "character": "暁",
-        "text": "一点没错。"
-      },
-      {
-        "character": "ねり",
-        "text": "……"
-      },
-      {
-        "character": "ねり",
-        "text": "是因为音理吗。"
-      },
-      {
-        "character": "ねり",
-        "text": "因为音理，哥哥才沉溺于酒精之中，\n所以才……"
-      },
-      {
-        "character": "暁",
-        "text": "不是你的错。"
-      },
-      {
-        "character": "暁",
-        "text": "我只是用这种方法，\n来实现想快点再见到你的任性愿望而已。"
-      },
-      {
-        "character": "ねり",
-        "text": "……真是的。"
-      },
-      {
-        "character": "",
-        "text": "音理寂寞地笑了。"
-      },
-      {
-        "character": "",
-        "text": "只不过是在逞强罢了。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "居然这样就死了吗……"
-      },
-      {
-        "character": "",
-        "text": "我的人生居然这样就结束了吗。"
-      },
-      {
-        "character": "",
-        "text": "死得也太轻率了吧。"
-      },
-      {
-        "character": "",
-        "text": "我可拼命活了好几十年啊。"
-      },
-      {
-        "character": "",
-        "text": "在校园里追逐打闹的小学时代，\n　忙着考试和社团活动的中学时代，\n　还有在高考的压力下依然满脑子只想着女生的高中时代。"
-      },
-      {
-        "character": "",
-        "text": "我一秒不漏的人生。"
-      },
-      {
-        "character": "",
-        "text": "最后居然以这种结局收尾的吗。"
-      },
-      {
-        "character": "",
-        "text": "就没能……再多做些什么吗。"
-      },
-      {
-        "character": "",
-        "text": "就没能发生些什么事，\n　以填补那些凭借与生俱来的好运过着好日子的人的差距吗。"
-      },
-      {
-        "character": "",
-        "text": "大学时画的那些画，不知道现在怎么样了。\n　总是没能画出符合雇主要求的画，\n　这份动画师的工作今后又会有何改变呢。"
-      },
-      {
-        "character": "",
-        "text": "一想到这些，就感到一阵极度的空虚。"
-      }
-    ]
-  },
-  {
-    "background": "背景_自室_昼",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "男の声１",
-        "text": "你的运气真不错啊。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "我不觉得自己的人生是好运的。"
-      },
-      {
-        "character": "",
-        "text": "不过，在最后那一瞬间。"
-      },
-      {
-        "character": "ねり",
-        "text": "你当了器官捐献者啊。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "ねり",
-        "text": "真伟大。"
-      },
-      {
-        "character": "暁",
-        "text": "不是这样的。\n只是想着“医院大概挺凉快吧”才去看了网页。"
-      },
-      {
-        "character": "",
-        "text": "只是想逃离那酷暑而已。\n　根本就没有什么舍己为人的精神。"
-      },
-      {
-        "character": "",
-        "text": "不过从结果来说……"
-      },
-      {
-        "character": "暁",
-        "text": "大概真的运气不错吧。\n没想到居然和你的心脏移植到了同一个人身上。"
-      },
-      {
-        "character": "ねり",
-        "text": "嘿嘿。"
-      },
-      {
-        "character": "ねり",
-        "text": "哥哥。"
-      },
-      {
-        "character": "暁",
-        "text": "嗯……"
-      },
-      {
-        "character": "",
-        "text": "小音轻轻地把手放在我的心脏部位上。"
-      },
-      {
-        "character": "",
-        "text": "一瞬间没能明白过来，"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "<dash=2>咚、咚。"
-      },
-      {
-        "character": "",
-        "text": "不过在被她触碰的时候，还是感觉到了某些东西。"
-      },
-      {
-        "character": "",
-        "text": "感觉到了心跳的声音。"
-      },
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "死了以后还能感觉到心跳声，真是讽刺。"
-      },
-      {
-        "character": "",
-        "text": "不过，原来如此。"
-      }
-    ]
-  },
-  {
-    "background": "背景_自室_昼",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "你的心脏也很有精神啊。"
-      },
-      {
-        "character": "ねり",
-        "text": "好像是这样。"
-      },
-      {
-        "character": "",
-        "text": "小音噗嗤笑了。"
-      },
-      {
-        "character": "",
-        "text": "她的心脏还活着。"
-      },
-      {
-        "character": "",
-        "text": "依然活着<dash=2>。"
-      },
-      {
-        "character": "真白",
-        "text": "真是纠缠不休啊。"
-      },
-      {
-        "character": "ねり",
-        "text": "！？"
-      },
-      {
-        "character": "暁",
-        "text": "！"
-      },
-      {
-        "character": "",
-        "text": "冷不丁地，她突然重新出现。"
-      },
-      {
-        "character": "",
-        "text": "喂，饶了我吧。\n　不要这样随时随地现身啊。"
-      },
-      {
-        "character": "",
-        "text": "……不过，这也没什么奇怪的吧。"
-      },
-      {
-        "character": "",
-        "text": "毕竟这里一切，全都是“她”。"
-      },
-      {
-        "character": "真白",
-        "text": "是吗，果然是你啊。"
-      },
-      {
-        "character": "真白",
-        "text": "都是因为你不听妈妈的话。"
-      },
-      {
-        "character": "ねり",
-        "text": "什、什么不听话，音理只是……"
-      },
-      {
-        "character": "真白",
-        "text": "都是因为有你在……"
-      },
-      {
-        "character": "",
-        "text": "她恶狠狠地瞪着小音。"
-      },
-      {
-        "character": "ねり",
-        "text": "！"
-      },
-      {
-        "character": "ねり",
-        "text": "好疼……啊、啊呜呜呜。"
-      },
-      {
-        "character": "",
-        "text": "小音捂着自己的胸口蹲了下去。"
-      },
-      {
-        "character": "",
-        "text": "同时，我胸膛中的心跳声也消失了……可恶。"
-      },
-      {
-        "character": "ねり",
-        "text": "啊呜、呜，好疼……"
-      },
-      {
-        "character": "真白",
-        "text": "不想疼的话就老老实实听话。\n我遭受的痛苦可比这严重许多倍。"
-      },
-      {
-        "character": "ねり",
-        "text": "呜……呜呜呜。"
-      },
-      {
-        "character": "暁",
-        "text": "喂！　住手！"
-      },
-      {
-        "character": "",
-        "text": "姑且不管现在发生了什么事，\n　总之可以确定是她正在令小音遭受痛苦。"
-      },
-      {
-        "character": "",
-        "text": "我站在小音面前。"
-      },
-      {
-        "character": "真白",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "然后她憎恨的对象就变成了我。"
-      },
-      {
-        "character": "",
-        "text": "……不要用诺瓦的脸那样瞪着我啊。"
-      },
-      {
-        "character": "真白",
-        "text": "对……没错。你真的很纠缠不休。"
-      },
-      {
-        "character": "真白",
-        "text": "一开始的契机是那个女孩，\n但真正打算改变我的是你。"
-      },
-      {
-        "character": "真白",
-        "text": "为什么要碍事啊。\n只要听妈妈的话，\n我就不用给任何人添麻烦了。"
-      },
-      {
-        "character": "暁",
-        "text": "这是……"
-      },
-      {
-        "character": "真白",
-        "text": "只要听妈妈的话。"
-      },
-      {
-        "character": "真白",
-        "text": "就不用那么痛苦了。"
-      },
-      {
-        "character": "真白",
-        "text": "……"
-      },
-      {
-        "character": "真白",
-        "text": "就不用……"
-      },
-      {
-        "character": "真白",
-        "text": "经历这最令人痛苦的事了。"
-      },
-      {
-        "character": "暁",
-        "text": "……？"
-      },
-      {
-        "character": "",
-        "text": "她的表情变了。"
-      },
-      {
-        "character": "",
-        "text": "从单纯的憎恨，逐渐变得泪眼朦胧，"
-      },
-      {
-        "character": "",
-        "text": "然后恢复成了我熟悉的表情。"
-      },
-      {
-        "character": "真白",
-        "text": "……我……居然……连白先生……"
-      },
-      {
-        "character": "暁",
-        "text": "诺瓦……"
-      },
-      {
-        "character": "真白",
-        "text": "连白先生……都夺走了。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "！？"
-      },
-      {
-        "character": "",
-        "text": "突然身体仿佛被往上拉扯一般漂浮了起来。"
-      },
-      {
-        "character": "",
-        "text": "不是漂浮。感觉像是掉进了空中一样。"
-      },
-      {
-        "character": "",
-        "text": "被强行向上浮起。"
-      },
-      {
-        "character": "真白",
-        "text": "请不要……再到这里来了，白先生。"
-      },
-      {
-        "character": "暁",
-        "text": "诺瓦……等等。"
-      },
-      {
-        "character": "真白",
-        "text": "我……已经够了。"
-      },
-      {
-        "character": "真白",
-        "text": "不要再让我听到你的声音了。"
-      },
-      {
-        "character": "真白",
-        "text": "因为要是听到的话，\n就会想继续听下去的。"
-      },
-      {
-        "character": "暁",
-        "text": "诺瓦！"
-      }
-    ]
-  },
-  {
-    "background": "背景_病室",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "！？"
-      },
-      {
-        "character": "",
-        "text": "急刹车。"
-      }
-    ]
-  },
-  {
-    "background": "背景_病室",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "突然上浮，又突然急刹车……让人头晕目眩。"
-      },
-      {
-        "character": "",
-        "text": "不，这头晕目眩的感觉大概不是因为这个。"
-      },
-      {
-        "character": "暁",
-        "text": "什么时候……"
-      },
-      {
-        "character": "暁",
-        "text": "啊……？"
-      },
-      {
-        "character": "",
-        "text": "张开嘴说话，发出的声音却明显不属于自己。"
-      },
-      {
-        "character": "",
-        "text": "是女孩子的声音。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "脑中晕乎乎的……一点现实感都没有，\n　就像刚从梦中醒来一样。"
-      }
-    ]
-  },
-  {
-    "background": "背景大_病室",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "用力眨了几下眼睛。"
-      },
-      {
-        "character": "暁",
-        "text": "这里是……啊。"
-      },
-      {
-        "character": "",
-        "text": "醒来发现自己正睡在床上。"
-      },
-      {
-        "character": "",
-        "text": "坐起身来……"
-      },
-      {
-        "character": "暁",
-        "text": "呜……呕。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "只是这样，就引发了极其强烈的呕吐感。"
-      }
-    ]
-  },
-  {
-    "background": "背景大_病室",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "这是怎么回事。"
-      },
-      {
-        "character": "",
-        "text": "全身充满了倦怠感。\n　说真的，根本就起不来。"
-      },
-      {
-        "character": "暁",
-        "text": "呼、呼。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "就连呼吸都令人难受。"
-      },
-      {
-        "character": "",
-        "text": "肚子也很疼"
-      },
-      {
-        "character": "",
-        "text": "感觉肚子有好几处地方破了洞……裂开了吗？\n　好疼。"
-      },
-      {
-        "character": "",
-        "text": "只要稍微动一下身体就疼痛无比……"
-      },
-      {
-        "character": "",
-        "text": "保持不动的话疼痛就会减轻，\n　但又会觉得恶心难受。"
-      },
-      {
-        "character": "",
-        "text": "心跳速度自然而然地加快……"
-      },
-      {
-        "character": "",
-        "text": "<dash=2>哔，哔。"
-      }
-    ]
-  },
-  {
-    "background": "背景大_病室",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "啊……？"
-      },
-      {
-        "character": "",
-        "text": "床边的一台机器正发哔哔的声音。"
-      },
-      {
-        "character": "",
-        "text": "心电图……？　不是很懂……"
-      },
-      {
-        "character": "",
-        "text": "喂，别再发出声音了。响得人头疼。"
-      }
-    ]
-  },
-  {
-    "background": "背景_黒",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "要怎样才能停止声音……呜。"
-      },
-      {
-        "character": "",
-        "text": "伸出手随便摸了几下，不行，停不下来。"
-      },
-      {
-        "character": "",
-        "text": "那个……"
-      },
-      {
-        "character": "",
-        "text": "对了，把电线拔掉就行了吧。"
-      },
-      {
-        "character": "",
-        "text": "将手伸向电线……"
-      }
-    ]
-  },
-  {
-    "background": "イベント8_a",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "！"
-      },
-      {
-        "character": "",
-        "text": "然后发现了墙上挂着的一样东西。"
-      },
-      {
-        "character": "",
-        "text": "镜子。"
-      },
-      {
-        "character": "",
-        "text": "这里原来有镜子吗。"
-      },
-      {
-        "character": "",
-        "text": "而镜子中倒映出的……"
-      }
-    ]
-  },
-  {
-    "background": "イベント8_a_大",
-    "dialogues": [
-      {
-        "character": "暁",
-        "text": "……"
-      },
-      {
-        "character": "",
-        "text": "喔，原来如此。"
-      },
-      {
-        "character": "",
-        "text": "这就是夜羽真白。"
-      }
-    ]
-  },
-  {
-    "background": "背景_病室",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "而这里就是只属于她的房间。"
-      },
-      {
-        "character": "",
-        "text": "刚才也看到了吧。"
-      }
-    ]
-  },
-  {
-    "background": "背景大_病室",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "不愧是院长的孙女。\n　房间里有许多玩偶和书，\n　一眼看上去完全不像病房。"
-      },
-      {
-        "character": "",
-        "text": "墙上挂着许多画，大概都是她画的吧。\n　画得不怎么好啊。是不是应该教教她呢。"
-      },
-      {
-        "character": "",
-        "text": "这里是夜羽真白的房间……"
-      }
-    ]
-  },
-  {
-    "background": "イベント8_a",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "而现在，我就是她。"
-      },
-      {
         "character": "",
-        "text": "抓着电线的手，\n　瘦小到仿佛只要稍微用力就能折断。"
+        "text": "诺瓦看着工作台，自然看到了\n　令自己不由得产生疑惑的东西。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "而且根本就用不上力。\n　手上的力气完全不足以将电源插头拔出，\n　腹部也疼痛不已。"
+        "text": "工作台旁，漫画堆成了一座小山。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "只要用力就会头晕目眩。恶心想吐。"
+        "text": "都是还没开封就扔在那了的。",
+        "body": "noir_17face"
       }
     ]
   }

@@ -1,7 +1,8 @@
 <template>
   <div class="page" @swipe="back">
     <div class="page" style="background-color: #000000;" @click="nextDialogue">
-      <image src="/common/{{Img}}" id="bg"></image>
+      <image src="/common/{{Img}}.png" id="bg"></image>
+      <image class="person" src="/common/body/{{body}}.png" if="{{body !== ''&& Img !== 'index_bg.png'}}"></image>
       <image src="/common/{{gameData.scenes[currentScene].Img}}" style="top:{{gameData.scenes[currentScene].ImgTop}}px;left:{{gameData.scenes[currentScene].ImgLeft}}px;position: absolute;" if="{{gameData.scenes[currentScene].Img !== undefined}}"></image>
       <image style="position: absolute;top: 315px;left: 0;" src="/common/text_bg.png" if="{{gameData.scenes[currentScene].choices == undefined && Img !== 'bg.png'}}"></image>
       <text style="position: absolute;top: 278px;left: 8px;font-size: 28px;color: #FFFFFF;font-weight: bold" if="{{gameData.scenes[currentScene].choices == undefined && Img !== 'bg.png'}}">{{character}}</text>
@@ -64,6 +65,7 @@ export default {
     currentScene: 0,
     currentDialogue: 0,
     Img: 'bg.png',
+    body: '',
     showText: '',
     character: '',
     settings: {
@@ -84,9 +86,12 @@ export default {
       success: (data) => {
         if(data){
           this.recoveryData = JSON.parse(data);
-        }
-        if(this.load){
-          this.loadRecoveryData(this.load)
+          if(this.load){
+            this.loadRecoveryData(this.load)
+          }
+          else{
+            this.loadData(this.chapter);
+          }
         }else{
           this.loadData(this.chapter);
         }
@@ -102,9 +107,6 @@ export default {
       },
       fail:()=>{},
     });
-    setTimeout(() => {
-      this.imageRight()
-    }, 1000);
   },
   loadData(chapter){
     console.log('加载章节', chapter)
@@ -114,6 +116,7 @@ export default {
         if(data){
           this.gameData.scenes = JSON.parse(data.text);
           this.loadScene(this.currentScene);
+          this.showPerson();
         }
       },
       fail: (code)=> {
@@ -124,6 +127,11 @@ export default {
   // 显示背景图
   showBackground(image) {
     this.Img = image;
+  },
+  showPerson() {
+    if(this.gameData.scenes[this.currentScene].dialogues[this.currentDialogue].body!== undefined){
+      this.body = this.gameData.scenes[this.currentScene].dialogues[this.currentDialogue].body;
+    }
   },
   // 显示对话
   showDialogue(dialogue) {
@@ -147,6 +155,7 @@ export default {
     this.showBackground(scene.background);
     this.currentDialogue = 0;
     if(scene.choices){return}
+    this.body = '';
     this.showDialogue(scene.dialogues[this.currentDialogue]);
   },
   // 下一段对话
@@ -157,21 +166,24 @@ export default {
       const scene = this.gameData.scenes[this.currentScene];
       if (this.currentDialogue < scene.dialogues.length - 1) {
           this.currentDialogue++;
+          this.showPerson();
           this.showDialogue(scene.dialogues[this.currentDialogue]);
       } else if (this.currentScene < this.gameData.scenes.length - 1) {
         if(scene.dialogues[this.currentDialogue].toScenes !== undefined){
           console.log('跳转场景[选项]')
           this.currentScene += scene.dialogues[this.currentDialogue].toScenes;
+          this.showPerson();
           this.loadScene(this.currentScene);
         }else{
           console.log('跳转场景')
           this.currentScene++;
           this.loadScene(this.currentScene);
+          this.showPerson();
         }
       } else {
+        // 结局
         if(scene.dialogues[this.currentDialogue].END !== undefined){
           this.END = scene.dialogues[this.currentDialogue].END;
-          this.getFin(this.END);
         // 分支
         }else if(scene.dialogues[this.currentDialogue].branch !== undefined){
           console.log(this.choice)
@@ -190,8 +202,13 @@ export default {
             this.currentScene = 0;
             this.currentDialogue = 0;
           }
+        // 下一章
         }else{
-          this.Img = 'bg.png';
+          this.Img = 'index_bg.png';
+          // if(this.chapter==9){
+          //   prompt.showToast({message: '敬请期待'});
+          //   return
+          // }
           setTimeout(() => {
             this.chapter++;
             this.loadData(this.chapter);
@@ -231,12 +248,11 @@ export default {
     }
     if(idx === 'new'){
       this.recoveryData.push(data);
-      prompt.showToast({message: '保存成功'})
     }else{
       this.recoveryData[idx] = data;
-      prompt.showToast({message: '覆盖成功'})
     }
     this.saveData()
+    prompt.showToast({message: '保存成功'})
   },
   deleteRecoveryData(idx){
     this.recoveryData.splice(idx, 1);
@@ -261,57 +277,23 @@ export default {
       this.menu = false;
     }else{
       this.menu = false;
-      prompt.showToast({message: '重要剧情或结尾，无法跳过'})
+      prompt.showToast({message: '无法跳过'})
     }
   },
   skipChapter(){
-    if(this.chapter==2||this.chapter==19||this.chapter==25||this.chapter==26){
-      prompt.showToast({message: '重要章节无法跳过'})
-    }else if(this.chapter==31||this.chapter=='TE'||this.chapter=='BE'){
-      prompt.showToast({message: '最后一章无法跳过'})
-    }else{
-      this.Img = 'bg.png';
-      this.menu = false;
-      setTimeout(() => {
-        this.chapter++;
-        this.loadData(this.chapter);
-        this.currentScene = 0;
-        this.currentDialogue = 0;
-      }, 3000);
-    }
+    this.Img = 'index_bg.png';
+    this.menu = false;
+    setTimeout(() => {
+      this.chapter+=1;
+      this.currentScene = 0;
+      this.currentDialogue = 0;
+      this.loadData(this.chapter);
+    }, 3000);
   },
   saveData(){
     storage.set({
       key: 'recoveryData',
       value: JSON.stringify(this.recoveryData),
-      success: () => {},
-      fail:()=>{},
-    })
-  },
-  getFin(a){
-    let fin = {};
-    storage.get({
-      key: 'fin',
-      success: (data) => {
-        if(data){
-          fin = JSON.parse(data);
-        }else{
-          fin = {"HE": false, "BE": false}
-        }
-        if(a=="Happy Ending"){
-          fin.HE = true;
-        }else if(a=="Bad Ending"){
-          fin.BE = true;
-        }
-        this.saveFin(fin);
-      },
-      fail:()=>{},
-    });
-  },
-  saveFin(a){
-    storage.set({
-      key: 'fin',
-      value: JSON.stringify(a),
       success: () => {},
       fail:()=>{},
     })
@@ -324,22 +306,6 @@ export default {
       top: 0,
       left: 0,
       behavior: 'instant'
-    })
-  },
-  imageLeft(){
-    folme.to({id:"bg",toState:{translateX:'0px'},config:{duration:15}})
-    setTimeout(() => {this.imageRight()}, 15000)
-  },
-  imageRight(){
-    this.imageGetWidth();
-    setTimeout(() => {this.imageLeft()}, 15000)
-  },
-  imageGetWidth(){
-    this.$element("bg").getBoundingClientRect({
-      success: (data)=> {
-        console.log(data.width)
-        folme.to({id:"bg",toState:{translateX:`-${data.width-336}px`},config:{duration:15}})
-      }
     })
   },
 }
@@ -393,5 +359,10 @@ export default {
   font-weight: bold;
   text-align: center;
   margin-bottom: 20px;
+}
+.person {
+  position: absolute;
+  top:165px;
+  left:59px;
 }
 </style>

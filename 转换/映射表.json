@@ -1,0 +1,4049 @@
+{
+"character":[
+  {
+    "rowIndex": 0,
+    "strings": [
+      "Key",
+      "Japanese",
+      "Chinese",
+      "English"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 3,
+    "strings": [
+      "暁",
+      "暁",
+      "晓",
+      "akatsuki"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 4,
+    "strings": [
+      "ノワール",
+      "ノワール",
+      "诺瓦",
+      "noir"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 5,
+    "strings": [
+      "ノワール？",
+      "ノワール？",
+      "诺瓦？",
+      "noir？"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 6,
+    "strings": [
+      "カルハ",
+      "カルハ",
+      "狩叶",
+      "karuha"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 7,
+    "strings": [
+      "カルハ？",
+      "カルハ？",
+      "狩叶？",
+      "karuha？"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 8,
+    "strings": [
+      "春香",
+      "春香",
+      "春香",
+      "haruka"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 9,
+    "strings": [
+      "ねり",
+      "ねり",
+      "音理",
+      "neri"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 10,
+    "strings": [
+      "ジビエ",
+      "ジビエ",
+      "野鸟"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 11,
+    "strings": [
+      "ジェニファー",
+      "ジェニファー",
+      "珍妮弗"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 12,
+    "strings": [
+      "花江",
+      "花江",
+      "花江"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 13,
+    "strings": [
+      "タカセ",
+      "タカセ",
+      "鹰世"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 14,
+    "strings": [
+      "真白",
+      "真白",
+      "真白"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 15,
+    "strings": [
+      "子猫",
+      "子猫",
+      "小猫"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 16,
+    "strings": [
+      "黒猫",
+      "黒猫",
+      "黑猫"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 17,
+    "strings": [
+      "猫村さん",
+      "猫村さん",
+      "猫村"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 18,
+    "strings": [
+      "看護師",
+      "看護師",
+      "护士"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 19,
+    "strings": [
+      "院長",
+      "院長",
+      "院长"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 20,
+    "strings": [
+      "駅員",
+      "駅員",
+      "站员"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 21,
+    "strings": [
+      "男の声１",
+      "男の声１",
+      "男性的声音1"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 22,
+    "strings": [
+      "男の声２",
+      "男の声２",
+      "男性的声音2"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 23,
+    "strings": [
+      "女性客",
+      "女性客",
+      "女性乘客"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 24,
+    "strings": [
+      "車掌さん",
+      "車掌さん",
+      "乘务员"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 25,
+    "strings": [
+      "車掌さん？",
+      "車掌さん？",
+      "乘务员？"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 26,
+    "strings": [
+      "女",
+      "女",
+      "女性"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 27,
+    "strings": [
+      "女の子",
+      "女の子",
+      "女孩"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 28,
+    "strings": [
+      "女の声",
+      "女の声",
+      "女性的声音"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 29,
+    "strings": [
+      "男",
+      "男",
+      "男性"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 30,
+    "strings": [
+      "寝てた人",
+      "寝てた人",
+      "熟睡的人"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 31,
+    "strings": [
+      "寝てる客",
+      "寝てる客",
+      "熟睡的乘客"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 32,
+    "strings": [
+      "少女",
+      "少女",
+      "少女"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 33,
+    "strings": [
+      "白の少女",
+      "白の少女",
+      "白发少女"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 34,
+    "strings": [
+      "大家さん",
+      "大家さん",
+      "房东"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 35,
+    "strings": [
+      "アナウンス",
+      "アナウンス",
+      "广播",
+      "Announcement"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  }
+],
+"cg":[
+    {
+      "rowIndex": 0,
+      "strings": [
+        "Label",
+        "Type",
+        "X",
+        "Y",
+        "Z",
+        "Pivot",
+        "Scale",
+        "Conditional",
+        "FileName",
+        "FileType",
+        "SubFileName",
+        "Animation",
+        "RenderTexture",
+        "RenderRect",
+        "Thumbnail",
+        "CgCategolly"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 1,
+      "strings": [
+        "背景_黒",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg_black"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 2,
+      "strings": [
+        "背景_白",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg_white"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 3,
+      "strings": [
+        "背景_赤",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg_red"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 4,
+      "strings": [
+        "背景_空_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg000a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 5,
+      "strings": [
+        "背景_空_夕",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg000b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 6,
+      "strings": [
+        "背景_空_夜",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg000d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 7,
+      "strings": [
+        "背景_自室_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg010a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 8,
+      "strings": [
+        "背景_自室_夕",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg010b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 9,
+      "strings": [
+        "背景_自室_夜ライト",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg010c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 10,
+      "strings": [
+        "背景_街中_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg020a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 11,
+      "strings": [
+        "背景_街中_夜ライト",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg020c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 12,
+      "strings": [
+        "背景_駅_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg030a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 13,
+      "strings": [
+        "背景_駅_夕",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg030b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 14,
+      "strings": [
+        "背景_駅_夜",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg030d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 15,
+      "strings": [
+        "背景_駅列車_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg035a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 16,
+      "strings": [
+        "背景_駅列車_夕",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg035b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 17,
+      "strings": [
+        "背景_駅列車_夜",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg035d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 18,
+      "strings": [
+        "背景_列車内",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg040c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 19,
+      "strings": [
+        "背景_ボイラー室_閉",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg050c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 20,
+      "strings": [
+        "背景_ボイラー室_開",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg050e"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 21,
+      "strings": [
+        "背景_連結部",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg060c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 22,
+      "strings": [
+        "背景_森_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg070a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 23,
+      "strings": [
+        "背景_森_夜",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg070d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 24,
+      "strings": [
+        "背景_森奥",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg075a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 25,
+      "strings": [
+        "背景_プラネタリウム",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg080a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 26,
+      "strings": [
+        "背景_海岸_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg090a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 27,
+      "strings": [
+        "背景_海岸_夕",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg090b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 28,
+      "strings": [
+        "背景_海岸_夜ライト",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg090c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 29,
+      "strings": [
+        "背景_病院前大通り_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg100a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 30,
+      "strings": [
+        "背景_病院前大通り_夜ライト",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg100c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 31,
+      "strings": [
+        "背景_病院フロント",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg110a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 32,
+      "strings": [
+        "背景_病院フロント_夜",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg110c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 33,
+      "strings": [
+        "背景_病院フロント_暗",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg110e"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 34,
+      "strings": [
+        "背景_病院内",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg120a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 35,
+      "strings": [
+        "背景_病室",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg130a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 36,
+      "strings": [
+        "背景_病室_暗",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg130d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 37,
+      "strings": [
+        "背景_高原",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg140a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 38,
+      "strings": [
+        "背景_プラネタリウム内",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "",
+        "bg150a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 39,
+      "strings": [],
+      "isEmpty": 1,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 40,
+      "strings": [
+        "背景大_空_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg000a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 41,
+      "strings": [
+        "背景大_空_夕",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg000b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 42,
+      "strings": [
+        "背景大_空_夜",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg000d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 43,
+      "strings": [
+        "背景大_自室_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg010a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 44,
+      "strings": [
+        "背景大_自室_夕",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg010b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 45,
+      "strings": [
+        "背景大_街中_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg020a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 46,
+      "strings": [
+        "背景大_駅列車_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg035a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 47,
+      "strings": [
+        "背景大_駅列車_夕",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg035b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 48,
+      "strings": [
+        "背景大_駅列車_夜",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg035c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 49,
+      "strings": [
+        "背景大_列車内",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg040c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 50,
+      "strings": [
+        "背景大_ボイラー室_閉",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg050c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 51,
+      "strings": [
+        "背景大_ボイラー室_開",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg050e"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 52,
+      "strings": [
+        "背景大_連結部",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg060c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 53,
+      "strings": [
+        "背景大_森_夜",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg070d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 54,
+      "strings": [
+        "背景大_海岸_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg090a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 55,
+      "strings": [
+        "背景大_海岸_夕",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg090b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 56,
+      "strings": [
+        "背景大_海岸_夜ライト",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg090c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 57,
+      "strings": [
+        "背景大_病院前大通り_昼",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg100a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 58,
+      "strings": [
+        "背景大_病院前大通り_夜ライト",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg100c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 59,
+      "strings": [
+        "背景大_病院フロント",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg110a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 60,
+      "strings": [
+        "背景大_病院フロント_暗",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg110e"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 61,
+      "strings": [
+        "背景大_病院内",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg120a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 62,
+      "strings": [
+        "背景大_病室",
+        "Bg",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_bg130a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 63,
+      "strings": [],
+      "isEmpty": 1,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 64,
+      "strings": [
+        "アバン１",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "aban01"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 65,
+      "strings": [
+        "アバン３",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "aban03"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 66,
+      "strings": [
+        "ねりアバン",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "neriaban"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 67,
+      "strings": [],
+      "isEmpty": 1,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 68,
+      "strings": [
+        "イベント1_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 69,
+      "strings": [
+        "イベント1_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 70,
+      "strings": [
+        "イベント1_c",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01c",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 71,
+      "strings": [
+        "イベント1_c2",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01c2",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 72,
+      "strings": [
+        "イベント1_d",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01d",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 73,
+      "strings": [
+        "イベント1_e",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01e",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg01",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 74,
+      "strings": [
+        "イベント20_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg20a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg20",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 75,
+      "strings": [
+        "イベント20_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg20b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg20",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 76,
+      "strings": [
+        "イベント20_c",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg20c",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg20",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 77,
+      "strings": [
+        "イベント20_d",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg20d",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg20",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 78,
+      "strings": [
+        "イベント2_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg02a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg02",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 79,
+      "strings": [
+        "イベント2_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg02b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg02",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 80,
+      "strings": [
+        "イベント2_c",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg02c",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg02",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 81,
+      "strings": [
+        "イベント2_d",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg02d",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg02",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 82,
+      "strings": [
+        "イベント2_e",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg02e",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg02",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 83,
+      "strings": [
+        "イベント3_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg03a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg03",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 84,
+      "strings": [
+        "イベント4_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg04a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg04",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 85,
+      "strings": [
+        "イベント4_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg04b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg04",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 86,
+      "strings": [
+        "イベント5_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg05a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg05",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 87,
+      "strings": [
+        "イベント5_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg05b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg05",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 88,
+      "strings": [
+        "イベント6_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg06a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg06",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 89,
+      "strings": [
+        "イベント6_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg06b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 90,
+      "strings": [
+        "イベント7_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg07a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg07",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 91,
+      "strings": [
+        "イベント7_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg07b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg07",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 92,
+      "strings": [
+        "イベント21_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 93,
+      "strings": [
+        "イベント21_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 94,
+      "strings": [
+        "イベント21_c",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21c",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 95,
+      "strings": [
+        "イベント21_d",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21d",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 96,
+      "strings": [
+        "イベント21_e",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21e",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 97,
+      "strings": [
+        "イベント21_f",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21f",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg21",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 98,
+      "strings": [
+        "イベント8_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg08b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg08",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 99,
+      "strings": [
+        "イベント8_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg08a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg08",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 100,
+      "strings": [
+        "イベント9_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg09a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg09",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 101,
+      "strings": [
+        "イベント9_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg09b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg09",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 102,
+      "strings": [
+        "イベント10_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 103,
+      "strings": [
+        "イベント10_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 104,
+      "strings": [
+        "イベント10_c",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10c",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 105,
+      "strings": [
+        "イベント10_d",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10d",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 106,
+      "strings": [
+        "イベント10_e",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10e",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 107,
+      "strings": [
+        "イベント10_f",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10f",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 108,
+      "strings": [
+        "イベント10_g",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10g",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 109,
+      "strings": [
+        "イベント10_h",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10h",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 110,
+      "strings": [
+        "イベント10_i",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10i",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 111,
+      "strings": [
+        "イベント10_j",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10j",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 112,
+      "strings": [
+        "イベント10_k",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10k",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 113,
+      "strings": [
+        "イベント10_l",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg10l",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 114,
+      "strings": [
+        "イベント11_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg11a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg11",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 115,
+      "strings": [
+        "イベント11_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg11b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg11",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 116,
+      "strings": [
+        "イベント11_c",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg11c",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg11",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 117,
+      "strings": [
+        "イベント11_d",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg11d",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg11",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 118,
+      "strings": [
+        "イベント12_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg12a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg12",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 119,
+      "strings": [
+        "イベント12_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg12b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg12",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 120,
+      "strings": [
+        "イベント12_c",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg12c",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg12",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 121,
+      "strings": [
+        "イベント13_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg13a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg13",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 122,
+      "strings": [
+        "イベント13_a2",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg13a2",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg13",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 123,
+      "strings": [
+        "イベント13_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg13b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg13",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 124,
+      "strings": [
+        "イベント13_c",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg13c",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg13",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 125,
+      "strings": [
+        "イベント19_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg19a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg19",
+        "1"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 126,
+      "strings": [
+        "イベント18_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg18b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg18",
+        "2"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 127,
+      "strings": [
+        "イベント18_c",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg18c",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg18",
+        "2"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 128,
+      "strings": [
+        "イベント18_d",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg18d",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg18",
+        "2"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 129,
+      "strings": [
+        "イベント14_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg14a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg14",
+        "2"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 130,
+      "strings": [
+        "イベント14_b",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg14b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg14",
+        "2"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 131,
+      "strings": [
+        "イベント15_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg15a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg15",
+        "2"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 132,
+      "strings": [
+        "イベント16_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg16a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg16",
+        "2"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 133,
+      "strings": [
+        "イベント17_a",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg17a",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "evcg17",
+        "2"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 134,
+      "strings": [],
+      "isEmpty": 1,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 135,
+      "strings": [
+        "イベント1_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg01a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 136,
+      "strings": [
+        "イベント1_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg01b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 137,
+      "strings": [
+        "イベント1_c_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg01c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 138,
+      "strings": [
+        "イベント1_c2_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg01c2"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 139,
+      "strings": [
+        "イベント1_d_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg01d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 140,
+      "strings": [
+        "イベント1_e_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg01e"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 141,
+      "strings": [
+        "イベント2_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg02a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 142,
+      "strings": [
+        "イベント2_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg02b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 143,
+      "strings": [
+        "イベント2_c_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg02c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 144,
+      "strings": [
+        "イベント2_d_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg02d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 145,
+      "strings": [
+        "イベント3_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg03a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 146,
+      "strings": [
+        "イベント5_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg05a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 147,
+      "strings": [
+        "イベント5_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg05b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 148,
+      "strings": [
+        "イベント6_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg06a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 149,
+      "strings": [
+        "イベント7_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg07a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 150,
+      "strings": [
+        "イベント7_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg07b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 151,
+      "strings": [
+        "イベント8_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg08a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 152,
+      "strings": [
+        "イベント8_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg08b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 153,
+      "strings": [
+        "イベント9_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg09a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 154,
+      "strings": [
+        "イベント9_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg09b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 155,
+      "strings": [
+        "イベント10_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg10a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 156,
+      "strings": [
+        "イベント10_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg10b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 157,
+      "strings": [
+        "イベント10_c_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg10c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 158,
+      "strings": [
+        "イベント10_d_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg10d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 159,
+      "strings": [
+        "イベント10_e_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg10e"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 160,
+      "strings": [
+        "イベント10_f_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg10f"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 161,
+      "strings": [
+        "イベント10_g_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg10g"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 162,
+      "strings": [
+        "イベント10_h_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg10h"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 163,
+      "strings": [
+        "イベント10_i_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg10i"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 164,
+      "strings": [
+        "イベント11_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg11a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 165,
+      "strings": [
+        "イベント11_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg11b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 166,
+      "strings": [
+        "イベント11_c_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg11c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 167,
+      "strings": [
+        "イベント11_d_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg11d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 168,
+      "strings": [
+        "イベント12_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg12a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 169,
+      "strings": [
+        "イベント12_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg12b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 170,
+      "strings": [
+        "イベント12_c_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg12c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 171,
+      "strings": [
+        "イベント16_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg16a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 172,
+      "strings": [
+        "イベント17_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg17a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 173,
+      "strings": [
+        "イベント18_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg18b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 174,
+      "strings": [
+        "イベント18_c_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg18c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 175,
+      "strings": [
+        "イベント18_d_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg18d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 176,
+      "strings": [
+        "イベント19_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg19a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 177,
+      "strings": [
+        "イベント20_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg20a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 178,
+      "strings": [
+        "イベント20_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg20b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 179,
+      "strings": [
+        "イベント20_c_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg20c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 180,
+      "strings": [
+        "イベント20_d_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg20d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 181,
+      "strings": [
+        "イベント21_a_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg21a"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 182,
+      "strings": [
+        "イベント21_b_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg21b"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 183,
+      "strings": [
+        "イベント21_c_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg21c"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 184,
+      "strings": [
+        "イベント21_d_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg21d"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 185,
+      "strings": [
+        "イベント21_e_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg21e"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 186,
+      "strings": [
+        "イベント21_f_大",
+        "Event",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "large_evcg21f"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 187,
+      "strings": [],
+      "isEmpty": 1,
+      "isCommentOut": 0
+    }
+  ],
+  "body": [
+    {
+      "rowIndex": 0,
+      "strings": [
+        "CharacterName",
+        "NameText",
+        "Pattern",
+        "X",
+        "Y",
+        "Z",
+        "Pivot",
+        "Scale",
+        "Conditional",
+        "FileName",
+        "SubFileName",
+        "FileType",
+        "Animation",
+        "RenderTexture",
+        "RenderRect",
+        "EyeBlink",
+        "LipSynch",
+        "Icon",
+        "IconSubFileName",
+        "IconRect"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 3,
+      "strings": [
+        "ノワール",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "noir_17face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 4,
+      "strings": [
+        "ノワール大",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "large_noir_04face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 3,
+      "strings": [
+        "カルハ",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "karuha_03face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 4,
+      "strings": [
+        "カルハ大",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "large_karuha_02face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 3,
+      "strings": [
+        "ねり",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "neri_02face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 4,
+      "strings": [
+        "ねり大",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "large_neri_03face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 3,
+      "strings": [
+        "ジビエ",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "jibie_02face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 4,
+      "strings": [
+        "ジビエ大",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "large_jibie_02face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 3,
+      "strings": [
+        "花江",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "hanae_02face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 4,
+      "strings": [
+        "花江大",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "large_hanae_02face+"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 3,
+      "strings": [
+        "タカセ",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "takase_09face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 4,
+      "strings": [
+        "タカセ大",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "large_takase_02face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 3,
+      "strings": [
+        "真白",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "mashiro_25face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    },
+    {
+      "rowIndex": 4,
+      "strings": [
+        "真白大",
+        "",
+        "",
+        "",
+        "-340",
+        "",
+        "",
+        "1",
+        "",
+        "large_mashiro_32face"
+      ],
+      "isEmpty": 0,
+      "isCommentOut": 0
+    }
+  ]
+}
