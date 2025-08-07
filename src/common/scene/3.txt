@@ -945,7 +945,7 @@
         "body": "large_noir_04face"
       },
       {
-        "character": "ノワール大",
+        "character": "诺瓦",
         "text": "噗迄。",
         "body": "large_noir_04face"
       },

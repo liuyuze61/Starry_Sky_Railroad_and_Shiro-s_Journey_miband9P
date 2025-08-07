@@ -1142,7 +1142,7 @@
         "body": "noir_17face"
       },
       {
-        "character": "ノワール大",
+        "character": "诺瓦",
         "text": "快冻死了（抖抖抖）",
         "body": "large_noir_04face"
       },
@@ -1599,6 +1599,13 @@
   },
   {
     "background": "bg040c",
+    "choices": [
+      {"text": "直接给她","nextScene": 1},
+      {"text": "晃晃再给她","nextScene": 2}
+    ]
+  },
+  {
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "晓",
@@ -1682,7 +1689,8 @@
       {
         "character": "",
         "text": "好心办坏事了。",
-        "body": "large_noir_04face"
+        "body": "large_noir_04face",
+        "toScenes": 2
       }
     ]
   },

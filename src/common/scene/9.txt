@@ -22,7 +22,7 @@
         "body": "large_jibie_02face"
       },
       {
-        "character": "ノワール大",
+        "character": "诺瓦",
         "text": "呼————。",
         "body": "large_noir_04face"
       },

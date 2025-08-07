@@ -1,5 +1,5 @@
 <template>
-  <div class="page" @swipe="back">
+  <div class="bg" @swipe="back">
     <div class="page" style="background-color: #000000;" @click="nextDialogue">
       <image src="/common/{{Img}}.png" id="bg"></image>
       <image class="person" src="/common/body/{{body}}.png" if="{{body !== ''&& Img !== 'index_bg.png'}}"></image>
@@ -11,21 +11,18 @@
       </scroll>
     </div>
     <!--选项页-->
-    <div class="page" style="position: absolute;" if="{{gameData.scenes[currentScene].choices !== undefined}}">
-      <!--选项1-->
-      <text class="choice" @click="selectChoice(0)">{{gameData.scenes[currentScene].choices[0].text}}</text>
-      <!--选项2-->
-      <text class="choice" style="top: 210px;" @click="selectChoice(1)">{{gameData.scenes[currentScene].choices[1].text}}</text>
+    <div class="scroll-page" if="{{gameData.scenes[currentScene].choices !== undefined}}">
+        <text class="choice" for="{{gameData.scenes[currentScene].choices}}" @click="selectChoice($idx)">{{$item.text}}</text>
     </div>
     <!--菜单页-->
-    <div class="page" style="position: absolute;flex-wrap: nowrap;flex-direction: column;justify-content: center;align-items: center;background-color: #ffffff;" if="{{menu}}">
+    <scroll scroll-y="true" bounces="true" class="scroll-page" style="background-color: #FFFFFF;" if="{{menu}}">
       <text class="menu-btn" @click="toRecoveryPage(1)">保存</text>
       <text class="menu-btn" @click="toRecoveryPage(2)">加载</text>
       <text class="menu-btn" @click="skipScene(1)">跳过场景</text>
       <text class="menu-btn" @click="skipChapter()">跳过章节</text>
       <text class="menu-btn" @click="back('c')">返回</text>
       <text class="menu-btn" @click="back('e')">返回主页</text>
-    </div>
+    </scroll>
     <div class="page" style="position: absolute;background-color: #ffffff;" if="{{recovery===1}}" @swipe="back()">
       <scroll scroll-y="true" bounces="true" class="scroll1 page">
         <text class="menu-btn">长按删除，点击覆盖</text>
@@ -64,7 +61,7 @@ export default {
     canContinue: true,
     currentScene: 0,
     currentDialogue: 0,
-    Img: 'bg.png',
+    Img: 'title_bg',
     body: '',
     showText: '',
     character: '',
@@ -220,12 +217,12 @@ export default {
     }
   },
   back(a){
-    if(a=='m'&&this.menu){this.menu = false}
-    else if(a.direction=='right'&&this.recovery!==0){this.recovery = 0}
-    else if(a.direction=='right'){this.menu = true}
-    else if(a=='index'){
-      router.push({uri: 'pages/index'})
+    if(a.direction=='right'||a=='c'){
+      if(this.recovery!==0){this.recovery = 0}
+      else if(this.menu){this.menu = false}
+      else{this.menu = true}
     }
+    else if(a=='e'){router.replace({uri: "/pages/index"})}
   },
   // 选择选项
   selectChoice(choiceIndex) {
@@ -312,6 +309,10 @@ export default {
 </script>
 
 <style>
+.bg{
+  position: absolute;
+  background-color: #ffffff;
+}
 .page {
   width: 336px;
   height: 480px;
@@ -339,16 +340,27 @@ export default {
   align-items: center;
 }
 .choice {
-  position: absolute;
   width: 250px;
   height: 61px;
-  left: 43px;
-  top: 100px;
+  /* left: 43px; */
+  margin-bottom: 20px;
+  margin-top: 20px;
   background-color: rgba(80, 192, 231, 0.7);
   color: #ffffff;
   font-size: 24px;
   font-weight: bold;
   text-align: center;
+}
+.scroll-page{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 336px;
+  height: 480px;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .menu-btn {
   width: 250px;
