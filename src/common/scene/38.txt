@@ -1,0 +1,1840 @@
+[
+  {
+    "background": "bg080a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "奔跑，不断奔跑————。"
+      },
+      {
+        "character": "晓",
+        "text": "……果然啊。"
+      },
+      {
+        "character": "",
+        "text": "以为自己逃脱的时候，又到了别的地方。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "野鸟小姐的地方，鹰世的地方。\n　花江小姐的地方。"
+      },
+      {
+        "character": "",
+        "text": "接下来会怎么样？　又回到我的城市吗？"
+      },
+      {
+        "character": "",
+        "text": "我到不了火车那里。"
+      },
+      {
+        "character": "",
+        "text": "甚至连能成为线索的车站都不知道在那里。"
+      }
+    ]
+  },
+  {
+    "background": "bg000d",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "可恶！"
+      },
+      {
+        "character": "",
+        "text": "我继续跑。"
+      },
+      {
+        "character": "",
+        "text": "怎么回事。\n　我被当成“异物”驱逐了吗？"
+      },
+      {
+        "character": "",
+        "text": "那就麻烦了。"
+      }
+    ]
+  },
+  {
+    "background": "bg100c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "呼，呼。"
+      },
+      {
+        "character": "",
+        "text": "嗯……"
+      },
+      {
+        "character": "",
+        "text": "没路了。"
+      },
+      {
+        "character": "",
+        "text": "我没办法到达火车，前往诺瓦身边了。"
+      },
+      {
+        "character": "",
+        "text": "可恶。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "闭上眼睛。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦……"
+      },
+      {
+        "character": "",
+        "text": "不行啊，诺瓦。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "不要否定我。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……做不到。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我并不想否定你。\n不，我想和你在一起。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我，我呢。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "如果要与白先生分离的话……",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg100c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "嗯……"
+      },
+      {
+        "character": "",
+        "text": "不行啊。"
+      },
+      {
+        "character": "",
+        "text": "这个世界的规则只有一条。\n　就是成为“诺瓦所期望的样子”。"
+      },
+      {
+        "character": "",
+        "text": "若被拒绝，就无法前进。"
+      },
+      {
+        "character": "",
+        "text": "我刚刚才体验过排异反应的强大。"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "嗯，不过。"
+      }
+    ]
+  },
+  {
+    "background": "bg130d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "那排异反应……"
+      },
+      {
+        "character": "",
+        "text": "光是回想起来都感到难受。"
+      },
+      {
+        "character": "",
+        "text": "伴随呼吸而来的疼痛。令全身发抖的呕吐。"
+      },
+      {
+        "character": "",
+        "text": "那种痛苦……"
+      },
+      {
+        "character": "",
+        "text": "是她一直忍耐着那种痛苦。",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg100c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "我该怎么向一直忍耐痛苦的她搭话？"
+      },
+      {
+        "character": "",
+        "text": "别放弃。加油活下去。"
+      },
+      {
+        "character": "",
+        "text": "我能说出这种话吗？"
+      },
+      {
+        "character": "",
+        "text": "能不负责任地说出来吗？"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我自己又怎么样呢。\n　我有资格这样说吗。"
+      },
+      {
+        "character": "",
+        "text": "我已经酗酒数月了。"
+      },
+      {
+        "character": "",
+        "text": "什么都不想思考。只想通过醉酒忘记一切。"
+      },
+      {
+        "character": "",
+        "text": "我逃避了自己的人生。"
+      },
+      {
+        "character": "",
+        "text": "沉迷酗酒，逃避痛苦。"
+      },
+      {
+        "character": "",
+        "text": "简直就是慢性自杀。"
+      }
+    ]
+  },
+  {
+    "background": "bg130d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "她甚至无法逃避痛苦，",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "我真的要不负责任地对她说“不要死”吗。",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "bg100c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "诺瓦……"
+      },
+      {
+        "character": "",
+        "text": "我，"
+      },
+      {
+        "character": "",
+        "text": "我啊……"
+      },
+      {
+        "character": "",
+        "text": "————～"
+      }
+    ]
+  },
+  {
+    "background": "bg100c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "嗯。"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "对了。"
+      },
+      {
+        "character": "",
+        "text": "这里是她的世界。\n　被拒绝意味着已经无法到达。"
+      },
+      {
+        "character": "",
+        "text": "但是我原先并不担心。"
+      },
+      {
+        "character": "",
+        "text": "我知道她正因为排异反应而痛苦。"
+      },
+      {
+        "character": "",
+        "text": "但是没想到她居然会拒绝我们啊。"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦。"
+      },
+      {
+        "character": "",
+        "text": "问题是，能让我到达的车站和铁路都不存在。"
+      },
+      {
+        "character": "",
+        "text": "既然没有道路，"
+      },
+      {
+        "character": "",
+        "text": "那就让她给我们指明道路，"
+      }
+    ]
+  },
+  {
+    "background": "bg100c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "诺瓦。"
+      },
+      {
+        "character": "",
+        "text": "让她引领我。"
+      },
+      {
+        "character": "晓",
+        "text": "你也应该受过指引才对……"
+      },
+      {
+        "character": "",
+        "text": "没错。那个名字，"
+      }
+    ]
+  },
+  {
+    "background": "large_bg100c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "诺瓦这个名字，也是我们给你取的。"
+      },
+      {
+        "character": "晓",
+        "text": "对吧，诺瓦？"
+      },
+      {
+        "character": "黑猫",
+        "text": "咪。"
+      },
+      {
+        "character": "晓",
+        "text": "嗯————。"
+      }
+    ]
+  },
+  {
+    "background": "bg100c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "传来微弱的声音。"
+      },
+      {
+        "character": "",
+        "text": "虽然不知道在哪里，"
+      },
+      {
+        "character": "",
+        "text": "但是我认识那个声音。"
+      },
+      {
+        "character": "晓",
+        "text": "下来吧。今天小音不在。"
+      },
+      {
+        "character": "",
+        "text": "我对附近的绿化树木说。"
+      },
+      {
+        "character": "",
+        "text": "那是之前我和小音一起救了小猫的树————"
+      },
+      {
+        "character": "黑猫",
+        "text": "……咪。"
+      },
+      {
+        "character": "",
+        "text": "它在那里。"
+      },
+      {
+        "character": "晓",
+        "text": "来吧！　我会接住你的。"
+      },
+      {
+        "character": "黑猫",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "————嗒。"
+      },
+      {
+        "character": "",
+        "text": "与之前不同，黑猫毫无惧怕，\n　轻盈地跳了过来。"
+      },
+      {
+        "character": "",
+        "text": "你长大了呢。"
+      },
+      {
+        "character": "",
+        "text": "之前救了了你真是太好了。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————啪嚓。"
+      },
+      {
+        "character": "",
+        "text": "我接住跳过来的黑猫。"
+      },
+      {
+        "character": "黑猫",
+        "text": "呜咪。"
+      },
+      {
+        "character": "晓",
+        "text": "想起来了吗？\n救你的可不止小音喔。"
+      },
+      {
+        "character": "晓",
+        "text": "给我带路吧。"
+      }
+    ]
+  },
+  {
+    "background": "bg030d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————啪嗒。"
+      },
+      {
+        "character": "",
+        "text": "黑猫轻快地离开我的怀抱，落于地面。"
+      },
+      {
+        "character": "",
+        "text": "那已经是车站内的水泥地了。"
+      },
+      {
+        "character": "",
+        "text": "火车……虽然已经发车了，不见踪影，"
+      },
+      {
+        "character": "",
+        "text": "但是我回来了。"
+      }
+    ]
+  },
+  {
+    "background": "evcg20d",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "谢啦。"
+      },
+      {
+        "character": "黑猫",
+        "text": "喵。"
+      }
+    ]
+  },
+  {
+    "background": "bg030d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "嗒！"
+      },
+      {
+        "character": "",
+        "text": "黑猫跳下轨道，开始奔跑。"
+      },
+      {
+        "character": "",
+        "text": "引领我，到达目的地吧。"
+      }
+    ]
+  },
+  {
+    "background": "bg000d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "奔跑。"
+      },
+      {
+        "character": "",
+        "text": "我们沿着铁路笔直奔跑。"
+      },
+      {
+        "character": "",
+        "text": "到底有多远？\n　离开车站已经跑了很久，\n　这距离是跑步能追上的吗？"
+      },
+      {
+        "character": "",
+        "text": "想多无益。总之跑吧。"
+      },
+      {
+        "character": "晓",
+        "text": "哈，哈。"
+      },
+      {
+        "character": "",
+        "text": "虽因为平常不怎么运动，呼吸很快就变得急促，\n　但还是在全力奔跑。"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "现在这样跑着，仿佛刚才在医院的一切都是假的。"
+      },
+      {
+        "character": "",
+        "text": "连移动都艰难。连呼吸都痛苦。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "没错。"
+      },
+      {
+        "character": "",
+        "text": "奔跑。走动。"
+      },
+      {
+        "character": "",
+        "text": "原来是这么厉害的事，"
+      },
+      {
+        "character": "",
+        "text": "我不得不感谢上苍，让我拥有能跑动的身体。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦，告诉我吧。",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "你在这段旅途中，怀着怎样的心情？",
+        "body": "large_noir_04face"
+      }
+    ]
+  },
+  {
+    "background": "evcg04a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "怀着怎样的心情走动，奔跑，嬉戏。"
+      }
+    ]
+  },
+  {
+    "background": "evcg07b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "到底是怎样的心情？"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "晓",
+        "text": "呼。"
+      },
+      {
+        "character": "",
+        "text": "不用问我也知道吧。"
+      }
+    ]
+  },
+  {
+    "background": "evcg03a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "你的心情和我们的一样。"
+      },
+      {
+        "character": "",
+        "text": "对吧，诺瓦。"
+      },
+      {
+        "character": "",
+        "text": "你可别说不一样喔。"
+      },
+      {
+        "character": "",
+        "text": "虽然这个世界很严峻，生存很艰难。\n　但是在这段旅途中。"
+      },
+      {
+        "character": "",
+        "text": "和我们的一起的旅途，你一定很开心吧。"
+      },
+      {
+        "character": "",
+        "text": "没错吧？"
+      },
+      {
+        "character": "",
+        "text": "你也不想就这么结束吧。"
+      }
+    ]
+  },
+  {
+    "background": "bg000d",
+    "dialogues": [
+      {
+        "character": "黑猫",
+        "text": "咪。"
+      },
+      {
+        "character": "晓",
+        "text": "！"
+      },
+      {
+        "character": "",
+        "text": "刚才还只有黑暗的铁路前方，出现了某些东西。"
+      },
+      {
+        "character": "",
+        "text": "这味道。是煤炭的味道。"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "好！"
+      },
+      {
+        "character": "",
+        "text": "追上了。"
+      },
+      {
+        "character": "",
+        "text": "与其说是追上了，倒不如说火车几乎就没动。"
+      },
+      {
+        "character": "",
+        "text": "虽然还勉强在晃动……\n　估计引擎已经熄火了吧。"
+      },
+      {
+        "character": "",
+        "text": "即将到达终点了。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————砰！"
+      },
+      {
+        "character": "",
+        "text": "我进入了车厢。"
+      },
+      {
+        "character": "",
+        "text": "虽然引擎熄火了，虽然失去了动力，\n　但整列火车并没有彻底停住。"
+      },
+      {
+        "character": "",
+        "text": "熄火到停止应该有一个延迟。\n　火车就是这样的。"
+      },
+      {
+        "character": "",
+        "text": "刚才那个护士小姐应该还让她的身体活着。"
+      },
+      {
+        "character": "",
+        "text": "还来得及。"
+      },
+      {
+        "character": "",
+        "text": "大家应该在第一车厢。\n　这里是第四车厢————。"
+      },
+      {
+        "character": "真白",
+        "text": "……白先生。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "唷。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "当然会被这家伙发现吧。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "“真白”挡在面前，试图阻止我到前方的车厢去。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "你应该……适可而止了。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "终点就快到了，\n请不要妨碍我……白先生。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "白先生。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "对了。在这火车上我就是白。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "然后这家伙的名字是，",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "她没有说是，也没有说不是。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "这就是诺瓦。我们认识的那个少女。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "那个憎恨活着的少女消失了。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "与其说消失了，倒不如说这才是本来的她。\n　只是之前缺失了的，会与小猫玩耍的那份纯真回来了。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "是吗，那么……",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "large_bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我向她走了一步。",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "但是她迅速甩了甩手\n　制止我接近。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "别靠近我。请不要过来。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "我不是诺瓦。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "也不是那只温柔的黑猫。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "白先生，你应该已经知道碰到我会发生什么了吧。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "已经不是“诺瓦”了么。",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "large_bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "碰到她就会被强加那份死亡的感觉。\n　会变得无法动弹。"
+      },
+      {
+        "character": "",
+        "text": "既然如此，我不可能强行突破她的阻碍。\n　没法去前面的车厢。"
+      },
+      {
+        "character": "",
+        "text": "我必须去第一车厢……去那里面的锅炉室。"
+      },
+      {
+        "character": "",
+        "text": "不去那里启动的话，这辆火车就没法开动了。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦彻底拒绝我，不断地摇着头。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "拯救她的最后关卡，守关者居然是她本人吗。\n　真是讽刺。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "她看我已经停下了脚步。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "真是开心的旅途。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "轻声细语了一句。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "能与白先生相遇真是太好了。\n没想到我最后还能留下这么美好的回忆。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "所以，拜托你了。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "就这么让我解脱吧。\n别再让我回到痛苦中去了。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "别再让我回到痛苦中去……吗。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "这还真是有说服力……\n　因为就在刚才，\n　我还在被那人间地狱折磨得痛苦不堪。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "我没法不负责任地说出“活下去”。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "……但是，",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "听从妈妈的话，\n就这样让我继续和白先生他们在一起。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "夺走大家的一切活下去……不行。\n我做不到。这样对我来说才是最痛苦的。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "请让我就这么和最爱的人们在一起……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "你说得不对。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "哎……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "我必须这样对她说。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "我认同那份痛苦，也很同情她。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "而且我还想做出改变。\n　虽然我刚才一做出改变就失去意识了。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "但是，",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "你很喜欢妈妈吧？",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "……是的。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "那你就不能放弃。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "你必须战胜痛苦。\n排异反应总会消失的。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "等到出院以后，就去邀请妈妈。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "邀请妈妈去烧烤吧。\n大概她会发火就是了。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "呜……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "你也想一起吃吧？",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "吃烧烤时的表情出卖了她。\n　诺瓦被我说中了，一时语塞。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "活下去的理由要多少有多少。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "你犯了十分单纯的错误。\n虽然妈妈说过，不给别人添麻烦是很重要的事。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "但是妈妈应该也不希望你死。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "非常单纯的理由。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "而且，",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "最重要的是……真的要就这么结束吗？",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "你可经历了如此开心的旅途。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "不想再经历几次吗。\n不想去别的地方旅行吗。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "那样会更加更加开心喔。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这是最大的理由。"
+      }
+    ]
+  },
+  {
+    "background": "evcg03a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我很肯定，诺瓦在这段旅途很开心。"
+      }
+    ]
+  },
+  {
+    "background": "evcg01d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "她应该不会觉得已经满足了。"
+      }
+    ]
+  },
+  {
+    "background": "evcg05b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我没法不负责任地说出“活下去”。"
+      }
+    ]
+  },
+  {
+    "background": "evcg07b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "但我能不负责任地说出这句话。"
+      }
+    ]
+  },
+  {
+    "background": "evcg09b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "期待下次旅行吧。"
+      }
+    ]
+  },
+  {
+    "background": "bg000a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "无论发生了多么开心的事。"
+      }
+    ]
+  },
+  {
+    "background": "bg000b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "得到了多少熠熠生辉的宝石，"
+      }
+    ]
+  },
+  {
+    "background": "bg000d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "都只会让人想把手伸向更多宝石。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这就是所谓的“活着”，"
+      },
+      {
+        "character": "",
+        "text": "这是非常重要的事。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦瘦小的肩膀开始颤抖。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "因为我说出了她不想听到的话。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "呜……呜。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "不行，不行啊。我不要。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "那些旅途……下次旅途，大家就不在了。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "白先生不都不在了吗……",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "她的眼泪哗啦啦地流了下来。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "这已经完全变回诺瓦了嘛。小爱哭鬼。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "我讨厌那样。我不想要那样的旅途。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "白先生都不在了……我不要。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "我不能夺走白先生……还有大家的生命。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "去展开新的旅途……",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "她哭泣抽搐着，用嘶哑的声音说道。",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "就是说这个吧。"
+      },
+      {
+        "character": "",
+        "text": "以前说过所谓“更加痛苦的事”。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "小音也说了这是最痛苦的事。",
+        "body": "neri_02face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦连夺走素不相识的小音性命都会后悔，",
+        "body": "neri_02face"
+      },
+      {
+        "character": "",
+        "text": "现在我们已经相识，让她收下我们的性命",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "只会更加苦恼。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "她会被加在自己身上的负担\n　压垮的。",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "因为还是孩子，她的洁癖让她无法接受。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "这就是纯真的另一面。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "但是啊。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "我不是刚刚告诉了你克服这些的办法吗。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "哎……",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "就是增加添麻烦也没问题的对象。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "朋友之间就是有来有往的。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "正如你珍视大家一样，\n我们大家也同样珍视你。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "我们希望你使用我们的生命。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "呜……",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————吱呀，吱呀。"
+      },
+      {
+        "character": "",
+        "text": "我听到了外面车轮的声音。"
+      },
+      {
+        "character": "",
+        "text": "火车马上就要停止了。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "没时间了。",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "large_bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我向前走一步。",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "真白",
+        "text": "呜，别过来！",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "她慌乱地举起手来。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "无论如何都要挡路吗。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "对了。",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "large_bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————啪！",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "哎。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "我抓住了她举起来的手。",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "呜啊。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "感到一阵强烈的恶寒。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "现在明白了。这就是夜羽真白所感到的痛苦。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "所谓排异反应。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "并不是她对我做了什么。\n　“我碰到了她”便是发生排异反应的原因。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "白，白先生，请放手。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "但幸运的是，这个反应只在我身上发生。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "似乎诺瓦自己并不会感到痛苦。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "那就好。",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "large_bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————抱",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "啊。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "走吧。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "我反而紧紧抱起了她。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "反正只要碰到就仿佛要昏倒一般。\n　那无论贴得多紧都是一样的。",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我抱起了诺瓦，"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "前往第三车厢。"
+      },
+      {
+        "character": "真白",
+        "text": "那个，白先生。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦还是跟以前一样轻。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "不过一直都是吃病号餐也没办法。\n虽然营养均衡但是量太少了。",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "前往第二车厢。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "诺瓦，等你醒来之后，要去吃好多好吃的喔。"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "不管是骗她还好怎样也好，让妈妈给你吃肉吧。\n实在是太好吃了，你会爱上肉食的。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "晓",
+        "text": "不过你得先让你的胃习惯起来。",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "你要多吃点，快点长高长大喔，诺瓦。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "……白先生。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "————吱呀……",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "",
+        "text": "车轮停了下来……",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "进入了第一车厢。"
+      },
+      {
+        "character": "鹰世",
+        "text": "……"
+      },
+      {
+        "character": "野鸟",
+        "text": "……"
+      },
+      {
+        "character": "花江",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "三个人和刚才一样，依然没有意识。"
+      },
+      {
+        "character": "",
+        "text": "但是他们都被搬到椅子上躺着，\n　而且盖上了毛毯。"
+      },
+      {
+        "character": "",
+        "text": "这应该是诺瓦盖上的吧。"
+      },
+      {
+        "character": "晓",
+        "text": "嘿咻。",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "真白",
+        "text": "啊，白先生。",
+        "body": "large_mashiro_32face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我一个踉跄。\n　已经抱不起诺瓦了。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "诺瓦落地站稳。\n　但是她没有来扶我，正在左右为难。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "呼……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "好了，该怎么办呢。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "关键在于锅炉室，",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "",
+        "text": "不过在那之前，",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "晓",
+        "text": "鹰世，鹰世快起来。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "鹰世",
+        "text": "……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "我摇了摇一脸痛苦按住自己喉咙失去意识的鹰世。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "现在需要男人的力气。还有火车的知识。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "给我起来！",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "我用力摇了摇他的肩膀。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "失去意识了？",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "不可能啊。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "我们所有人，都希望诺瓦活下去。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "我们所有人，",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "都还没到达终点。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "我们来启动火车吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "我们得让诺瓦活下去！",
+        "body": "takase_09face"
+      }
+    ]
+  },
+  {
+    "background": "bg000d",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "快他妈起来啊啊啊啊啊啊！！"
+      }
+    ]
+  }
+]

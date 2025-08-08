@@ -467,7 +467,7 @@
     ]
   },
   {
-    "background": "bg010a",
+    "background": "large_bg010a",
     "dialogues": [
       {
         "character": "",
@@ -844,6 +844,11 @@
         "text": "过了五分多钟，火车终于停了下来。"
       },
       {
+        "character": "女孩",
+        "text": "嘿咻。",
+        "body": "large_karuha_02face"
+      },
+      {
         "character": "",
         "text": "哦？",
         "body": "large_karuha_02face"
@@ -874,8 +879,23 @@
         "body": "karuha_03face"
       },
       {
+        "character": "女孩",
+        "text": "～♪\n好嘞。",
+        "body": "karuha_03face"
+      },
+      {
         "character": "",
         "text": "她看了一眼挂在脖子上的怀表，",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "女孩",
+        "text": "那么，咳咳。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "女孩",
+        "text": "星空列车“银河号”到站了。",
         "body": "karuha_03face"
       },
       {
@@ -891,6 +911,11 @@
       {
         "character": "",
         "text": "那顶帽子确实也像那么回事。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "乘务员？",
+        "text": "预定了星空旅行的乘客请上车。",
         "body": "karuha_03face"
       },
       {
@@ -919,6 +944,11 @@
         "body": "karuha_03face"
       },
       {
+        "character": "乘务员",
+        "text": "这位乘客？",
+        "body": "large_karuha_02face"
+      },
+      {
         "character": "晓",
         "text": "啊，哦。",
         "body": "large_karuha_02face"
@@ -934,6 +964,11 @@
         "body": "large_karuha_02face"
       },
       {
+        "character": "乘务员",
+        "text": "你是乘客吧。不上车吗？",
+        "body": "karuha_03face"
+      },
+      {
         "character": "晓",
         "text": "啊， 不好意思。",
         "body": "karuha_03face"
@@ -941,11 +976,16 @@
     ]
   },
   {
-    "background": "bg035c",
+    "background": "large_bg035c",
     "dialogues": [
       {
         "character": "",
         "text": "我小跑过去。",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "乘务员",
+        "text": "欢迎乘车。\n请出示一下车票。",
         "body": "large_karuha_02face"
       },
       {
@@ -969,8 +1009,18 @@
         "body": "large_karuha_02face"
       },
       {
+        "character": "乘务员",
+        "text": "我看看，金中城……尧先生。",
+        "body": "large_karuha_02face"
+      },
+      {
         "character": "晓",
         "text": "是晓。\n钟城晓。",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "乘务员",
+        "text": "明白了。\n钟城晓先生对吧。名簿里有你的名字。",
         "body": "large_karuha_02face"
       }
     ]
@@ -978,6 +1028,11 @@
   {
     "background": "bg035d",
     "dialogues": [
+      {
+        "character": "乘务员",
+        "text": "欢迎乘坐银河号。",
+        "body": "karuha_03face"
+      },
       {
         "character": "",
         "text": "我在她的指引下上了车。",
@@ -999,12 +1054,19 @@
         "body": "karuha_03face"
       },
       {
-        "character": "",
-        "text": "站务员在对我挥手。"
+        "character": "站员",
+        "text": "祝您一路顺风。",
+        "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "不仅如此，"
+        "text": "站务员在对我挥手。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "不仅如此，",
+        "body": "karuha_03face"
       }
     ]
   },
@@ -1078,6 +1140,16 @@
         "text": "请问，这趟旅行一共有多少乘客？"
       },
       {
+        "character": "乘务员",
+        "text": "嗯？\n唔，有多少人来着。",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "乘务员",
+        "text": "你是最后一个上车的，其他人都已经在车上了。自己数数吧。",
+        "body": "large_karuha_02face"
+      },
+      {
         "character": "晓",
         "text": "好、好吧",
         "body": "large_karuha_02face"
@@ -1103,9 +1175,29 @@
         "body": "large_karuha_02face"
       },
       {
+        "character": "乘务员",
+        "text": "这位乘客，请先回到座位上。列车启动的时候要坐好。",
+        "body": "karuha_03face"
+      },
+      {
         "character": "晓",
         "text": "哦……和坐飞机一样啊。",
         "body": "karuha_03face"
+      },
+      {
+        "character": "乘务员",
+        "text": "列车正常行驶后就可以自由活动了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "乘务员",
+        "text": "对了对了，在这之前做一个自我介绍。我是本次列车的乘务员兼旅行的导游——狩叶・朗姆柯妮。",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "狩叶",
+        "text": "叫我小狩叶就好哦。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "晓",
@@ -1263,7 +1355,7 @@
     ]
   },
   {
-    "background": "bg040c",
+    "background": "large_bg040c",
     "dialogues": [
       {
         "character": "",
@@ -1338,12 +1430,17 @@
     ]
   },
   {
-    "background": "bg040c",
+    "background": "large_bg040c",
     "dialogues": [
+      {
+        "character": "？？？",
+        "text": "咕噜噜噜噜噜噜噜。",
+        "body": "large_jibie_02face"
+      },
       {
         "character": "晓",
         "text": "哦？",
-        "body": "？？？"
+        "body": "large_jibie_02face"
       }
     ]
   },
@@ -1358,6 +1455,11 @@
       {
         "character": "",
         "text": "一进来就听见了声音。\n　有别的乘客在。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "？？？",
+        "text": "唔咕，咕噜，已经吃不下了……",
         "body": "jibie_02face"
       },
       {
@@ -1414,14 +1516,19 @@
         "text": "第三节……"
       },
       {
+        "character": "女性乘客",
+        "text": "……",
+        "body": "hanae_02face"
+      },
+      {
         "character": "晓",
         "text": "噢。",
-        "body": "女性客"
+        "body": "hanae_02face"
       },
       {
         "character": "",
         "text": "又看到人了。",
-        "body": "女性客"
+        "body": "hanae_02face"
       },
       {
         "character": "",
@@ -1431,6 +1538,11 @@
       {
         "character": "",
         "text": "可是……",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "女性乘客",
+        "text": "……",
         "body": "hanae_02face"
       },
       {
@@ -1454,9 +1566,14 @@
         "body": "hanae_02face"
       },
       {
+        "character": "女性乘客",
+        "text": "呼————。",
+        "body": "hanae_02face"
+      },
+      {
         "character": "",
         "text": "她吐出了长长一口烟雾。",
-        "body": "女性客"
+        "body": "hanae_02face"
       },
       {
         "character": "",
@@ -1481,7 +1598,7 @@
     ]
   },
   {
-    "background": "bg040c",
+    "background": "large_bg040c",
     "dialogues": [
       {
         "character": "晓",
@@ -1491,6 +1608,16 @@
       {
         "character": "晓",
         "text": "你、你好。",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "女性乘客",
+        "text": "嗯？",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "女性乘客",
+        "text": "你好。",
         "body": "large_hanae_02face+"
       },
       {
@@ -1571,6 +1698,11 @@
         "text": "继续下一节……"
       },
       {
+        "character": "男性",
+        "text": "哦呀。",
+        "body": "takase_09face"
+      },
+      {
         "character": "晓",
         "text": "哎呀。",
         "body": "takase_09face"
@@ -1588,22 +1720,27 @@
     ]
   },
   {
-    "background": "bg060c",
+    "background": "large_bg060c",
     "dialogues": [
+      {
+        "character": "男性",
+        "text": "晚上好。您也是来旅行的？",
+        "body": "large_takase_02face"
+      },
       {
         "character": "晓",
         "text": "嗯，你好。",
-        "body": "男"
+        "body": "large_takase_02face"
       },
       {
         "character": "",
         "text": "他友好地向我搭话道。",
-        "body": "男"
+        "body": "large_takase_02face"
       },
       {
         "character": "",
         "text": "这样一来就放心了。\n　我也笑着回应了他。",
-        "body": "男"
+        "body": "large_takase_02face"
       },
       {
         "character": "",
@@ -1616,14 +1753,19 @@
         "body": "large_takase_02face"
       },
       {
+        "character": "男性",
+        "text": "呼。（揉）",
+        "body": "large_takase_02face"
+      },
+      {
         "character": "",
         "text": "啊，看来不是发型的问题。",
-        "body": "男"
+        "body": "large_takase_02face"
       },
       {
         "character": "",
         "text": "他随手将手伸向脑后，\n　把头发揉得乱糟糟的。",
-        "body": "男"
+        "body": "large_takase_02face"
       },
       {
         "character": "",
@@ -1644,6 +1786,11 @@
         "character": "晓",
         "text": "嗯？　这就到尽头了？",
         "body": "large_takase_02face"
+      },
+      {
+        "character": "男性",
+        "text": "是的。接下来就是货运车厢了。",
+        "body": "large_takase_02face"
       }
     ]
   },
@@ -1661,176 +1808,17 @@
     ]
   },
   {
-    "background": "bg060c",
+    "background": "large_bg060c",
     "dialogues": [
+      {
+        "character": "男性",
+        "text": "应该是为了还原以前的场景吧。",
+        "body": "large_takase_02face"
+      },
       {
         "character": "",
         "text": "倒是在西部电影中挺常见的。\n　这种多数车厢载货不载人的情况，",
-        "body": "男"
-      }
-    ]
-  },
-  {
-    "background": "bg060c",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "也就是说，"
-      },
-      {
-        "character": "晓",
-        "text": "客运车厢只有四节么。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "比现代的运载量少多了。",
-        "body": "男"
-      },
-      {
-        "character": "",
-        "text": "对话顺利进行着。",
-        "body": "男"
-      },
-      {
-        "character": "",
-        "text": "虽说一开始有点紧张，\n　但多亏他善于交流，紧张感也随之消除了。",
-        "body": "男"
-      },
-      {
-        "character": "",
-        "text": "他边习惯性地挠着头边说，",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "是啊。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "目前来说，我觉得这是场超值的旅行。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "话说这个时代已经不运输木柴了吧……\n这是模型？",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "如果在西部剧里，\n最后决斗肯定是在柴堆上帅气地解决掉坏人。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "我们能聊到一块的话题还挺丰富的。",
-        "body": "男"
-      }
-    ]
-  },
-  {
-    "background": "bg060c",
-    "dialogues": [
-      {
-        "character": "晓",
-        "text": "啊，好的。\n我叫钟城晓。",
-        "body": "男"
-      },
-      {
-        "character": "",
-        "text": "闲聊了半天，我们才想起来做自我介绍。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "真是位随和的人啊。",
-        "body": "takase_09face"
-      }
-    ]
-  },
-  {
-    "background": "bg060c",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "言谈举止温文尔雅。\n　也可能是他为了不让对方紧张而舒缓了神态。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "感觉我刚才说话的态度有些居高临下了。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "不过他看起来年龄比我小，应该问题不大吧。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "等等，后面已经没有车厢了，\n就是说参加这次旅行的只有四个人？",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "目前为止我在火车上见到的人员有——\n　小小乘务员、睡觉的、吸烟的、鹰世。\n　再加上我。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "总共只有四名旅客。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "鹰世",
-        "text": "原来还有两个人啊。\n我上车的时候可一个人都没有。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "鹰世",
-        "text": "看来同乘者还挺多的……嗯。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "看来鹰世并不知道详情。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "不管总人数有多少，反正多不过我刚刚提到的数了。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "鹰世",
-        "text": "这也没办法啦。\n毕竟这趟夜间火车旅行并没有明确的目的地。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "他笑着耸了耸肩。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "一副悠然自得的样子。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "相比之下我就没办法那么悠哉了。\n　人数这么少的旅行还挺让人紧张的。",
-        "body": "takase_09face"
-      }
-    ]
-  },
-  {
-    "background": "bg060c",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "他摊开了手掌。",
-        "body": "takase_09face"
+        "body": "large_takase_02face"
       }
     ]
   }

@@ -348,6 +348,71 @@
     ],
     "isEmpty": 0,
     "isCommentOut": 0
+  },
+  {
+    "rowIndex": 36,
+    "strings": [
+      "ノワール大",
+      "ノワール大",
+      "诺瓦",
+      "noir"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 37,
+    "strings": [
+      "ジビエ大",
+      "ジビエ大",
+      "野鸟",
+      "jibie"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 38,
+    "strings": [
+      "タカセ大",
+      "タカセ大",
+      "鹰世",
+      "takase"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 39,
+    "strings": [
+      "カルハ大",
+      "カルハ大",
+      "狩叶",
+      "karuha"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 40,
+    "strings": [
+      "ねり大",
+      "ねり大",
+      "音理",
+      "neri"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
+  },
+  {
+    "rowIndex": 41,
+    "strings": [
+      "花江大",
+      "花江大",
+      "花江"
+    ],
+    "isEmpty": 0,
+    "isCommentOut": 0
   }
 ],
 "cg":[

@@ -1,271 +1,360 @@
 [
   {
-    "background": "bg035a",
+    "background": "bg040c",
     "dialogues": [
       {
+        "character": "",
+        "text": "……哦。"
+      },
+      {
+        "character": "",
+        "text": "天亮了。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "呼啊。",
+        "body": "noir_17face"
+      },
+      {
         "character": "晓",
-        "text": "……"
+        "text": "早上好。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊呜，早上好。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "呼哎～",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "这实在是办不到。"
+        "text": "她睡迷糊了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "总之劝你先把口水擦干净。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "哈唔？　哈啊。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "哇。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "好不容易才把握住与诺瓦相处的适宜距离。\n　旅行到了这个阶段，我不想破坏掉它。"
+        "text": "一句话就醒了。她赶忙擦拭起来。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "非、非常抱歉。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我好像……睡得非常沉。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "海风非常消耗体力啊。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "有没有觉得身体麻麻的？\n我想在外面待的没那么久，应该没有晒伤吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "嗯……太阳。",
+        "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "既然诺瓦不想说，那我也不想让她反感。"
+        "text": "诺瓦来回触摸着自己的身体。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "心惊胆战地仔细检查，",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "好像没事的样子。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "确认无事后她腼腆地笑了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "比起以前，现在被人看见自己刚睡醒的样子，\n　她也仅会害羞地笑笑了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "看来她多少适应了一些。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "野鸟",
+        "text": "呼啊啊啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "早上好。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "花江",
+        "text": "把打火机还给我。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "啊，不好意思。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "大家聚集了过来。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "花江小姐走了出去，应该是要抽烟吧。",
+        "body": "hanae_02face"
       },
       {
         "character": "狩叶",
-        "text": "快去给她道歉吧。\n反正肯定是你做了什么讨人嫌的事才变成这样的吧。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "才没那回事啊。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "嗯～",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "我才没摸。",
-        "body": "large_karuha_02face"
-      },
-      {
-        "character": "晓",
-        "text": "摸尾巴算猥亵吗？",
-        "body": "large_karuha_02face"
-      },
-      {
-        "character": "狩叶",
-        "text": "不知道，可尾巴在下半身啊。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "……是么。",
+        "text": "啊————，晒伤了————。",
         "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "以后还是多注意一点吧。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "长猫耳的女孩子的价值观可真难以捉摸啊。",
+        "text": "乘务员一边挠着脑袋，一边走了出来。",
         "body": "karuha_03face"
       },
       {
         "character": "狩叶",
-        "text": "这点我深有同感。",
+        "text": "今天我可以脱了这闷热的制服吗。\n脖子又僵又疼。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "你觉得行应该就没事吧。",
         "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "先不说年龄不同的狩叶，\n　我一个失误可是会酿成大错啊。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "……",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "不如说，\n也该问问她为什么会长猫耳了吧。",
+        "text": "已经没人把她当成乘务员看待了。",
         "body": "karuha_03face"
       },
       {
         "character": "狩叶",
-        "text": "嗯～啊，你还在在意那种事啊？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "这不是什么不足挂齿的事吧。",
+        "text": "可我穿得太少，就会有人用色情的眼光看待我呀。",
         "body": "karuha_03face"
       },
       {
         "character": "晓",
-        "text": "就是对缘由毫无头绪这点让我头大。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "哪怕是猫又，或是妖怪之类的也好，\n　就算是异世界转生过来的也罢……",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "我都想去了解。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "虽然我内心如此打算。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "你看到过她的腹部吧。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "嗯？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "……啊？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
         "text": "？",
         "body": "karuha_03face"
       },
       {
+        "character": "狩叶",
+        "text": "说的就是你。",
+        "body": "large_karuha_02face"
+      },
+      {
         "character": "晓",
-        "text": "我不可能有机会看到她的肚子吧。",
-        "body": "karuha_03face"
+        "text": "我以自己的名誉担保，绝无可能。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "狩叶",
-        "text": "你不是见过人家光着身子的样子么。",
+        "text": "算了，\n那个，各位，4小时后到下一站。\n在那之前先放松一会儿吧～",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "语气吊儿郎当的，\n　毫无乘务员应有的态度草草了事。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "算了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "就照她所说，放松一会儿吧。我躺到了椅子上。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "鹰世",
+        "text": "不好意思，能打扰一下吗？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "鹰世和我搭话了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "呼。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "他咯吱咯吱地挠着脖子。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "晒伤？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "哎呀，哈哈，我可能也大意了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "然后，能给我1张写生本的纸还有能写字的东西吗。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "写生本……这个吗？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "这不是我的东西，\n需要的话你整本都可以拿走。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "别说一张了，我把整本带笔都给了他。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "你是要画什么吗？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "我并没想画画，\n只是想拿来记点东西。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "其实我的数学成绩还挺优秀的呢。\n不过我不擅长心算。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "他苦笑着耸了耸肩。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "算数？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "我现在更想了解这个火车的一切了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "他柔和地笑着说。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "虽然很在意，但我很不擅长数学。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "我不想暴露学生时代只会傻傻地画画，\n　因此选择默默地目送他离去。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "我望向窗户外面，随后发起呆来。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "野鸟",
+        "text": "哼哼哼哼♪　\n今天啊，我要给诺瓦编辫子。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "狩叶",
+        "text": "啊哈，那是什么啊，我也想看想看。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我、我也不是很清楚，不过已经约好了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "那三人已经这么要好了啊。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "如果我过去的话，应该也能被拉入伙，\n　但听她们好像在说打扮的事情，还是算了吧。\n　此话题不适合我这个男人参与。",
         "body": "karuha_03face"
       }
     ]
   },
   {
-    "background": "evcg04a",
+    "background": "bg000a",
     "dialogues": [
       {
-        "character": "晓",
-        "text": "喔……"
-      }
-    ]
-  },
-  {
-    "background": "bg035a",
-    "dialogues": [
-      {
-        "character": "晓",
-        "text": "那次只看到了她屁股而已啊。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "……",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "从屁股上，长出的尾巴，我只看到了这个而已。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "这也已经出格了吧。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "你、你虽然嘴上这么说，难道不是因为沉醉于我的肌肤而无暇顾及诺瓦……",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "你那会儿也在？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "好险！",
-        "body": "karuha_03face"
+        "character": "",
+        "text": "我呆呆地远眺着流云和飞逝的景色。"
       },
       {
         "character": "",
-        "text": "我闪开了这发踢击。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "所以，诺瓦的肚子上是什么？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "真的可以继续说下去吗？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "就我个人来说确实不好。\n可都事到如今了，说吧。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "真的是手术的痕迹？\n不是衣服的勒痕？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "那不可能。\n因为姐姐是护士，所以我经常去医院的。\n那绝对是手术缝合留下的痕迹。",
-        "body": "karuha_03face"
+        "text": "说直白一点就是打发时间。"
       },
       {
         "character": "",
-        "text": "狩叶斩钉截铁说道。",
-        "body": "karuha_03face"
+        "text": "长大以后我才意识到，\n　这种时光非常奢侈。"
       },
       {
         "character": "晓",
-        "text": "？\n长猫耳和手术痕迹有什么关系啊？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "就是说，那个，因为很珍稀就被拿去做实验什么的。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "蠢货，你漫画看多了吧。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "什么……",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "看来她是在想象诺瓦过去被邪恶组织，\n　或者政府秘密成立的机关之类的机构给盯上，\n　试图揭开她猫耳的谜团……之类的。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "又或是某个秘密组织，\n　给诺瓦缝上了猫耳……什么的？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "算了哪种想象都一样。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "我也很喜欢邪恶组织的设定，\n　所以不会完全否认她，",
-        "body": "karuha_03face"
+        "text": "……"
       }
     ]
   },
@@ -274,540 +363,146 @@
     "dialogues": [
       {
         "character": "",
-        "text": "但就算真的存在这种组织，\n　在这个X光造影技术发达的现代，\n　剖腹也很少见了。"
+        "text": "小音的话……",
+        "body": "neri_02face"
       },
       {
         "character": "",
-        "text": "有手术痕迹，也就是说——"
+        "text": "应该不会懂吧。\n　她肯定会觉得这种时光非常无聊。",
+        "body": "neri_02face"
       },
       {
         "character": "",
-        "text": "诺瓦曾动过什么大手术，\n　或是因意外事故产生了这么大的伤口。"
+        "text": "毕竟还没长大啊。",
+        "body": "neri_02face"
       },
       {
         "character": "",
-        "text": "然后我最在意的是，"
+        "text": "如果她没有遭遇车祸，\n　申请参加了提到的火车之旅会怎么样呢。",
+        "body": "neri_02face"
       },
       {
         "character": "",
-        "text": "什么时候进行缝合的。"
+        "text": "肯定会生气吧。",
+        "body": "neri_02face"
+      },
+      {
+        "character": "",
+        "text": "不，如果是她的话，肯定会像诺瓦和狩叶那样，\n　能在参加者之中找出意气相投的人一起玩耍吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "她具备超群的交友能力。",
+        "body": "neri_02face"
+      },
+      {
+        "character": "",
+        "text": "不知不觉中，连我都感化了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "唉，又来了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "我又在想小音。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "早知道就不跟诺瓦提了。\n　好不容易才将她封存到心底的。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "我已经不想再回忆起来了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "然而，对SL毫无兴趣的我，\n　还会乘上火车，\n　正是还在想念小音的证据。",
+        "body": "karuha_03face"
       }
     ]
   },
   {
-    "background": "bg035a",
+    "background": "bg040c",
     "dialogues": [
       {
-        "character": "鹰世",
-        "text": "发生什么了？",
-        "body": "takase_09face"
-      },
-      {
         "character": "晓",
-        "text": "嗯，没事。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "我和鹰世汇合了。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "虽然挺想找他商量……\n　但要和男人聊诺瓦裸体的话题也实在是难以启齿。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "我对后面的货车厢稍微有点在意，\n就去看了看。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "タカセ大",
-        "text": "……可以进去看的吗？",
-        "body": "large_takase_02face"
-      },
-      {
-        "character": "",
-        "text": "哎哟。",
-        "body": "large_takase_02face"
-      },
-      {
-        "character": "",
-        "text": "怎么让阿铁把这个话题咬住了。",
-        "body": "large_takase_02face"
-      },
-      {
-        "character": "鹰世",
-        "text": "咦，那种地方不是禁止进入的吗？\n可以进去？\n要交哪些资料？",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "狩叶，麻烦让这家伙也看看吧。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "哎～好麻烦的。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "鹰世",
-        "text": "的确如此。\n也是。算了算了。没必要特地麻烦你。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "鹰世",
-        "text": "唉～～～～～～～～～～～～～～～",
-        "body": "takase_09face"
-      },
-      {
-        "character": "狩叶",
-        "text": "我、我带你去还不行么。好了走这边。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "狩叶和阿宅回到了列车后面。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "接下来我做什么好呢。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "诺瓦和野鸟小姐应该早就出去了……",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "————啪啪。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "正好，在月台上备好的烟灰缸处，\n　看到了正在倒烟灰的花江小姐。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "于是我们就顺其自然地一起走出车站。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "真期待这里会有怎样的美景呀。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "是啊。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "那是……",
-        "body": "hanae_02face"
-      }
-    ]
-  },
-  {
-    "background": "bg140a",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "正如所料，火车来到了山的高处。"
-      },
-      {
-        "character": "",
-        "text": "风很凉爽……甚至可以说冷。"
-      },
-      {
-        "character": "晓",
-        "text": "这儿是什么地方啊，稍微有点冷。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "函馆市。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "啥？",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "是在函馆中央吧。差不多在新道旁边。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "北、北海道吗？",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "明明应该是从岩手出发开往东京的，\n　看来是往北方折返了。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "函馆么~，头一回来啊。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "这就是百万夜景的地方么。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "现在还是白天。而且这又看不到。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "也是啊。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "这里风景如画，如同山上的瞭望台一般。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "虽然能看到远处的街景，但距离太远了。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "五棱郭是在哪里。\n走路到得了吗。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "那地方在市区，走路过去大致要五小时左右吧。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "还是下次再去吧。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "函馆出名的只有临海地区，\n　但市域面积却相当大啊。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "这时我觉察到花江小姐的视线。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "明明身处风景优美的瞭望台，",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "她的视线却不是朝向市区，而是往山上看。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "？",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "然后我注意到……山上的那是什么？",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "是一座建筑。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "体量并不大，\n　与其说是民居，不如说更像养老院之类的设施。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "房顶呈球形。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "那是……",
-        "body": "hanae_02face"
+        "text": "……呼。"
       },
       {
         "character": "诺瓦",
-        "text": "那是什么建筑呀。",
+        "text": "那个。",
         "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯，喔。怎么了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我来避难了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦头发乱蓬蓬地跑过来了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "避难？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "狩叶",
+        "text": "痛痛痛痛痛，野鸟小姐！\n李根本就不知道怎么编辫子吧！",
+        "body": "karuha_03face"
       },
       {
         "character": "野鸟",
-        "text": "是什么呢？",
+        "text": "我知道的。\n在大概20年前我还给朋友编过呢。",
         "body": "jibie_02face"
-      },
-      {
-        "character": "",
-        "text": "先行出发的两人追了上来。",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "晓",
-        "text": "你们俩没见过那个吗？",
-        "body": "noir_17face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "？",
-        "body": "noir_17face"
       },
       {
         "character": "野鸟",
-        "text": "感觉似乎见过……不过为什么呢？",
+        "text": "我记得是这样编的。",
         "body": "jibie_02face"
-      },
-      {
-        "character": "",
-        "text": "两人一头雾水。",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "",
-        "text": "不过诺瓦涉世未深，\n　野鸟小姐又久居海外，应该是还没适应吧。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "日本人在参加诸如小学组织的活动的时候\n　经常会去那种地方参观。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "晓",
-        "text": "我们去参观一下吧。花江小姐呢。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "嗯……那个。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "？",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "本以为花江小姐肯定认得……",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "可她却在闪烁其词。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "怎么了？",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "狩叶",
-        "text": "呀吼～～～～来着！",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "烦人的家伙也跟过来了。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "好一个回声。\n能感觉到大山对我的欢迎。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "嗯？\n各位怎么了。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "鹰世",
-        "text": "呼、呼，狩、狩叶小姐你跑太快了。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "鹰世也跟了上来。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "我说我们要去参观，你们要一起来吗？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "我指向那栋建筑。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "那个是……天象馆？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "鹰世",
-        "text": "是呢。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "看来这两位知道。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "从屋顶的形状来看应该是那个。",
-        "body": "takase_09face"
       },
       {
         "character": "野鸟",
-        "text": "嗬～，那就是天象馆么。",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "……",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "",
-        "text": "看来这两人听说过天象馆的名称。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "狩叶",
-        "text": "要去那里吗？　好啊，大家一起去吧。",
+        "text": "转转转～♪",
         "body": "karuha_03face"
       },
       {
-        "character": "",
-        "text": "精神亢奋的家伙抢到了主导权。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "虽然没必要共同行动……",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "",
-        "text": "在集团心理和狩叶的煽风点火下，\n　大家还是不由自主地向天象馆走去。",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "花江",
-        "text": "……",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "其中也包括她。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "我觉得花江小姐是寡言少语但有团队合作能力的那类人，",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "？",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "刚刚她好像轻轻弯了弯嘴角。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "笑了？",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "是怎么一回事啊。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "话说狩叶小姐，刚刚为什么发出那么大的声音啊？",
-        "body": "noir_17face"
-      },
-      {
         "character": "狩叶",
-        "text": "大声？",
+        "text": "痛痛痛，不要扯我头发啊！",
         "body": "karuha_03face"
       },
       {
         "character": "晓",
-        "text": "这家伙平时声音就蛮大的，你得说清具体什么时候。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "晓",
-        "text": "你看这声音多大。",
+        "text": "我完全理解了。",
         "body": "karuha_03face"
       },
       {
         "character": "诺瓦",
-        "text": "刚刚那声，呀吼～是什么呀。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "狩叶",
-        "text": "啊。一般来说到山里不就要这样做么。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "？？？",
+        "text": "……很痛。",
         "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "看来诺瓦并不懂什么是山音。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "狩叶",
-        "text": "……",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "也就是说啊，我在和山上的妖精打招呼呢。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "妖精？",
+        "text": "她捂着耳根。",
         "body": "noir_17face"
       },
       {
@@ -822,653 +517,470 @@
       },
       {
         "character": "晓",
-        "text": "正如她所说。狩叶可真了不起啊，\n能和山上的妖精打招呼。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "晓",
-        "text": "哎呀？\n说来诺瓦你好像还没去打过招呼呢",
-        "body": "noir_17face"
-      },
-      {
-        "character": "狩叶",
-        "text": "这可不行哦诺瓦。毕竟要搅扰山神，\n先得打个招呼。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "就是啊诺瓦。",
+        "text": "诺瓦，可以坐着等一下吗？",
         "body": "noir_17face"
       },
       {
         "character": "诺瓦",
-        "text": "咦？　咦？",
-        "body": "noir_17face"
-      },
-      {
-        "character": "鹰世",
-        "text": "（哦呀哦呀）",
-        "body": "takase_09face"
-      },
-      {
-        "character": "野鸟",
-        "text": "（这俩捉弄诺瓦的时候真是合拍呢）",
-        "body": "takase_09face"
-      },
-      {
-        "character": "狩叶",
-        "text": "好好打个招呼吧。\n来诺瓦，对着山喊呀吼～哦。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "呀、呀吼～",
-        "body": "noir_17face"
-      },
-      {
-        "character": "狩叶",
-        "text": "声音太小了。这点声音山神可听不见。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "这样可是会惹山神发火的。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "这、这样就大事不好了。",
+        "text": "什么？",
         "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "这么好骗，真可爱。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "啊呜呜但是，那个。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "看来是觉得只有一个人大叫有点羞耻。\n　诺瓦满脸通红。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "可不能害羞喔，诺瓦。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "狩叶",
-        "text": "就是啊。这可是礼节。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "呜～",
-        "body": "noir_17face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "先、先用呀吼～打招呼合适么。\n感觉有点不礼貌。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "狩叶",
-        "text": "别在意那种小事啦。来，大点声。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "要从丹田运声啊。\n不然……山上的精灵还是妖怪可听不见。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "但是感觉二位是在捉弄我。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "虽然好骗可直觉真不错。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "那个，野鸟小姐，他们说的是真的……",
-        "body": "noir_17face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "哎哎！？",
-        "body": "noir_17face"
-      },
-      {
-        "character": "野鸟",
-        "text": "我也对山神打过招呼了。\n诺瓦也别忘咯。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "那个，那个。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "鹰世",
-        "text": "呼——打完招呼就是神清气爽。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "哎哎哎哎……",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "这趟旅行中险恶的大人可真不少。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "那个，花江小姐……",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "诺瓦向着最后一位成员寻求帮助。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "花江",
-        "text": "……",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "花江小姐则……",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "来劲了还。真的假的。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "狩叶",
-        "text": "看吧诺瓦。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "野鸟",
-        "text": "就差诺瓦你了。",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "晓",
-        "text": "快来给山神打招呼。",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "呜呜呜，从刚才开始又是妖精又是精灵又是妖怪又是山神的，\n口风都没对好嘛。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "虽然已经知道众人是在捉弄自己……",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "但连花江小姐都掺和了进来。\n　躲已经是躲不掉了。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "……",
-        "body": "noir_17face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "呀……",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "几近嘶声力竭的声音。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "不错。",
+        "text": "我站起身，来到诺瓦的身后。",
         "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "一切尽在不言中，真不错。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "狩叶",
-        "text": "好嘞。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "狩叶也一脸满足。",
-        "body": "karuha_03face"
+        "text": "若是初次见面恐怕她已经逃跑了吧。\n　现在这么近的距离她也不再抗拒了。",
+        "body": "large_noir_04face"
       },
       {
         "character": "晓",
-        "text": "好一个招呼呀诺瓦。仔细听。",
-        "body": "noir_17face"
+        "text": "稍微失礼一下。",
+        "body": "large_noir_04face"
       },
       {
         "character": "诺瓦",
-        "text": "嗯……",
-        "body": "noir_17face"
+        "text": "啊呜。",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "片刻后传回了音调升高了的回声。",
-        "body": "noir_17face"
+        "text": "我轻轻地摸了摸她的脑袋。",
+        "body": "large_noir_04face"
       },
       {
-        "character": "晓",
-        "text": "山里的妖精这不回应了你打的招呼么。",
-        "body": "noir_17face"
+        "character": "",
+        "text": "头发柔顺又光润。",
+        "body": "large_noir_04face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "音理",
+        "text": "可不能这么轻易地碰女孩子的头发喔。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "好好。"
+      },
+      {
+        "character": "",
+        "text": "我并没有轻易地碰。"
+      },
+      {
+        "character": "",
+        "text": "而是温柔、仔细地抚摸。",
+        "body": "large_noir_04face"
       },
       {
         "character": "诺瓦",
-        "text": "这应该只是我的回声吧。",
-        "body": "noir_17face"
+        "text": "～",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "不知道回声却觉察到其原理么。",
-        "body": "noir_17face"
+        "text": "她头上的三股辫被编得杂乱无章，\n　我轻轻地用手梳理着。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "————咻咻。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "顺便摸到了耳朵。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "真是长在头上的耳朵。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "外观是人类，我理所当然地把她当人类看待，",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "然而她真的从头上直接长出了猫耳。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "这……到底是什么原理啊？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "估计想破脑袋也想不明白吧……",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "我说啊，诺瓦。",
+        "body": "large_noir_04face"
       },
       {
         "character": "诺瓦",
-        "text": "行、行了吧，快走吧。",
-        "body": "noir_17face"
+        "text": "……嗯呼。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "呼哇，请、请说。",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "诺瓦察觉到大家一脸坏笑的表情，溜走了。",
-        "body": "jibie_02face"
+        "text": "诺瓦好像力气被抽走了一样，吓了一跳。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "你啊。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "什么……？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "啊————……",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "野鸟小姐也跟着狩叶追了上去，\n　三个大人则跟在她们后面。",
-        "body": "karuha_03face"
+        "text": "我该怎么问呢。",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "我不自觉地，配合着她的步伐。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "没想到花江小姐也会上这条贼船。",
-        "body": "large_hanae_02face+"
+        "text": "为什么长着猫耳？",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "花江小姐坦率地说道。",
-        "body": "large_hanae_02face+"
+        "text": "如果直接问出口的话，可能会伤害到她。",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "虽然挺爽快的，但骨子里还是有点坏啊这个人。",
-        "body": "large_hanae_02face+"
-      },
-      {
-        "character": "鹰世",
-        "text": "你现在似乎比之前在车站要来得开心啊。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "感觉很敏锐嘛。\n这里好像是她老家。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "鹰世",
-        "text": "嗬。是这里呀。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "没想到。在函馆啊。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "鹰世",
-        "text": "函馆！\n也就是那个有名的。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "对，就是那个著名的……",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "鹰世",
-        "text": "超级北斗号对吧。\n乘坐那列火车摇摇晃晃地往返于函馆和札幌之间，\n可说是追求旅途风情时的最佳线路之一了。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "……首先应该想到五棱郭或者夜景之类的吧。",
-        "body": "hanae_02face"
+        "text": "说到底，就算她说的话有多惊人，\n　比如“我是活了千年的猫妖”，\n　我能回答的也只有“是这样么”。",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "超级北斗号……虽然没听说过，\n　估计是电车的名字吧。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "鹰世",
-        "text": "你也喜欢吗？",
-        "body": "takase_09face"
-      },
-      {
-        "character": "花江",
-        "text": "不，喜欢也好讨厌也罢，我对电车并没有想过那么多。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "鹰世",
-        "text": "……这样啊。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "花江",
-        "text": "毕竟也没怎么坐过。\n那是上下班或是旅行用的线路，\n对本地人来说车站的间距太大，并不方便。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "鹰世",
-        "text": "这不正是它的优点嘛。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "鹰世，你稍微顾及一下大家的气氛吧。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "鹰世",
-        "text": "不好意思。",
-        "body": "hanae_02face"
+        "text": "或许我只想有个答案。",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "看来是和狩叶看过货车厢后意犹未尽吧。\n　得给铁道宅沸腾的血液降降温才行。",
-        "body": "hanae_02face"
+        "text": "换个问法吧，",
+        "body": "large_noir_04face"
       },
       {
         "character": "晓",
-        "text": "话说回来，对铁道宅而言说起函馆不就该提到那个吗？\n是叫青函隧道来着。",
-        "body": "hanae_02face"
+        "text": "你擅长爬树吗？",
+        "body": "large_noir_04face"
       },
       {
-        "character": "鹰世",
-        "text": "青函隧道不通过函馆的。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "花江",
-        "text": "不通的。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "真的假的！？",
-        "body": "takase_09face"
-      },
-      {
-        "character": "晓",
-        "text": "咦，不是因为位于青森和函馆之间所以叫青函的吗？",
-        "body": "takase_09face"
-      },
-      {
-        "character": "花江",
-        "text": "原本青森和函馆之间的海域叫青函海峡，因为要通过那里所以才叫青函隧道啊。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "哎～……",
-        "body": "hanae_02face"
+        "character": "诺瓦",
+        "text": "嗯……爬树？",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "完全不知道。",
-        "body": "hanae_02face"
+        "text": "准确来说，应该是有没有曾经爬到树上下不来，\n　被爱管闲事的女孩子抱下来过？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "这是我本想问的话，可惜最终没有说出口。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦似乎没有明白我询问的意图，\n　不解地眨着眼睛，",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我没有爬到树上过。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "妈妈说，那种事情太不体面了所以不准做……\n而且我也很怕高处。",
+        "body": "large_noir_04face"
       },
       {
         "character": "晓",
-        "text": "免了。",
-        "body": "takase_09face"
+        "text": "这样啊。",
+        "body": "large_noir_04face"
       },
       {
-        "character": "晓",
-        "text": "但是，嗬～，我还真不知道。",
-        "body": "takase_09face"
+        "character": "",
+        "text": "原来不是么。",
+        "body": "large_noir_04face"
       },
       {
-        "character": "花江",
-        "text": "名字广为人知。\n九成的日本人，\n大概听到这个名字就能在脑海里浮现出差不多的风景。",
-        "body": "hanae_02face"
+        "character": "",
+        "text": "如果当时的那只猫……化身成人的话，\n　那可就太巧了。",
+        "body": "large_noir_04face"
       },
       {
-        "character": "花江",
-        "text": "但是具体情况就基本没人知道了。\n毕竟几乎没有人会到这来。",
-        "body": "hanae_02face"
+        "character": "",
+        "text": "话说回来，在此之前有个疑问。",
+        "body": "large_noir_04face"
       },
       {
-        "character": "花江",
-        "text": "……以前我还想离开这里的。",
-        "body": "hanae_02face"
+        "character": "",
+        "text": "诺瓦真的是猫妖吗？",
+        "body": "large_noir_04face"
       },
       {
-        "character": "晓",
+        "character": "",
+        "text": "她还有个维根主义者的母亲吧。\n　我可没有听说过还有维根主义者的猫。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "嗯————。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "这样一想，比起猫妖，\n　被猫附身的可能性更大，也更有说服力吧。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "你最近有没有欺负过猫？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "或是有没有推倒过猫的坟墓之类的石碑？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "你的祖先里有没有被猫怨恨的人？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "……这些问题可能会被当做脑子有毛病的。问不出口。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "正当我思考的时候，",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "嗯呼……呼喵。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
         "text": "嗯？",
-        "body": "hanae_02face"
+        "body": "large_noir_04face"
       },
       {
-        "character": "",
-        "text": "她说的最后一句我并没有听清。",
-        "body": "hanae_02face"
+        "character": "诺瓦",
+        "text": "呼咪。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦？",
+        "body": "noir_17face"
       },
       {
         "character": "狩叶",
-        "text": "啊哈哈哈哈回声又不是什么妖怪啊。",
+        "text": "这里有个大叔在做可疑的事情呢。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "这儿怎么有个头发乱蓬蓬的小鬼。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "狩叶",
+        "text": "啊啊，真是的！（刷刷）",
+        "body": "noir_17face"
+      },
+      {
+        "character": "狩叶",
+        "text": "好了！？",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "很可爱哦。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "狩叶",
+        "text": "谢谢。\n即便是把我的头发弄得乱蓬蓬的元凶说的，\n我也很开心。",
         "body": "karuha_03face"
       },
       {
-        "character": "诺瓦",
-        "text": "我、我知道的。",
-        "body": "noir_17face"
+        "character": "狩叶",
+        "text": "然后，那边的大叔。",
+        "body": "large_karuha_02face"
       },
       {
-        "character": "野鸟",
-        "text": "诺瓦真是胆小呀。",
-        "body": "jibie_02face"
+        "character": "晓",
+        "text": "一口一个大叔很伤人啊。",
+        "body": "large_karuha_02face"
       },
-      {
-        "character": "诺瓦",
-        "text": "呜呜～",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "儿童组还是一如既往地在欺负诺瓦。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "就这样，我们六人抵达了那个建筑……",
-        "body": "noir_17face"
-      }
-    ]
-  },
-  {
-    "background": "bg080a",
-    "dialogues": [
       {
         "character": "狩叶",
-        "text": "咦？\n没人？",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "嗯……好怪啊。明明入口打开着的。",
-        "body": "hanae_02face"
+        "text": "你在对诺瓦做什么可疑的事情啊。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "晓",
-        "text": "……？",
-        "body": "hanae_02face"
+        "text": "我只是在帮忙整理她的头发，\n不让她的头发像某人那样乱七八糟的。",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "狩叶",
+        "text": "看了诺瓦的表情，我感觉完全不是那么一回事啊。",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "果然这里不只是设计独特的普通建筑，\n　还具有展出物品的功能。",
-        "body": "hanae_02face"
+        "text": "表情？",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "不但设置有前台。还有箭头指引\n　标示出路线、厕所以及吸烟室的位置。",
-        "body": "hanae_02face"
+        "text": "因为我站在诺瓦的身后帮她梳理头发，\n　所以根本看不到她的脸，",
+        "body": "large_karuha_02face"
       },
       {
         "character": "",
-        "text": "但……没见到人。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "明明有前台，但没人在。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "是今天休息吗？我这么想时，",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "野鸟",
-        "text": "售票机在这里，还通着电。",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "",
-        "text": "看来是在照常营业。\n　也难怪大门不上锁。",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "",
-        "text": "正当我困惑于为什么没人的时候，",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "花江",
-        "text": "……",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "算了。进去就是了。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "花江小姐理所当然一般走向售票机，",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "晓",
-        "text": "随便进去真没关系吗。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "可以的。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "",
-        "text": "花江小姐将六张门票放上了台子。",
-        "body": "hanae_02face"
-      },
-      {
-        "character": "花江",
-        "text": "来，这边。",
-        "body": "hanae_02face"
+        "text": "我看过去才发现，",
+        "body": "large_karuha_02face"
       },
       {
         "character": "诺瓦",
-        "text": "啊……是、是的。",
+        "text": "呼喵～",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦？",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "喵！？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "咻！",
         "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "花江小姐轻轻拍了拍诺瓦的背。",
+        "text": "啊，逃掉了。",
         "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "两人进去后，我们也跟着走了进去。",
+        "text": "她究竟是什么表情？　我没看到。",
         "body": "noir_17face"
       },
       {
         "character": "晓",
-        "text": "……",
+        "text": "诺瓦，你怎么了，哪里痛吗？",
         "body": "noir_17face"
       },
-      {
-        "character": "",
-        "text": "真的可以这么做吗。",
-        "body": "noir_17face"
-      }
-    ]
-  },
-  {
-    "background": "bg150a",
-    "dialogues": [
       {
         "character": "诺瓦",
-        "text": "哇……",
-        "body": "noir_17face"
-      },
-      {
-        "character": "花江",
-        "text": "正好开始了。",
+        "text": "没、没有没有。完全没有。",
         "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "先是解说厅内的大型照明被熄灭。",
+        "text": "诺瓦躲到了椅子后面。",
         "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "接着小型照明也一个个关掉。",
-        "body": "noir_17face"
+        "text": "她在害羞啊。看来是亲昵过分了。",
+        "body": "karuha_03face"
       },
       {
-        "character": "",
-        "text": "四位女性急忙跑向座位。",
+        "character": "晓",
+        "text": "所以说，诺瓦的表情怎么了？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "……算了。\n你就是那个啊，\n在自己毫无知觉的情况下玩弄了女人的心然后被捅的类型吧。",
         "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "我和鹰世的男生组选择站着看。\n　毕竟要是有工作人员进来还得解释来龙去脉。",
-        "body": "takase_09face"
+        "text": "真恐怖。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "狩叶和野鸟小姐来到这边，\n　女生的浓度一下就变高了。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦也开始躲我了……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "先冷静一会儿吧。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "我去鹰世那边看看。待会儿见。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "好～",
+        "body": "jibie_02face"
       }
     ]
   },
@@ -1477,166 +989,672 @@
     "dialogues": [
       {
         "character": "",
-        "text": "最后，紧急出口的灯也关掉了。"
-      },
-      {
-        "character": "诺瓦",
-        "text": "哇……"
-      },
-      {
-        "character": "狩叶",
-        "text": "开始了。"
-      },
-      {
-        "character": "",
-        "text": "看来作为“天象馆”的机能还在正常运作。"
-      },
-      {
-        "character": "",
-        "text": "是有人在后台操作吗？"
-      },
-      {
-        "character": "",
-        "text": "展示内容算是相当正统。"
-      },
-      {
-        "character": "",
-        "text": "在等待观众们适应黑暗的期间，"
-      },
-      {
-        "character": "",
-        "text": "暂时只是播放着夸张的音乐。",
-        "body": "noir_17face"
+        "text": "我向着后面的车厢走去。"
       }
     ]
   },
   {
-    "background": "bg150a",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
-        "text": "接着，表现群星的灯光一个接一个地点亮了。",
-        "body": "noir_17face"
-      },
+        "text": "第二节"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
       {
-        "character": "广播",
-        "text": "欢迎各位来到星空的世界。",
-        "body": "noir_17face"
+        "character": "",
+        "text": "第三节……"
       },
       {
         "character": "",
-        "text": "开始广播了。",
-        "body": "noir_17face"
+        "text": "啊，有烟味。"
       },
       {
         "character": "",
-        "text": "……嗯？",
-        "body": "noir_17face"
+        "text": "花江小姐在这里么。\n　我看看……"
+      },
+      {
+        "character": "花江",
+        "text": "嘶————。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "啊，睡着了。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "她靠在椅子上睡着了。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "放在烟灰缸里的香烟，还有一大段就掐掉了。\n　好像都没抽过多少口。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "盯着别人的睡脸看有失礼节。\n　于是我走向了更后面的车厢。",
+        "body": "hanae_02face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "第四节……"
+      },
+      {
+        "character": "",
+        "text": "喔，"
+      },
+      {
+        "character": "",
+        "text": "刚才送人的写生本搁在了这里。"
+      },
+      {
+        "character": "",
+        "text": "在晃来晃去的车里估计也不好写字。\n　上面画了奇怪的圆，\n　还写了几个数字。"
+      },
+      {
+        "character": "",
+        "text": "文字歪七扭八的，根本看不懂。"
+      },
+      {
+        "character": "",
+        "text": "还是直接询问本人更容易理解吧。"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "喂。",
+        "body": "takase_09face"
       },
       {
         "character": "鹰世",
         "text": "哦呀。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "广播",
-        "text": "现在开始，各位将会飞出地球，\n在星辰大海中遨游。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "广播",
-        "text": "广阔，广袤，无垠的宇宙。\n那是蕴藏着奥秘与浪漫的宏伟的宝库。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "广播",
-        "text": "它太过辽阔，您或许会迷失其中。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "……",
-        "body": "noir_17face"
-      },
-      {
-        "character": "广播",
-        "text": "您害怕吗？",
-        "body": "noir_17face"
-      },
-      {
-        "character": "广播",
-        "text": "但是不用担心，看啊，\n宇宙里有很多我们熟悉的朋友。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "广播",
-        "text": "看 ，是螃蟹先生哦。\n这边还有天鹅哦？\n在那里藏着的，是熊熊一家么。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "明灭闪烁着的星辰，组成了平时熟悉的星座的样子。\n那里描画着螃蟹，天鹅，小熊大熊的轮廓。",
-        "body": "noir_17face"
+        "body": "takase_09face"
       },
       {
         "character": "晓",
-        "text": "说句不识时务的话，\n根据星星的位置我完全联想不到星座上啊。",
-        "body": "noir_17face"
+        "text": "狩叶太狩叶，所以我就来这儿避难了。",
+        "body": "takase_09face"
       },
       {
         "character": "鹰世",
-        "text": "你的心情我能理解，可你这确实不识时务。",
-        "body": "noir_17face"
+        "text": "那边好像很热闹啊。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "鹰世嗤嗤笑着。",
-        "body": "noir_17face"
+        "text": "鹰世苦笑起来。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "不过这也只是来自大人的无趣看法。",
-        "body": "noir_17face"
+        "text": "看来他听懂我“狩叶”=“烦人”的意思了。",
+        "body": "takase_09face"
       },
       {
-        "character": "诺瓦",
-        "text": "呼啊啊啊……",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "闪闪发光的群星构成了“形状”，以此造就了“故事”。",
-        "body": "noir_17face"
+        "character": "鹰世",
+        "text": "嘶。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "在那无法捉摸的美当中，\n　连起了名为故事的，更容易被人接受的线。",
-        "body": "noir_17face"
+        "text": "他似乎很在意晒伤的地方，\n　不时挠着脖子。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "诺瓦双眼放光。",
-        "body": "large_noir_04face"
+        "text": "毕竟鹰世昨天走了不少路，\n　差不多绕着海岸走了一圈。",
+        "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "光是这点就不虚此行。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "广播",
-        "text": "看啊，这群星的世界，\n不正像熠熠生辉的宝石箱吗？",
-        "body": "large_noir_04face"
+        "text": "他都探险到什么地方去了？",
+        "body": "takase_09face"
       },
       {
         "character": "晓",
-        "text": "……",
-        "body": "large_noir_04face"
+        "text": "这个，算得如何？",
+        "body": "takase_09face"
       },
       {
-        "character": "广播",
-        "text": "来，请与我一道，\n向着天体的世界前进吧。",
-        "body": "large_noir_04face"
+        "character": "",
+        "text": "我把刚才的画画用纸拿过来给他看。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "嗯，怎么说呢。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "我明白了非常不妙。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "语气温和，回应却模棱两可。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "什么意思啊……？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "其实啊。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "脸太近了。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "鹰世",
+        "text": "我对数学也不是很精通，所以没弄明白。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "晓",
+        "text": "别糊弄人啊。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "这家伙装糊涂还真是个高手。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "直到高中的时候我还是个奋斗生，所以还挺有自信的呢。\n可是上大学到了大城市就光顾着玩，结果就忘光了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "他哈哈苦笑起来。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "刚上大学就玩傻了么。\n刘姥姥进大观园啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "不要这样说啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "不，这个太正常了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "……其实我上大学时来到东京，借机疯玩，\n差点没毕成业。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "看来你也是过来人啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "换谁都想玩吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "对吧————。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "尤其是东京的车站，只是看着时间表就觉得很有趣了，\n还有每隔三分钟就会到站的电车，\n感觉只是看着来来往往的电车一天时间就过去了。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "晓",
+        "text": "啊，那跟我知道的玩法不一样啊。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "晓",
+        "text": "那种放松的心情我明白。\n我也是突然从岩手的深山来到市中心，\n刚来的时候新鲜玩意儿太多了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "哈哈，我的老家姑且还在市内，\n但是地处与车站无缘的偏僻乡下，\n所以不管怎样都想去看看车站。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "乡下人常有的事。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "都市的新鲜感总会吸引年轻人。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "过不了多久就会变得无聊。\n　耀眼的新奇事物也会变成麻烦事。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "成长应该就是这种感觉吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "不过，刚进入大学的瞬间，\n备考学过的东西一口气全都忘了也是常有的事。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "然后，你原本想用数学干什么？\n我的数学只有中学生水平，如果有用的话也可以帮帮你。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "先不讨论他到底算没算出来结果，\n　我想知道他现在烦恼的是什么问题。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "需要计算的是三角函数和直线距离围成的圆的弧度。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "抱歉，说简单点。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "算术方面我可能就帮不上忙了，",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "你想量什么圆啊？\n是想量铁道宅都想量的车身外周长吗？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "不，那我已经通过查资料知道了，\n而且刚才停车的时候，\n我也用自己的手比着车轮确认过了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "这么狂热的嘛。真令人生厌……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "我想测量的圆是线路上的。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "我想测量这辆火车的行进范围。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "你知道这辆火车现在跑在哪里吗？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "哎……是哪里啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "一直都在山里吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "旅行是“夜晚的火车之旅”，\n　不告知目的地的神秘之旅。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "昨天鹰世说列车路过了他的故乡。\n　他的故乡好像在市内，所以应该是向南方行进。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "山梨或是长野附近？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "从火车一直蜿蜒前进来看，\n也是有可能的。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "其实往哪跑着其实无关紧要。\n问题在于。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "这个路线，似乎一直都在循环。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "循环？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "你没注意到吗？　出发之后，\n火车一直都在往一个方向转弯。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "……？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "转弯……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "转弯了？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "要是问它是否摇晃了，那确实在摇晃，\n　但是并没有什么大幅度的转弯导致车体剧烈地晃动。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "靠体感应该很难察觉到。\n但是你看，刚才也转了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "鹰世指向后方。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "听他这么一说，后面的货架确实稍微往右移了一些。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "好像转弯了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "真的啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "因为转得很轻，只要待在车子里，\n基本感觉不出来。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "毕竟不是把人扭成G型的急转弯。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "就我刻意观察的结果来看，\n那个货架一直朝着一个方向倾斜。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "也就是说，这辆火车在绕一个大圆。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "啊……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "类山手线的超级加长版么。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "这也是理所当然的。\n我们坐了快三天，要是直线行程，\n都已经从北海道到九州了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "这样么。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "也没什么关系吧。反正最后肯定会回到原来的车站的，\n这样更有韵味。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "终点站已经决定。\n　比起直线驶行，\n　绕一个大圈的旅行更加奢华。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "或许会有从日本海畔绕到太平洋畔的变化。\n　却看不到什么海，心里有些不是滋味。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "也是呢。其实我倒也不是有怨言。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "只是觉得不愿回到起点站。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "他耸了耸肩。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "就铁道粉而言，大概是不愿意看到这场旅行的终点吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "不过也没办法。\n　天下没有不散的宴席。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "对了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "你平时是做什么工作的啊？\n我的工作……之前和你说过了吧",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "是的，说过。动画师吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "你喜欢画画，还能从事相关的工作。\n我觉得是一桩美事。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "我很羡慕。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "啊————……也就是说，你做的工作和电车无关吗？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "我上了大学，顺其自然地进入了电力公司。\n我做过的唯一与电车有关的工作，就是废弃车站的拆解工作。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "他露出了些许苦涩的笑。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "要是我也能找个电车相关的工作就好了，\n哪怕勉强一点。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "何止苦涩。\n　表情都阴郁起来了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "啊……麻烦了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "应该在休息时间避开工作话题的。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "尤其是对当前工作不满意的人。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "明明狩叶喋喋不休地问我动画师工作的时候，\n　我的心情也不是很好。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "话虽如此，问都问了，也不能当作没提过。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "不过，穿着西装做正经的工作感觉也挺适合你的。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "哈哈，是吗。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "若能置身事外地看待自己的话，\n或多或少也能得到一些满足感吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "不行。好阴暗。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "看来工作让他积攒了很多压力啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "继续下去的话，\n　他本来沉浸在最爱的铁路上的好心情都要消失了，\n　我就不该让他回想起这些的。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "嗯……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "抱歉，还是别谈工作了吧。难得的假期。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "也是呢。\n在旅行结束之前，\n我都不想回想起来呢。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "我强行切断了话题。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "这样就好。正所谓成年人的应对方式。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "为了不让烦心事萦绕心头。\n　我们对它充耳不闻。",
+        "body": "takase_09face"
       }
     ]
   },
@@ -1645,90 +1663,24 @@
     "dialogues": [
       {
         "character": "",
-        "text": "宝石箱……么。"
+        "text": "很逊吗？"
       },
       {
         "character": "",
-        "text": "・・・・・"
-      },
-      {
-        "character": "",
-        "text": "・・・・"
-      },
-      {
-        "character": "",
-        "text": "・・・"
-      },
-      {
-        "character": "广播",
-        "text": "现在开始十五分钟的休息。\n请在第二部分开始时回到座位。"
+        "text": "管它呢。这就是成年人。"
       }
     ]
   },
   {
-    "background": "bg080a",
-    "dialogues": [
-      {
-        "character": "诺瓦",
-        "text": "哈呜呜。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "狩叶",
-        "text": "还有十五分钟才开始，诺瓦一起去尿尿吧。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "野鸟",
-        "text": "去尿尿去尿尿。",
-        "body": "jibie_02face"
-      },
-      {
-        "character": "诺瓦",
-        "text": "别、别这么大声说啊。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "第一幕的时长差不多半小时。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "晓",
-        "text": "虽然我都这岁数了，但看着还挺有意思的。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "鹰世",
-        "text": "明明小学就学过仙后座与北斗七星的距离，\n或是寻找北极星的方法了。\n忘得真快啊。",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "该说程序本身也挺正统的么，",
-        "body": "takase_09face"
-      },
-      {
-        "character": "",
-        "text": "和我小时候听过的没多大区别。",
-        "body": "takase_09face"
-      }
-    ]
-  },
-  {
-    "background": "bg150a",
+    "background": "large_bg000d",
     "dialogues": [
       {
         "character": "",
-        "text": "从大熊星座的由来，到北斗七星，\n　再讲到星星的相互位置。"
+        "text": "我和鹰世都已经是成年人了。"
       },
       {
         "character": "",
-        "text": "内容循序渐进，逐渐向学术领域过渡。"
-      },
-      {
-        "character": "",
-        "text": "感觉像是在宣传天文学基础中的基础。"
+        "text": "即便世界是装满了熠熠生辉的宝石的宝石箱，\n　年龄也已经不允许我们继续做梦了。"
       }
     ]
   }

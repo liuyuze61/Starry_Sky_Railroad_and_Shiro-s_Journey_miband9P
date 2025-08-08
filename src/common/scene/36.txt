@@ -1,0 +1,1836 @@
+[
+  {
+    "background": "large_bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "诺瓦按住自己的胸口。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "按住小音的心脏所在的地方。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "一想到这件事，我心中又泛起了涟漪。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "虽然没有诺瓦所说的“夺走”那么夸张，但总归觉得不舒服。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "但多亏了它，诺瓦现在还活着。\n　这么想的话，这倒也不是什么坏事。",
+        "body": "large_noir_04face"
+      }
+    ]
+  },
+  {
+    "background": "large_bg060c",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我明白白先生想说什么。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "夺走了音理小姐，\n这是我无论如何都无法赎清的罪。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "别说什么赎罪啊。\n这对你来说是必要的。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "首先不要用“夺走”这个词，音理的生命又不是被你夺走的",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "但我的人生依然是从音理小姐那里夺来的。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "如果音理小姐不失去生命，那我就不可能还活着。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "要以这种命运论为前提的话……我也没法反驳。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "就算这样……就算这样。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "large_noir_04face"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg03a",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "白先生啊。"
+      },
+      {
+        "character": "晓",
+        "text": "嗯？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "你不肯对我说吗？\n要我连着音理小姐那份一起活下去。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "说既然夺走了音理小姐，那就要活下去。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "如果你肯这么说的话，那我大概就能继续努力了。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "回到医院之后，也能继续努力下去了。"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "她所说的……"
+      },
+      {
+        "character": "",
+        "text": "是正确的。"
+      },
+      {
+        "character": "",
+        "text": "小音大概也希望如此吧。\n　希望她能代替意外去世的自己坚强地活下去。"
+      },
+      {
+        "character": "",
+        "text": "我也是这么想的。"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "但是……"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "音理",
+        "text": "这样不行。",
+        "body": "large_neri_03face"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg03a",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "诺瓦",
+        "text": "白先生？"
+      },
+      {
+        "character": "晓",
+        "text": "啊……嗯。"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦啊，我感觉夺走和赎罪这些说法，\n果然还是不太对。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "诺瓦",
+        "text": "重回新生……啊，得到帮助。"
+      },
+      {
+        "character": "晓",
+        "text": "不是遣词用句的问题。我说的是你的想法。"
+      },
+      {
+        "character": "晓",
+        "text": "根本就没必要赎罪吧。\n你又没有责任。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我觉得自己活着就是一种责任。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "因为活着就会给别人添麻烦。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我的生命，对音理小姐来说就是……"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "晓",
+        "text": "是你妈妈这么说的吗？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "是的。"
+      },
+      {
+        "character": "",
+        "text": "是么。"
+      }
+    ]
+  },
+  {
+    "background": "evcg07a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "放烟花那时候也说过的……诺瓦价值观的根源。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "是自省。"
+      },
+      {
+        "character": "",
+        "text": "这绝不是什么坏事。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦拥有一些她非常看重的东西。\n　那是她的母亲给她的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "我不想否定那些……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "但如果予以肯定的话，",
+        "body": "noir_17face"
+      },
+      {
+        "character": "音理",
+        "text": "她会忍受不住最令人痛苦的事。",
+        "body": "neri_02face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "neri_02face"
+      },
+      {
+        "character": "",
+        "text": "啊啊。",
+        "body": "neri_02face"
+      }
+    ]
+  },
+  {
+    "background": "evcg03a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "今后大概会发生更令她伤心的事。"
+      },
+      {
+        "character": "",
+        "text": "所以不能继续维持现状了。"
+      },
+      {
+        "character": "",
+        "text": "并非遵从母亲的话，\n　也并非遵从我的话。"
+      },
+      {
+        "character": "",
+        "text": "她必须接受存在于自己身体内的另一个生命。"
+      },
+      {
+        "character": "",
+        "text": "诺瓦自己必须有活下去的欲望。"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg03a",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "白先生……？"
+      },
+      {
+        "character": "晓",
+        "text": "啊，嗯。"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "晓",
+        "text": "真美啊。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊…是的。"
+      },
+      {
+        "character": "",
+        "text": "又回到了刚才的话题。诺瓦再次仰头望向星空。"
+      },
+      {
+        "character": "",
+        "text": "在那仿佛要将人吸入的黑暗之中，闪耀的群星。"
+      },
+      {
+        "character": "",
+        "text": "那些闪闪发亮的星星看上去有如近在眼前，\n　感觉只要伸出手就能触摸得到。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "但实际上根本不可能摸到。"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg03a",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "晓",
+        "text": "以前我曾经觉得世界是这样的。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "哎……？"
+      },
+      {
+        "character": "晓",
+        "text": "小时候，应该是小学的时候吧。\n有人告诉我，世界是个盛满熠熠生辉的宝石的宝石箱。"
+      },
+      {
+        "character": "晓",
+        "text": "很长一段时间内，我都相信着这句话。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "晓",
+        "text": "那个人也没骗我。\n长大成人之后，得知了世界上确实有许多闪闪发亮的东西。"
+      },
+      {
+        "character": "晓",
+        "text": "但是，只有自己不一样。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……自己？"
+      },
+      {
+        "character": "晓",
+        "text": "小时候只要能看到那些亮光就满足了。\n觉得世界若是宝石箱，这时间多么美妙的事情"
+      },
+      {
+        "character": "晓",
+        "text": "但是长大后……就变得不一样了。"
+      },
+      {
+        "character": "晓",
+        "text": "无论看到了多少熠熠生辉的东西，\n若不能到手就无法得到满足。\n无论如何都想据为己有。"
+      },
+      {
+        "character": "晓",
+        "text": "不，就算据为己有也得不到满足。"
+      },
+      {
+        "character": "晓",
+        "text": "是不是还有别的东西呢？\n会不会可以得到更多更多熠熠生辉的宝石呢？"
+      },
+      {
+        "character": "晓",
+        "text": "这么想的人不止我一个。\n大家都这么想。\n大家都想得到熠熠生辉的宝石。"
+      },
+      {
+        "character": "晓",
+        "text": "所以无论何时，都在互相争夺。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "晓",
+        "text": "害怕吗？"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……有一点。"
+      },
+      {
+        "character": "",
+        "text": "我想也是。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我也害怕。"
+      },
+      {
+        "character": "",
+        "text": "从孩童长成大人……"
+      },
+      {
+        "character": "",
+        "text": "不知何时起，世界已经变成了一个非常可怕的地方。"
+      },
+      {
+        "character": "",
+        "text": "小时候憧憬的宝石箱仍在，\n　但已经无法再用纯洁的目光看待那些宝石了。"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "不过。"
+      }
+    ]
+  },
+  {
+    "background": "evcg03a",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "活着就是这样。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      },
+      {
+        "character": "晓",
+        "text": "你妈妈也说过吧。\n人只要活着，就会给别人添麻烦。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "是的。"
+      },
+      {
+        "character": "晓",
+        "text": "这是正确的。"
+      },
+      {
+        "character": "晓",
+        "text": "活着就意味着互相争夺。\n夺走，或是被夺走。"
+      },
+      {
+        "character": "晓",
+        "text": "将这件事视作理所当然……是很令人害怕的。\n那样就会觉得夺走他人的东西，或者认为踩着别人往上走是理所当然的事情。我不想成为那种人。"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg03a",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "但因为不想夺走就闭上眼睛，\n那只是在逃避。"
+      },
+      {
+        "character": "晓",
+        "text": "只是不肯面对自己活着这件事。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "诺瓦好似反复咀嚼着我的话一般，一言不发。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "因为是个认真的好孩子。\n　所以就算一时没听懂，也不会把别人的话当做耳边风。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "接受我的话，将它掰开揉碎……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "可还是害怕。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "好害怕给别人添麻烦。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "这样就好。这么想是正确的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "不过……呢。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "如果实在还是害怕的话，那就尽量增加可以添麻烦的人。\n还有这个方法可用。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "可以添麻烦的人？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "之前告诉过你吧。家人，恋人，还有……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……朋友。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "没错。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦的眼中依然带着疑惑，\n　但还是在很努力地试图理解我的话。",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "确实挺难懂的吧。"
+      }
+    ]
+  },
+  {
+    "background": "bg000d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "因为对小孩子来说，\n　世界上的所有东西都只分为“好”和“不好”两种。"
+      },
+      {
+        "character": "",
+        "text": "非黑即白。只需要认为只有两种颜色。"
+      },
+      {
+        "character": "",
+        "text": "但是一旦长大之后，很多东西就会变成介于二者之间的灰色。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "现在我对诺瓦说的，就属于这种灰色地带。\n　尽管也明白，她现在还太小了。"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "不知道她能否理解呢？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "可是音理小姐……",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "large_bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————嘭。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "我把手放在了她的头上。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "我不会说让你代替小音活下去这种话。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "你的人生只属于你自己，诺瓦。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "被摸着头的诺瓦，再次将手按在自己的心脏部位上。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "她在倾听自己的心跳声。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "究竟在和小音说什么呢？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "以往那些构成诺瓦的要素，\n　以及新出现的要素，究竟在……",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "large_noir_04face"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "！",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "呜……啊……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦……？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "她的表情突然变得恐惧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "摸着心脏的手慢慢下挪。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "向着自己的肚子。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "不对，不对。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "不是……音理小姐。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "不只有音理小姐。",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "large_bg060c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "诺瓦？　怎么了。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "不会吧……",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "明明妈妈都说过了。说过那么多次了。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "我还是……",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦，冷静点。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "因为脑中无法理解，\n　她脸上的表情逐渐变得扭曲而混乱。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "怎么了？　想起什么了吗？",
+        "body": "large_noir_04face"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "究竟……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "————唰！",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "！",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "突然，车内发出巨大的响声。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "是什么重物落地的声音。与此同时……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "花江",
+        "text": "珍妮弗！",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "响起了花江小姐的惨叫声。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "野鸟小姐发生了什么事吗。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "我们回去，诺瓦。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "好、好的。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "有话之后再说。先到车内去……",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————。"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "……嗯？"
+      }
+    ]
+  },
+  {
+    "background": "large_bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "下一个瞬间，感觉到了强烈的晃动。"
+      },
+      {
+        "character": "",
+        "text": "火车在摇动？　在过弯吗？"
+      },
+      {
+        "character": "",
+        "text": "不对。"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "是晕眩。"
+      }
+    ]
+  },
+  {
+    "background": "large_bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "脑中飞快思考的同时，\n　我双脚无力地一屁股坐在地上。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊……白先生？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "没事，别担心。走吧。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "晕眩只持续了一瞬间。没什么大不了的。",
+        "body": "large_noir_04face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "回到了车内。"
+      },
+      {
+        "character": "野鸟",
+        "text": "好冷……好冷……",
+        "body": "large_jibie_02face"
+      },
+      {
+        "character": "花江",
+        "text": "呜……再、再多盖些毛毯吧。",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "",
+        "text": "果然，野鸟小姐正倒在地上。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "似乎是连坐都做不住，就这么倒下了。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "花江小姐正在将附近的一张毛毯\n　盖在她的身上。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "身体又不舒服了吗？\n　就在这么想着的时候……",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "啊……呜……",
+        "body": "large_jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "何止是又不舒服了。",
+        "body": "large_jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "状态明显比刚才要差多了。\n　整个人倒在地上，\n　浑身发抖地缩成一团。",
+        "body": "large_jibie_02face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "野、野鸟小姐，这是……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "野鸟",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "已经失去了意识。嘴里发出的声音只剩下痛苦的喘息声。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "",
+        "text": "她刚才说很冷，总之要想办法让她暖和……",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "花江",
+        "text": "哈、哈。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "晓",
+        "text": "……？",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "花江",
+        "text": "哈、哈、哈、哈。",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "晓",
+        "text": "……花江小姐？",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "",
+        "text": "然后我发现了。",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "",
+        "text": "正在给野鸟小姐盖毛毯的她\n　情况也有些奇怪。",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "花江",
+        "text": "什么……怎么回事，喘不上气。",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "花江",
+        "text": "没法……呼吸……",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "",
+        "text": "似乎在盖上毛毯之后，\n　也无法再站立起来了。",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "",
+        "text": "这是怎么回事。连她也出问题了吗。",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "晓",
+        "text": "鹰世，鹰世，这是————。",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "鹰世",
+        "text": "……",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "large_hanae_02face+"
+      },
+      {
+        "character": "鹰世",
+        "text": "呼————、呼————……",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "连你也一样吗。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "他也陷入了无法呼吸的状态。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "痛苦地按着自己的脖子，轻微地痉挛着。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "大、大家，这是怎么了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "不知道。但是……",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "————……"
+      },
+      {
+        "character": "",
+        "text": "啊……"
+      }
+    ]
+  },
+  {
+    "background": "large_bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我也来了。"
+      },
+      {
+        "character": "",
+        "text": "强烈的晕眩感再次袭来，我赶紧抓住附近的椅子。"
+      },
+      {
+        "character": "",
+        "text": "不靠住的话就要倒下了。"
+      },
+      {
+        "character": "",
+        "text": "与此同时，全身都在拼命冒汗。\n　大脑剧烈发热。"
+      },
+      {
+        "character": "",
+        "text": "糟糕，这下麻烦了。怎么回事。"
+      },
+      {
+        "character": "诺瓦",
+        "text": "哎，咦？　白先生？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦困惑不已，",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "唔……",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "狩叶！  狩叶你在哪！",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "她现在怎么样。\n　还能动吗。",
+        "body": "large_noir_04face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "晓",
+        "text": "狩叶……"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "呜哇。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "",
+        "text": "糟糕。晕眩感越来越强烈了。",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这晕眩感到底是怎么回事。"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这……晕眩感……"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "我还记得。"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这感觉……"
+      }
+    ]
+  },
+  {
+    "background": "bg010a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "以前……也经历过……"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "莫非……"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "男性的声音1",
+        "text": "你的运气不错啊。"
+      },
+      {
+        "character": "",
+        "text": "啊，可恶。"
+      },
+      {
+        "character": "野鸟",
+        "text": "好冷……好冷……"
+      },
+      {
+        "character": "花江",
+        "text": "呜……啊……呼吸。"
+      },
+      {
+        "character": "鹰世",
+        "text": "呜……"
+      },
+      {
+        "character": "",
+        "text": "开始明白了。"
+      },
+      {
+        "character": "",
+        "text": "现在究竟发生了什么事。不对……"
+      }
+    ]
+  },
+  {
+    "background": "bg035d",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "是开始理解了这个世界的规则。"
+      }
+    ]
+  },
+  {
+    "background": "large_bg040c",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "白先生。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "晓",
+        "text": "啊、呃。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "诺瓦的声音，令意识逐渐清醒过来。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "",
+        "text": "刚才发生了什么事？",
+        "body": "large_noir_04face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "对了，狩叶……"
+      },
+      {
+        "character": "狩叶",
+        "text": "……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "狩叶……你没事啊。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "嗯……",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "头……好疼。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "狩叶的状态也不算好。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "",
+        "text": "不过从锅炉室里走出来的脚步很正常，\r\n　不像我们一样完全丧失了行动力。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "诺瓦……你带上狩叶……到前面去。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "呃……？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "晓",
+        "text": "在锅炉室……就没事",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "在心脏部位的话……她大概……会保护你们……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "狩叶",
+        "text": "……",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "",
+        "text": "啊。",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "",
+        "text": "嘴里说着头疼，不过可以正常走路的狩叶\n　来到了我面前。",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "",
+        "text": "然后牵起我的手……",
+        "body": "large_karuha_02face"
+      }
+    ]
+  },
+  {
+    "background": "bg_white",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————咚！"
+      },
+      {
+        "character": "晓",
+        "text": "！"
+      },
+      {
+        "character": "",
+        "text": "就在这一瞬间，我变得连椅子都靠不住，\n　双腿无力坐在了地上。"
+      },
+      {
+        "character": "",
+        "text": "感觉到了强烈的寒气。仿佛身体都要被冻结。"
+      },
+      {
+        "character": "",
+        "text": "这是……啊……"
+      }
+    ]
+  },
+  {
+    "background": "evcg12a",
+    "dialogues": [
+      {
+        "character": "狩叶",
+        "text": "就要结束了吧。"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "这感觉，我有印象。"
+      }
+    ]
+  },
+  {
+    "background": "bg080a",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "和那时候一样。"
+      }
+    ]
+  },
+  {
+    "background": "evcg12b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "那时候……"
+      }
+    ]
+  },
+  {
+    "background": "evcg12c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "碰到她的那时候……"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg12b",
+    "dialogues": [
+      {
+        "character": "狩叶？",
+        "text": "虽然花了不少时间。"
+      },
+      {
+        "character": "晓",
+        "text": "啊……？"
+      },
+      {
+        "character": "",
+        "text": "牵着我的，变成了别人的手。"
+      }
+    ]
+  },
+  {
+    "background": "large_evcg12c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "狩叶变成了另外一个人。"
+      },
+      {
+        "character": "晓",
+        "text": "你……哎……？"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这是怎么回事？"
+      }
+    ]
+  },
+  {
+    "background": "evcg12c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "为什么狩叶变成了她？"
+      },
+      {
+        "character": "",
+        "text": "还以为自己已经理解了这个世界的规则，\n　结果突然又出现了无法理解的事态。"
+      },
+      {
+        "character": "",
+        "text": "到底怎么回事。"
+      },
+      {
+        "character": "",
+        "text": "为什么狩叶……"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "啊……"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "————（倒地）。"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "large_mashiro_32face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "哎……？哎……？",
+        "body": "noir_17face"
+      },
+      {
+        "character": "真白",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "真白",
+        "text": "游戏的时间结束了。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "真白",
+        "text": "走吧。按妈妈的吩咐。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "嗯……",
+        "body": "noir_17face"
+      },
+      {
+        "character": "真白",
+        "text": "已经玩够了吧？去了很多车站，\n得到了很多美好的回忆吧？",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "我看过了这个人的记忆。\n享受过了他的记忆。\n这是一段非常美好的时间。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "真白",
+        "text": "但现在已经结束了。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……嗯。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "已经……到终点了。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "真白",
+        "text": "放下那只黑猫，走吧。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "noir_17face"
+      }
+    ]
+  },
+  {
+    "background": "evcg13b",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "嗯……"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "黑猫",
+        "text": "咪。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "再见了。",
+        "body": "mashiro_25face"
+      },
+      {
+        "character": "黑猫",
+        "text": "咪，咪。",
+        "body": "mashiro_25face"
+      }
+    ]
+  },
+  {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "黑猫",
+        "text": "……咪。"
+      },
+      {
+        "character": "",
+        "text": "・・・・・"
+      },
+      {
+        "character": "",
+        "text": "・・・・"
+      },
+      {
+        "character": "",
+        "text": "・・・"
+      },
+      {
+        "character": "晓",
+        "text": "……"
+      },
+      {
+        "character": "",
+        "text": "啊……"
+      },
+      {
+        "character": "",
+        "text": "身体好热。"
+      },
+      {
+        "character": "",
+        "text": "而且感觉好恶心。"
+      },
+      {
+        "character": "",
+        "text": "是吗……"
+      },
+      {
+        "character": "",
+        "text": "原来是这样吗。"
+      },
+      {
+        "character": "鹰世",
+        "text": "你发现了吗？",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "晓",
+        "text": "……嗯。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "花江",
+        "text": "唉……真的？",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "花江",
+        "text": "我完全没察觉到哎。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "鹰世",
+        "text": "这样大概还比较幸福吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "一旦有了这个意识……从一开始就会觉得很难受。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "鹰世把手放在自己的脖子上。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "",
+        "text": "咦，那原来不是他的习惯动作啊。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "野鸟小姐呢？",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "嗯……从最初的森林开始，隐隐约约。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "真早啊。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "虽然没有意识到，不过我本来身体就很不好，体温偏低，\n觉得会这样也没什么好奇怪的。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "不过听说了诺瓦她们在森林里去了饭店的事，就想着，\n啊，这不就是我很喜欢的那个故事吗。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "觉得……这里大概是我理想中的世界，\n不是现实世界。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "晓",
+        "text": "可你倒是挺享受的。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "野鸟",
+        "text": "是啊。",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "花江",
+        "text": "唉……可把我给吓了一大跳。",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "花江",
+        "text": "你也是吗？",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯，我也是。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "到了现在才察觉到。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "才回想起来。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "……",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "・・・・・",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "・・・・",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "・・・",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "————咔嚓。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "————嘎吱嘎吱。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "————咔嚓。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "房东",
+        "text": "打开了。",
+        "body": "takase_09face"
+      }
+    ]
+  }
+]

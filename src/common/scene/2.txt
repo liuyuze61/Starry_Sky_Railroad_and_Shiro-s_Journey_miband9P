@@ -3,6 +3,210 @@
     "background": "bg060c",
     "dialogues": [
       {
+        "character": "",
+        "text": "也就是说，"
+      },
+      {
+        "character": "晓",
+        "text": "客运车厢只有四节么。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "男性",
+        "text": "应该是。\n每节车厢里双人座左右各一排，每排八个，\n总共是三十二个座位×四节车厢，最多坐一百二十八个人。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "比现代的运载量少多了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "男性",
+        "text": "在SL的时代这种运载量就足够了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "对话顺利进行着。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "虽说一开始有点紧张，\n　但多亏他善于交流，紧张感也随之消除了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "他边习惯性地挠着头边说，",
+        "body": "takase_09face"
+      },
+      {
+        "character": "男性",
+        "text": "一开始觉得蛮有趣的就报名了，\n没想到能有这种体验，真是赚到了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "是啊。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "目前来说，我觉得这是场超值的旅行。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "话说这个时代已经不运输木柴了吧……\n这是模型？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "男性",
+        "text": "或许吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "如果在西部剧里，\n最后决斗肯定是在柴堆上帅气地解决掉坏人。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "男性",
+        "text": "这就是浪漫啊。\n我要是导演，就要设计扔掉枪后拳拳到肉的决斗场景！",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "我们能聊到一块的话题还挺丰富的。",
+        "body": "takase_09face"
+      }
+    ]
+  },
+  {
+    "background": "large_bg060c",
+    "dialogues": [
+      {
+        "character": "男性",
+        "text": "差点忘了。\n初次见面，我叫鹰世市藏。叫我鹰世就好了。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "晓",
+        "text": "啊，好的。\n我叫钟城晓。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "鹰世",
+        "text": "请多关照，钟城先生。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "闲聊了半天，我们才想起来做自我介绍。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "真是位随和的人啊。",
+        "body": "large_takase_02face"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "言谈举止温文尔雅。\n　也可能是他为了不让对方紧张而舒缓了神态。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "感觉我刚才说话的态度有些居高临下了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "不过他看起来年龄比我小，应该问题不大吧。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "晓",
+        "text": "等等，后面已经没有车厢了，\n就是说参加这次旅行的只有四个人？",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "目前为止我在火车上见到的人员有——\n　小小乘务员、睡觉的、吸烟的、鹰世。\n　再加上我。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "总共只有四名旅客。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "原来还有两个人啊。\n我上车的时候可一个人都没有。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "看来同乘者还挺多的……嗯。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "看来鹰世并不知道详情。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "不管总人数有多少，反正多不过我刚刚提到的数了。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "鹰世",
+        "text": "这也没办法啦。\n毕竟这趟夜间火车旅行并没有明确的目的地。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "他笑着耸了耸肩。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "一副悠然自得的样子。",
+        "body": "takase_09face"
+      },
+      {
+        "character": "",
+        "text": "相比之下我就没办法那么悠哉了。\n　人数这么少的旅行还挺让人紧张的。",
+        "body": "takase_09face"
+      }
+    ]
+  },
+  {
+    "background": "large_bg060c",
+    "dialogues": [
+      {
+        "character": "鹰世",
+        "text": "对我而言，只要能体验到这个就满足了。",
+        "body": "large_takase_02face"
+      },
+      {
+        "character": "",
+        "text": "他摊开了手掌。",
+        "body": "large_takase_02face"
+      }
+    ]
+  },
+  {
+    "background": "bg060c",
+    "dialogues": [
+      {
         "character": "晓",
         "text": "哇！？",
         "body": "takase_09face"
@@ -136,9 +340,14 @@
     "background": "bg040c",
     "dialogues": [
       {
+        "character": "女性乘客",
+        "text": "……",
+        "body": "hanae_02face"
+      },
+      {
         "character": "",
         "text": "穿过吸烟女性的身边。",
-        "body": "女性客"
+        "body": "hanae_02face"
       }
     ]
   },
@@ -155,9 +364,14 @@
     "background": "bg040c",
     "dialogues": [
       {
+        "character": "熟睡的乘客",
+        "text": "咕噜噜噜噜。",
+        "body": "jibie_02face"
+      },
+      {
         "character": "",
         "text": "她还在睡。\n　我放轻脚步走过，尽可能不吵醒她。",
-        "body": "寝てる客"
+        "body": "jibie_02face"
       }
     ]
   },
@@ -183,14 +397,24 @@
         "body": "large_noir_04face"
       },
       {
+        "character": "？？？",
+        "text": "啊。",
+        "body": "large_noir_04face"
+      },
+      {
         "character": "",
         "text": "吓我一跳。",
-        "body": "？？？"
+        "body": "large_noir_04face"
       },
       {
         "character": "",
         "text": "又出现了一副新面孔。",
-        "body": "？？？"
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "？？？",
+        "text": "……",
+        "body": "noir_17face"
       },
       {
         "character": "晓",
@@ -200,6 +424,11 @@
       {
         "character": "",
         "text": "既然有缘相见，就先打个招呼吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "？？？",
+        "text": "……",
         "body": "noir_17face"
       },
       {
@@ -319,7 +548,7 @@
     ]
   },
   {
-    "background": "bg050e",
+    "background": "large_bg050e",
     "dialogues": [
       {
         "character": "",
@@ -355,6 +584,16 @@
         "text": "给人以活着的感受。"
       },
       {
+        "character": "狩叶",
+        "text": "你能喜欢就是我们的荣幸。",
+        "body": "large_karuha_02face"
+      },
+      {
+        "character": "狩叶",
+        "text": "不过现在列车正在加速，\n锅炉的负载较大，靠太近可能会被烫伤。\n这位乘客，此处禁止入内。",
+        "body": "large_karuha_02face"
+      },
+      {
         "character": "晓",
         "text": "啊，抱歉。",
         "body": "large_karuha_02face"
@@ -384,6 +623,11 @@
         "body": "karuha_03face"
       },
       {
+        "character": "狩叶",
+        "text": "还有什么问题吗？",
+        "body": "karuha_03face"
+      },
+      {
         "character": "晓",
         "text": "啊，说起来，\n我刚在车里兜了一圈。",
         "body": "karuha_03face"
@@ -401,6 +645,11 @@
       {
         "character": "",
         "text": "她淡定地点了点头。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "稍等我找一下登记表……在这。",
         "body": "karuha_03face"
       },
       {
@@ -469,6 +718,11 @@
         "body": "karuha_03face"
       },
       {
+        "character": "狩叶",
+        "text": "不是在说野鸟小姐吗。第二节车厢里的那个人。",
+        "body": "karuha_03face"
+      },
+      {
         "character": "晓",
         "text": "……",
         "body": "karuha_03face"
@@ -484,6 +738,11 @@
         "body": "karuha_03face"
       },
       {
+        "character": "狩叶",
+        "text": "当然这不是真名哦。\n不过她本人让我这么叫她。",
+        "body": "karuha_03face"
+      },
+      {
         "character": "晓",
         "text": "这、这样啊。",
         "body": "karuha_03face"
@@ -494,8 +753,18 @@
         "body": "karuha_03face"
       },
       {
+        "character": "狩叶",
+        "text": "鹰世先生你已经认识了对吧。\n那就剩花江小姐了。",
+        "body": "karuha_03face"
+      },
+      {
         "character": "晓",
         "text": "是抽烟的那位吗？",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "她还在抽烟？　\n唉，本车可是禁烟的。",
         "body": "karuha_03face"
       },
       {
@@ -504,8 +773,18 @@
         "body": "karuha_03face"
       },
       {
+        "character": "狩叶",
+        "text": "嗯？\n火车一般不都禁烟吗？",
+        "body": "karuha_03face"
+      },
+      {
         "character": "晓",
         "text": "啊……不一定吧。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "难道不是么。",
         "body": "karuha_03face"
       },
       {
@@ -516,6 +795,11 @@
       {
         "character": "",
         "text": "哪怕是在日本，昭和年间的电车上，\n　地板和坐席好像也都布满了被烟头烧焦的痕迹。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "哎……\n以前的人也太没安全意识了吧。都不注意火灾的危险性吗。",
         "body": "karuha_03face"
       },
       {
@@ -559,6 +843,11 @@
         "body": "karuha_03face"
       },
       {
+        "character": "狩叶",
+        "text": "嗯？",
+        "body": "karuha_03face"
+      },
+      {
         "character": "",
         "text": "不是还有一个人么。",
         "body": "noir_17face"
@@ -579,6 +868,11 @@
         "body": "noir_17face"
       },
       {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
         "character": "",
         "text": "啪嗒啪嗒啪嗒。",
         "body": "large_noir_04face"
@@ -591,6 +885,11 @@
       {
         "character": "晓",
         "text": "那个……你好。\n小诺……这样叫可以吗。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
         "body": "large_noir_04face"
       },
       {
@@ -654,6 +953,11 @@
         "body": "karuha_03face"
       },
       {
+        "character": "狩叶",
+        "text": "虽然不知道详情，但是她很可爱的，不挺好的嘛？\n　就像是这辆银河号的吉祥物一样。",
+        "body": "karuha_03face"
+      },
+      {
         "character": "晓",
         "text": "也是，嗯……",
         "body": "karuha_03face"
@@ -661,6 +965,11 @@
       {
         "character": "",
         "text": "我觉得这个乘务员就够吉祥物的了，\n　还是不说为妙，她本人应该是把这当做一份正经工作的。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "……",
         "body": "karuha_03face"
       },
       {
@@ -676,6 +985,11 @@
       {
         "character": "狩叶",
         "text": "怎么说呢，我和她也算是相处了挺长一段时间。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "狩叶",
+        "text": "诺瓦。",
         "body": "karuha_03face"
       },
       {
@@ -712,6 +1026,11 @@
         "character": "狩叶",
         "text": "那个，比如，关于时尚之类的。",
         "body": "karuha_03face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "没有兴趣。",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
@@ -772,6 +1091,11 @@
         "character": "",
         "text": "感觉稍微有点困难……\n　年龄差距也有点大。",
         "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "？",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
@@ -989,7 +1313,7 @@
     ]
   },
   {
-    "background": "bg040c",
+    "background": "large_bg040c",
     "dialogues": [
       {
         "character": "",
@@ -1044,11 +1368,16 @@
     ]
   },
   {
-    "background": "bg040c",
+    "background": "large_bg040c",
     "dialogues": [
       {
         "character": "晓",
         "text": "那个，是叫，小诺来着吧？",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
         "body": "large_noir_04face"
       },
       {
@@ -1094,6 +1423,11 @@
       {
         "character": "",
         "text": "是因为刚才离得太近了吧。",
+        "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……有什么事吗。",
         "body": "noir_17face"
       },
       {
@@ -1164,7 +1498,7 @@
     ]
   },
   {
-    "background": "bg040c",
+    "background": "large_bg040c",
     "dialogues": [
       {
         "character": "",
@@ -1214,19 +1548,24 @@
         "body": "noir_17face"
       },
       {
+        "character": "诺瓦",
+        "text": "（目不转睛）",
+        "body": "large_noir_04face"
+      },
+      {
         "character": "晓",
         "text": "……",
-        "body": "noir_17face"
+        "body": "large_noir_04face"
       },
       {
         "character": "",
         "text": "怎么说呢……",
-        "body": "noir_17face"
+        "body": "large_noir_04face"
       },
       {
         "character": "",
         "text": "别看她表情并不丰富，情绪还挺容易猜透的。",
-        "body": "noir_17face"
+        "body": "large_noir_04face"
       },
       {
         "character": "晓",
@@ -1300,11 +1639,16 @@
         "character": "",
         "text": "由于个子太矮，\n　她哪怕站在座位上都差点距离。",
         "body": "noir_17face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "嘿————，嘿————。",
+        "body": "noir_17face"
       }
     ]
   },
   {
-    "background": "bg040c",
+    "background": "large_bg040c",
     "dialogues": [
       {
         "character": "晓",
@@ -1317,19 +1661,34 @@
         "body": "large_noir_04face"
       },
       {
+        "character": "诺瓦",
+        "text": "还、还差一点就够到了。",
+        "body": "large_noir_04face"
+      },
+      {
         "character": "晓",
         "text": "嗯，可就算够到了，\n转不动那个把手也关不上啊。",
         "body": "large_noir_04face"
       },
       {
+        "character": "诺瓦",
+        "text": "呜。",
+        "body": "large_noir_04face"
+      },
+      {
         "character": "",
         "text": "上了年头的木制开关是比较紧的。\n　光是“够到”还不够，还要能抓稳才行。",
-        "body": "noir_17face"
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "large_noir_04face"
       },
       {
         "character": "",
         "text": "她不甘心地撇起了嘴角。",
-        "body": "noir_17face"
+        "body": "large_noir_04face"
       },
       {
         "character": "",
@@ -1370,6 +1729,11 @@
     "background": "bg040c",
     "dialogues": [
       {
+        "character": "诺瓦",
+        "text": "……",
+        "body": "noir_17face"
+      },
+      {
         "character": "",
         "text": "啊，她在盯着我。",
         "body": "noir_17face"
@@ -1390,13 +1754,28 @@
         "body": "noir_17face"
       },
       {
+        "character": "诺瓦",
+        "text": "嗯……",
+        "body": "noir_17face"
+      },
+      {
         "character": "",
         "text": "她伸手蹭了蹭自己的肩膀。",
         "body": "large_noir_04face"
       },
       {
+        "character": "诺瓦",
+        "text": "好冷。",
+        "body": "large_noir_04face"
+      },
+      {
         "character": "晓",
         "text": "对吧。\n我也觉得冷，要不我去拿点暖和的东西过来。",
+        "body": "large_noir_04face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "啊，不、不必费心。",
         "body": "large_noir_04face"
       },
       {
@@ -1408,485 +1787,6 @@
         "character": "",
         "text": "好，这次感觉还不错。挺自然的。",
         "body": "large_noir_04face"
-      }
-    ]
-  },
-  {
-    "background": "bg050c",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "那么……"
-      },
-      {
-        "character": "",
-        "text": "暖和的东西。"
-      },
-      {
-        "character": "晓",
-        "text": "乘务员小姐。"
-      },
-      {
-        "character": "狩叶",
-        "text": "什么事？\n又是你啊？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "我走到这里。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "这里有没有自动贩卖机或者车内销售吗？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "没有自动贩卖机，但有车内销售。稍等。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "她钻到里面去。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "沙沙，沙沙。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "カルハ大",
-        "text": "来啦~，啤酒饮料矿泉水~花生瓜子八宝粥～\n有需要的乘客请讲～",
-        "body": "large_karuha_02face"
-      },
-      {
-        "character": "",
-        "text": "回来的时候脖子上挂着个篮子。",
-        "body": "large_karuha_02face"
-      },
-      {
-        "character": "",
-        "text": "连这些细节都这么复古。",
-        "body": "large_karuha_02face"
-      },
-      {
-        "character": "",
-        "text": "可是。",
-        "body": "large_karuha_02face"
-      },
-      {
-        "character": "晓",
-        "text": "看起来……好像没有暖和的东西呢。",
-        "body": "large_karuha_02face"
-      },
-      {
-        "character": "",
-        "text": "篮子里装的确实是具有年代感的零食和饮料，\n　估计都是从冷柜之类的地方拿出来的。",
-        "body": "large_karuha_02face"
-      },
-      {
-        "character": "",
-        "text": "毕竟是夏天，这很正常。",
-        "body": "large_karuha_02face"
-      },
-      {
-        "character": "狩叶",
-        "text": "有的哦。咖啡可以吗？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "那就……要点甜的。可可之类的有么。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "她从篮子底下翻出了一瓶罐装可可。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "————哐的一声。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "喂！？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "贴在了锅炉上。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "好像是要10秒左右来着。\n1————，2————。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "十秒后拿了起来。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "给，小心点，可烫了。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "……我说，会不会经常有人说你粗放……豪爽？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "总比粗放要好点吧。",
-        "body": "karuha_03face"
-      }
-    ]
-  },
-  {
-    "background": "bg050e",
-    "dialogues": [
-      {
-        "character": "晓",
-        "text": "行吧，无所谓了。\n这个我要了，还有奶糖。",
-        "body": "large_karuha_02face"
-      }
-    ]
-  },
-  {
-    "background": "bg050e",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "我把零钱递给她。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "又是可可又是奶糖，你还真是个甜食党。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "不是我喝的。\n女生一般不都喜欢甜食么。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "啊……",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "回到了诺瓦身边。",
-        "body": "karuha_03face"
-      }
-    ]
-  },
-  {
-    "background": "bg040c",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "那么，"
-      }
-    ]
-  },
-  {
-    "background": "bg040c",
-    "choices": [
-      {"text": "直接给她","nextScene": 1},
-      {"text": "晃晃再给她","nextScene": 2}
-    ]
-  },
-  {
-    "background": "bg040c",
-    "dialogues": [
-      {
-        "character": "晓",
-        "text": "给，热可可没问题吧。"
-      },
-      {
-        "character": "",
-        "text": "她接了过去。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "狩叶",
-        "text": "原来是给诺瓦的啊。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "是啊，车厢里有点冷。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "嚯，真绅士～",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "虽然想这么夸你，不过要是给诺瓦，\n那个可能热过头了。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "嗯？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "————咔嚓。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "",
-        "text": "打开拉环。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "",
-        "text": "咕咚。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "晓",
-        "text": "怎么了！？",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "",
-        "text": "她猛地抬头差点把可可洒出来。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "而且眼里噙着泪水……这难道，",
-        "body": "noir_17face"
-      },
-      {
-        "character": "晓",
-        "text": "……猫舌（怕烫）？",
-        "body": "noir_17face"
-      },
-      {
-        "character": "狩叶",
-        "text": "而且是重度的。看来是热过头了。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "晓",
-        "text": "抱、抱歉。没事吧？",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "",
-        "text": "好心办坏事了。",
-        "body": "large_noir_04face",
-        "toScenes": 2
-      }
-    ]
-  },
-  {
-    "background": "bg040c",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "递给她之前，我轻轻摇了几下。"
-      },
-      {
-        "character": "晓",
-        "text": "给，请用，热可可没问题吧。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "",
-        "text": "咔嚓。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "",
-        "text": "打开拉环。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "晓",
-        "text": "怎么样？",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "她的笑也很甜。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "晓",
-        "text": "……",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "唔噢噢，好可爱。",
-        "body": "noir_17face"
-      },
-      {
-        "character": "",
-        "text": "我还是头一回见到她笑，实在是太可爱了。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "狩叶",
-        "text": "原来是给诺瓦的。\n她很怕烫的，没关系吗？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "猫舌吗？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "那正好。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "她加热的方式太鲁莽了。\n　我怕里面温度不均就先摇了摇，看来是做对了。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "温度应该正合适。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "她高兴就再好不过了。",
-        "body": "noir_17face"
-      }
-    ]
-  },
-  {
-    "background": "bg040c",
-    "dialogues": [
-      {
-        "character": "狩叶",
-        "text": "对了，这边什么情况？　很冷吗？",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "有一点。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "我完全没感觉到。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "你一直待在锅炉边上当然不冷了。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "狩叶",
-        "text": "不过……原来如此。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "",
-        "text": "她看着窗外说道。",
-        "body": "karuha_03face"
-      }
-    ]
-  },
-  {
-    "background": "bg000d",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "外面……依然是一片漆黑，"
-      },
-      {
-        "character": "",
-        "text": "啊，不过可以看到点点星光。"
-      },
-      {
-        "character": "",
-        "text": "在这片毫无人造光源的地带，\n　夜空被星光染成了一片蓝色。"
-      },
-      {
-        "character": "晓",
-        "text": "……"
-      }
-    ]
-  },
-  {
-    "background": "bg040c",
-    "dialogues": [
-      {
-        "character": "晓",
-        "text": "那个，你还冷吗？",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "",
-        "text": "她放下手中的可可罐。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "晓",
-        "text": "那么，可不可以稍稍陪我一会儿。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "",
-        "text": "有种美妙的预感促使我邀请了她。",
-        "body": "large_noir_04face"
-      },
-      {
-        "character": "",
-        "text": "她虽说仍然有些怕生，\n　但还是乖乖跟了上来。",
-        "body": "noir_17face"
-      }
-    ]
-  },
-  {
-    "background": "bg060c",
-    "dialogues": [
-      {
-        "character": "",
-        "text": "我们两个来到了车厢外……"
-      }
-    ]
-  },
-  {
-    "background": "bg000d",
-    "dialogues": [
-      {
-        "character": "诺瓦",
-        "text": "哇……"
-      }
-    ]
-  },
-  {
-    "background": "large_evcg03a",
-    "dialogues": [
-      {
-        "character": "诺瓦",
-        "text": "哇——————。"
-      },
-      {
-        "character": "",
-        "text": "Bingo。"
       }
     ]
   }
