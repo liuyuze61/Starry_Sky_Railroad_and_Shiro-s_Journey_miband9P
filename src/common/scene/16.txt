@@ -962,11 +962,11 @@
     "dialogues": [
       {
         "character": "",
-        "text": "・・・・・"
+        "text": "....."
       },
       {
         "character": "",
-        "text": "・・・・"
+        "text": "...."
       }
     ]
   },
@@ -975,7 +975,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "・・・"
+        "text": "..."
       }
     ]
   },
@@ -1839,7 +1839,7 @@
     ]
   },
   {
-    "background": "large_evcg07a",
+    "background": "evcg07a",
     "dialogues": [
       {
         "character": "",
@@ -1856,7 +1856,7 @@
     ]
   },
   {
-    "background": "large_evcg07a",
+    "background": "evcg07a",
     "dialogues": [
       {
         "character": "诺瓦",

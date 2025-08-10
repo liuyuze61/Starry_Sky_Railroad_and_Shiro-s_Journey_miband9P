@@ -1672,7 +1672,7 @@
     ]
   },
   {
-    "background": "large_bg000d",
+    "background": "bg000d",
     "dialogues": [
       {
         "character": "",

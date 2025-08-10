@@ -1,6 +1,6 @@
 [
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -24,13 +24,13 @@
       },
       {
         "character": "",
-        "text": "但多亏了它，诺瓦现在还活着。\n　这么想的话，这倒也不是什么坏事。",
+        "text": "但多亏了它，诺瓦现在还活着。\n这么想的话，这倒也不是什么坏事。",
         "body": "large_noir_04face"
       }
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -93,7 +93,7 @@
     ]
   },
   {
-    "background": "large_evcg03a",
+    "background": "evcg03a",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -133,7 +133,7 @@
       },
       {
         "character": "",
-        "text": "小音大概也希望如此吧。\n　希望她能代替意外去世的自己坚强地活下去。"
+        "text": "小音大概也希望如此吧。\n希望她能代替意外去世的自己坚强地活下去。"
       },
       {
         "character": "",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "background": "large_evcg03a",
+    "background": "evcg03a",
     "dialogues": [
       {
         "character": "晓",
@@ -246,7 +246,7 @@
       },
       {
         "character": "",
-        "text": "诺瓦拥有一些她非常看重的东西。\n　那是她的母亲给她的。",
+        "text": "诺瓦拥有一些她非常看重的东西。\n那是她的母亲给她的。",
         "body": "noir_17face"
       },
       {
@@ -289,7 +289,7 @@
       },
       {
         "character": "",
-        "text": "并非遵从母亲的话，\n　也并非遵从我的话。"
+        "text": "并非遵从母亲的话，\n也并非遵从我的话。"
       },
       {
         "character": "",
@@ -302,7 +302,7 @@
     ]
   },
   {
-    "background": "large_evcg03a",
+    "background": "evcg03a",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -334,7 +334,7 @@
       },
       {
         "character": "",
-        "text": "那些闪闪发亮的星星看上去有如近在眼前，\n　感觉只要伸出手就能触摸得到。"
+        "text": "那些闪闪发亮的星星看上去有如近在眼前，\n感觉只要伸出手就能触摸得到。"
       }
     ]
   },
@@ -348,7 +348,7 @@
     ]
   },
   {
-    "background": "large_evcg03a",
+    "background": "evcg03a",
     "dialogues": [
       {
         "character": "晓",
@@ -449,7 +449,7 @@
       },
       {
         "character": "",
-        "text": "小时候憧憬的宝石箱仍在，\n　但已经无法再用纯洁的目光看待那些宝石了。"
+        "text": "小时候憧憬的宝石箱仍在，\n但已经无法再用纯洁的目光看待那些宝石了。"
       },
       {
         "character": "晓",
@@ -495,7 +495,7 @@
     ]
   },
   {
-    "background": "large_evcg03a",
+    "background": "evcg03a",
     "dialogues": [
       {
         "character": "晓",
@@ -521,17 +521,17 @@
       },
       {
         "character": "",
-        "text": "因为是个认真的好孩子。\n　所以就算一时没听懂，也不会把别人的话当做耳边风。",
+        "text": "因为是个认真的好孩子。\n所以就算一时没听懂，也不会把别人的话当做耳边风。",
         "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "接受我的话，将它掰开揉碎……",
+        "text": "接受我的话，慢慢消化……",
         "body": "noir_17face"
       },
       {
         "character": "诺瓦",
-        "text": "可还是害怕。",
+        "text": "可我还是害怕。",
         "body": "noir_17face"
       },
       {
@@ -581,7 +581,7 @@
       },
       {
         "character": "",
-        "text": "诺瓦的眼中依然带着疑惑，\n　但还是在很努力地试图理解我的话。",
+        "text": "诺瓦的眼中依然带着疑惑，\n但还是在很努力地试图理解我的话。",
         "body": "noir_17face"
       }
     ]
@@ -600,7 +600,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "因为对小孩子来说，\n　世界上的所有东西都只分为“好”和“不好”两种。"
+        "text": "因为对小孩子来说，\n世界上的所有东西都只分为“好”和“不好”两种。"
       },
       {
         "character": "",
@@ -617,7 +617,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "现在我对诺瓦说的，就属于这种灰色地带。\n　尽管也明白，她现在还太小了。"
+        "text": "现在我对诺瓦说的，就属于这种灰色地带。\n尽管也明白，她现在还太小了。"
       }
     ]
   },
@@ -642,7 +642,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -686,7 +686,7 @@
       },
       {
         "character": "",
-        "text": "以往那些构成诺瓦的要素，\n　以及新出现的要素，究竟在……",
+        "text": "以往那些构成诺瓦的要素，\n以及新出现的要素，究竟在……",
         "body": "large_noir_04face"
       },
       {
@@ -757,11 +757,11 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "晓",
-        "text": "诺瓦？　怎么了。",
+        "text": "诺瓦？怎么了。",
         "body": "large_noir_04face"
       },
       {
@@ -786,12 +786,12 @@
       },
       {
         "character": "",
-        "text": "因为脑中无法理解，\n　她脸上的表情逐渐变得扭曲而混乱。",
+        "text": "因为脑中无法理解，\n她脸上的表情逐渐变得扭曲而混乱。",
         "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "怎么了？　想起什么了吗？",
+        "text": "怎么了？想起什么了吗？",
         "body": "large_noir_04face"
       }
     ]
@@ -874,7 +874,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -882,7 +882,7 @@
       },
       {
         "character": "",
-        "text": "火车在摇动？　在过弯吗？"
+        "text": "火车在摇动？在过弯吗？"
       },
       {
         "character": "",
@@ -900,11 +900,11 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
-        "text": "脑中飞快思考的同时，\n　我双脚无力地一屁股坐在地上。"
+        "text": "脑中飞快思考的同时，\n我双脚无力地一屁股坐在地上。"
       },
       {
         "character": "诺瓦",
@@ -957,12 +957,12 @@
       },
       {
         "character": "",
-        "text": "花江小姐正在将附近的一张毛毯\n　盖在她的身上。",
+        "text": "花江小姐正在将附近的一张毛毯\n盖在她的身上。",
         "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "身体又不舒服了吗？\n　就在这么想着的时候……",
+        "text": "身体又不舒服了吗？\n就在这么想着的时候……",
         "body": "hanae_02face"
       },
       {
@@ -977,7 +977,7 @@
       },
       {
         "character": "",
-        "text": "状态明显比刚才要差多了。\n　整个人倒在地上，\n　浑身发抖地缩成一团。",
+        "text": "状态明显比刚才要差多了。\n整个人倒在地上，\n浑身发抖地缩成一团。",
         "body": "large_jibie_02face"
       },
       {
@@ -1027,7 +1027,7 @@
       },
       {
         "character": "",
-        "text": "正在给野鸟小姐盖毛毯的她\n　情况也有些奇怪。",
+        "text": "正在给野鸟小姐盖毛毯的她\n情况也有些奇怪。",
         "body": "large_hanae_02face+"
       },
       {
@@ -1042,7 +1042,7 @@
       },
       {
         "character": "",
-        "text": "似乎在盖上毛毯之后，\n　也无法再站立起来了。",
+        "text": "似乎在盖上毛毯之后，\n也无法再站立起来了。",
         "body": "large_hanae_02face+"
       },
       {
@@ -1111,7 +1111,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
@@ -1127,7 +1127,7 @@
       },
       {
         "character": "",
-        "text": "与此同时，全身都在拼命冒汗。\n　大脑剧烈发热。"
+        "text": "与此同时，全身都在拼命冒汗。\n大脑剧烈发热。"
       },
       {
         "character": "",
@@ -1135,7 +1135,7 @@
       },
       {
         "character": "诺瓦",
-        "text": "哎，咦？　白先生？",
+        "text": "哎，咦？白先生？",
         "body": "large_noir_04face"
       },
       {
@@ -1155,7 +1155,7 @@
       },
       {
         "character": "",
-        "text": "她现在怎么样。\n　还能动吗。",
+        "text": "她现在怎么样。\n还能动吗。",
         "body": "large_noir_04face"
       }
     ]
@@ -1284,7 +1284,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1342,7 +1342,7 @@
       },
       {
         "character": "",
-        "text": "不过从锅炉室里走出来的脚步很正常，\r\n　不像我们一样完全丧失了行动力。",
+        "text": "不过从锅炉室里走出来的脚步很正常，\r\n不像我们一样完全丧失了行动力。",
         "body": "karuha_03face"
       },
       {
@@ -1377,7 +1377,7 @@
       },
       {
         "character": "",
-        "text": "嘴里说着头疼，不过可以正常走路的狩叶\n　来到了我面前。",
+        "text": "嘴里说着头疼，不过可以正常走路的狩叶\n来到了我面前。",
         "body": "large_karuha_02face"
       },
       {
@@ -1400,7 +1400,7 @@
       },
       {
         "character": "",
-        "text": "就在这一瞬间，我变得连椅子都靠不住，\n　双腿无力坐在了地上。"
+        "text": "就在这一瞬间，我变得连椅子都靠不住，\n双腿无力坐在了地上。"
       },
       {
         "character": "",
@@ -1457,7 +1457,7 @@
     ]
   },
   {
-    "background": "large_evcg12b",
+    "background": "evcg12b",
     "dialogues": [
       {
         "character": "狩叶？",
@@ -1474,7 +1474,7 @@
     ]
   },
   {
-    "background": "large_evcg12c",
+    "background": "evcg12c",
     "dialogues": [
       {
         "character": "",
@@ -1504,7 +1504,7 @@
       },
       {
         "character": "",
-        "text": "还以为自己已经理解了这个世界的规则，\n　结果突然又出现了无法理解的事态。"
+        "text": "还以为自己已经理解了这个世界的规则，\n结果突然又出现了无法理解的事态。"
       },
       {
         "character": "",
@@ -1605,11 +1605,47 @@
     ]
   },
   {
-    "background": "evcg13b",
+    "background": "evcg13a",
     "dialogues": [
       {
         "character": "诺瓦",
         "text": "嗯……"
+      }
+    ]
+  },
+  {
+    "background": "evcg13a2",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "evcg13b",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "evcg13c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "……"
+      }
+    ]
+  },
+  {
+    "background": "bg_white",
+    "dialogues": [
+      {
+        "character": "",
+        "text": ""
       }
     ]
   },
@@ -1652,15 +1688,15 @@
       },
       {
         "character": "",
-        "text": "・・・・・"
+        "text": "....."
       },
       {
         "character": "",
-        "text": "・・・・"
+        "text": "...."
       },
       {
         "character": "",
-        "text": "・・・"
+        "text": "..."
       },
       {
         "character": "晓",
@@ -1798,17 +1834,17 @@
       },
       {
         "character": "",
-        "text": "・・・・・",
+        "text": ".....",
         "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "・・・・",
+        "text": "....",
         "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "・・・",
+        "text": "...",
         "body": "takase_09face"
       },
       {

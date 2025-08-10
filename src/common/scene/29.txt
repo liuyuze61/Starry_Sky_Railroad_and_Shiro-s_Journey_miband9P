@@ -1,6 +1,6 @@
 [
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "晓",
@@ -29,7 +29,7 @@
       },
       {
         "character": "晓",
-        "text": "到现在，你喜欢什么？　烤肉？　烟花？　天象馆？",
+        "text": "到现在，你喜欢什么？烤肉？烟花？天象馆？",
         "body": "large_noir_04face"
       },
       {
@@ -64,7 +64,7 @@
       },
       {
         "character": "",
-        "text": "她也应该察觉到了吧。\n　造访的地方都杳无人烟，途中没有遇到过任何人。",
+        "text": "她也应该察觉到了吧。\n造访的地方都杳无人烟，途中没有遇到过任何人。",
         "body": "noir_17face"
       },
       {
@@ -94,13 +94,28 @@
     "dialogues": [
       {
         "character": "诺瓦",
-        "text": "野鸟小姐也好，鹰世先生也好，花江小姐也好，\n大家都对我很温柔。",
+        "text": "野鸟小姐也好",
+        "body": "jibie_02face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "鹰世先生也好，",
+        "body": "takase_09face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "花江小姐也好，",
+        "body": "hanae_02face"
+      },
+      {
+        "character": "诺瓦",
+        "text": "大家都对我很温柔。",
         "body": "hanae_02face"
       }
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -214,17 +229,17 @@
       },
       {
         "character": "",
-        "text": "是那种能本能地明白\n　对方会喜欢以怎样的距离感交往的人。",
+        "text": "是那种能本能地明白\n对方会喜欢以怎样的距离感交往的人。",
         "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "因此，她明明对习惯照顾小孩子的我稍显吵闹，\n　却对不擅长与小孩交流的鹰世和花江小姐\n　保持着适当的距离。",
+        "text": "因此，她明明对习惯照顾小孩子的我稍显吵闹，\n却对不擅长与小孩交流的鹰世和花江小姐\n保持着适当的距离。",
         "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "诺瓦虽不擅长与人交流，\n　但并不是讨厌和人交流。",
+        "text": "诺瓦虽不擅长与人交流，\n但并不是讨厌和人交流。",
         "body": "noir_17face"
       },
       {
@@ -244,13 +259,13 @@
       },
       {
         "character": "",
-        "text": "她让诺瓦感到心情愉快这点，\n　一看便知。",
+        "text": "她让诺瓦感到心情愉快这点，\n一看便知。",
         "body": "noir_17face"
       }
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -364,7 +379,7 @@
       },
       {
         "character": "",
-        "text": "不过，看样子她自己也是知道的。\n　都写脸上了。",
+        "text": "不过，看样子她自己也是知道的。\n都写脸上了。",
         "body": "large_noir_04face"
       },
       {
@@ -402,7 +417,7 @@
       },
       {
         "character": "",
-        "text": "可是更加让他们难以忍受的，\n　却是“外貌”。"
+        "text": "可是更加让他们难以忍受的，\n却是“外貌”。"
       },
       {
         "character": "",
@@ -411,7 +426,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -470,7 +485,7 @@
       },
       {
         "character": "",
-        "text": "诺瓦的朋友很少。\n　在烧烤的时候，我就已经注意到这一点了。",
+        "text": "诺瓦的朋友很少。\n在烧烤的时候，我就已经注意到这一点了。",
         "body": "large_noir_04face"
       },
       {
@@ -640,7 +655,7 @@
       },
       {
         "character": "",
-        "text": "诺瓦闭紧嘴唇，\n　细嚼慢咽般地品味着我刚才说的话，",
+        "text": "诺瓦闭紧嘴唇，\n细嚼慢咽般地品味着我刚才说的话，",
         "body": "noir_17face"
       },
       {
@@ -676,7 +691,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
@@ -736,7 +751,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -755,7 +770,7 @@
       },
       {
         "character": "",
-        "text": "不过我可不怎么推荐。\n　会被突然勒脖子的。",
+        "text": "不过我可不怎么推荐。\n会被突然勒脖子的。",
         "body": "large_noir_04face"
       },
       {
@@ -820,7 +835,7 @@
     ]
   },
   {
-    "background": "large_evcg10d",
+    "background": "evcg10d",
     "dialogues": [
       {
         "character": "",
@@ -833,7 +848,7 @@
     ]
   },
   {
-    "background": "large_evcg10c",
+    "background": "evcg10c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -850,7 +865,7 @@
     ]
   },
   {
-    "background": "large_evcg10b",
+    "background": "evcg10b",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -887,7 +902,7 @@
     ]
   },
   {
-    "background": "large_evcg10c",
+    "background": "evcg10c",
     "dialogues": [
       {
         "character": "晓",
@@ -904,7 +919,7 @@
     ]
   },
   {
-    "background": "large_evcg10b",
+    "background": "evcg10b",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -913,7 +928,7 @@
     ]
   },
   {
-    "background": "large_evcg10d",
+    "background": "evcg10d",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -938,11 +953,11 @@
       },
       {
         "character": "",
-        "text": "不过也行。　约定本身不会变。\n　诺瓦也肯定不会无视这条约定。"
+        "text": "不过也行。约定本身不会变。\n诺瓦也肯定不会无视这条约定。"
       },
       {
         "character": "",
-        "text": "若能推这个胆小的粘人精一把\n　助她一臂之力，那就足够了。"
+        "text": "若能推这个胆小的粘人精一把\n助她一臂之力，那就足够了。"
       }
     ]
   },
@@ -1021,7 +1036,7 @@
     ]
   },
   {
-    "background": "large_evcg10c",
+    "background": "evcg10c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1033,7 +1048,7 @@
       },
       {
         "character": "",
-        "text": "不如说这种根本算不上奖励，\n　只要诺瓦想要，我现在都可以帮她画。"
+        "text": "不如说这种根本算不上奖励，\n只要诺瓦想要，我现在都可以帮她画。"
       },
       {
         "character": "",
@@ -1050,7 +1065,7 @@
     ]
   },
   {
-    "background": "large_evcg10d",
+    "background": "evcg10d",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1076,11 +1091,20 @@
     ]
   },
   {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": ""
+      }
+    ]
+  },
+  {
     "background": "bg000a",
     "dialogues": [
       {
         "character": "",
-        "text": "・・・・・"
+        "text": "....."
       }
     ]
   },
@@ -1144,7 +1168,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "可惜的是，她在与诺瓦在不同的意义上\n　对这个世界一无所知。"
+        "text": "可惜的是，她在与诺瓦在不同的意义上\n对这个世界一无所知。"
       }
     ]
   },
@@ -1158,7 +1182,7 @@
       },
       {
         "character": "",
-        "text": "……毕竟连蒸汽机的原理都搞不清。\n　应该不是谎言吧。",
+        "text": "……毕竟连蒸汽机的原理都搞不清。\n应该不是谎言吧。",
         "body": "karuha_03face"
       }
     ]
@@ -1168,12 +1192,12 @@
     "dialogues": [
       {
         "character": "",
-        "text": "她本人也连这辆火车正在异常的世界里旅行一事\n　都没有察觉到。",
+        "text": "她本人也连这辆火车正在异常的世界里旅行一事\n都没有察觉到。",
         "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "没察觉到的话就和诺瓦一样，别跟她说了。\n　不能让小孩子被吓到。",
+        "text": "没察觉到的话就和诺瓦一样，别跟她说了。\n不能让小孩子被吓到。",
         "body": "karuha_03face"
       },
       {
@@ -1263,7 +1287,7 @@
       },
       {
         "character": "狩叶",
-        "text": "来！　这个！",
+        "text": "来！这个！",
         "body": "large_karuha_02face"
       },
       {
@@ -1398,7 +1422,7 @@
       },
       {
         "character": "晓",
-        "text": "你忘了吗？　\n仔细想想，搭乘这列火车的时候，还有海边烧烤的时候，车站里有我们以外的另一个人在。",
+        "text": "你忘了吗？\n仔细想想，搭乘这列火车的时候，还有海边烧烤的时候，车站里有我们以外的另一个人在。",
         "body": "takase_09face"
       },
       {
@@ -1417,7 +1441,7 @@
       },
       {
         "character": "",
-        "text": "当我们启程的时候，除我们以外，\n　还有两个人。"
+        "text": "当我们启程的时候，除我们以外，\n还有两个人。"
       },
       {
         "character": "",
@@ -1431,7 +1455,7 @@
       },
       {
         "character": "",
-        "text": "真白？\n　这样称呼对诺瓦有股微妙的不适感。",
+        "text": "真白？\n这样称呼对诺瓦有股微妙的不适感。",
         "body": "mashiro_25face"
       },
       {
@@ -1521,7 +1545,7 @@
       },
       {
         "character": "",
-        "text": "要说容纳这列火车行驶的神秘空间有什么规律的话，\n　差不多应该轮到我了。",
+        "text": "要说容纳这列火车行驶的神秘空间有什么规律的话，\n差不多应该轮到我了。",
         "body": "hanae_02face"
       },
       {
@@ -1576,7 +1600,7 @@
       },
       {
         "character": "",
-        "text": "明明最害怕的是她呢。\n　真是个打心底爱为别人操心的人。",
+        "text": "明明最害怕的是她呢。\n真是个打心底爱为别人操心的人。",
         "body": "large_jibie_02face"
       },
       {
@@ -1626,12 +1650,12 @@
       },
       {
         "character": "",
-        "text": "幸运的是，\n    我们还有“火车”这一据点在。",
+        "text": "幸运的是，\n我们还有“火车”这一据点在。",
         "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "有这么个能坐下来冷静待着的地方\n　我们才可以不用那么慌乱。",
+        "text": "有这么个能坐下来冷静待着的地方\n我们才可以不用那么慌乱。",
         "body": "hanae_02face"
       },
       {
@@ -1676,7 +1700,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "这几天都没见到过的人造物，\n　随着接近站台而数目剧增。"
+        "text": "这几天都没见到过的人造物，\n随着接近站台而数目剧增。"
       },
       {
         "character": "",
@@ -1751,11 +1775,11 @@
       },
       {
         "character": "",
-        "text": "果然这里并不是现实。\n　就我所知，镇子的这位置并不是车站。"
+        "text": "果然这里并不是现实。\n就我所知，镇子的这位置并不是车站。"
       },
       {
         "character": "",
-        "text": "将我所熟知的现实给切裂开的，笔直的铁路，\n　正把我带向那个地方。"
+        "text": "将我所熟知的现实给切裂开的，笔直的铁路，\n正把我带向那个地方。"
       },
       {
         "character": "",
@@ -1772,7 +1796,7 @@
       },
       {
         "character": "",
-        "text": "像是在叹息一般，把积攒了的蒸汽喷吐出来后\n　火车停下了自己的脚步。"
+        "text": "像是在叹息一般，把积攒了的蒸汽喷吐出来后\n火车停下了自己的脚步。"
       },
       {
         "character": "狩叶",
@@ -1858,7 +1882,7 @@
     ]
   },
   {
-    "background": "large_bg020a",
+    "background": "bg020a",
     "dialogues": [
       {
         "character": "",
@@ -1867,11 +1891,11 @@
     ]
   },
   {
-    "background": "large_bg020a",
+    "background": "bg020a",
     "dialogues": [
       {
         "character": "",
-        "text": "那边的超市也是我经常去的，\n　隔壁便利店里的店员是我熟知的聊天对象。"
+        "text": "那边的超市也是我经常去的，\n隔壁便利店里的店员是我熟知的聊天对象。"
       }
     ]
   }

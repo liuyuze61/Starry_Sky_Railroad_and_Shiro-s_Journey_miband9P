@@ -110,7 +110,7 @@
     ]
   },
   {
-    "background": "large_bg050c",
+    "background": "bg050c",
     "dialogues": [
       {
         "character": "",
@@ -118,7 +118,7 @@
       },
       {
         "character": "",
-        "text": "虽然不知道指针指向哪里才正确，\n　但是看得出来它正在０的附近抖动。"
+        "text": "虽然不知道指针指向哪里才正确，\n但是看得出来它正在0的附近抖动。"
       }
     ]
   },
@@ -167,7 +167,7 @@
       },
       {
         "character": "",
-        "text": "我知道这东西停止了会很麻烦，\n　但是不知道要怎样让它动起来。",
+        "text": "我知道这东西停止了会很麻烦，\n但是不知道要怎样让它动起来。",
         "body": "takase_09face"
       },
       {
@@ -187,12 +187,12 @@
       },
       {
         "character": "野鸟",
-        "text": "？　怎么了，诺瓦。",
+        "text": "？怎么了，诺瓦。",
         "body": "jibie_02face"
       },
       {
         "character": "野鸟",
-        "text": "……你是诺瓦吧？　去染发了？",
+        "text": "……你是诺瓦吧？去染发了？",
         "body": "jibie_02face"
       },
       {
@@ -317,7 +317,7 @@
       },
       {
         "character": "",
-        "text": "宅男靠不住，\n　还好了解情况的人来了。",
+        "text": "宅男靠不住，\n还好了解情况的人来了。",
         "body": "hanae_02face"
       },
       {
@@ -412,7 +412,7 @@
       },
       {
         "character": "",
-        "text": "为了尽量避免热量损失，锅炉的入口设计得很小。\n　车厢后装的是劈开之前的柴火，\n　大小不合适。",
+        "text": "为了尽量避免热量损失，锅炉的入口设计得很小。\n车厢后装的是劈开之前的柴火，\n大小不合适。",
         "body": "hanae_02face"
       },
       {
@@ -512,7 +512,7 @@
       },
       {
         "character": "",
-        "text": "诺瓦发现自己完全被拉入“争取生存的一方”了吧。\n　所以心情变得复杂了起来。",
+        "text": "诺瓦发现自己完全被拉入“争取生存的一方”了吧。\n所以心情变得复杂了起来。",
         "body": "large_mashiro_32face"
       },
       {
@@ -552,7 +552,7 @@
       },
       {
         "character": "",
-        "text": "小音拿出写生本，撕下后面的纸张，\n　铺到篮子的底部。",
+        "text": "小音拿出写生本，撕下后面的纸张，\n铺到篮子的底部。",
         "body": "large_neri_03face"
       },
       {
@@ -582,7 +582,7 @@
       },
       {
         "character": "",
-        "text": "鹰世用搅拌棍翻弄锅炉内部，\n　让煤炭形成容易点火的形状。",
+        "text": "鹰世用搅拌棍翻弄锅炉内部，\n让煤炭形成容易点火的形状。",
         "body": "large_takase_02face"
       },
       {
@@ -617,7 +617,7 @@
       },
       {
         "character": "",
-        "text": "负责篮子的成员说道。\n　木炭的中央，看起来像是红色的灯。",
+        "text": "负责篮子的成员说道。\n木炭的中央，看起来像是红色的灯。",
         "body": "neri_02face"
       },
       {
@@ -663,7 +663,7 @@
     ]
   },
   {
-    "background": "large_evcg19a",
+    "background": "evcg19a",
     "dialogues": [
       {
         "character": "",
@@ -685,7 +685,7 @@
     ]
   },
   {
-    "background": "large_evcg19a",
+    "background": "evcg19a",
     "dialogues": [
       {
         "character": "真白",
@@ -747,7 +747,7 @@
     ]
   },
   {
-    "background": "large_bg050e",
+    "background": "bg050e",
     "dialogues": [
       {
         "character": "",
@@ -827,7 +827,7 @@
       },
       {
         "character": "",
-        "text": "诺瓦她以自己意志点了火，\n　我已经没有什么能为她做的了。",
+        "text": "诺瓦她以自己意志点了火，\n我已经没有什么能为她做的了。",
         "body": "large_mashiro_32face"
       },
       {
@@ -862,7 +862,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "・・・・・"
+        "text": "....."
       },
       {
         "character": "",
@@ -1045,7 +1045,7 @@
       },
       {
         "character": "音理",
-        "text": "听到了吗哥哥！？　音理我可是很时尚的！",
+        "text": "听到了吗哥哥！？音理我可是很时尚的！",
         "body": "neri_02face"
       },
       {
@@ -1260,7 +1260,7 @@
       },
       {
         "character": "",
-        "text": "也许是切实地感受到了别离吧。\n　诺瓦的表情开始变得黯然。",
+        "text": "也许是切实地感受到了别离吧。\n诺瓦的表情开始变得黯然。",
         "body": "mashiro_25face"
       },
       {
@@ -1390,7 +1390,7 @@
       },
       {
         "character": "",
-        "text": "她抱紧诺瓦，利用身高差不让诺瓦看到自己的脸。\n　以为至少好歹能遮住自己的哭脸。",
+        "text": "她抱紧诺瓦，利用身高差不让诺瓦看到自己的脸。\n以为至少好歹能遮住自己的哭脸。",
         "body": "jibie_02face"
       },
       {
@@ -1510,7 +1510,7 @@
       },
       {
         "character": "",
-        "text": "她的眼角湿润了。\n　这应该是……大哭一场的前兆吧。",
+        "text": "她的眼角湿润了。\n这应该是……大哭一场的前兆吧。",
         "body": "hanae_02face"
       },
       {
@@ -1811,7 +1811,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "真白",
@@ -1872,11 +1872,11 @@
     ]
   },
   {
-    "background": "large_evcg18b",
+    "background": "evcg18b",
     "dialogues": [
       {
         "character": "",
-        "text": "野鸟小姐和花江小姐都没有发觉，\n　果然已经不会再发生了。"
+        "text": "野鸟小姐和花江小姐都没有发觉，\n果然已经不会再发生了。"
       },
       {
         "character": "",
@@ -1905,7 +1905,7 @@
     ]
   },
   {
-    "background": "large_evcg18c",
+    "background": "evcg18c",
     "dialogues": [
       {
         "character": "真白",

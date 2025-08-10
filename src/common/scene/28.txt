@@ -29,7 +29,7 @@
       },
       {
         "character": "晓",
-        "text": "这画的是……什么啊？　诺瓦吗？",
+        "text": "这画的是……什么啊？诺瓦吗？",
         "body": "karuha_03face"
       },
       {
@@ -54,7 +54,7 @@
       },
       {
         "character": "",
-        "text": "虽然这画的只能认为是人形怪物，\n　但好像是诺瓦的画像来着。",
+        "text": "虽然这画的只能认为是人形怪物，\n但好像是诺瓦的画像来着。",
         "body": "karuha_03face"
       },
       {
@@ -109,7 +109,7 @@
       },
       {
         "character": "花江",
-        "text": "呜啊！　这是什么，妖怪？　\n是把之前那个雅加婆婆的实体找出来速写下来了么。",
+        "text": "呜啊！这是什么，妖怪？\n是把之前那个雅加婆婆的实体找出来速写下来了么。",
         "body": "hanae_02face"
       },
       {
@@ -269,7 +269,7 @@
       },
       {
         "character": "",
-        "text": "这家伙连下个车站是怎样的都不知道，\n　看来也不知道这趟旅行隐藏着什么。",
+        "text": "这家伙连下个车站是怎样的都不知道，\n看来也不知道这趟旅行隐藏着什么。",
         "body": "karuha_03face"
       },
       {
@@ -279,7 +279,7 @@
       },
       {
         "character": "",
-        "text": "她所处的立场毫无疑问是特殊的，\n　不过想让她解答我们的疑问是不可能了。",
+        "text": "她所处的立场毫无疑问是特殊的，\n不过想让她解答我们的疑问是不可能了。",
         "body": "karuha_03face"
       },
       {
@@ -299,7 +299,7 @@
       },
       {
         "character": "",
-        "text": "诺瓦悄悄瞄向画像，发现与刚刚的并无变化，\n　于是便发出了惨叫。",
+        "text": "诺瓦悄悄瞄向画像，发现与刚刚的并无变化，\n于是便发出了惨叫。",
         "body": "noir_17face"
       },
       {
@@ -408,7 +408,7 @@
     ]
   },
   {
-    "background": "large_evcg03a",
+    "background": "evcg03a",
     "dialogues": [
       {
         "character": "",
@@ -434,15 +434,15 @@
     ]
   },
   {
-    "background": "large_evcg03a",
+    "background": "evcg03a",
     "dialogues": [
       {
         "character": "",
-        "text": "或者说，我们真的\n　是在星辰大海里飞翔么。"
+        "text": "或者说，我们真的\n是在星辰大海里飞翔么。"
       },
       {
         "character": "",
-        "text": "最初我以为铁道下的群星只是湖面反射的倒影，\n　但仔细观察就能发现它们有着倒影所不具备的深度。"
+        "text": "最初我以为铁道下的群星只是湖面反射的倒影，\n但仔细观察就能发现它们有着倒影所不具备的深度。"
       },
       {
         "character": "",
@@ -512,7 +512,7 @@
       },
       {
         "character": "",
-        "text": "或许是明白了我已经不会就此作罢。\n　诺瓦沉默了一小会儿，说道，",
+        "text": "或许是明白了我已经不会就此作罢。\n诺瓦沉默了一小会儿，说道，",
         "body": "noir_17face"
       },
       {
@@ -527,7 +527,7 @@
       },
       {
         "character": "",
-        "text": "并不是看向星辰。\n　而是看向脚下。",
+        "text": "并不是看向星辰。\n而是看向脚下。",
         "body": "noir_17face"
       },
       {
@@ -537,12 +537,12 @@
       },
       {
         "character": "",
-        "text": "我的决心变得有些动摇。\n　“不想说就别说了”，————这句话一直挂在嗓子眼上。",
+        "text": "我的决心变得有些动摇。\n“不想说就别说了”，————这句话一直挂在嗓子眼上。",
         "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "我不愿意让气氛变得阴沉。\n　这里应该作出一幅云淡风轻的样子为好。",
+        "text": "我不愿意让气氛变得阴沉。\n这里应该作出一幅云淡风轻的样子为好。",
         "body": "noir_17face"
       },
       {
@@ -592,7 +592,7 @@
       },
       {
         "character": "",
-        "text": "虽然拿这个当话题会让诺瓦心情变糟，\n　但她没露出什么不情愿的表情就试着直说了。",
+        "text": "虽然拿这个当话题会让诺瓦心情变糟，\n但她没露出什么不情愿的表情就试着直说了。",
         "body": "noir_17face"
       },
       {
@@ -622,7 +622,7 @@
       },
       {
         "character": "",
-        "text": "那应该是亲戚吧。\n　不管怎么说那一个模子刻出来的样子。\n　实在不觉得是外人……",
+        "text": "那应该是亲戚吧。\n不管怎么说那一个模子刻出来的样子。\n实在不觉得是外人……",
         "body": "noir_17face"
       },
       {
@@ -692,7 +692,7 @@
       },
       {
         "character": "",
-        "text": "看来，她本人也没理好思绪。\n　慌乱了起来。",
+        "text": "看来，她本人也没理好思绪。\n慌乱了起来。",
         "body": "noir_17face"
       }
     ]
@@ -717,7 +717,7 @@
       },
       {
         "character": "",
-        "text": "诺瓦抓着自己的双肩，像是想抱住什么一般\n　缩成一团。",
+        "text": "诺瓦抓着自己的双肩，像是想抱住什么一般\n缩成一团。",
         "body": "noir_17face"
       },
       {
@@ -732,7 +732,7 @@
       },
       {
         "character": "",
-        "text": "麻烦了。\n　正是因为害怕这种情况发生我才极力不提的。",
+        "text": "麻烦了。\n正是因为害怕这种情况发生我才极力不提的。",
         "body": "noir_17face"
       },
       {
@@ -748,7 +748,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -762,7 +762,7 @@
       },
       {
         "character": "",
-        "text": "和刚刚的野鸟小姐一样。\n　在因寒冷而发抖。",
+        "text": "和刚刚的野鸟小姐一样。\n在因寒冷而发抖。",
         "body": "large_noir_04face"
       },
       {
@@ -804,7 +804,7 @@
       },
       {
         "character": "",
-        "text": "虽然想给她披上点什么，\n　但刚刚才把衣服借给了野鸟小姐。"
+        "text": "虽然想给她披上点什么，\n但刚刚才把衣服借给了野鸟小姐。"
       }
     ]
   },
@@ -835,7 +835,7 @@
     ]
   },
   {
-    "background": "large_evcg10b",
+    "background": "evcg10b",
     "dialogues": [
       {
         "character": "",
@@ -852,7 +852,7 @@
     ]
   },
   {
-    "background": "large_evcg10a",
+    "background": "evcg10a",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -860,11 +860,11 @@
       },
       {
         "character": "",
-        "text": "诺瓦一幅惊讶的表情。\n　是不是靠得太近了啊。"
+        "text": "诺瓦一幅惊讶的表情。\n是不是靠得太近了啊。"
       },
       {
         "character": "",
-        "text": "不过她已经冷静了下来。\n　刚刚的慌乱也消失了。"
+        "text": "不过她已经冷静了下来。\n刚刚的慌乱也消失了。"
       },
       {
         "character": "",
@@ -873,7 +873,7 @@
     ]
   },
   {
-    "background": "large_evcg10b",
+    "background": "evcg10b",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -938,7 +938,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "晓",
@@ -991,7 +991,7 @@
     ]
   },
   {
-    "background": "large_evcg10d",
+    "background": "evcg10d",
     "dialogues": [
       {
         "character": "",
@@ -1008,7 +1008,7 @@
     ]
   },
   {
-    "background": "large_evcg10b",
+    "background": "evcg10b",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1025,7 +1025,7 @@
     ]
   },
   {
-    "background": "large_evcg10a",
+    "background": "evcg10a",
     "dialogues": [
       {
         "character": "晓",
@@ -1034,7 +1034,7 @@
     ]
   },
   {
-    "background": "large_evcg10d",
+    "background": "evcg10d",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1059,7 +1059,7 @@
     ]
   },
   {
-    "background": "large_evcg10b",
+    "background": "evcg10b",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1103,7 +1103,7 @@
       },
       {
         "character": "",
-        "text": "而且从外表来看也很不一样。\n　无论本人到底愿不愿意，都会变得瞩目。"
+        "text": "而且从外表来看也很不一样。\n无论本人到底愿不愿意，都会变得瞩目。"
       },
       {
         "character": "晓",
@@ -1116,7 +1116,7 @@
     ]
   },
   {
-    "background": "large_evcg10a",
+    "background": "evcg10a",
     "dialogues": [
       {
         "character": "",
@@ -1124,16 +1124,16 @@
       },
       {
         "character": "",
-        "text": "而这事是怎么和现在的黑发所接上的，\n　这点让我很在意，"
+        "text": "而这事是怎么和现在的黑发所接上的，\n这点让我很在意，"
       }
     ]
   },
   {
-    "background": "large_evcg10b",
+    "background": "evcg10b",
     "dialogues": [
       {
         "character": "",
-        "text": "现在还是配合诺瓦的节奏来吧。\n　我轻轻抚摸着她。"
+        "text": "现在还是配合诺瓦的节奏来吧。\n我轻轻抚摸着她。"
       },
       {
         "character": "诺瓦",
@@ -1146,7 +1146,7 @@
     ]
   },
   {
-    "background": "large_evcg10c",
+    "background": "evcg10c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1163,7 +1163,7 @@
     ]
   },
   {
-    "background": "large_evcg10d",
+    "background": "evcg10d",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1261,7 +1261,7 @@
     ]
   },
   {
-    "background": "large_evcg10b",
+    "background": "evcg10b",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1277,7 +1277,7 @@
       },
       {
         "character": "",
-        "text": "虽然之前曾听说过\n　两人因为是否要给诺瓦吃肉而争执不休，"
+        "text": "虽然之前曾听说过\n两人因为是否要给诺瓦吃肉而争执不休，"
       },
       {
         "character": "",
@@ -1353,18 +1353,18 @@
       },
       {
         "character": "",
-        "text": "本以为只是位时尚维根主义者，\n　看来是我失言了。",
+        "text": "本以为只是位时尚维根主义者，\n看来是我失言了。",
         "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "作为彻头彻尾的自然主义者，\n　诺瓦的母亲对器官移植肯定颇有微词。",
+        "text": "作为彻头彻尾的自然主义者，\n诺瓦的母亲对器官移植肯定颇有微词。",
         "body": "noir_17face"
       }
     ]
   },
   {
-    "background": "large_evcg10b",
+    "background": "evcg10b",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1384,7 +1384,7 @@
       },
       {
         "character": "",
-        "text": "这应该是诺瓦最难受的回忆了吧。\n　我沉默了下来。"
+        "text": "这应该是诺瓦最难受的回忆了吧。\n我沉默了下来。"
       },
       {
         "character": "",
@@ -1434,7 +1434,7 @@
       },
       {
         "character": "诺瓦",
-        "text": "是叫排异反应吧？　那天症状特别剧烈，很难受，难受到我以为自己会就这样死去。"
+        "text": "是叫排异反应吧？那天症状特别剧烈，很难受，难受到我以为自己会就这样死去。"
       },
       {
         "character": "诺瓦",
@@ -1450,16 +1450,18 @@
       },
       {
         "character": "诺瓦",
-        "text": "在窗外有一只黑猫。"
+        "text": "在窗外有一只黑猫。",
+        "body": "mashiro_25face"
       },
       {
         "character": "诺瓦",
-        "text": "虽然被叮嘱不能摸野生的动物，\n因为不卫生，但我还是忍不住。"
+        "text": "虽然被叮嘱不能摸野生的动物，\n因为不卫生，但我还是忍不住。",
+        "body": "mashiro_25face"
       },
       {
         "character": "诺瓦",
         "text": "我打开窗户，摸了摸它。",
-        "body": "noir_17face"
+        "body": "large_mashiro_32face"
       }
     ]
   },
@@ -1515,7 +1517,7 @@
     ]
   },
   {
-    "background": "large_evcg10d",
+    "background": "evcg10d",
     "dialogues": [
       {
         "character": "晓",
@@ -1528,7 +1530,7 @@
     ]
   },
   {
-    "background": "large_evcg10a",
+    "background": "evcg10a",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1541,7 +1543,7 @@
     ]
   },
   {
-    "background": "large_evcg10c",
+    "background": "evcg10c",
     "dialogues": [
       {
         "character": "晓",
@@ -1562,7 +1564,7 @@
     ]
   },
   {
-    "background": "large_evcg10d",
+    "background": "evcg10d",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1575,7 +1577,7 @@
     ]
   },
   {
-    "background": "large_evcg10c",
+    "background": "evcg10c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1588,7 +1590,7 @@
     ]
   },
   {
-    "background": "large_evcg10d",
+    "background": "evcg10d",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1626,7 +1628,7 @@
       },
       {
         "character": "",
-        "text": "可比起时间回溯到二十年前来说，\n　这倒不是什么大事。",
+        "text": "可比起时间回溯到二十年前来说，\n这倒不是什么大事。",
         "body": "noir_17face"
       },
       {
@@ -1651,8 +1653,7 @@
       },
       {
         "character": "",
-        "text": "因为她心中所想的都已经刻在表情上面了。　　 \n  若是谎言一眼就能看出。",
-        "body": "noir_17face"
+        "text": "因为她心中所想的都已经刻在表情上面了。 \n  若是谎言一眼就能看出。"
       }
     ]
   },
@@ -1671,12 +1672,12 @@
       },
       {
         "character": "",
-        "text": "我和她相遇时诺瓦在天象馆。\n　花江小姐看到的时候，诺瓦在我身边。",
+        "text": "我和她相遇时诺瓦在天象馆。\n花江小姐看到的时候，诺瓦在我身边。",
         "body": "large_noir_04face"
       },
       {
         "character": "",
-        "text": "虽然至今为止都没有一起出现过，\n　还有另外一件事。",
+        "text": "虽然至今为止都没有一起出现过，\n还有另外一件事。",
         "body": "large_noir_04face"
       }
     ]
@@ -1703,7 +1704,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "晓",
@@ -1747,7 +1748,7 @@
       },
       {
         "character": "",
-        "text": "我们成人组考虑的是如何让这趟旅行结束，\n　然后顺利离开。",
+        "text": "我们成人组考虑的是如何让这趟旅行结束，\n然后顺利离开。",
         "body": "large_noir_04face"
       },
       {
@@ -1782,7 +1783,7 @@
       },
       {
         "character": "",
-        "text": "我不想说这些话让她不安。\n　想让她就这样开开心心地继续旅行。",
+        "text": "我不想说这些话让她不安。\n想让她就这样开开心心地继续旅行。",
         "body": "large_noir_04face"
       }
     ]
@@ -1815,13 +1816,12 @@
       },
       {
         "character": "",
-        "text": "所以才希望让她尽情享受这场火车之旅。\n　直到旅行的最后一刻。",
+        "text": "所以才希望让她尽情享受这场火车之旅。\n直到旅行的最后一刻。",
         "body": "neri_02face"
       },
       {
         "character": "",
-        "text": "为此……我做好了一切的准备。",
-        "body": "neri_02face"
+        "text": "为此……我做好了一切的准备。"
       }
     ]
   }

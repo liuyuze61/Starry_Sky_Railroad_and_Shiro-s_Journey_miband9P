@@ -672,38 +672,31 @@
       },
       {
         "character": "",
-        "text": "将其描绘至写生本上。",
-        "body": "karuha_03face"
+        "text": "将其描绘至写生本上。"
       },
       {
         "character": "",
-        "text": "至于能画到什么程度就得看自己的能力了。",
-        "body": "karuha_03face"
+        "text": "至于能画到什么程度就得看自己的能力了。"
       },
       {
         "character": "晓",
-        "text": "……（沙、沙）",
-        "body": "karuha_03face"
+        "text": "……（沙、沙）"
       },
       {
         "character": "",
-        "text": "开始画吧。",
-        "body": "karuha_03face"
+        "text": "开始画吧。"
       },
       {
         "character": "",
-        "text": "只要决定好对象，我就能立即进入状态。",
-        "body": "karuha_03face"
+        "text": "只要决定好对象，我就能立即进入状态。"
       },
       {
         "character": "",
-        "text": "况且肖像画对我来说算是小菜一碟。",
-        "body": "karuha_03face"
+        "text": "况且肖像画对我来说算是小菜一碟。"
       },
       {
         "character": "",
-        "text": "再加上平时也没偷懒，动起笔来自然得心应手。",
-        "body": "karuha_03face"
+        "text": "再加上平时也没偷懒，动起笔来自然得心应手。"
       },
       {
         "character": "狩叶",
@@ -1820,7 +1813,7 @@
       },
       {
         "character": "",
-        "text": "我来到火车里面。",
+        "text": "进入火车",
         "body": "karuha_03face"
       }
     ]

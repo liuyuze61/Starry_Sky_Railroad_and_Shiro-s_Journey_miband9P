@@ -1117,15 +1117,15 @@
     "dialogues": [
       {
         "character": "",
-        "text": "・・・・・"
+        "text": "....."
       },
       {
         "character": "",
-        "text": "・・・・"
+        "text": "...."
       },
       {
         "character": "",
-        "text": "・・・"
+        "text": "..."
       },
       {
         "character": "",
@@ -1348,7 +1348,7 @@
     ]
   },
   {
-    "background": "large_bg050c",
+    "background": "bg050c",
     "dialogues": [
       {
         "character": "",

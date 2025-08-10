@@ -31,9 +31,9 @@
       <text class="font24" style="color: #ff0000;">请勿反复点击开始！</text>
       <text class="font24" style="color: #ff0000;">耐心等待加载</text>
       <text class="font24">---------------</text>
-      <text class="font24">制作：@liuyuze61</text>
-      <text class="font24">支持作者</text>
-      <qrcode style="width: 150px;height: 150px;" value="https://ifdian.net/item/b6465452097011f0b90452540025c377"></qrcode>
+      <text class="font24">制作：@liuyuze61 & @EC</text>
+      <!-- <text class="font24">支持作者</text>
+      <qrcode style="width: 150px;height: 150px;" value="https://ifdian.net/item/b6465452097011f0b90452540025c377"></qrcode> -->
       <text class="font24">---------------</text>
       <text class="font24" style="color: #00a2ff;" @click="closeTips()">确定</text>
     </div>

@@ -1790,7 +1790,7 @@
     ]
   },
   {
-    "background": "large_evcg06a",
+    "background": "evcg06a",
     "dialogues": [
       {
         "character": "诺瓦",

@@ -1,6 +1,6 @@
 [
   {
-    "background": "large_evcg18d",
+    "background": "evcg18d",
     "dialogues": [
       {
         "character": "真白",
@@ -36,7 +36,7 @@
       },
       {
         "character": "",
-        "text": "其他人的时候她都勉强控制住自己，\n　现在好像已经到了极限。"
+        "text": "其他人的时候她都勉强控制住自己，\n现在好像已经到了极限。"
       },
       {
         "character": "",
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "background": "large_evcg18c",
+    "background": "evcg18c",
     "dialogues": [
       {
         "character": "",
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "background": "large_evcg18d",
+    "background": "evcg18d",
     "dialogues": [
       {
         "character": "真白",
@@ -107,7 +107,7 @@
       },
       {
         "character": "",
-        "text": "或许是已经无法抑制。\n　诺瓦情绪激动，大声地哭泣。"
+        "text": "或许是已经无法抑制。\n诺瓦情绪激动，大声地哭泣。"
       },
       {
         "character": "",
@@ -153,11 +153,11 @@
       },
       {
         "character": "",
-        "text": "她并不知道是活着好，\n　还是不活了比较好。\n　只是按照我说的，偏向了活着的一方。"
+        "text": "她并不知道是活着好，\n还是不活了比较好。\n只是按照我说的，偏向了活着的一方。"
       },
       {
         "character": "",
-        "text": "To be or not to be.\n　她还很迷惘。"
+        "text": "To be or not to be.\n她还很迷惘。"
       },
       {
         "character": "",
@@ -183,7 +183,7 @@
     ]
   },
   {
-    "background": "large_evcg18c",
+    "background": "evcg18c",
     "dialogues": [
       {
         "character": "晓",
@@ -195,7 +195,7 @@
       },
       {
         "character": "晓",
-        "text": "但是……知道吧？　诺瓦？"
+        "text": "但是……知道吧？诺瓦？"
       },
       {
         "character": "真白",
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "background": "large_evcg18c",
+    "background": "evcg18c",
     "dialogues": [
       {
         "character": "晓",
@@ -356,7 +356,7 @@
     ]
   },
   {
-    "background": "large_evcg10f",
+    "background": "evcg10f",
     "dialogues": [
       {
         "character": "真白",
@@ -368,7 +368,7 @@
       },
       {
         "character": "",
-        "text": "也并不一定所有事都要和说的完全一致。\n　不置可否也行。"
+        "text": "也并不一定所有事都要和说的完全一致。\n不置可否也行。"
       },
       {
         "character": "",
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "background": "large_evcg10f",
+    "background": "evcg10f",
     "dialogues": [
       {
         "character": "晓",
@@ -469,7 +469,7 @@
     ]
   },
   {
-    "background": "large_evcg10e",
+    "background": "evcg10e",
     "dialogues": [
       {
         "character": "真白",
@@ -490,7 +490,7 @@
     ]
   },
   {
-    "background": "large_evcg10f",
+    "background": "evcg10f",
     "dialogues": [
       {
         "character": "真白",
@@ -641,11 +641,11 @@
       },
       {
         "character": "",
-        "text": "・・・・・"
+        "text": "....."
       },
       {
         "character": "",
-        "text": "・・・・"
+        "text": "...."
       }
     ]
   },
@@ -654,7 +654,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "・・・"
+        "text": "..."
       }
     ]
   },
@@ -737,7 +737,7 @@
     "dialogues": [
       {
         "character": "护士",
-        "text": "真白？　认识我吗？"
+        "text": "真白？认识我吗？"
       }
     ]
   },
@@ -773,7 +773,7 @@
       },
       {
         "character": "猫村",
-        "text": "没事吧？　这就起身。",
+        "text": "没事吧？这就起身。",
         "body": "large_mashiro_32face"
       },
       {
@@ -895,15 +895,24 @@
     ]
   },
   {
+    "background": "bg_black",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "这里是结束动画(音乐)，因为内存问题就不放图片了"
+      }
+    ]
+  },
+  {
     "background": "bg000d",
     "dialogues": [
       {
         "character": "",
-        "text": "・・・・・"
+        "text": "....."
       },
       {
         "character": "",
-        "text": "・・・・"
+        "text": "...."
       }
     ]
   },
@@ -912,7 +921,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "・・・"
+        "text": "..."
       }
     ]
   },
@@ -1066,7 +1075,7 @@
     "dialogues": [
       {
         "character": "真白",
-        "text": "你不觉得很美妙吗？　夜晚的火车之旅。"
+        "text": "你不觉得很美妙吗？夜晚的火车之旅。"
       },
       {
         "character": "真白",
@@ -1108,7 +1117,7 @@
     ]
   },
   {
-    "background": "large_evcg01c",
+    "background": "evcg01c",
     "dialogues": [
       {
         "character": "真白",
@@ -1117,7 +1126,7 @@
     ]
   },
   {
-    "background": "large_evcg01c2",
+    "background": "evcg01c2",
     "dialogues": [
       {
         "character": "晓",
@@ -1151,7 +1160,7 @@
       },
       {
         "character": "",
-        "text": "与其说是风在吹。\n　不如说我正以子弹般的速度在清风里穿梭。"
+        "text": "与其说是风在吹。\n不如说我正以子弹般的速度在清风里穿梭。"
       },
       {
         "character": "",
@@ -1172,12 +1181,12 @@
       },
       {
         "character": "",
-        "text": "就是里面的乘客有些奇怪。\n　诺瓦每天都像那样努力复健，"
+        "text": "就是里面的乘客有些奇怪。\n诺瓦每天都像那样努力复健，"
       }
     ]
   },
   {
-    "background": "large_evcg01c",
+    "background": "evcg01c",
     "dialogues": [
       {
         "character": "黑猫",
@@ -1189,7 +1198,7 @@
       },
       {
         "character": "",
-        "text": "不过它总是突然出现，\n　又突然消失。真是随心所欲的家伙。\n　也许不能称为乘客吧。"
+        "text": "不过它总是突然出现，\n又突然消失。真是随心所欲的家伙。\n也许不能称为乘客吧。"
       }
     ]
   },
@@ -1203,7 +1212,7 @@
     ]
   },
   {
-    "background": "large_evcg01e",
+    "background": "evcg01e",
     "dialogues": [
       {
         "character": "音理",
@@ -1355,7 +1364,7 @@
       },
       {
         "character": "",
-        "text": "那是怎么回事？\n　我还没有明白她出现的规则。",
+        "text": "那是怎么回事？\n我还没有明白她出现的规则。",
         "body": "large_neri_03face"
       },
       {
@@ -1460,7 +1469,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "・・・・・"
+        "text": "....."
       }
     ]
   },
@@ -1534,11 +1543,11 @@
     "dialogues": [
       {
         "character": "猫村",
-        "text": "春香！　你在干什么啊！"
+        "text": "春香！你在干什么啊！"
       },
       {
         "character": "春香",
-        "text": "咿呀！　姐，姐姐！？\n不妙～……"
+        "text": "咿呀！姐，姐姐！？\n不妙～……"
       },
       {
         "character": "猫村",
@@ -1554,7 +1563,7 @@
       },
       {
         "character": "猫村",
-        "text": "到底是怎么通过名册的……这什么。\n狩叶・朗姆柯妮？　又给自己取了个奇怪的假名……"
+        "text": "到底是怎么通过名册的……这什么。\n狩叶·朗姆柯妮？又给自己取了个奇怪的假名……"
       },
       {
         "character": "春香",
@@ -1567,7 +1576,7 @@
     ]
   },
   {
-    "background": "large_evcg16a",
+    "background": "evcg16a",
     "dialogues": [
       {
         "character": "春香",
@@ -1619,6 +1628,12 @@
   },
   {
     "background": "bg_white",
-    "dialogues": []
+    "dialogues": [
+      {
+        "character": "",
+        "text": "end",
+        "END": "FIN"
+      }
+    ]
   }
 ]

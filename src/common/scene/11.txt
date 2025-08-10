@@ -165,7 +165,29 @@
         "character": "",
         "text": "想必是为了呼吸一口早晨清新的空气吧。",
         "body": "takase_09face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "text": "留在这里",
+        "nextScene": 1
       },
+      {
+        "text": "向花江小姐打个招呼吧",
+        "nextScene": 2
+      },
+      {
+        "text": "独处一会儿",
+        "nextScene": 12
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
       {
         "character": "狩叶",
         "text": "喂————这个怎么办啊。",
@@ -424,12 +446,13 @@
       {
         "character": "",
         "text": "嗯……",
-        "body": "karuha_03face"
+        "body": "karuha_03face",
+        "toScenes": 23
       }
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -555,7 +578,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "花江",
@@ -693,7 +716,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -846,7 +869,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -980,8 +1003,14 @@
       {
         "character": "晓",
         "text": "……",
-        "body": "karuha_03face"
-      },
+        "body": "karuha_03face",
+        "toScenes": 13
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
       {
         "character": "晓",
         "text": "唔————。",
@@ -1000,7 +1029,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -1033,7 +1062,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -1059,7 +1088,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
@@ -1710,7 +1739,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "晓",
@@ -1874,11 +1903,35 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "",
         "text": "……要练习一下吗？"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "狩叶",
+        "text": "啊，回来了。",
+        "body": "karuha_03face"
+      },
+      {
+        "character": "晓",
+        "text": "嗯。",
+        "body": "karuha_03face"
+      }
+    ]
+  },
+  {
+    "background": "bg040c",
+    "dialogues": [
+      {
+        "character": "",
+        "text": "......"
       }
     ]
   }

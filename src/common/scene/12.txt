@@ -3,16 +3,6 @@
     "background": "bg040c",
     "dialogues": [
       {
-        "character": "狩叶",
-        "text": "啊，回来了。",
-        "body": "karuha_03face"
-      },
-      {
-        "character": "晓",
-        "text": "嗯。",
-        "body": "karuha_03face"
-      },
-      {
         "character": "晓",
         "text": "狩叶，我问你，还有多久抵达下一站？",
         "body": "karuha_03face"
@@ -69,7 +59,7 @@
       },
       {
         "character": "鹰世",
-        "text": "应该还是描绘火车的外观吧。\n真好啊。我以前也挑战过700多次。\nＳＬ本身自不用说，尤其是那个外形……",
+        "text": "应该还是描绘火车的外观吧。\n真好啊。我以前也挑战过700多次。\nSL本身自不用说，尤其是那个外形……",
         "body": "large_takase_02face"
       },
       {
@@ -255,12 +245,12 @@
       },
       {
         "character": "狩叶",
-        "text": "大海呀<dash=4>！",
+        "text": "大海呀————！",
         "body": "large_karuha_02face"
       },
       {
         "character": "野鸟",
-        "text": "呀<dash=4>！",
+        "text": "呀————！",
         "body": "large_karuha_02face"
       },
       {
@@ -425,7 +415,7 @@
       },
       {
         "character": "狩叶",
-        "text": "啊哈哈哈哈，是大海<dash=4>！",
+        "text": "啊哈哈哈哈，是大海————！",
         "body": "large_karuha_02face"
       },
       {
@@ -571,7 +561,7 @@
     ]
   },
   {
-    "background": "large_bg090a",
+    "background": "bg090a",
     "dialogues": [
       {
         "character": "",
@@ -664,7 +654,7 @@
       },
       {
         "character": "",
-        "text": "起伏的海潮没过诺瓦的脚踝，这份特殊的触感让她不禁炸了眨眼。",
+        "text": "起伏的海潮没过诺瓦的脚踝，这份特殊的触感让她不禁眨了眨眼。",
         "body": "large_noir_04face"
       },
       {
@@ -1082,12 +1072,12 @@
       },
       {
         "character": "",
-        "text": "・・・・・",
+        "text": ".....",
         "body": "hanae_02face"
       },
       {
         "character": "",
-        "text": "・・・・",
+        "text": "....",
         "body": "hanae_02face"
       }
     ]
@@ -1097,7 +1087,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "・・・"
+        "text": "..."
       }
     ]
   }

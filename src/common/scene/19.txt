@@ -559,12 +559,12 @@
     "dialogues": [
       {
         "character": "诺瓦",
-        "text": "哈啊<dash=20>！"
+        "text": "哈啊——————————————————————！"
       }
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "晓",
@@ -618,7 +618,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1794,7 +1794,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "・・・・・"
+        "text": "....."
       },
       {
         "character": "",

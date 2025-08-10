@@ -4,7 +4,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "集中精力在烤肉上吧。\n　我摩擦了一下取出的炭。",
+        "text": "集中精力在烤肉上吧。\n我摩擦了一下取出的炭。",
         "body": "takase_09face"
       },
       {
@@ -14,7 +14,7 @@
       },
       {
         "character": "",
-        "text": "干燥到这种程度，\n　即便是难燃的炭应该也能顺利点燃。",
+        "text": "干燥到这种程度，\n即便是难燃的炭应该也能顺利点燃。",
         "body": "hanae_02face"
       },
       {
@@ -39,17 +39,17 @@
       },
       {
         "character": "",
-        "text": "花江小姐好像跟鹰世一样。\n　野鸟小姐的目光熠熠生辉……\n　却看起来不像有经验的样子。",
+        "text": "花江小姐好像跟鹰世一样。\n野鸟小姐的目光熠熠生辉……\n却看起来不像有经验的样子。",
         "body": "jibie_02face"
       },
       {
         "character": "",
-        "text": "我取出了两块炭，\n　放在水桶的底部网眼粗大的铁网上。",
+        "text": "我取出了两块炭，\n放在水桶的底部网眼粗大的铁网上。",
         "body": "takase_09face"
       },
       {
         "character": "",
-        "text": "再把它张开铺到铁桶上。\n　最后在下面放上炭和引火的报纸。",
+        "text": "再把它张开铺到铁桶上。\n最后在下面放上炭和引火的报纸。",
         "body": "takase_09face"
       },
       {
@@ -99,7 +99,7 @@
       },
       {
         "character": "",
-        "text": "我用写生本啪嗒啪嗒地煽风，\n　把空气送进去等待点燃。",
+        "text": "我用写生本啪嗒啪嗒地煽风，\n把空气送进去等待点燃。",
         "body": "jibie_02face"
       },
       {
@@ -119,7 +119,7 @@
       },
       {
         "character": "晓",
-        "text": "还没开始做呢。\n你们呢？　弄好了吗？",
+        "text": "还没开始做呢。\n你们呢？弄好了吗？",
         "body": "large_noir_04face"
       },
       {
@@ -129,7 +129,7 @@
       },
       {
         "character": "",
-        "text": "狩叶砰砰地拍着搭建成桌面烤架的形状的台子，\n　脸上洋溢着得意的神情。",
+        "text": "狩叶砰砰地拍着搭建成桌面烤架的形状的台子，\n脸上洋溢着得意的神情。",
         "body": "karuha_03face"
       },
       {
@@ -244,7 +244,7 @@
       },
       {
         "character": "",
-        "text": "我要好好使唤头次体验而干劲十足的诺瓦。\n　她将还没起火的炭并排放在银色的盆上。",
+        "text": "我要好好使唤头次体验而干劲十足的诺瓦。\n她将还没起火的炭并排放在银色的盆上。",
         "body": "large_noir_04face"
       },
       {
@@ -299,7 +299,7 @@
       },
       {
         "character": "",
-        "text": "花江小姐不仅做出了正确的指示，\n　还兼顾了诺瓦“想要自己试试看”的心理。",
+        "text": "花江小姐不仅做出了正确的指示，\n还兼顾了诺瓦“想要自己试试看”的心理。",
         "body": "noir_17face"
       },
       {
@@ -339,7 +339,7 @@
       },
       {
         "character": "",
-        "text": "移动到桌面烤架的盘子里。\n　放入铺满炭的正中央……",
+        "text": "移动到桌面烤架的盘子里。\n放入铺满炭的正中央……",
         "body": "noir_17face"
       },
       {
@@ -414,12 +414,12 @@
       },
       {
         "character": "",
-        "text": "她知道烧着的炭很烫因而面露惧色，\n　连手都在颤抖。",
+        "text": "她知道烧着的炭很烫因而面露惧色，\n连手都在颤抖。",
         "body": "noir_17face"
       },
       {
         "character": "",
-        "text": "就算使用了夹具还是比较危险的，\n　失手让炭掉下来甚至会酿成事故。",
+        "text": "就算使用了夹具还是比较危险的，\n失手让炭掉下来甚至会酿成事故。",
         "body": "noir_17face"
       },
       {
@@ -669,7 +669,7 @@
       },
       {
         "character": "",
-        "text": "风吹进去，\n　从黑色外皮的间隙处可以看见烧得红红的部分。",
+        "text": "风吹进去，\n从黑色外皮的间隙处可以看见烧得红红的部分。",
         "body": "karuha_03face"
       },
       {
@@ -734,7 +734,7 @@
       },
       {
         "character": "狩叶",
-        "text": "啊！\n我也要来！　我想当烤官！",
+        "text": "啊！\n我也要来！我想当烤官！",
         "body": "karuha_03face"
       },
       {
@@ -789,7 +789,7 @@
       },
       {
         "character": "晓",
-        "text": "话说，你知道生肉不能吃吗？　\n不管是多么高级的肉都很危险，注意点。",
+        "text": "话说，你知道生肉不能吃吗？\n不管是多么高级的肉都很危险，注意点。",
         "body": "karuha_03face"
       },
       {
@@ -834,12 +834,12 @@
       },
       {
         "character": "",
-        "text": "将多少肉、多少蔬菜，以什么样的密度串起来，\n　都会影响烤肉的味道。",
+        "text": "将多少肉、多少蔬菜，以什么样的密度串起来，\n都会影响烤肉的味道。",
         "body": "karuha_03face"
       },
       {
         "character": "",
-        "text": "这可是烤肉中最关键的工作，\n　我觉得想当掌勺的应该选这个活吧？",
+        "text": "这可是烤肉中最关键的工作，\n我觉得想当掌勺的应该选这个活吧？",
         "body": "karuha_03face"
       },
       {
@@ -864,7 +864,7 @@
       },
       {
         "character": "狩叶",
-        "text": "首先是肉！　然后是肉！　肉！　肉！　肉！",
+        "text": "首先是肉！然后是肉！肉！肉！肉！",
         "body": "karuha_03face"
       },
       {
@@ -879,7 +879,7 @@
       },
       {
         "character": "",
-        "text": "我老老实实找到火力尚小的地方，\n　铺上切成圆片的洋葱和玉米块。",
+        "text": "我老老实实找到火力尚小的地方，\n铺上切成圆片的洋葱和玉米块。",
         "body": "karuha_03face"
       },
       {
@@ -951,7 +951,7 @@
     ]
   },
   {
-    "background": "large_evcg05a",
+    "background": "evcg05a",
     "dialogues": [
       {
         "character": "野鸟",
@@ -968,7 +968,7 @@
     ]
   },
   {
-    "background": "large_evcg05a",
+    "background": "evcg05a",
     "dialogues": [
       {
         "character": "花江",
@@ -989,7 +989,7 @@
     ]
   },
   {
-    "background": "large_evcg05a",
+    "background": "evcg05a",
     "dialogues": [
       {
         "character": "鹰世",
@@ -1019,7 +1019,7 @@
     ]
   },
   {
-    "background": "large_evcg05b",
+    "background": "evcg05b",
     "dialogues": [
       {
         "character": "狩叶",
@@ -1053,7 +1053,7 @@
     ]
   },
   {
-    "background": "large_evcg05b",
+    "background": "evcg05b",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1114,7 +1114,7 @@
     ]
   },
   {
-    "background": "large_evcg05b",
+    "background": "evcg05b",
     "dialogues": [
       {
         "character": "野鸟",
@@ -1192,7 +1192,7 @@
     ]
   },
   {
-    "background": "large_evcg05b",
+    "background": "evcg05b",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1254,7 +1254,7 @@
     ]
   },
   {
-    "background": "large_evcg05b",
+    "background": "evcg05b",
     "dialogues": [
       {
         "character": "狩叶",
@@ -1312,7 +1312,7 @@
     ]
   },
   {
-    "background": "large_evcg05b",
+    "background": "evcg05b",
     "dialogues": [
       {
         "character": "狩叶",
@@ -1393,7 +1393,7 @@
       },
       {
         "character": "花江",
-        "text": "你挑的这些全是草肚。"
+        "text": "你挑的这些全是牛胃肉。"
       },
       {
         "character": "诺瓦",
@@ -1498,7 +1498,7 @@
     ]
   },
   {
-    "background": "large_evcg05b",
+    "background": "evcg05b",
     "dialogues": [
       {
         "character": "花江",
@@ -1547,7 +1547,7 @@
       },
       {
         "character": "",
-        "text": "不过也有个家伙毫不顾忌，\n　将她手边的东西都给吃掉了。"
+        "text": "不过也有个家伙毫不顾忌，\n　将花江手边的东西都给吃掉了。"
       },
       {
         "character": "晓",
@@ -1600,7 +1600,7 @@
     ]
   },
   {
-    "background": "large_evcg05b",
+    "background": "evcg05b",
     "dialogues": [
       {
         "character": "狩叶",
@@ -1654,7 +1654,7 @@
     ]
   },
   {
-    "background": "large_evcg05b",
+    "background": "evcg05b",
     "dialogues": [
       {
         "character": "诺瓦",
@@ -1767,7 +1767,7 @@
       },
       {
         "character": "",
-        "text": "仔细一看，野鸟小姐明明架子骨比较大，\n　但是吃的肉却比花江小姐还少。"
+        "text": "仔细一看，野鸟小姐明明体型比较大，\n　但是吃的肉却比花江小姐还少。"
       },
       {
         "character": "",
@@ -1874,7 +1874,7 @@
     "dialogues": [
       {
         "character": "",
-        "text": "・・・・・"
+        "text": "......"
       }
     ]
   },

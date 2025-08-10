@@ -84,7 +84,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "男性",
@@ -189,7 +189,7 @@
     ]
   },
   {
-    "background": "large_bg060c",
+    "background": "bg060c",
     "dialogues": [
       {
         "character": "鹰世",
@@ -548,7 +548,7 @@
     ]
   },
   {
-    "background": "large_bg050e",
+    "background": "bg050e",
     "dialogues": [
       {
         "character": "",
@@ -1243,7 +1243,7 @@
     ]
   },
   {
-    "background": "large_evcg01a",
+    "background": "evcg01a",
     "dialogues": [
       {
         "character": "",
@@ -1252,7 +1252,7 @@
     ]
   },
   {
-    "background": "large_evcg01b",
+    "background": "evcg01b",
     "dialogues": [
       {
         "character": "",
@@ -1313,7 +1313,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
@@ -1368,7 +1368,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "晓",
@@ -1498,7 +1498,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "",
@@ -1648,7 +1648,7 @@
     ]
   },
   {
-    "background": "large_bg040c",
+    "background": "bg040c",
     "dialogues": [
       {
         "character": "晓",
