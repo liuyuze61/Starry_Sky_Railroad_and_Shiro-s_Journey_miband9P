@@ -1,40 +1,9 @@
-## 快速上手
+# 星空列车与白的旅行
+## 小米开源文档
+<https://iot.mi.com/vela/quickapp>
 
-### 1. 开发
+## 剧本可视化编辑器
+https://singularpoint.cn/script-editor.html
 
-```
-npm install
-npm run start
-```
-
-### 2. 构建
-
-```
-npm run build
-npm run release
-```
-
-### 3. 调试
-
-```
-npm run watch
-```
-### 4. 代码规范化配置
-代码规范化可以帮助开发者在git commit前进行代码校验、格式化、commit信息校验
-
-使用前提：必须先关联git
-
-macOS or Linux
-```
-sh husky.sh
-```
-
-windows
-```
-./husky.sh
-```
-
-
-## 了解更多
-
-你可以通过我们的[官方文档](https://iot.mi.com/vela/quickapp)熟悉和了解快应用。
+## 其它galgame移植
+https://github.com/liuyuze61/Asunabi-miband
