@@ -16,7 +16,7 @@
   ],
   "config": {
     "logLevel": "log",
-    "designWidth": 336
+    "designWidth": 404
   },
   "router": {
     "entry": "pages/index",

@@ -318,6 +318,7 @@ export default {
 .page {
   width: 336px;
   height: 480px;
+  left: 34px;
 }
 .scroll{
   position: absolute;
@@ -356,7 +357,7 @@ export default {
 .scroll-page{
   position: absolute;
   top: 0px;
-  left: 0px;
+  left: 34px;
   width: 336px;
   height: 480px;
   flex-wrap: nowrap;

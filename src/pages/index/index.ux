@@ -1,15 +1,17 @@
 <template>
-  <div class="page" @swipe="ban">
-    <image src="/common/title_bg.png"></image>
-    <text class="btn" style="top: 303px;" @click="toPage('detail')">开始</text>
-    <text class="btn" style="top: 345px;" @click="toRecovery()">加载</text>
-    <text class="btn" style="top: 387px;" @click="toSettings()">设定</text>
-    <text class="btn" style="top: 429px;" @click="exit">离开</text>
-    <div class="page" style="position: absolute;background-color: #ffffff;" if="{{recovery}}" @swipe="back()">
-      <scroll scroll-y="true" bounces="true" class="scroll1 page">
-        <text class="menu-btn">点击读取存档</text>
-        <text class="menu-btn" for="{{recoveryData}}" style="font-size: 30px;" @click="loadRecoveryData($idx)">存档{{$idx+1}}</text>
-      </scroll>
+  <div class="bg" @swipe="ban">
+    <div class="page" style="position: absolute;" @swipe="ban()">
+      <image src="/common/title_bg.png"></image>
+      <text class="btn" style="top: 303px;" @click="toPage('detail')">开始</text>
+      <text class="btn" style="top: 345px;" @click="toRecovery()">加载</text>
+      <text class="btn" style="top: 387px;" @click="toSettings()">设定</text>
+      <text class="btn" style="top: 429px;" @click="exit">离开</text>
+      <div class="page" style="position: absolute;background-color: #ffffff;" if="{{recovery}}" @swipe="back()">
+        <scroll scroll-y="true" bounces="true" class="scroll1 page">
+          <text class="menu-btn">点击读取存档</text>
+          <text class="menu-btn" for="{{recoveryData}}" style="font-size: 30px;" @click="loadRecoveryData($idx)">存档{{$idx+1}}</text>
+        </scroll>
+      </div>
     </div>
     <div class="page" style="position: absolute;" if="{{settingsPage}}" @swipe="ban()">
       <image src="/common/title_bg.png"></image>
@@ -136,7 +138,7 @@ export default {
     this.settings.textSpeed = e.progress;
   },
   zhuzi(){
-    const text = `Atri -My Dear Moments-\n文字显示样本`
+    const text = `文字显示样本，文字显示样本\nabcdefg\nHIJKLMN`
     if (this.index < text.length){
       this.showText += text.charAt(this.index);
       this.index++;
@@ -173,9 +175,15 @@ export default {
 </script>
 
 <style>
+.bg {
+  position: absolute;
+  background-color: #FFFFFF;
+}
 .page {
   width: 336px;
   height: 480px;
+  /* top: -10px; */
+  left: 34px;
 }
 .btn {
   position: absolute;
